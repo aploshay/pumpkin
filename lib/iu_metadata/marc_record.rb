@@ -1,13 +1,12 @@
 module IuMetadata
   class MarcRecord
 
-    def initialize(source)
+    def initialize(id, source)
+      @id = id
       @source = source
     end
 
-    def source
-      @source
-    end
+    attr_reader :id, :source
 
     def attributes
       {
