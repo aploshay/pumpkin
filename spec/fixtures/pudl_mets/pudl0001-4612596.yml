@@ -1,0 +1,25 @@
+---
+:identifier: ark:/88435/5m60qr98h
+:replaces: pudl0001/4612596
+:source_metadata_identifier: bhr9405
+:viewing_direction: left-to-right
+:thumbnail_path: "/tmp/pudl0001/4612596/00000001.tif"
+:structure:
+  :nodes:
+  - :label: leaf 1
+    :nodes:
+    - :label: leaf 1. recto
+      :proxy: pkc90
+:files:
+- :id: pkc90
+  :checksum: 5b0ed4a62f96a19c5267fa8a9e1caf876c87e8d0
+  :mime_type: image/tiff
+  :path: "/tmp/pudl0001/4612596/00000001.tif"
+  :title:
+  - leaf 1. recto
+  :replaces: pudl0001/4612596/00000001
+  :file_opts: {}
+:source:
+  :title:
+  - METS XML
+  :file: spec/fixtures/pudl_mets/pudl0001-4612596.mets
