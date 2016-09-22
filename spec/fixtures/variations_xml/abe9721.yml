@@ -1,0 +1,4550 @@
+---
+:identifier: identifier
+:replaces: replaces
+:source_metadata_identifier: ABE9721
+:viewing_direction: right-to-left
+:thumbnail_path: "/tmp/MS-METS/bhr9405/abe9721-1-1.djvu"
+:volumes:
+- :id: ID GOES HERE
+  :title:
+  - 'The facsimil[e] edition of the autograph of Fryderyk Chopin''s works : from the
+    Collection Fryderyk Chopin Society in Warsaw, volume 1'
+  :nodes:
+  - :label: "[Contents]"
+    :nodes:
+    - :label: "[1:1]"
+      :proxy: abe9721-1-1.djvu
+  - :label: "[Mazurka in F-minor, op. 7-3]"
+    :nodes:
+    - :label: "[1:2]"
+      :proxy: abe9721-1-2.djvu
+    - :label: "[1:3]"
+      :proxy: abe9721-1-3.djvu
+    - :label: "[1:4]"
+      :proxy: abe9721-1-4.djvu
+    - :label: "[1:5]"
+      :proxy: abe9721-1-5.djvu
+  - :label: "[Trio in G-minor, for pianoforte, violin, cello, op. 8]"
+    :nodes:
+    - :label: "[1:6]"
+      :proxy: abe9721-1-6.djvu
+    - :label: "[1:7]"
+      :proxy: abe9721-1-7.djvu
+    - :label: "[1:8]"
+      :proxy: abe9721-1-8.djvu
+    - :label: "[1:9]"
+      :proxy: abe9721-1-9.djvu
+    - :label: "[1:10]"
+      :proxy: abe9721-1-10.djvu
+    - :label: "[1:11]"
+      :proxy: abe9721-1-11.djvu
+    - :label: "[1:12]"
+      :proxy: abe9721-1-12.djvu
+    - :label: "[1:13]"
+      :proxy: abe9721-1-13.djvu
+    - :label: "[1:14]"
+      :proxy: abe9721-1-14.djvu
+    - :label: "[1:15]"
+      :proxy: abe9721-1-15.djvu
+    - :label: "[1:16]"
+      :proxy: abe9721-1-16.djvu
+    - :label: "[1:17]"
+      :proxy: abe9721-1-17.djvu
+    - :label: "[1:18]"
+      :proxy: abe9721-1-18.djvu
+    - :label: "[1:19]"
+      :proxy: abe9721-1-19.djvu
+    - :label: "[1:20]"
+      :proxy: abe9721-1-20.djvu
+    - :label: "[1:21]"
+      :proxy: abe9721-1-21.djvu
+    - :label: "[1:22]"
+      :proxy: abe9721-1-22.djvu
+    - :label: "[1:23]"
+      :proxy: abe9721-1-23.djvu
+    - :label: "[1:24]"
+      :proxy: abe9721-1-24.djvu
+    - :label: "[1:25]"
+      :proxy: abe9721-1-25.djvu
+    - :label: "[1:26]"
+      :proxy: abe9721-1-26.djvu
+    - :label: "[1:27]"
+      :proxy: abe9721-1-27.djvu
+    - :label: "[1:28]"
+      :proxy: abe9721-1-28.djvu
+    - :label: "[1:29]"
+      :proxy: abe9721-1-29.djvu
+    - :label: "[1:30]"
+      :proxy: abe9721-1-30.djvu
+    - :label: "[1:31]"
+      :proxy: abe9721-1-31.djvu
+    - :label: "[1:32]"
+      :proxy: abe9721-1-32.djvu
+    - :label: "[1:33]"
+      :proxy: abe9721-1-33.djvu
+    - :label: "[1:34]"
+      :proxy: abe9721-1-34.djvu
+    - :label: "[1:35]"
+      :proxy: abe9721-1-35.djvu
+    - :label: "[1:36]"
+      :proxy: abe9721-1-36.djvu
+    - :label: "[1:37]"
+      :proxy: abe9721-1-37.djvu
+  - :label: "[Study in E-major, op. 10-3]"
+    :nodes:
+    - :label: "[1:38]"
+      :proxy: abe9721-1-38.djvu
+    - :label: "[1:39]"
+      :proxy: abe9721-1-39.djvu
+    - :label: "[1:40]"
+      :proxy: abe9721-1-40.djvu
+    - :label: "[1:41]"
+      :proxy: abe9721-1-41.djvu
+  - :label: "[Study in G-flat-major, op. 10-5]"
+    :nodes:
+    - :label: "[1:42]"
+      :proxy: abe9721-1-42.djvu
+    - :label: "[1:43]"
+      :proxy: abe9721-1-43.djvu
+    - :label: "[1:44]"
+      :proxy: abe9721-1-44.djvu
+    - :label: "[1:45]"
+      :proxy: abe9721-1-45.djvu
+  - :label: "[Study in E-flat-minor, op. 10-6]"
+    :nodes:
+    - :label: "[1:46]"
+      :proxy: abe9721-1-46.djvu
+    - :label: "[1:47]"
+      :proxy: abe9721-1-47.djvu
+    - :label: "[1:48]"
+      :proxy: abe9721-1-48.djvu
+    - :label: "[1:49]"
+      :proxy: abe9721-1-49.djvu
+  - :label: "[Study in F-major, op. 10-8]"
+    :nodes:
+    - :label: "[1:50]"
+      :proxy: abe9721-1-50.djvu
+    - :label: "[1:51]"
+      :proxy: abe9721-1-51.djvu
+    - :label: "[1:52]"
+      :proxy: abe9721-1-52.djvu
+    - :label: "[1:53]"
+      :proxy: abe9721-1-53.djvu
+    - :label: "[1:54]"
+      :proxy: abe9721-1-54.djvu
+    - :label: "[1:55]"
+      :proxy: abe9721-1-55.djvu
+  - :label: "[Study in F-minor, op. 10-9]"
+    :nodes:
+    - :label: "[1:56]"
+      :proxy: abe9721-1-56.djvu
+    - :label: "[1:57]"
+      :proxy: abe9721-1-57.djvu
+    - :label: "[1:58]"
+      :proxy: abe9721-1-58.djvu
+  - :label: "[Study in A-flat-major, op. 10-10]"
+    :nodes:
+    - :label: "[1:59]"
+      :proxy: abe9721-1-59.djvu
+    - :label: "[1:60]"
+      :proxy: abe9721-1-60.djvu
+    - :label: "[1:61]"
+      :proxy: abe9721-1-61.djvu
+    - :label: "[1:62]"
+      :proxy: abe9721-1-62.djvu
+    - :label: "[1:63]"
+      :proxy: abe9721-1-63.djvu
+  - :label: "[Studies, 1st ed.]"
+    :nodes:
+    - :label: "[Front cover]"
+      :nodes:
+      - :label: "[1:64]"
+        :proxy: abe9721-1-64.djvu
+      - :label: "[1:65]"
+        :proxy: abe9721-1-65.djvu
+    - :label: "[Study in C-major, op. 10-1, 1st ed.]"
+      :nodes:
+      - :label: "[1:66]"
+        :proxy: abe9721-1-66.djvu
+      - :label: "[1:67]"
+        :proxy: abe9721-1-67.djvu
+      - :label: "[1:68]"
+        :proxy: abe9721-1-68.djvu
+      - :label: "[1:69]"
+        :proxy: abe9721-1-69.djvu
+      - :label: "[1:70]"
+        :proxy: abe9721-1-70.djvu
+    - :label: "[Study in A-minor, op. 10-2, 1st ed.]"
+      :nodes:
+      - :label: "[1:71]"
+        :proxy: abe9721-1-71.djvu
+      - :label: "[1:72]"
+        :proxy: abe9721-1-72.djvu
+      - :label: "[1:73]"
+        :proxy: abe9721-1-73.djvu
+      - :label: "[1:74]"
+        :proxy: abe9721-1-74.djvu
+      - :label: "[1:75]"
+        :proxy: abe9721-1-75.djvu
+    - :label: "[Study in C-sharp-minor, op. 10-4, 1st ed.]"
+      :nodes:
+      - :label: "[1:76]"
+        :proxy: abe9721-1-76.djvu
+      - :label: "[1:77]"
+        :proxy: abe9721-1-77.djvu
+      - :label: "[1:78]"
+        :proxy: abe9721-1-78.djvu
+      - :label: "[1:79]"
+        :proxy: abe9721-1-79.djvu
+      - :label: "[1:80]"
+        :proxy: abe9721-1-80.djvu
+    - :label: "[Study in C-major, op. 10-7, 1st ed.]"
+      :nodes:
+      - :label: "[1:81]"
+        :proxy: abe9721-1-81.djvu
+      - :label: "[1:82]"
+        :proxy: abe9721-1-82.djvu
+      - :label: "[1:83]"
+        :proxy: abe9721-1-83.djvu
+      - :label: "[1:84]"
+        :proxy: abe9721-1-84.djvu
+    - :label: Study in E-flat-major, op 10-11, 1st ed.]
+      :nodes:
+      - :label: "[1:85]"
+        :proxy: abe9721-1-85.djvu
+      - :label: "[1:86]"
+        :proxy: abe9721-1-86.djvu
+      - :label: "[1:87]"
+        :proxy: abe9721-1-87.djvu
+    - :label: "[Study in C-minor, op. 10-12, 1st ed.]"
+      :nodes:
+      - :label: "[1:88]"
+        :proxy: abe9721-1-88.djvu
+      - :label: "[1:89]"
+        :proxy: abe9721-1-89.djvu
+      - :label: "[1:90]"
+        :proxy: abe9721-1-90.djvu
+      - :label: "[1:91]"
+        :proxy: abe9721-1-91.djvu
+      - :label: "[1:92]"
+        :proxy: abe9721-1-92.djvu
+      - :label: "[1:93]"
+        :proxy: abe9721-1-93.djvu
+  - :label: "[Impromptu in A-flat major, op. 29]"
+    :nodes:
+    - :label: "[1:94]"
+      :proxy: abe9721-1-94.djvu
+    - :label: "[1:95]"
+      :proxy: abe9721-1-95.djvu
+    - :label: "[1:96]"
+      :proxy: abe9721-1-96.djvu
+    - :label: "[1:97]"
+      :proxy: abe9721-1-97.djvu
+    - :label: "[1:98]"
+      :proxy: abe9721-1-98.djvu
+    - :label: "[1:99]"
+      :proxy: abe9721-1-99.djvu
+    - :label: "[1:100]"
+      :proxy: abe9721-1-100.djvu
+    - :label: "[1:101]"
+      :proxy: abe9721-1-101.djvu
+    - :label: "[1:102]"
+      :proxy: abe9721-1-102.djvu
+    - :label: "[1:103]"
+      :proxy: abe9721-1-103.djvu
+    - :label: "[1:104]"
+      :proxy: abe9721-1-104.djvu
+    - :label: "[1:105]"
+      :proxy: abe9721-1-105.djvu
+  - :label: "[Barcarolle in F-sharp-major, op. 60]"
+    :nodes:
+    - :label: "[1:106]"
+      :proxy: abe9721-1-106.djvu
+    - :label: "[1:107]"
+      :proxy: abe9721-1-107.djvu
+    - :label: "[1:108]"
+      :proxy: abe9721-1-108.djvu
+    - :label: "[1:109]"
+      :proxy: abe9721-1-109.djvu
+    - :label: "[1:110]"
+      :proxy: abe9721-1-110.djvu
+    - :label: "[1:111]"
+      :proxy: abe9721-1-111.djvu
+    - :label: "[1:112]"
+      :proxy: abe9721-1-112.djvu
+    - :label: "[1:113]"
+      :proxy: abe9721-1-113.djvu
+  - :label: "[Polonaise in F-mainor, op. 71-3]"
+    :nodes:
+    - :label: "[1:114]"
+      :proxy: abe9721-1-114.djvu
+    - :label: "[1:115]"
+      :proxy: abe9721-1-115.djvu
+    - :label: "[1:116]"
+      :proxy: abe9721-1-116.djvu
+    - :label: "[1:117]"
+      :proxy: abe9721-1-117.djvu
+    - :label: "[1:118]"
+      :proxy: abe9721-1-118.djvu
+    - :label: "[1:119]"
+      :proxy: abe9721-1-119.djvu
+  - :label: "[Polonaise-Fantasie in A-flat-major, op. 61]"
+    :nodes:
+    - :label: "[1:120]"
+      :proxy: abe9721-1-120.djvu
+    - :label: "[1:121]"
+      :proxy: abe9721-1-121.djvu
+    - :label: "[1:122]"
+      :proxy: abe9721-1-122.djvu
+    - :label: "[1:123]"
+      :proxy: abe9721-1-123.djvu
+    - :label: "[1:124]"
+      :proxy: abe9721-1-124.djvu
+    - :label: "[1:125]"
+      :proxy: abe9721-1-125.djvu
+    - :label: "[1:126]"
+      :proxy: abe9721-1-126.djvu
+    - :label: "[1:127]"
+      :proxy: abe9721-1-127.djvu
+  - :label: '[Song for voice and pianoforte, in A-flat-major, op. 74-10 "Wojak" (The
+      Warrior)]'
+    :nodes:
+    - :label: "[1:128]"
+      :proxy: abe9721-1-128.djvu
+    - :label: "[1:129]"
+      :proxy: abe9721-1-129.djvu
+  - :label: "[Colophon]"
+    :nodes:
+    - :label: "[1:130]"
+      :proxy: abe9721-1-130.djvu
+  :files:
+  - :id: abe9721-1-1.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-1.djvu"
+    :title:
+    - "[1:1]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-2.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-2.djvu"
+    :title:
+    - "[1:2]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-3.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-3.djvu"
+    :title:
+    - "[1:3]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-4.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-4.djvu"
+    :title:
+    - "[1:4]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-5.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-5.djvu"
+    :title:
+    - "[1:5]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-6.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-6.djvu"
+    :title:
+    - "[1:6]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-7.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-7.djvu"
+    :title:
+    - "[1:7]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-8.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-8.djvu"
+    :title:
+    - "[1:8]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-9.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-9.djvu"
+    :title:
+    - "[1:9]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-10.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-10.djvu"
+    :title:
+    - "[1:10]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-11.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-11.djvu"
+    :title:
+    - "[1:11]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-12.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-12.djvu"
+    :title:
+    - "[1:12]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-13.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-13.djvu"
+    :title:
+    - "[1:13]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-14.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-14.djvu"
+    :title:
+    - "[1:14]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-15.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-15.djvu"
+    :title:
+    - "[1:15]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-16.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-16.djvu"
+    :title:
+    - "[1:16]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-17.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-17.djvu"
+    :title:
+    - "[1:17]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-18.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-18.djvu"
+    :title:
+    - "[1:18]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-19.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-19.djvu"
+    :title:
+    - "[1:19]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-20.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-20.djvu"
+    :title:
+    - "[1:20]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-21.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-21.djvu"
+    :title:
+    - "[1:21]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-22.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-22.djvu"
+    :title:
+    - "[1:22]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-23.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-23.djvu"
+    :title:
+    - "[1:23]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-24.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-24.djvu"
+    :title:
+    - "[1:24]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-25.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-25.djvu"
+    :title:
+    - "[1:25]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-26.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-26.djvu"
+    :title:
+    - "[1:26]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-27.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-27.djvu"
+    :title:
+    - "[1:27]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-28.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-28.djvu"
+    :title:
+    - "[1:28]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-29.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-29.djvu"
+    :title:
+    - "[1:29]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-30.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-30.djvu"
+    :title:
+    - "[1:30]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-31.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-31.djvu"
+    :title:
+    - "[1:31]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-32.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-32.djvu"
+    :title:
+    - "[1:32]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-33.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-33.djvu"
+    :title:
+    - "[1:33]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-34.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-34.djvu"
+    :title:
+    - "[1:34]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-35.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-35.djvu"
+    :title:
+    - "[1:35]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-36.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-36.djvu"
+    :title:
+    - "[1:36]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-37.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-37.djvu"
+    :title:
+    - "[1:37]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-38.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-38.djvu"
+    :title:
+    - "[1:38]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-39.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-39.djvu"
+    :title:
+    - "[1:39]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-40.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-40.djvu"
+    :title:
+    - "[1:40]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-41.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-41.djvu"
+    :title:
+    - "[1:41]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-42.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-42.djvu"
+    :title:
+    - "[1:42]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-43.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-43.djvu"
+    :title:
+    - "[1:43]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-44.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-44.djvu"
+    :title:
+    - "[1:44]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-45.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-45.djvu"
+    :title:
+    - "[1:45]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-46.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-46.djvu"
+    :title:
+    - "[1:46]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-47.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-47.djvu"
+    :title:
+    - "[1:47]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-48.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-48.djvu"
+    :title:
+    - "[1:48]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-49.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-49.djvu"
+    :title:
+    - "[1:49]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-50.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-50.djvu"
+    :title:
+    - "[1:50]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-51.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-51.djvu"
+    :title:
+    - "[1:51]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-52.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-52.djvu"
+    :title:
+    - "[1:52]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-53.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-53.djvu"
+    :title:
+    - "[1:53]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-54.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-54.djvu"
+    :title:
+    - "[1:54]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-55.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-55.djvu"
+    :title:
+    - "[1:55]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-56.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-56.djvu"
+    :title:
+    - "[1:56]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-57.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-57.djvu"
+    :title:
+    - "[1:57]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-58.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-58.djvu"
+    :title:
+    - "[1:58]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-59.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-59.djvu"
+    :title:
+    - "[1:59]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-60.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-60.djvu"
+    :title:
+    - "[1:60]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-61.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-61.djvu"
+    :title:
+    - "[1:61]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-62.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-62.djvu"
+    :title:
+    - "[1:62]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-63.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-63.djvu"
+    :title:
+    - "[1:63]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-64.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-64.djvu"
+    :title:
+    - "[1:64]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-65.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-65.djvu"
+    :title:
+    - "[1:65]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-66.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-66.djvu"
+    :title:
+    - "[1:66]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-67.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-67.djvu"
+    :title:
+    - "[1:67]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-68.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-68.djvu"
+    :title:
+    - "[1:68]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-69.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-69.djvu"
+    :title:
+    - "[1:69]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-70.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-70.djvu"
+    :title:
+    - "[1:70]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-71.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-71.djvu"
+    :title:
+    - "[1:71]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-72.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-72.djvu"
+    :title:
+    - "[1:72]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-73.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-73.djvu"
+    :title:
+    - "[1:73]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-74.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-74.djvu"
+    :title:
+    - "[1:74]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-75.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-75.djvu"
+    :title:
+    - "[1:75]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-76.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-76.djvu"
+    :title:
+    - "[1:76]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-77.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-77.djvu"
+    :title:
+    - "[1:77]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-78.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-78.djvu"
+    :title:
+    - "[1:78]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-79.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-79.djvu"
+    :title:
+    - "[1:79]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-80.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-80.djvu"
+    :title:
+    - "[1:80]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-81.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-81.djvu"
+    :title:
+    - "[1:81]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-82.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-82.djvu"
+    :title:
+    - "[1:82]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-83.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-83.djvu"
+    :title:
+    - "[1:83]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-84.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-84.djvu"
+    :title:
+    - "[1:84]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-85.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-85.djvu"
+    :title:
+    - "[1:85]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-86.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-86.djvu"
+    :title:
+    - "[1:86]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-87.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-87.djvu"
+    :title:
+    - "[1:87]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-88.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-88.djvu"
+    :title:
+    - "[1:88]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-89.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-89.djvu"
+    :title:
+    - "[1:89]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-90.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-90.djvu"
+    :title:
+    - "[1:90]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-91.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-91.djvu"
+    :title:
+    - "[1:91]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-92.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-92.djvu"
+    :title:
+    - "[1:92]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-93.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-93.djvu"
+    :title:
+    - "[1:93]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-94.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-94.djvu"
+    :title:
+    - "[1:94]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-95.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-95.djvu"
+    :title:
+    - "[1:95]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-96.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-96.djvu"
+    :title:
+    - "[1:96]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-97.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-97.djvu"
+    :title:
+    - "[1:97]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-98.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-98.djvu"
+    :title:
+    - "[1:98]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-99.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-99.djvu"
+    :title:
+    - "[1:99]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-100.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-100.djvu"
+    :title:
+    - "[1:100]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-101.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-101.djvu"
+    :title:
+    - "[1:101]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-102.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-102.djvu"
+    :title:
+    - "[1:102]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-103.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-103.djvu"
+    :title:
+    - "[1:103]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-104.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-104.djvu"
+    :title:
+    - "[1:104]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-105.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-105.djvu"
+    :title:
+    - "[1:105]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-106.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-106.djvu"
+    :title:
+    - "[1:106]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-107.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-107.djvu"
+    :title:
+    - "[1:107]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-108.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-108.djvu"
+    :title:
+    - "[1:108]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-109.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-109.djvu"
+    :title:
+    - "[1:109]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-110.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-110.djvu"
+    :title:
+    - "[1:110]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-111.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-111.djvu"
+    :title:
+    - "[1:111]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-112.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-112.djvu"
+    :title:
+    - "[1:112]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-113.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-113.djvu"
+    :title:
+    - "[1:113]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-114.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-114.djvu"
+    :title:
+    - "[1:114]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-115.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-115.djvu"
+    :title:
+    - "[1:115]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-116.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-116.djvu"
+    :title:
+    - "[1:116]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-117.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-117.djvu"
+    :title:
+    - "[1:117]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-118.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-118.djvu"
+    :title:
+    - "[1:118]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-119.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-119.djvu"
+    :title:
+    - "[1:119]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-120.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-120.djvu"
+    :title:
+    - "[1:120]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-121.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-121.djvu"
+    :title:
+    - "[1:121]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-122.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-122.djvu"
+    :title:
+    - "[1:122]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-123.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-123.djvu"
+    :title:
+    - "[1:123]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-124.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-124.djvu"
+    :title:
+    - "[1:124]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-125.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-125.djvu"
+    :title:
+    - "[1:125]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-126.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-126.djvu"
+    :title:
+    - "[1:126]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-127.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-127.djvu"
+    :title:
+    - "[1:127]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-128.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-128.djvu"
+    :title:
+    - "[1:128]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-129.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-129.djvu"
+    :title:
+    - "[1:129]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-1-130.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-1-130.djvu"
+    :title:
+    - "[1:130]"
+    :replaces: replaces
+    :file_opts: {}
+- :id: ID GOES HERE
+  :title:
+  - 'The facsimil[e] edition of the autograph of Fryderyk Chopin''s works : from the
+    Collection Fryderyk Chopin Society in Warsaw, volume 2'
+  :nodes:
+  - :label: "[Contents]"
+    :nodes:
+    - :label: "[2:1]"
+      :proxy: abe9721-2-1.djvu
+  - :label: "[Berceuse in D-flat-major, op. 57]"
+    :nodes:
+    - :label: "[2:2]"
+      :proxy: abe9721-2-2.djvu
+    - :label: "[2:3]"
+      :proxy: abe9721-2-3.djvu
+    - :label: "[2:4]"
+      :proxy: abe9721-2-4.djvu
+    - :label: "[2:5]"
+      :proxy: abe9721-2-5.djvu
+  - :label: "[Sonata no. 3 in B-minor, op. 58]"
+    :nodes:
+    - :label: "[2:6]"
+      :proxy: abe9721-2-6.djvu
+    - :label: "[2:7]"
+      :proxy: abe9721-2-7.djvu
+  - :label: "[Barcarolle in F-sharp-major, op. 60]"
+    :nodes:
+    - :label: "[2:8]"
+      :proxy: abe9721-2-8.djvu
+    - :label: "[2:9]"
+      :proxy: abe9721-2-9.djvu
+  - :label: "[Polonaise-Fantasie in A-flat-major, op. 61]"
+    :nodes:
+    - :label: "[2:10]"
+      :proxy: abe9721-2-10.djvu
+    - :label: "[2:11]"
+      :proxy: abe9721-2-11.djvu
+  - :label: "[Sonata in G-minor, for pianoforte and cello, op. 65]"
+    :nodes:
+    - :label: "[2:12]"
+      :proxy: abe9721-2-12.djvu
+    - :label: "[2:13]"
+      :proxy: abe9721-2-13.djvu
+    - :label: "[2:14]"
+      :proxy: abe9721-2-14.djvu
+    - :label: "[2:15]"
+      :proxy: abe9721-2-15.djvu
+    - :label: "[2:16]"
+      :proxy: abe9721-2-16.djvu
+    - :label: "[2:17]"
+      :proxy: abe9721-2-17.djvu
+    - :label: "[2:18]"
+      :proxy: abe9721-2-18.djvu
+    - :label: "[2:19]"
+      :proxy: abe9721-2-19.djvu
+    - :label: "[2:20]"
+      :proxy: abe9721-2-20.djvu
+    - :label: "[2:21]"
+      :proxy: abe9721-2-21.djvu
+    - :label: "[2:22]"
+      :proxy: abe9721-2-22.djvu
+    - :label: "[2:23]"
+      :proxy: abe9721-2-23.djvu
+    - :label: "[2:24]"
+      :proxy: abe9721-2-24.djvu
+    - :label: "[2:25]"
+      :proxy: abe9721-2-25.djvu
+    - :label: "[2:26]"
+      :proxy: abe9721-2-26.djvu
+    - :label: "[2:27]"
+      :proxy: abe9721-2-27.djvu
+    - :label: "[2:28]"
+      :proxy: abe9721-2-28.djvu
+    - :label: "[2:29]"
+      :proxy: abe9721-2-29.djvu
+    - :label: "[2:30]"
+      :proxy: abe9721-2-30.djvu
+    - :label: "[2:31]"
+      :proxy: abe9721-2-31.djvu
+    - :label: "[2:32]"
+      :proxy: abe9721-2-32.djvu
+    - :label: "[2:33]"
+      :proxy: abe9721-2-33.djvu
+    - :label: "[2:34]"
+      :proxy: abe9721-2-34.djvu
+    - :label: "[2:35]"
+      :proxy: abe9721-2-35.djvu
+    - :label: "[2:36]"
+      :proxy: abe9721-2-36.djvu
+    - :label: "[2:37]"
+      :proxy: abe9721-2-37.djvu
+    - :label: "[2:38]"
+      :proxy: abe9721-2-38.djvu
+    - :label: "[2:39]"
+      :proxy: abe9721-2-39.djvu
+    - :label: "[2:40]"
+      :proxy: abe9721-2-40.djvu
+    - :label: "[2:41]"
+      :proxy: abe9721-2-41.djvu
+    - :label: "[2:42]"
+      :proxy: abe9721-2-42.djvu
+    - :label: "[2:43]"
+      :proxy: abe9721-2-43.djvu
+    - :label: "[2:44]"
+      :proxy: abe9721-2-44.djvu
+    - :label: "[2:45]"
+      :proxy: abe9721-2-45.djvu
+    - :label: "[2:46]"
+      :proxy: abe9721-2-46.djvu
+    - :label: "[2:47]"
+      :proxy: abe9721-2-47.djvu
+    - :label: "[2:48]"
+      :proxy: abe9721-2-48.djvu
+    - :label: "[2:49]"
+      :proxy: abe9721-2-49.djvu
+    - :label: "[2:50]"
+      :proxy: abe9721-2-50.djvu
+    - :label: "[2:51]"
+      :proxy: abe9721-2-51.djvu
+    - :label: "[2:52]"
+      :proxy: abe9721-2-52.djvu
+    - :label: "[2:53]"
+      :proxy: abe9721-2-53.djvu
+    - :label: "[2:54]"
+      :proxy: abe9721-2-54.djvu
+    - :label: "[2:55]"
+      :proxy: abe9721-2-55.djvu
+    - :label: "[2:56]"
+      :proxy: abe9721-2-56.djvu
+    - :label: "[2:57]"
+      :proxy: abe9721-2-57.djvu
+    - :label: "[2:58]"
+      :proxy: abe9721-2-58.djvu
+    - :label: "[2:59]"
+      :proxy: abe9721-2-59.djvu
+    - :label: "[2:60]"
+      :proxy: abe9721-2-60.djvu
+    - :label: "[2:61]"
+      :proxy: abe9721-2-61.djvu
+    - :label: "[2:62]"
+      :proxy: abe9721-2-62.djvu
+    - :label: "[2:63]"
+      :proxy: abe9721-2-63.djvu
+    - :label: "[2:64]"
+      :proxy: abe9721-2-64.djvu
+    - :label: "[2:65]"
+      :proxy: abe9721-2-65.djvu
+    - :label: "[2:66]"
+      :proxy: abe9721-2-66.djvu
+    - :label: "[2:67]"
+      :proxy: abe9721-2-67.djvu
+    - :label: "[2:68]"
+      :proxy: abe9721-2-68.djvu
+    - :label: "[2:69]"
+      :proxy: abe9721-2-69.djvu
+    - :label: "[2:70]"
+      :proxy: abe9721-2-70.djvu
+    - :label: "[2:71]"
+      :proxy: abe9721-2-71.djvu
+    - :label: "[2:72]"
+      :proxy: abe9721-2-72.djvu
+    - :label: "[2:73]"
+      :proxy: abe9721-2-73.djvu
+    - :label: "[2:74]"
+      :proxy: abe9721-2-74.djvu
+    - :label: "[2:75]"
+      :proxy: abe9721-2-75.djvu
+    - :label: "[2:76]"
+      :proxy: abe9721-2-76.djvu
+    - :label: "[2:77]"
+      :proxy: abe9721-2-77.djvu
+    - :label: "[2:78]"
+      :proxy: abe9721-2-78.djvu
+    - :label: "[2:79]"
+      :proxy: abe9721-2-79.djvu
+  - :label: "[Mazurka in F-minor, op. 68-4]"
+    :nodes:
+    - :label: "[2:80]"
+      :proxy: abe9721-2-80.djvu
+    - :label: "[2:81]"
+      :proxy: abe9721-2-81.djvu
+  - :label: '[Song for voice and pianoforte, in A-minor, op. 74-6. "Precz z moich
+      oczu" (Out of my sight)'
+    :nodes:
+    - :label: "[2:82]"
+      :proxy: abe9721-2-82.djvu
+    - :label: "[2:83]"
+      :proxy: abe9721-2-83.djvu
+  - :label: '[Song for voice and pianoforte, in E-flat-major, op. 74-14. "Pierscien"
+      (The ring)'
+    :nodes:
+    - :label: "[2:84]"
+      :proxy: abe9721-2-84.djvu
+    - :label: "[2:85]"
+      :proxy: abe9721-2-85.djvu
+  - :label: '[Song in F-major, "Dawniej polak--"]'
+    :nodes:
+    - :label: "[2:86]"
+      :proxy: abe9721-2-86.djvu
+    - :label: "[2:87]"
+      :proxy: abe9721-2-87.djvu
+  - :label: '[Refrain of "Dabrowski''s Mazurka"]'
+    :nodes:
+    - :label: "[2:88]"
+      :proxy: abe9721-2-88.djvu
+    - :label: "[2:89]"
+      :proxy: abe9721-2-89.djvu
+  - :label: "[Nocturne in C-minor]"
+    :nodes:
+    - :label: "[2:90]"
+      :proxy: abe9721-2-90.djvu
+    - :label: "[2:91]"
+      :proxy: abe9721-2-91.djvu
+  - :label: "[Sonata no. 2 in B-flat-minor, op. 35]"
+    :nodes:
+    - :label: "[2:92]"
+      :proxy: abe9721-2-92.djvu
+    - :label: "[2:93]"
+      :proxy: abe9721-2-93.djvu
+  - :label: "[Impromptu in F-sharp-major, op. 36]"
+    :nodes:
+    - :label: "[2:94]"
+      :proxy: abe9721-2-94.djvu
+    - :label: "[2:95]"
+      :proxy: abe9721-2-95.djvu
+  - :label: "[Mazurka in G-major, op. 50-1]"
+    :nodes:
+    - :label: "[2:96]"
+      :proxy: abe9721-2-96.djvu
+    - :label: "[2:97]"
+      :proxy: abe9721-2-97.djvu
+  - :label: "[Sonata no. 2 in B-flat-minor, op. 35, 1st ed.]"
+    :nodes:
+    - :label: "[2:98]"
+      :proxy: abe9721-2-98.djvu
+    - :label: "[2:99]"
+      :proxy: abe9721-2-99.djvu
+    - :label: "[2:100]"
+      :proxy: abe9721-2-100.djvu
+    - :label: "[2:101]"
+      :proxy: abe9721-2-101.djvu
+    - :label: "[2:102]"
+      :proxy: abe9721-2-102.djvu
+    - :label: "[2:103]"
+      :proxy: abe9721-2-103.djvu
+    - :label: "[2:104]"
+      :proxy: abe9721-2-104.djvu
+    - :label: "[2:105]"
+      :proxy: abe9721-2-105.djvu
+    - :label: "[2:106]"
+      :proxy: abe9721-2-106.djvu
+    - :label: "[2:107]"
+      :proxy: abe9721-2-107.djvu
+    - :label: "[2:108]"
+      :proxy: abe9721-2-108.djvu
+    - :label: "[2:109]"
+      :proxy: abe9721-2-109.djvu
+    - :label: "[2:110]"
+      :proxy: abe9721-2-110.djvu
+    - :label: "[2:111]"
+      :proxy: abe9721-2-111.djvu
+    - :label: "[2:112]"
+      :proxy: abe9721-2-112.djvu
+    - :label: "[2:113]"
+      :proxy: abe9721-2-113.djvu
+    - :label: "[2:114]"
+      :proxy: abe9721-2-114.djvu
+    - :label: "[2:115]"
+      :proxy: abe9721-2-115.djvu
+    - :label: "[2:116]"
+      :proxy: abe9721-2-116.djvu
+    - :label: "[2:117]"
+      :proxy: abe9721-2-117.djvu
+    - :label: "[2:118]"
+      :proxy: abe9721-2-118.djvu
+    - :label: "[2:119]"
+      :proxy: abe9721-2-119.djvu
+    - :label: "[2:120]"
+      :proxy: abe9721-2-120.djvu
+    - :label: "[2:121]"
+      :proxy: abe9721-2-121.djvu
+  - :label: "[Colophon]"
+    :nodes:
+    - :label: "[2:122]"
+      :proxy: abe9721-2-122.djvu
+  :files:
+  - :id: abe9721-2-1.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-1.djvu"
+    :title:
+    - "[2:1]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-2.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-2.djvu"
+    :title:
+    - "[2:2]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-3.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-3.djvu"
+    :title:
+    - "[2:3]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-4.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-4.djvu"
+    :title:
+    - "[2:4]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-5.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-5.djvu"
+    :title:
+    - "[2:5]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-6.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-6.djvu"
+    :title:
+    - "[2:6]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-7.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-7.djvu"
+    :title:
+    - "[2:7]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-8.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-8.djvu"
+    :title:
+    - "[2:8]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-9.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-9.djvu"
+    :title:
+    - "[2:9]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-10.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-10.djvu"
+    :title:
+    - "[2:10]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-11.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-11.djvu"
+    :title:
+    - "[2:11]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-12.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-12.djvu"
+    :title:
+    - "[2:12]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-13.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-13.djvu"
+    :title:
+    - "[2:13]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-14.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-14.djvu"
+    :title:
+    - "[2:14]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-15.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-15.djvu"
+    :title:
+    - "[2:15]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-16.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-16.djvu"
+    :title:
+    - "[2:16]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-17.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-17.djvu"
+    :title:
+    - "[2:17]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-18.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-18.djvu"
+    :title:
+    - "[2:18]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-19.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-19.djvu"
+    :title:
+    - "[2:19]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-20.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-20.djvu"
+    :title:
+    - "[2:20]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-21.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-21.djvu"
+    :title:
+    - "[2:21]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-22.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-22.djvu"
+    :title:
+    - "[2:22]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-23.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-23.djvu"
+    :title:
+    - "[2:23]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-24.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-24.djvu"
+    :title:
+    - "[2:24]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-25.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-25.djvu"
+    :title:
+    - "[2:25]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-26.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-26.djvu"
+    :title:
+    - "[2:26]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-27.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-27.djvu"
+    :title:
+    - "[2:27]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-28.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-28.djvu"
+    :title:
+    - "[2:28]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-29.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-29.djvu"
+    :title:
+    - "[2:29]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-30.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-30.djvu"
+    :title:
+    - "[2:30]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-31.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-31.djvu"
+    :title:
+    - "[2:31]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-32.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-32.djvu"
+    :title:
+    - "[2:32]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-33.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-33.djvu"
+    :title:
+    - "[2:33]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-34.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-34.djvu"
+    :title:
+    - "[2:34]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-35.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-35.djvu"
+    :title:
+    - "[2:35]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-36.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-36.djvu"
+    :title:
+    - "[2:36]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-37.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-37.djvu"
+    :title:
+    - "[2:37]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-38.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-38.djvu"
+    :title:
+    - "[2:38]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-39.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-39.djvu"
+    :title:
+    - "[2:39]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-40.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-40.djvu"
+    :title:
+    - "[2:40]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-41.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-41.djvu"
+    :title:
+    - "[2:41]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-42.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-42.djvu"
+    :title:
+    - "[2:42]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-43.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-43.djvu"
+    :title:
+    - "[2:43]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-44.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-44.djvu"
+    :title:
+    - "[2:44]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-45.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-45.djvu"
+    :title:
+    - "[2:45]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-46.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-46.djvu"
+    :title:
+    - "[2:46]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-47.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-47.djvu"
+    :title:
+    - "[2:47]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-48.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-48.djvu"
+    :title:
+    - "[2:48]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-49.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-49.djvu"
+    :title:
+    - "[2:49]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-50.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-50.djvu"
+    :title:
+    - "[2:50]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-51.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-51.djvu"
+    :title:
+    - "[2:51]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-52.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-52.djvu"
+    :title:
+    - "[2:52]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-53.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-53.djvu"
+    :title:
+    - "[2:53]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-54.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-54.djvu"
+    :title:
+    - "[2:54]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-55.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-55.djvu"
+    :title:
+    - "[2:55]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-56.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-56.djvu"
+    :title:
+    - "[2:56]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-57.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-57.djvu"
+    :title:
+    - "[2:57]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-58.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-58.djvu"
+    :title:
+    - "[2:58]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-59.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-59.djvu"
+    :title:
+    - "[2:59]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-60.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-60.djvu"
+    :title:
+    - "[2:60]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-61.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-61.djvu"
+    :title:
+    - "[2:61]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-62.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-62.djvu"
+    :title:
+    - "[2:62]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-63.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-63.djvu"
+    :title:
+    - "[2:63]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-64.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-64.djvu"
+    :title:
+    - "[2:64]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-65.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-65.djvu"
+    :title:
+    - "[2:65]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-66.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-66.djvu"
+    :title:
+    - "[2:66]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-67.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-67.djvu"
+    :title:
+    - "[2:67]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-68.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-68.djvu"
+    :title:
+    - "[2:68]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-69.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-69.djvu"
+    :title:
+    - "[2:69]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-70.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-70.djvu"
+    :title:
+    - "[2:70]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-71.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-71.djvu"
+    :title:
+    - "[2:71]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-72.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-72.djvu"
+    :title:
+    - "[2:72]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-73.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-73.djvu"
+    :title:
+    - "[2:73]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-74.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-74.djvu"
+    :title:
+    - "[2:74]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-75.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-75.djvu"
+    :title:
+    - "[2:75]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-76.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-76.djvu"
+    :title:
+    - "[2:76]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-77.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-77.djvu"
+    :title:
+    - "[2:77]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-78.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-78.djvu"
+    :title:
+    - "[2:78]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-79.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-79.djvu"
+    :title:
+    - "[2:79]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-80.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-80.djvu"
+    :title:
+    - "[2:80]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-81.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-81.djvu"
+    :title:
+    - "[2:81]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-82.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-82.djvu"
+    :title:
+    - "[2:82]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-83.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-83.djvu"
+    :title:
+    - "[2:83]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-84.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-84.djvu"
+    :title:
+    - "[2:84]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-85.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-85.djvu"
+    :title:
+    - "[2:85]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-86.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-86.djvu"
+    :title:
+    - "[2:86]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-87.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-87.djvu"
+    :title:
+    - "[2:87]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-88.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-88.djvu"
+    :title:
+    - "[2:88]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-89.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-89.djvu"
+    :title:
+    - "[2:89]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-90.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-90.djvu"
+    :title:
+    - "[2:90]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-91.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-91.djvu"
+    :title:
+    - "[2:91]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-92.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-92.djvu"
+    :title:
+    - "[2:92]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-93.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-93.djvu"
+    :title:
+    - "[2:93]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-94.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-94.djvu"
+    :title:
+    - "[2:94]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-95.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-95.djvu"
+    :title:
+    - "[2:95]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-96.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-96.djvu"
+    :title:
+    - "[2:96]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-97.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-97.djvu"
+    :title:
+    - "[2:97]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-98.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-98.djvu"
+    :title:
+    - "[2:98]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-99.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-99.djvu"
+    :title:
+    - "[2:99]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-100.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-100.djvu"
+    :title:
+    - "[2:100]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-101.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-101.djvu"
+    :title:
+    - "[2:101]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-102.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-102.djvu"
+    :title:
+    - "[2:102]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-103.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-103.djvu"
+    :title:
+    - "[2:103]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-104.djvu
+    :checksum: KRofxQUapZF9FfCRBE2Szw==
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-104.djvu"
+    :title:
+    - "[2:104]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-105.djvu
+    :checksum: SPReAxcqLYaQnAhXBiootQ==
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-105.djvu"
+    :title:
+    - "[2:105]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-106.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-106.djvu"
+    :title:
+    - "[2:106]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-107.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-107.djvu"
+    :title:
+    - "[2:107]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-108.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-108.djvu"
+    :title:
+    - "[2:108]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-109.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-109.djvu"
+    :title:
+    - "[2:109]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-110.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-110.djvu"
+    :title:
+    - "[2:110]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-111.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-111.djvu"
+    :title:
+    - "[2:111]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-112.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-112.djvu"
+    :title:
+    - "[2:112]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-113.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-113.djvu"
+    :title:
+    - "[2:113]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-114.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-114.djvu"
+    :title:
+    - "[2:114]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-115.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-115.djvu"
+    :title:
+    - "[2:115]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-116.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-116.djvu"
+    :title:
+    - "[2:116]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-117.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-117.djvu"
+    :title:
+    - "[2:117]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-118.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-118.djvu"
+    :title:
+    - "[2:118]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-119.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-119.djvu"
+    :title:
+    - "[2:119]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-120.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-120.djvu"
+    :title:
+    - "[2:120]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-121.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-121.djvu"
+    :title:
+    - "[2:121]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-2-122.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-2-122.djvu"
+    :title:
+    - "[2:122]"
+    :replaces: replaces
+    :file_opts: {}
+- :id: ID GOES HERE
+  :title:
+  - 'The facsimil[e] edition of the autograph of Fryderyk Chopin''s works : from the
+    Collection Fryderyk Chopin Society in Warsaw, volume 3'
+  :nodes:
+  - :label: "[Cover Page]"
+    :nodes:
+    - :label: "[3:1]"
+      :proxy: abe9721-3-1.djvu
+  - :label: "[Photograph]"
+    :nodes:
+    - :label: "[3:2]"
+      :proxy: abe9721-3-2.djvu
+    - :label: "[3:3]"
+      :proxy: abe9721-3-3.djvu
+  - :label: "[Description of photographs]"
+    :nodes:
+    - :label: "[3:4]"
+      :proxy: abe9721-3-4.djvu
+  - :label: "[Autograph]"
+    :nodes:
+    - :label: "[3:5]"
+      :proxy: abe9721-3-5.djvu
+  - :label: "[Series Title]"
+    :nodes:
+    - :label: "[3:6]"
+      :proxy: abe9721-3-6.djvu
+    - :label: "[3:7]"
+      :proxy: abe9721-3-7.djvu
+  - :label: "[Title Page]"
+    :nodes:
+    - :label: "[3:8]"
+      :proxy: abe9721-3-8.djvu
+    - :label: "[3:9]"
+      :proxy: abe9721-3-9.djvu
+  - :label: "[Acknowledgements]"
+    :nodes:
+    - :label: "[3:10]"
+      :proxy: abe9721-3-10.djvu
+  - :label: "[Portrait]"
+    :nodes:
+    - :label: "[3:11]"
+      :proxy: abe9721-3-11.djvu
+    - :label: "[3:12]"
+      :proxy: abe9721-3-12.djvu
+  - :label: "[Quote]"
+    :nodes:
+    - :label: "[3:13]"
+      :proxy: abe9721-3-13.djvu
+    - :label: "[3:14]"
+      :proxy: abe9721-3-14.djvu
+  - :label: "[Notes]"
+    :nodes:
+    - :label: "[3:15]"
+      :proxy: abe9721-3-15.djvu
+    - :label: "[3:16]"
+      :proxy: abe9721-3-16.djvu
+    - :label: "[3:17]"
+      :proxy: abe9721-3-17.djvu
+    - :label: "[3:18]"
+      :proxy: abe9721-3-18.djvu
+    - :label: "[3:19]"
+      :proxy: abe9721-3-19.djvu
+    - :label: "[3:20]"
+      :proxy: abe9721-3-20.djvu
+    - :label: "[3:21]"
+      :proxy: abe9721-3-21.djvu
+    - :label: "[3:22]"
+      :proxy: abe9721-3-22.djvu
+    - :label: "[3:23]"
+      :proxy: abe9721-3-23.djvu
+    - :label: "[3:24]"
+      :proxy: abe9721-3-24.djvu
+  - :label: "[Polonaise in G minor, 1817, 1st ed.]"
+    :nodes:
+    - :label: "[3:25]"
+      :proxy: abe9721-3-25.djvu
+    - :label: "[3:26]"
+      :proxy: abe9721-3-26.djvu
+    - :label: "[3:27]"
+      :proxy: abe9721-3-27.djvu
+    - :label: "[3:28]"
+      :proxy: abe9721-3-28.djvu
+    - :label: "[3:29]"
+      :proxy: abe9721-3-29.djvu
+  - :label: "[Colophon]"
+    :nodes:
+    - :label: "[3:30]"
+      :proxy: abe9721-3-30.djvu
+  - :label: "[Photograph]"
+    :nodes:
+    - :label: "[3:31]"
+      :proxy: abe9721-3-31.djvu
+    - :label: "[3:32]"
+      :proxy: abe9721-3-32.djvu
+  - :label: "[Back Cover]"
+    :nodes:
+    - :label: "[3:33]"
+      :proxy: abe9721-3-33.djvu
+  :files:
+  - :id: abe9721-3-1.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-3-1.djvu"
+    :title:
+    - "[3:1]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-3-2.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-3-2.djvu"
+    :title:
+    - "[3:2]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-3-3.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-3-3.djvu"
+    :title:
+    - "[3:3]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-3-4.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-3-4.djvu"
+    :title:
+    - "[3:4]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-3-5.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-3-5.djvu"
+    :title:
+    - "[3:5]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-3-6.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-3-6.djvu"
+    :title:
+    - "[3:6]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-3-7.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-3-7.djvu"
+    :title:
+    - "[3:7]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-3-8.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-3-8.djvu"
+    :title:
+    - "[3:8]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-3-9.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-3-9.djvu"
+    :title:
+    - "[3:9]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-3-10.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-3-10.djvu"
+    :title:
+    - "[3:10]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-3-11.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-3-11.djvu"
+    :title:
+    - "[3:11]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-3-12.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-3-12.djvu"
+    :title:
+    - "[3:12]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-3-13.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-3-13.djvu"
+    :title:
+    - "[3:13]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-3-14.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-3-14.djvu"
+    :title:
+    - "[3:14]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-3-15.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-3-15.djvu"
+    :title:
+    - "[3:15]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-3-16.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-3-16.djvu"
+    :title:
+    - "[3:16]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-3-17.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-3-17.djvu"
+    :title:
+    - "[3:17]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-3-18.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-3-18.djvu"
+    :title:
+    - "[3:18]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-3-19.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-3-19.djvu"
+    :title:
+    - "[3:19]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-3-20.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-3-20.djvu"
+    :title:
+    - "[3:20]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-3-21.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-3-21.djvu"
+    :title:
+    - "[3:21]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-3-22.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-3-22.djvu"
+    :title:
+    - "[3:22]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-3-23.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-3-23.djvu"
+    :title:
+    - "[3:23]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-3-24.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-3-24.djvu"
+    :title:
+    - "[3:24]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-3-25.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-3-25.djvu"
+    :title:
+    - "[3:25]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-3-26.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-3-26.djvu"
+    :title:
+    - "[3:26]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-3-27.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-3-27.djvu"
+    :title:
+    - "[3:27]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-3-28.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-3-28.djvu"
+    :title:
+    - "[3:28]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-3-29.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-3-29.djvu"
+    :title:
+    - "[3:29]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-3-30.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-3-30.djvu"
+    :title:
+    - "[3:30]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-3-31.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-3-31.djvu"
+    :title:
+    - "[3:31]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-3-32.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-3-32.djvu"
+    :title:
+    - "[3:32]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-3-33.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-3-33.djvu"
+    :title:
+    - "[3:33]"
+    :replaces: replaces
+    :file_opts: {}
+- :id: ID GOES HERE
+  :title:
+  - 'A commentary on the facsimil[e] edition of the autograph of Fryderyk Chopin''s
+    works : from the Collection Fryderyk Chopin Society in Warsaw, volume 5'
+  :nodes:
+  - :label: "[Title Page]"
+    :nodes:
+    - :label: "[5:1]"
+      :proxy: abe9721-5-1.djvu
+  - :label: "[Foreword]"
+    :nodes:
+    - :label: "[5:2]"
+      :proxy: abe9721-5-2.djvu
+    - :label: "[5:3]"
+      :proxy: abe9721-5-3.djvu
+    - :label: "[5:4]"
+      :proxy: abe9721-5-4.djvu
+    - :label: "[5:5]"
+      :proxy: abe9721-5-5.djvu
+    - :label: "[5:6]"
+      :proxy: abe9721-5-6.djvu
+    - :label: "[5:7]"
+      :proxy: abe9721-5-7.djvu
+  - :label: "[Contents]"
+    :nodes:
+    - :label: "[5:8]"
+      :proxy: abe9721-5-8.djvu
+    - :label: "[5:9]"
+      :proxy: abe9721-5-9.djvu
+  - :label: "[Acknowledgements and photographs]"
+    :nodes:
+    - :label: "[5:10]"
+      :proxy: abe9721-5-10.djvu
+    - :label: "[5:11]"
+      :proxy: abe9721-5-11.djvu
+  - :label: "[Quotes]"
+    :nodes:
+    - :label: "[5:12]"
+      :proxy: abe9721-5-12.djvu
+  - :label: 1. Complete compositions
+    :nodes:
+    - :label: "[Half Title]"
+      :nodes:
+      - :label: "[5:13]"
+        :proxy: abe9721-5-13.djvu
+    - :label: Mazurka in F-minor, op. 7-3
+      :nodes:
+      - :label: '5:14'
+        :proxy: abe9721-5-14.djvu
+      - :label: '5:15'
+        :proxy: abe9721-5-15.djvu
+      - :label: '5:16'
+        :proxy: abe9721-5-16.djvu
+      - :label: '5:17'
+        :proxy: abe9721-5-17.djvu
+      - :label: '5:18'
+        :proxy: abe9721-5-18.djvu
+      - :label: "[5:19]"
+        :proxy: abe9721-5-19.djvu
+    - :label: Trio in G-minor, for pianoforte, violin, and cello, op. 8
+      :nodes:
+      - :label: '5:20'
+        :proxy: abe9721-5-20.djvu
+      - :label: '5:21'
+        :proxy: abe9721-5-21.djvu
+      - :label: '5:22'
+        :proxy: abe9721-5-22.djvu
+      - :label: '5:23'
+        :proxy: abe9721-5-23.djvu
+      - :label: '5:24'
+        :proxy: abe9721-5-24.djvu
+      - :label: '5:25'
+        :proxy: abe9721-5-25.djvu
+    - :label: Studies form op. 10
+      :nodes:
+      - :label: '5:26'
+        :proxy: abe9721-5-26.djvu
+      - :label: '5:27'
+        :proxy: abe9721-5-27.djvu
+      - :label: '5:28'
+        :proxy: abe9721-5-28.djvu
+      - :label: '5:29'
+        :proxy: abe9721-5-29.djvu
+    - :label: Study in E-major, op. 10-3
+      :nodes:
+      - :label: '5:30'
+        :proxy: abe9721-5-30.djvu
+      - :label: '5:31'
+        :proxy: abe9721-5-31.djvu
+    - :label: Study in G-flat-major, op. 10-5
+      :nodes:
+      - :label: '5:32'
+        :proxy: abe9721-5-32.djvu
+      - :label: '5:33'
+        :proxy: abe9721-5-33.djvu
+    - :label: Study in E-flat-minor, op. 10-6
+      :nodes:
+      - :label: '5:34'
+        :proxy: abe9721-5-34.djvu
+      - :label: '5:35'
+        :proxy: abe9721-5-35.djvu
+    - :label: Study in F-major, op. 10-8
+      :nodes:
+      - :label: '5:36'
+        :proxy: abe9721-5-36.djvu
+      - :label: '5:37'
+        :proxy: abe9721-5-37.djvu
+    - :label: Study in F-minor, op. 10-9 and in A-flat-major, op. 10-10
+      :nodes:
+      - :label: '5:38'
+        :proxy: abe9721-5-38.djvu
+      - :label: '5:39'
+        :proxy: abe9721-5-39.djvu
+      - :label: '5:40'
+        :proxy: abe9721-5-40.djvu
+      - :label: '5:41'
+        :proxy: abe9721-5-41.djvu
+      - :label: '5:42'
+        :proxy: abe9721-5-42.djvu
+      - :label: '5:43'
+        :proxy: abe9721-5-43.djvu
+    - :label: Impromptu in A-flat-major, op. 29
+      :nodes:
+      - :label: '5:44'
+        :proxy: abe9721-5-44.djvu
+      - :label: '5:45'
+        :proxy: abe9721-5-45.djvu
+      - :label: '5:46'
+        :proxy: abe9721-5-46.djvu
+      - :label: '5:47'
+        :proxy: abe9721-5-47.djvu
+    - :label: Barcarolle in F-sharp-major, op. 60
+      :nodes:
+      - :label: '5:48'
+        :proxy: abe9721-5-48.djvu
+      - :label: '5:49'
+        :proxy: abe9721-5-49.djvu
+      - :label: '5:50'
+        :proxy: abe9721-5-50.djvu
+      - :label: '5:51'
+        :proxy: abe9721-5-51.djvu
+      - :label: '5:52'
+        :proxy: abe9721-5-52.djvu
+      - :label: '5:53'
+        :proxy: abe9721-5-53.djvu
+      - :label: '5:54'
+        :proxy: abe9721-5-54.djvu
+      - :label: '5:55'
+        :proxy: abe9721-5-55.djvu
+      - :label: '5:56'
+        :proxy: abe9721-5-56.djvu
+      - :label: '5:57'
+        :proxy: abe9721-5-57.djvu
+      - :label: '5:58'
+        :proxy: abe9721-5-58.djvu
+      - :label: "[5:59]"
+        :proxy: abe9721-5-59.djvu
+    - :label: Polonaise-Fantasie in A-flat-major, op. 61
+      :nodes:
+      - :label: 5:60
+        :proxy: abe9721-5-60.djvu
+      - :label: 5:61
+        :proxy: abe9721-5-61.djvu
+      - :label: 5:62
+        :proxy: abe9721-5-62.djvu
+      - :label: 5:63
+        :proxy: abe9721-5-63.djvu
+      - :label: 5:64
+        :proxy: abe9721-5-64.djvu
+      - :label: 5:65
+        :proxy: abe9721-5-65.djvu
+    - :label: Polonaise in F-minor, op. 71-3
+      :nodes:
+      - :label: 5:66
+        :proxy: abe9721-5-66.djvu
+      - :label: 5:67
+        :proxy: abe9721-5-67.djvu
+      - :label: 5:68
+        :proxy: abe9721-5-68.djvu
+      - :label: 5:69
+        :proxy: abe9721-5-69.djvu
+      - :label: 5:70
+        :proxy: abe9721-5-70.djvu
+      - :label: 5:71
+        :proxy: abe9721-5-71.djvu
+    - :label: Song for voice and pianoforte, in A-flat-major, op. 74-10. "The Warrior"
+      :nodes:
+      - :label: 5:72
+        :proxy: abe9721-5-72.djvu
+      - :label: 5:73
+        :proxy: abe9721-5-73.djvu
+      - :label: 5:74
+        :proxy: abe9721-5-74.djvu
+      - :label: 5:75
+        :proxy: abe9721-5-75.djvu
+      - :label: "[5:76]"
+        :proxy: abe9721-5-76.djvu
+  - :label: 2. Sketches and fragments
+    :nodes:
+    - :label: "[Half Title]"
+      :nodes:
+      - :label: "[5:77]"
+        :proxy: abe9721-5-77.djvu
+    - :label: Berceuse in D-flat-major, op. 57
+      :nodes:
+      - :label: 5:78
+        :proxy: abe9721-5-78.djvu
+      - :label: 5:79
+        :proxy: abe9721-5-79.djvu
+      - :label: 5:80
+        :proxy: abe9721-5-80.djvu
+      - :label: 5:81
+        :proxy: abe9721-5-81.djvu
+      - :label: 5:82
+        :proxy: abe9721-5-82.djvu
+      - :label: 5:83
+        :proxy: abe9721-5-83.djvu
+      - :label: 5:84
+        :proxy: abe9721-5-84.djvu
+      - :label: 5:85
+        :proxy: abe9721-5-85.djvu
+    - :label: Sonata no. 3 in B-minor, op. 58
+      :nodes:
+      - :label: 5:86
+        :proxy: abe9721-5-86.djvu
+      - :label: 5:87
+        :proxy: abe9721-5-87.djvu
+      - :label: 5:88
+        :proxy: abe9721-5-88.djvu
+      - :label: 5:89
+        :proxy: abe9721-5-89.djvu
+    - :label: Barcarolle in F-sharp-major, op. 60
+      :nodes:
+      - :label: 5:90
+        :proxy: abe9721-5-90.djvu
+      - :label: 5:91
+        :proxy: abe9721-5-91.djvu
+    - :label: Polonaise-Fantasie in A-flat-major, op. 61
+      :nodes:
+      - :label: 5:92
+        :proxy: abe9721-5-92.djvu
+      - :label: 5:93
+        :proxy: abe9721-5-93.djvu
+      - :label: 5:94
+        :proxy: abe9721-5-94.djvu
+      - :label: 5:95
+        :proxy: abe9721-5-95.djvu
+    - :label: Sonata in G-minor, for pianoforte and cello, op. 65
+      :nodes:
+      - :label: 5:96
+        :proxy: abe9721-5-96.djvu
+      - :label: 5:97
+        :proxy: abe9721-5-97.djvu
+      - :label: 5:98
+        :proxy: abe9721-5-98.djvu
+      - :label: 5:99
+        :proxy: abe9721-5-99.djvu
+      - :label: 5:100
+        :proxy: abe9721-5-100.djvu
+      - :label: 5:101
+        :proxy: abe9721-5-101.djvu
+      - :label: 5:102
+        :proxy: abe9721-5-102.djvu
+      - :label: 5:103
+        :proxy: abe9721-5-103.djvu
+      - :label: 5:104
+        :proxy: abe9721-5-104.djvu
+      - :label: 5:105
+        :proxy: abe9721-5-105.djvu
+      - :label: 5:106
+        :proxy: abe9721-5-106.djvu
+      - :label: 5:107
+        :proxy: abe9721-5-107.djvu
+      - :label: 5:108
+        :proxy: abe9721-5-108.djvu
+      - :label: 5:109
+        :proxy: abe9721-5-109.djvu
+      - :label: 5:110
+        :proxy: abe9721-5-110.djvu
+      - :label: 5:111
+        :proxy: abe9721-5-111.djvu
+      - :label: 5:112
+        :proxy: abe9721-5-112.djvu
+      - :label: 5:113
+        :proxy: abe9721-5-113.djvu
+    - :label: Mazurka in F-minor, op. 68-4
+      :nodes:
+      - :label: 5:114
+        :proxy: abe9721-5-114.djvu
+      - :label: 5:115
+        :proxy: abe9721-5-115.djvu
+      - :label: 5:116
+        :proxy: abe9721-5-116.djvu
+      - :label: 5:117
+        :proxy: abe9721-5-117.djvu
+      - :label: 5:118
+        :proxy: abe9721-5-118.djvu
+      - :label: 5:119
+        :proxy: abe9721-5-119.djvu
+    - :label: Song for voice and pianoforte, op. 74-6. "Out of my sight!"
+      :nodes:
+      - :label: 5:120
+        :proxy: abe9721-5-120.djvu
+      - :label: 5:121
+        :proxy: abe9721-5-121.djvu
+      - :label: 5:122
+        :proxy: abe9721-5-122.djvu
+      - :label: 5:123
+        :proxy: abe9721-5-123.djvu
+    - :label: Song for voice and pianoforte, op. 74-14. "The ring"
+      :nodes:
+      - :label: 5:124
+        :proxy: abe9721-5-124.djvu
+      - :label: 5:125
+        :proxy: abe9721-5-125.djvu
+      - :label: 5:126
+        :proxy: abe9721-5-126.djvu
+      - :label: 5:127
+        :proxy: abe9721-5-127.djvu
+    - :label: Refrain of "Dabrowski's Mazurka"
+      :nodes:
+      - :label: 5:128
+        :proxy: abe9721-5-128.djvu
+      - :label: 5:129
+        :proxy: abe9721-5-129.djvu
+      - :label: 5:130
+        :proxy: abe9721-5-130.djvu
+      - :label: 5:131
+        :proxy: abe9721-5-131.djvu
+    - :label: Nocturne in C-minor
+      :nodes:
+      - :label: 5:132
+        :proxy: abe9721-5-132.djvu
+      - :label: 5:133
+        :proxy: abe9721-5-133.djvu
+      - :label: 5:134
+        :proxy: abe9721-5-134.djvu
+      - :label: 5:135
+        :proxy: abe9721-5-135.djvu
+    - :label: Sonata no. 2 in B-flat-minor, op. 35
+      :nodes:
+      - :label: 5:136
+        :proxy: abe9721-5-136.djvu
+      - :label: 5:137
+        :proxy: abe9721-5-137.djvu
+    - :label: Impromptu in F-sharp-major, op. 36
+      :nodes:
+      - :label: 5:138
+        :proxy: abe9721-5-138.djvu
+      - :label: 5:139
+        :proxy: abe9721-5-139.djvu
+      - :label: 5:140
+        :proxy: abe9721-5-140.djvu
+      - :label: 5:141
+        :proxy: abe9721-5-141.djvu
+    - :label: Mazurka in G-major, op. 50-1
+      :nodes:
+      - :label: 5:142
+        :proxy: abe9721-5-142.djvu
+      - :label: 5:143
+        :proxy: abe9721-5-143.djvu
+      - :label: "[5:144]"
+        :proxy: abe9721-5-144.djvu
+  - :label: "[Illustrations]"
+    :nodes:
+    - :label: 5:145
+      :proxy: abe9721-5-145.djvu
+    - :label: 5:146
+      :proxy: abe9721-5-146.djvu
+    - :label: 5:147
+      :proxy: abe9721-5-147.djvu
+  - :label: "[Colophon]"
+    :nodes:
+    - :label: "[5:148]"
+      :proxy: abe9721-5-148.djvu
+  :files:
+  - :id: abe9721-5-1.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-1.djvu"
+    :title:
+    - "[5:1]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-2.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-2.djvu"
+    :title:
+    - "[5:2]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-3.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-3.djvu"
+    :title:
+    - "[5:3]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-4.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-4.djvu"
+    :title:
+    - "[5:4]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-5.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-5.djvu"
+    :title:
+    - "[5:5]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-6.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-6.djvu"
+    :title:
+    - "[5:6]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-7.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-7.djvu"
+    :title:
+    - "[5:7]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-8.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-8.djvu"
+    :title:
+    - "[5:8]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-9.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-9.djvu"
+    :title:
+    - "[5:9]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-10.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-10.djvu"
+    :title:
+    - "[5:10]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-11.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-11.djvu"
+    :title:
+    - "[5:11]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-12.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-12.djvu"
+    :title:
+    - "[5:12]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-13.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-13.djvu"
+    :title:
+    - "[5:13]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-14.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-14.djvu"
+    :title:
+    - '5:14'
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-15.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-15.djvu"
+    :title:
+    - '5:15'
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-16.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-16.djvu"
+    :title:
+    - '5:16'
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-17.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-17.djvu"
+    :title:
+    - '5:17'
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-18.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-18.djvu"
+    :title:
+    - '5:18'
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-19.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-19.djvu"
+    :title:
+    - "[5:19]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-20.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-20.djvu"
+    :title:
+    - '5:20'
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-21.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-21.djvu"
+    :title:
+    - '5:21'
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-22.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-22.djvu"
+    :title:
+    - '5:22'
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-23.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-23.djvu"
+    :title:
+    - '5:23'
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-24.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-24.djvu"
+    :title:
+    - '5:24'
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-25.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-25.djvu"
+    :title:
+    - '5:25'
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-26.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-26.djvu"
+    :title:
+    - '5:26'
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-27.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-27.djvu"
+    :title:
+    - '5:27'
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-28.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-28.djvu"
+    :title:
+    - '5:28'
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-29.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-29.djvu"
+    :title:
+    - '5:29'
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-30.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-30.djvu"
+    :title:
+    - '5:30'
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-31.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-31.djvu"
+    :title:
+    - '5:31'
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-32.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-32.djvu"
+    :title:
+    - '5:32'
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-33.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-33.djvu"
+    :title:
+    - '5:33'
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-34.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-34.djvu"
+    :title:
+    - '5:34'
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-35.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-35.djvu"
+    :title:
+    - '5:35'
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-36.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-36.djvu"
+    :title:
+    - '5:36'
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-37.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-37.djvu"
+    :title:
+    - '5:37'
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-38.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-38.djvu"
+    :title:
+    - '5:38'
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-39.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-39.djvu"
+    :title:
+    - '5:39'
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-40.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-40.djvu"
+    :title:
+    - '5:40'
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-41.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-41.djvu"
+    :title:
+    - '5:41'
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-42.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-42.djvu"
+    :title:
+    - '5:42'
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-43.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-43.djvu"
+    :title:
+    - '5:43'
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-44.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-44.djvu"
+    :title:
+    - '5:44'
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-45.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-45.djvu"
+    :title:
+    - '5:45'
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-46.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-46.djvu"
+    :title:
+    - '5:46'
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-47.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-47.djvu"
+    :title:
+    - '5:47'
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-48.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-48.djvu"
+    :title:
+    - '5:48'
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-49.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-49.djvu"
+    :title:
+    - '5:49'
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-50.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-50.djvu"
+    :title:
+    - '5:50'
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-51.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-51.djvu"
+    :title:
+    - '5:51'
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-52.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-52.djvu"
+    :title:
+    - '5:52'
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-53.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-53.djvu"
+    :title:
+    - '5:53'
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-54.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-54.djvu"
+    :title:
+    - '5:54'
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-55.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-55.djvu"
+    :title:
+    - '5:55'
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-56.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-56.djvu"
+    :title:
+    - '5:56'
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-57.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-57.djvu"
+    :title:
+    - '5:57'
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-58.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-58.djvu"
+    :title:
+    - '5:58'
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-59.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-59.djvu"
+    :title:
+    - "[5:59]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-60.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-60.djvu"
+    :title:
+    - 5:60
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-61.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-61.djvu"
+    :title:
+    - 5:61
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-62.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-62.djvu"
+    :title:
+    - 5:62
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-63.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-63.djvu"
+    :title:
+    - 5:63
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-64.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-64.djvu"
+    :title:
+    - 5:64
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-65.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-65.djvu"
+    :title:
+    - 5:65
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-66.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-66.djvu"
+    :title:
+    - 5:66
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-67.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-67.djvu"
+    :title:
+    - 5:67
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-68.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-68.djvu"
+    :title:
+    - 5:68
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-69.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-69.djvu"
+    :title:
+    - 5:69
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-70.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-70.djvu"
+    :title:
+    - 5:70
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-71.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-71.djvu"
+    :title:
+    - 5:71
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-72.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-72.djvu"
+    :title:
+    - 5:72
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-73.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-73.djvu"
+    :title:
+    - 5:73
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-74.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-74.djvu"
+    :title:
+    - 5:74
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-75.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-75.djvu"
+    :title:
+    - 5:75
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-76.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-76.djvu"
+    :title:
+    - "[5:76]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-77.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-77.djvu"
+    :title:
+    - "[5:77]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-78.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-78.djvu"
+    :title:
+    - 5:78
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-79.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-79.djvu"
+    :title:
+    - 5:79
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-80.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-80.djvu"
+    :title:
+    - 5:80
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-81.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-81.djvu"
+    :title:
+    - 5:81
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-82.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-82.djvu"
+    :title:
+    - 5:82
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-83.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-83.djvu"
+    :title:
+    - 5:83
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-84.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-84.djvu"
+    :title:
+    - 5:84
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-85.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-85.djvu"
+    :title:
+    - 5:85
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-86.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-86.djvu"
+    :title:
+    - 5:86
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-87.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-87.djvu"
+    :title:
+    - 5:87
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-88.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-88.djvu"
+    :title:
+    - 5:88
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-89.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-89.djvu"
+    :title:
+    - 5:89
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-90.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-90.djvu"
+    :title:
+    - 5:90
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-91.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-91.djvu"
+    :title:
+    - 5:91
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-92.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-92.djvu"
+    :title:
+    - 5:92
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-93.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-93.djvu"
+    :title:
+    - 5:93
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-94.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-94.djvu"
+    :title:
+    - 5:94
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-95.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-95.djvu"
+    :title:
+    - 5:95
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-96.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-96.djvu"
+    :title:
+    - 5:96
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-97.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-97.djvu"
+    :title:
+    - 5:97
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-98.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-98.djvu"
+    :title:
+    - 5:98
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-99.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-99.djvu"
+    :title:
+    - 5:99
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-100.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-100.djvu"
+    :title:
+    - 5:100
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-101.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-101.djvu"
+    :title:
+    - 5:101
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-102.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-102.djvu"
+    :title:
+    - 5:102
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-103.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-103.djvu"
+    :title:
+    - 5:103
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-104.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-104.djvu"
+    :title:
+    - 5:104
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-105.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-105.djvu"
+    :title:
+    - 5:105
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-106.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-106.djvu"
+    :title:
+    - 5:106
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-107.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-107.djvu"
+    :title:
+    - 5:107
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-108.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-108.djvu"
+    :title:
+    - 5:108
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-109.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-109.djvu"
+    :title:
+    - 5:109
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-110.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-110.djvu"
+    :title:
+    - 5:110
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-111.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-111.djvu"
+    :title:
+    - 5:111
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-112.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-112.djvu"
+    :title:
+    - 5:112
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-113.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-113.djvu"
+    :title:
+    - 5:113
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-114.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-114.djvu"
+    :title:
+    - 5:114
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-115.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-115.djvu"
+    :title:
+    - 5:115
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-116.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-116.djvu"
+    :title:
+    - 5:116
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-117.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-117.djvu"
+    :title:
+    - 5:117
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-118.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-118.djvu"
+    :title:
+    - 5:118
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-119.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-119.djvu"
+    :title:
+    - 5:119
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-120.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-120.djvu"
+    :title:
+    - 5:120
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-121.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-121.djvu"
+    :title:
+    - 5:121
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-122.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-122.djvu"
+    :title:
+    - 5:122
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-123.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-123.djvu"
+    :title:
+    - 5:123
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-124.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-124.djvu"
+    :title:
+    - 5:124
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-125.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-125.djvu"
+    :title:
+    - 5:125
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-126.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-126.djvu"
+    :title:
+    - 5:126
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-127.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-127.djvu"
+    :title:
+    - 5:127
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-128.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-128.djvu"
+    :title:
+    - 5:128
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-129.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-129.djvu"
+    :title:
+    - 5:129
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-130.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-130.djvu"
+    :title:
+    - 5:130
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-131.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-131.djvu"
+    :title:
+    - 5:131
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-132.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-132.djvu"
+    :title:
+    - 5:132
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-133.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-133.djvu"
+    :title:
+    - 5:133
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-134.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-134.djvu"
+    :title:
+    - 5:134
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-135.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-135.djvu"
+    :title:
+    - 5:135
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-136.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-136.djvu"
+    :title:
+    - 5:136
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-137.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-137.djvu"
+    :title:
+    - 5:137
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-138.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-138.djvu"
+    :title:
+    - 5:138
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-139.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-139.djvu"
+    :title:
+    - 5:139
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-140.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-140.djvu"
+    :title:
+    - 5:140
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-141.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-141.djvu"
+    :title:
+    - 5:141
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-142.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-142.djvu"
+    :title:
+    - 5:142
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-143.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-143.djvu"
+    :title:
+    - 5:143
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-144.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-144.djvu"
+    :title:
+    - "[5:144]"
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-145.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-145.djvu"
+    :title:
+    - 5:145
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-146.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-146.djvu"
+    :title:
+    - 5:146
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-147.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-147.djvu"
+    :title:
+    - 5:147
+    :replaces: replaces
+    :file_opts: {}
+  - :id: abe9721-5-148.djvu
+    :checksum: ''
+    :mime_type: image/tiff
+    :path: "/tmp/MS-METS/bhr9405/abe9721-5-148.djvu"
+    :title:
+    - "[5:148]"
+    :replaces: replaces
+    :file_opts: {}
+:source:
+  :title:
+  - Variations XML
+  :file: spec/fixtures/variations_xml/abe9721.xml

@@ -1,0 +1,123 @@
+---
+:identifier: identifier
+:replaces: replaces
+:source_metadata_identifier: BHR9405
+:viewing_direction: right-to-left
+:thumbnail_path: "/tmp/MS-METS/bhr9405/bhr9405-1-1.tif"
+:structure:
+  :nodes:
+  - :label: "[Title Page and Copyright Page]"
+    :nodes:
+    - :label: "[i]"
+      :proxy: bhr9405-1-1.tif
+    - :label: "[ii]"
+      :proxy: bhr9405-1-2.tif
+  - :label: "[Notes]"
+    :nodes:
+    - :label: "[iii]"
+      :proxy: bhr9405-1-3.tif
+    - :label: "[iv]"
+      :proxy: bhr9405-1-4.tif
+  - :label: "[Orchestration]"
+    :nodes:
+    - :label: "[v]"
+      :proxy: bhr9405-1-5.tif
+    - :label: "[vi]"
+      :proxy: bhr9405-1-6.tif
+  - :label: 'Fontane de Roma : Poema Sinfonico'
+    :nodes:
+    - :label: La fontana di Valle Giulia all'alba
+      :nodes:
+      - :label: '1'
+        :proxy: bhr9405-1-7.tif
+      - :label: '2'
+        :proxy: bhr9405-1-8.tif
+      - :label: '3'
+        :proxy: bhr9405-1-9.tif
+      - :label: '4'
+        :proxy: bhr9405-1-10.tif
+:files:
+- :id: bhr9405-1-1.tif
+  :checksum: FXJcA+AOLEWfKLZgr/g/Lw==
+  :mime_type: image/tiff
+  :path: "/tmp/MS-METS/bhr9405/bhr9405-1-1.tif"
+  :title:
+  - "[i]"
+  :replaces: replaces
+  :file_opts: {}
+- :id: bhr9405-1-2.tif
+  :checksum: o/mDr11aicH0dTlGK7yeNA==
+  :mime_type: image/tiff
+  :path: "/tmp/MS-METS/bhr9405/bhr9405-1-2.tif"
+  :title:
+  - "[ii]"
+  :replaces: replaces
+  :file_opts: {}
+- :id: bhr9405-1-3.tif
+  :checksum: grASE1rVo1Dh+XZw7HcQzw==
+  :mime_type: image/tiff
+  :path: "/tmp/MS-METS/bhr9405/bhr9405-1-3.tif"
+  :title:
+  - "[iii]"
+  :replaces: replaces
+  :file_opts: {}
+- :id: bhr9405-1-4.tif
+  :checksum: n4b9UqMsf+lXANkkCM9/hw==
+  :mime_type: image/tiff
+  :path: "/tmp/MS-METS/bhr9405/bhr9405-1-4.tif"
+  :title:
+  - "[iv]"
+  :replaces: replaces
+  :file_opts: {}
+- :id: bhr9405-1-5.tif
+  :checksum: ruFuWxuwMzf66fdIvoqbkg==
+  :mime_type: image/tiff
+  :path: "/tmp/MS-METS/bhr9405/bhr9405-1-5.tif"
+  :title:
+  - "[v]"
+  :replaces: replaces
+  :file_opts: {}
+- :id: bhr9405-1-6.tif
+  :checksum: HPW1qrX4MyWlYSZ3TDtGXA==
+  :mime_type: image/tiff
+  :path: "/tmp/MS-METS/bhr9405/bhr9405-1-6.tif"
+  :title:
+  - "[vi]"
+  :replaces: replaces
+  :file_opts: {}
+- :id: bhr9405-1-7.tif
+  :checksum: OcBMJjWQsheavWqDSHvx5Q==
+  :mime_type: image/tiff
+  :path: "/tmp/MS-METS/bhr9405/bhr9405-1-7.tif"
+  :title:
+  - '1'
+  :replaces: replaces
+  :file_opts: {}
+- :id: bhr9405-1-8.tif
+  :checksum: x68xNkVnDbojZn788OFDyg==
+  :mime_type: image/tiff
+  :path: "/tmp/MS-METS/bhr9405/bhr9405-1-8.tif"
+  :title:
+  - '2'
+  :replaces: replaces
+  :file_opts: {}
+- :id: bhr9405-1-9.tif
+  :checksum: "/BrnLNGlEQx59yEA+fe6dQ=="
+  :mime_type: image/tiff
+  :path: "/tmp/MS-METS/bhr9405/bhr9405-1-9.tif"
+  :title:
+  - '3'
+  :replaces: replaces
+  :file_opts: {}
+- :id: bhr9405-1-10.tif
+  :checksum: u7NBZSu1bN36Hdg4cfBhTg==
+  :mime_type: image/tiff
+  :path: "/tmp/MS-METS/bhr9405/bhr9405-1-10.tif"
+  :title:
+  - '4'
+  :replaces: replaces
+  :file_opts: {}
+:source:
+  :title:
+  - Variations XML
+  :file: spec/fixtures/variations_xml/bhr9405.xml
