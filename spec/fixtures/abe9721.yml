@@ -4,11 +4,11 @@
   :default:
     :state: final_review
     :viewing_direction: left-to-right
-    :rights_statement: http://rightsstatements.org/vocab/NKC/1.0/
-    :visibility: open
+    :visibility: authenticated
+    :rights_statement: http://rightsstatements.org/vocab/InC/1.0/
   :local:
     :source_metadata_identifier: ABE9721
-    :viewing_direction: left-to-right
+    :holding_location: https://libraries.indiana.edu/music
   :remote:
     title:
     - 'The facsimil[e] edition of the autograph of Fryderyk Chopin''s works : from

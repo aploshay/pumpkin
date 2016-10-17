@@ -34,10 +34,8 @@ class IngestYAMLJob < ActiveJob::Base
       if @yaml[:volumes].present?
         ingest_volumes(resource)
       else
-        ingest_files(resource: resource, files: @yaml[:files])
-        if @yaml[:structure].present?
-          resource.logical_order.order = map_fileids(@yaml[:structure])
-        end
+        ingest_files(resource: resource, files: @yaml[:files]) if @yaml[:files].present?
+        resource.logical_order.order = map_fileids(@yaml[:structure]) if @yaml[:structure].present?
         resource.save!
       end
     end
@@ -67,8 +65,8 @@ class IngestYAMLJob < ActiveJob::Base
         r.save!
         logger.info "Created ScannedResource: #{r.id}"
 
-        ingest_files(parent: parent, resource: r, files: volume[:files])
-        r.logical_order.order = map_fileids(volume[:structure])
+        ingest_files(parent: parent, resource: r, files: volume[:files]) if volume[:files].present?
+        r.logical_order.order = map_fileids(volume[:structure]) if volume[:structure].present?
         r.save!
 
         parent.ordered_members << r

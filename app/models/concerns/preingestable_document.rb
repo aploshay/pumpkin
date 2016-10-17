@@ -7,7 +7,11 @@ module PreingestableDocument
   }
 
   def attributes
-    { default: DEFAULT_ATTRIBUTES, local: local_attributes, remote: remote_attributes }
+    { default: default_attributes, local: local_attributes, remote: remote_attributes }
+  end
+
+  def default_attributes
+    DEFAULT_ATTRIBUTES
   end
 
   def local_attributes
@@ -19,11 +23,7 @@ module PreingestableDocument
   end
 
   def remote_attributes
-    remotes = {}
-    remote_data.attributes.each do |k, v|
-      remotes[k] = v.map(&:to_s)
-    end
-    remotes
+    remote_data.attribute_values
   end
 
   def source_metadata

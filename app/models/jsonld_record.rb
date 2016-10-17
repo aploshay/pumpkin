@@ -37,9 +37,37 @@ class JSONLDRecord
       begin
         Hash[
           cleaned_attributes.map do |k, _|
-            [k, proxy_record.get_values(k, literal: true)]
+            [k, proxy_record_value(k)]
           end
         ]
+      end
+  end
+
+  def proxy_record_value(attribute)
+    values = proxy_record.get_values(attribute, literal: true)
+    values = values.first if single_valued?(attribute)
+    values
+  end
+
+  def single_valued?(attribute)
+    proxy_record.class.properties[attribute.to_s].respond_to?(:multiple?) &&
+    !proxy_record.class.properties[attribute.to_s].multiple?
+  end
+
+  # FIXME: rename?
+  def attribute_values
+    @attribute_values ||=
+      begin
+        values = {}
+        attributes.each do |k, v|
+          case v
+          when ActiveTriples::Relation
+            values[k] = v.map(&:value)
+          when RDF::Literal
+            values[k] = v.value
+          end
+        end
+        values
       end
   end
 

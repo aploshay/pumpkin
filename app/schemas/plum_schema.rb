@@ -19,10 +19,14 @@ class PlumSchema < ActiveTriples::Schema
 
   # Generated from Context
   property :coverage, predicate: RDF::Vocab::DC11.coverage
+  property :date, predicate: RDF::Vocab::DC11.date
   property :format, predicate: RDF::Vocab::DC11.format
   property :source, predicate: RDF::Vocab::DC11.source
   property :extent, predicate: RDF::Vocab::DC.extent
+  property :issued, predicate: RDF::Vocab::DC.issued
   property :edition, predicate: RDF::URI("http://id.loc.gov/ontologies/bibframe/editionStatement")
+  property :media, predicate: RDF::Vocab::Bibframe.extent, multiple: false
+  property :series_title, predicate: RDF::URI("http://id.loc.gov/ontologies/bibframe/seriesStatement")
   property :call_number, predicate: PULTerms.call_number
   property :abridger, predicate: RDF::Vocab::MARCRelators.abr
   property :actor, predicate: RDF::Vocab::MARCRelators.act
@@ -93,7 +97,8 @@ class PlumSchema < ActiveTriples::Schema
   property :contestee_appellee, predicate: RDF::Vocab::MARCRelators.cte
   property :contractor, predicate: RDF::Vocab::MARCRelators.ctr
   property :copyright_claimant, predicate: RDF::Vocab::MARCRelators.cpc
-  property :copyright_holder, predicate: RDF::Vocab::MARCRelators.cph
+# FIXME: change ingest to multi-valued, remove multiple: false
+  property :copyright_holder, predicate: RDF::Vocab::MARCRelators.cph, multiple: false
   property :corrector, predicate: RDF::Vocab::MARCRelators.crr
   property :correspondent, predicate: RDF::Vocab::MARCRelators.crp
   property :costume_designer, predicate: RDF::Vocab::MARCRelators.cst
@@ -160,6 +165,8 @@ class PlumSchema < ActiveTriples::Schema
   property :laboratory, predicate: RDF::Vocab::MARCRelators.lbr
   property :laboratory_director, predicate: RDF::Vocab::MARCRelators.ldr
   property :landscape_architect, predicate: RDF::Vocab::MARCRelators.lsa
+  property :lccn_call_number, predicate: RDF::Vocab::Identifiers.lccn
+  property :local_call_number, predicate: RDF::Vocab::Identifiers.local
   property :lead, predicate: RDF::Vocab::MARCRelators.led
   property :lender, predicate: RDF::Vocab::MARCRelators.len
   property :libelant, predicate: RDF::Vocab::MARCRelators.lil
@@ -288,6 +295,7 @@ class PlumSchema < ActiveTriples::Schema
   property :writer_of_supplementary_textual_content, predicate: RDF::Vocab::MARCRelators.wst
   property :writer_of_introduction, predicate: RDF::Vocab::MARCRelators.win
   property :writer_of_preface, predicate: RDF::Vocab::MARCRelators.wpr
+  property :responsibility_note, predicate: ::RDF::Vocab::SKOS.note
 
   # All of the fields to display when looping through Plum's schema.
   # Ignore things like admin data (workflow note), title, description, etc, as

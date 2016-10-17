@@ -1,3 +1,4 @@
+/* FIXME: this should pull values from the rights yml */
 /* toggle rights note field based on which rights statement is selected */
 $(document).ready(function(){
     $('.rights-statement').change(rights_note_visibility);

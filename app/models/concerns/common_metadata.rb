@@ -76,8 +76,9 @@ module CommonMetadata
       }
     end
 
+    # FIXME: this is disabled for the moment; should ezid code be kept, or removed?
     def update_ezid
-      Ezid::Identifier.modify(identifier, ezid_metadata)
+      # Ezid::Identifier.modify(identifier, ezid_metadata)
     end
   end
 end

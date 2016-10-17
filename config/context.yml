@@ -3,13 +3,16 @@
 ---
 "@context":
   id: "@id"
-  bf: http://id.loc.gov/ontologies/bibframe/
   dc: http://purl.org/dc/elements/1.1/
   dcterms: http://purl.org/dc/terms/
+  bf: http://id.loc.gov/ontologies/bibframe/
+  loc: http://id.loc.gov/vocabulary/identifiers/
+  om: http://opaquenamespace.org/ns/mods/
   mrel: http://id.loc.gov/vocabulary/relators/
   pulterms: http://library.princeton.edu/terms/
   rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#
   rdfs: http://www.w3.org/2000/01/rdf-schema#
+  skos: http://www.w3.org/2004/02/skos/core#
   contributor:
     "@id": dc:contributor
   coverage:
@@ -38,16 +41,28 @@
     "@id": dc:subject
   type:
     "@id": dc:type
-  created:
+  date_created:
     "@id": dcterms:created
   extent:
     "@id": dcterms:extent
+  issued:
+    "@id": dcterms:issued
   modified:
     "@id": dcterms:modified
   title:
     "@id": dcterms:title
   edition:
     "@id": bf:editionStatement
+  media:
+    "@id": bf:extent
+  series_title:
+    "@id": bf:seriesStatement
+  lccn_call_number:
+    "@id": loc:lccn
+  local_call_number:
+    "@id": loc:local
+  sort_title:
+    "@id": om:titleForSort
   call_number:
     "@id": pulterms:call_number
   abridger:
@@ -580,3 +595,5 @@
     "@id": mrel:win
   writer_of_preface:
     "@id": mrel:wpr
+  responsibility_note:
+    "@id": skos:note
