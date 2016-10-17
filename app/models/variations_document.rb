@@ -1,3 +1,4 @@
+# rubocop:disable Metrics/ClassLength
 class VariationsDocument
   include PreingestableDocument
   FILE_PATTERN = '*.xml'
@@ -16,22 +17,130 @@ class VariationsDocument
     source_file.sub(/\.xml$/, '.yml')
   end
 
-  def source_metadata_identifier
-    @variations.xpath('//MediaObject/Label').first.content.to_s
+  def multi_volume?
+    items.size > 1
+  end
+
+  def source_metadata
+    nil
+  end
+
+  def remote_attributes
+    {}
+  end
+
+  def default_attributes
+    { state: state, viewing_direction: viewing_direction,
+      visibility: visibility, rights_statement: rights_statement }
+  end
+
+  def state
+    'final_review'
   end
 
   def viewing_direction
     'left-to-right'
   end
 
+  def visibility
+    if holding_status == 'Publicly available'
+      Hydra::AccessControls::AccessRight::VISIBILITY_TEXT_VALUE_PUBLIC
+    elsif holding_location == 'Personal Collection'
+      Hydra::AccessControls::AccessRight::VISIBILITY_TEXT_VALUE_PRIVATE
+    else
+      Hydra::AccessControls::AccessRight::VISIBILITY_TEXT_VALUE_AUTHENTICATED
+    end
+  end
+
+  # FIXME: write logic to select?
+  def rights_statement
+    'http://rightsstatements.org/vocab/InC/1.0/'
+  end
+
+  # FIXME: use series_title, media?
   def local_attributes
     { source_metadata_identifier: source_metadata_identifier,
-      viewing_direction: viewing_direction
+      title: title,
+      # series_title?
+      creator: creator,
+      publisher: publisher,
+      # media?
+      call_number: call_number,
+      holding_location: holding_location
     }
   end
 
-  def multi_volume?
-    items.size > 1
+  def source_metadata_identifier
+    @variations.xpath('//MediaObject/Label').first&.content.to_s
+  end
+
+  def title
+    @variations.xpath('//Container/DisplayTitle').first&.content.to_s +
+      " / " +
+      @variations.xpath('/ScoreAccessPage/Bibinfo/StmtResponsibility').first&.content.to_s
+  end
+
+  def series_title
+    @variations.xpath('//Container/SeriesTitles/SeriesTitle[1]').first&.content.to_s
+  end
+
+  def author
+    @variations.xpath('/ScoreAccessPage/Bibinfo/Author').first&.content.to_s
+  end
+  alias_method :composer, :author
+  alias_method :creator, :author
+
+  def published
+    @variations.xpath('//Container/PublicationPlace').first&.content.to_s +
+      ': ' +
+      @variations.xpath('//Container/Publisher').first&.content.to_s +
+      ', ' +
+      @variations.xpath('//Container/PublicationDate').first&.content.to_s
+  end
+  alias_method :produced, :published
+  alias_method :publisher, :published
+
+  def media
+    @variations.xpath("//Container/DocumentInfos/DocumentInfo[Type='Score']/Description").first&.content.to_s
+  end
+
+  def condition
+    @variations.xpath('//Container/Condition').first&.content.to_s
+  end
+
+  def call_number
+    @variations.xpath('//Container/PhysicalID/CallNumber').first&.content.to_s
+  end
+
+  def holding_location
+    case location
+    when 'IU Music Library'
+      'https://libraries.indiana.edu/music'
+    # FIXME: handle 'Personal Collection' case
+    # FIXME: abstract to loop through digital_locations?
+    else
+      ''
+    end
+  end
+
+  # OTHER METHODS
+
+  def location
+    @variations.xpath('//Container/PhysicalID/Location').first&.content.to_s
+  end
+
+  def html_page_status
+    @variations.xpath('/ScoreAccessPage/HtmlPageStatus').first&.content.to_s
+  end
+
+  # FIXME: [Domain='Item'] check does not work; also, do we want to allow Container? see abe
+  def copyright_owner
+    @variations.xpath("//Container/CopyrightDecls/CopyrightDecl[Domain='Item']/Owner").first&.content.to_s
+    @variations.xpath("//Container/CopyrightDecls/CopyrightDecl/Owner").first&.content.to_s
+  end
+
+  def holding_status
+    @variations.xpath('//Container/HoldingStatus').first&.content.to_s
   end
 
   private
@@ -91,3 +200,4 @@ class VariationsDocument
       array
     end
 end
+# rubocop:enable Metrics/ClassLength
