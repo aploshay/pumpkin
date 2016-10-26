@@ -4,7 +4,7 @@ describe PurlController do
   let(:user) { FactoryGirl.create(:user) }
   let(:scanned_resource) { FactoryGirl.create(:scanned_resource, user: user, title: ['Dummy Title'], state: 'complete', source_metadata_identifier: 'BHR9405') }
   let(:multi_volume_work) { FactoryGirl.create(:multi_volume_work, user: user, title: ['Dummy Title'], state: 'complete', source_metadata_identifier: 'ABE9721') }
-  let(:file_set) { FactoryGirl.create(:file_set, user: user, label: 'BHR9405-001-001') }
+  let(:file_set) { FactoryGirl.create(:file_set, user: user, label: 'BHR9405-1-0001') }
 
   describe "default" do
     let(:user) { FactoryGirl.create(:admin) }
@@ -28,7 +28,7 @@ describe PurlController do
         context "in json" do
           let(:format) { 'json' }
           it 'renders a json response' do
-            expect(response.body).to match target_path
+            expect(JSON.parse(response.body)['url']).to match target_path
           end
         end
       end
@@ -60,7 +60,7 @@ describe PurlController do
         let(:format) { 'json' }
         it "returns a 404 response" do
           expect(response.status).to eq(404)
-          expect(response).to render_template(file: "#{Rails.root}/public/404.html")
+          expect(JSON.parse(response.body)['error']).to eq 'not_found'
         end
       end
     end
@@ -74,7 +74,7 @@ describe PurlController do
       before(:each) do
         unmatched_id = scanned_resource.source_metadata_identifier
         scanned_resource.destroy!
-        get :default, id: unmatched_id
+        get :default, id: unmatched_id, format: format
       end
       include_examples "returns 404 responses"
     end
