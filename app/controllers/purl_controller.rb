@@ -10,7 +10,7 @@ class PurlController < ApplicationController
   def default
     begin
       set_object
-      realid = @object.id
+      realid = @solr_hit.id
     rescue
       render_404 && return
     end
@@ -24,17 +24,17 @@ class PurlController < ApplicationController
   private
 
     OBJECT_LOOKUPS = {
-      FileSet => { match_pattern: /^\w{3}\d{4}-\d{1}-\d{4}/, search_attribute: :label },
-      ScannedResource => { match_pattern: /^\w{3}\d{4}$/, search_attribute: :source_metadata_identifier },
-      MultiVolumeWork => { match_pattern: /^\w{3}\d{4}$/, search_attribute: :source_metadata_identifier }
+      FileSet => { match_pattern: /^\w{3}\d{4}-\d{1}-\d{4}/, search_attribute: :label_tesim },
+      ScannedResource => { match_pattern: /^\w{3}\d{4}$/, search_attribute: :source_metadata_identifier_tesim },
+      MultiVolumeWork => { match_pattern: /^\w{3}\d{4}$/, search_attribute: :source_metadata_identifier_tesim }
     }
     def set_object
       OBJECT_LOOKUPS.each do |klass, values|
         if params[:id].match values[:match_pattern]
-          @object = klass.where(values[:search_attribute] => params[:id]).first
+          @solr_hit = klass.search_with_conditions(values[:search_attribute] => params[:id]).first
+          @subfolder = klass.to_s.pluralize.underscore
         end
-        break if @object
+        break if @solr_hit
       end
-      @subfolder = @object.class.to_s.pluralize.underscore
     end
 end
