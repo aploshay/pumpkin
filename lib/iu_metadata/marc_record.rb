@@ -12,9 +12,14 @@ module IuMetadata
       {
         title: title,
         sort_title: sort_title,
+        series_title: series,
         creator: creator,
-        date_created: date,
-        publisher: publisher
+#FIXME: use date, or new/different method?
+        created: [date],
+        publisher: publisher,
+        publication_place: publication_place,
+        lccn_call_number: lccn_call_number,
+        local_call_number: local_call_number
       }
     end
 
@@ -127,6 +132,18 @@ module IuMetadata
 
     def publisher
       formatted_fields_as_array(['260', '264'], codes: ['b'])
+    end
+
+    def publication_place
+      ['FIXME: GET ACTUAL VALUES']
+    end
+
+    def lccn_call_number
+      ['FIXME: GET ACTUAL VALUES']
+    end
+
+    def local_call_number
+      ['FIXME: GET ACTUAL VALUES']
     end
 
     def rights

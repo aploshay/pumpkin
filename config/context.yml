@@ -3,9 +3,10 @@
 ---
 "@context":
   id: "@id"
-  bf: http://id.loc.gov/ontologies/bibframe/
   dc: http://purl.org/dc/elements/1.1/
   dcterms: http://purl.org/dc/terms/
+  bf: http://id.loc.gov/ontologies/bibframe/
+  loc: http://id.loc.gov/vocabulary/identifiers/
   mrel: http://id.loc.gov/vocabulary/relators/
   pulterms: http://library.princeton.edu/terms/
   rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#
@@ -38,6 +39,7 @@
     "@id": dc:subject
   type:
     "@id": dc:type
+  #FIXME: remove?
   created:
     "@id": dcterms:created
   extent:
@@ -48,6 +50,12 @@
     "@id": dcterms:title
   edition:
     "@id": bf:editionStatement
+  series_title:
+    "@id": bf:seriesStatement
+  lccn_call_number:
+    "@id": loc:lccn
+  local_call_number:
+    "@id": loc:local
   call_number:
     "@id": pulterms:call_number
   abridger:

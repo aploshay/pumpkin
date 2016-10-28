@@ -53,9 +53,13 @@ describe IuMetadata::MarcRecord do
       expected = {
         title: ['The weeping angels'],
         sort_title: 'weeping angels',
+        series_title: ['FIXME WITH REAL VALUE'],
         creator: ['Moffat, Steven.'],
-        date_created: '1899',
-        publisher: ['A. Martínez,']
+        created: ['1899'],
+        publisher: ['A. Martínez,'],
+        publication_place: 'FIXME WITH REAL VALUE',
+        lccn_call_number: 'FIXME WITH REAL VALUE',
+        local_call_number: 'FIXME WITH REAL VALUE',
       }
       expect(record1.attributes).to eq expected
     end
@@ -116,9 +120,40 @@ describe IuMetadata::MarcRecord do
     end
   end
 
+  describe '#series_title' do
+    it 'gets it' do
+      expect(record1.series_title).to eq ['FIXME']
+    end
+  end
+
   describe '#contents' do
     it 'gets the 505s as one squashed string' do
       expect(record1.contents).to eq 'Contents / foo.'
     end
   end
+
+  describe '#publisher' do
+    it 'gets it' do
+      expect(record1.publisher).to eq ['A. Martínez,']
+    end
+  end
+
+  describe '#publication_place' do
+    it 'gets it' do
+      expect(record1.publication_place).to eq 'FIXME'
+    end
+  end
+
+  describe '#lccn_call_number' do
+    it 'gets it' do
+      expect(record1.lccn_call_number).to eq 'FIXME'
+    end
+  end
+
+  describe '#local_call_number' do
+    it 'gets it' do
+      expect(record1.local_call_number).to eq 'FIXME'
+    end
+  end
+
 end

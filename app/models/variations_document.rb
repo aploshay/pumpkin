@@ -52,6 +52,7 @@ class VariationsDocument
   # FIXME: use series_title, media?
   def local_attributes
     { source_metadata_identifier: source_metadata_identifier,
+      identifier: purl,
       holding_location: holding_location,
       # FIXME add extent
       # extent: extent,
@@ -82,6 +83,10 @@ class VariationsDocument
   end
 
   # OTHER METHODS
+
+  def purl
+    'http://purl.dlib.indiana.edu/iudl/variations/score/' + source_metadata_identifier
+  end
 
   def location
     @variations.xpath('//Container/PhysicalID/Location').first&.content.to_s

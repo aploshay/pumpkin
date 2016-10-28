@@ -19,10 +19,14 @@ class PlumSchema < ActiveTriples::Schema
 
   # Generated from Context
   property :coverage, predicate: RDF::Vocab::DC11.coverage
+  property :date, predicate: RDF::Vocab::DC11.date
   property :format, predicate: RDF::Vocab::DC11.format
   property :source, predicate: RDF::Vocab::DC11.source
+  #FIXME: drop?
+  property :created, predicate: RDF::Vocab::DC.created
   property :extent, predicate: RDF::Vocab::DC.extent
   property :edition, predicate: RDF::URI("http://id.loc.gov/ontologies/bibframe/editionStatement")
+  property :series_title, predicate: RDF::URI("http://id.loc.gov/ontologies/bibframe/seriesStatement")
   property :call_number, predicate: PULTerms.call_number
   property :abridger, predicate: RDF::Vocab::MARCRelators.abr
   property :actor, predicate: RDF::Vocab::MARCRelators.act
@@ -160,6 +164,8 @@ class PlumSchema < ActiveTriples::Schema
   property :laboratory, predicate: RDF::Vocab::MARCRelators.lbr
   property :laboratory_director, predicate: RDF::Vocab::MARCRelators.ldr
   property :landscape_architect, predicate: RDF::Vocab::MARCRelators.lsa
+  property :lccn_call_number, predicate: RDF::Vocab::Identifiers.lccn
+  property :local_call_number, predicate: RDF::Vocab::Identifiers.local
   property :lead, predicate: RDF::Vocab::MARCRelators.led
   property :lender, predicate: RDF::Vocab::MARCRelators.len
   property :libelant, predicate: RDF::Vocab::MARCRelators.lil
