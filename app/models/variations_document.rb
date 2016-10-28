@@ -21,14 +21,6 @@ class VariationsDocument
     items.size > 1
   end
 
-  def source_metadata
-    nil
-  end
-
-  def remote_attributes
-    {}
-  end
-
   def default_attributes
     { state: state, viewing_direction: viewing_direction,
       visibility: visibility, rights_statement: rights_statement }
@@ -60,13 +52,11 @@ class VariationsDocument
   # FIXME: use series_title, media?
   def local_attributes
     { source_metadata_identifier: source_metadata_identifier,
-      title: title,
-      # series_title?
-      creator: creator,
-      publisher: publisher,
-      # media?
-      call_number: call_number,
-      holding_location: holding_location
+      holding_location: holding_location,
+      # FIXME add extent
+      # extent: extent,
+      # FIXME: do something with copyright_owner...
+      # copyright_owner: copyright_owner
     }
   end
 
@@ -74,42 +64,8 @@ class VariationsDocument
     @variations.xpath('//MediaObject/Label').first&.content.to_s
   end
 
-  def title
-    @variations.xpath('//Container/DisplayTitle').first&.content.to_s +
-      " / " +
-      @variations.xpath('/ScoreAccessPage/Bibinfo/StmtResponsibility').first&.content.to_s
-  end
-
-  def series_title
-    @variations.xpath('//Container/SeriesTitles/SeriesTitle[1]').first&.content.to_s
-  end
-
-  def author
-    @variations.xpath('/ScoreAccessPage/Bibinfo/Author').first&.content.to_s
-  end
-  alias_method :composer, :author
-  alias_method :creator, :author
-
-  def published
-    @variations.xpath('//Container/PublicationPlace').first&.content.to_s +
-      ': ' +
-      @variations.xpath('//Container/Publisher').first&.content.to_s +
-      ', ' +
-      @variations.xpath('//Container/PublicationDate').first&.content.to_s
-  end
-  alias_method :produced, :published
-  alias_method :publisher, :published
-
-  def media
+  def extent
     @variations.xpath("//Container/DocumentInfos/DocumentInfo[Type='Score']/Description").first&.content.to_s
-  end
-
-  def condition
-    @variations.xpath('//Container/Condition').first&.content.to_s
-  end
-
-  def call_number
-    @variations.xpath('//Container/PhysicalID/CallNumber').first&.content.to_s
   end
 
   def holding_location
@@ -117,6 +73,8 @@ class VariationsDocument
     when 'IU Music Library'
       'https://libraries.indiana.edu/music'
     # FIXME: handle 'Personal Collection' case
+    when 'Personal Collection'
+      ''
     # FIXME: abstract to loop through digital_locations?
     else
       ''
@@ -129,6 +87,8 @@ class VariationsDocument
     @variations.xpath('//Container/PhysicalID/Location').first&.content.to_s
   end
 
+  # FIXME: pull into related url?
+  # FIXME: email librarians about location
   def html_page_status
     @variations.xpath('/ScoreAccessPage/HtmlPageStatus').first&.content.to_s
   end

@@ -5,13 +5,7 @@ RSpec.describe VariationsDocument do
   metadata_fields = {
     visibility: 'open',
     rights_statement: 'http://rightsstatements.org/vocab/InC/1.0/',
-    title: 'Fontane di Roma ; poema sinfonico per orchestra / di Ottorino Respighi',
-    series_title: '',
-    composer: 'Respighi, Ottorino, 1879-1936',
-    publisher: 'Milano ; New York: G. Ricordi, 1947, c1918',
-    media: '1 score (64 p.) ; 32 cm',
-    condition: '',
-    call_number: 'M1002.R434 F6 R5 1947',
+    extent: '1 score (64 p.) ; 32 cm',
     holding_location: 'https://libraries.indiana.edu/music'
   }
   subject { described_class.new variations_file }
