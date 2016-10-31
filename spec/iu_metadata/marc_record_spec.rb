@@ -1,6 +1,6 @@
-require 'spec_helper'
+require 'rails_helper'
 
-describe IuMetadata::MarcRecord do
+RSpec.describe IuMetadata::MarcRecord do
   let(:fixture_path) { File.expand_path('../../fixtures', __FILE__) }
   let(:record1) {
     pth = File.join(fixture_path, '1160682.mrx')
@@ -55,7 +55,7 @@ describe IuMetadata::MarcRecord do
         sort_title: 'weeping angels',
         series_title: ['FIXME WITH REAL VALUE'],
         creator: ['Moffat, Steven.'],
-        created: ['1899'],
+        date_created: ['1899'],
         publisher: ['A. Martínez,'],
         publication_place: 'FIXME WITH REAL VALUE',
         lccn_call_number: 'FIXME WITH REAL VALUE',

@@ -15,7 +15,7 @@ module IuMetadata
         series_title: series,
         creator: creator,
 #FIXME: use date, or new/different method?
-        created: [date],
+        date_created: [date],
         publisher: publisher,
         publication_place: publication_place,
         lccn_call_number: lccn_call_number,
@@ -131,19 +131,19 @@ module IuMetadata
     end
 
     def publisher
-      formatted_fields_as_array(['260', '264'], codes: ['b'])
+      formatted_fields_as_array(['260', '264'], codes: ['b']).map { |s| s.sub /\s*,\s*$/, '' }
     end
 
     def publication_place
-      ['FIXME: GET ACTUAL VALUES']
+      formatted_fields_as_array(['260', '264'], codes: ['a']).map { |s| s.sub /\s*:\s*$/, '' }
     end
 
     def lccn_call_number
-      ['FIXME: GET ACTUAL VALUES']
+      formatted_fields_as_array(['090'])
     end
 
     def local_call_number
-      ['FIXME: GET ACTUAL VALUES']
+      formatted_fields_as_array(['099'])
     end
 
     def rights
