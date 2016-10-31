@@ -5,7 +5,7 @@ RSpec.describe VariationsDocument do
   metadata_fields = {
     visibility: 'open',
     rights_statement: 'http://rightsstatements.org/vocab/InC/1.0/',
-    extent: '1 score (64 p.) ; 32 cm',
+    media: '1 score (64 p.) ; 32 cm',
     holding_location: 'https://libraries.indiana.edu/music'
   }
   subject { described_class.new variations_file }

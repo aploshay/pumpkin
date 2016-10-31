@@ -22,10 +22,9 @@ class PlumSchema < ActiveTriples::Schema
   property :date, predicate: RDF::Vocab::DC11.date
   property :format, predicate: RDF::Vocab::DC11.format
   property :source, predicate: RDF::Vocab::DC11.source
-  #FIXME: drop?
-  property :created, predicate: RDF::Vocab::DC.created
   property :extent, predicate: RDF::Vocab::DC.extent
   property :edition, predicate: RDF::URI("http://id.loc.gov/ontologies/bibframe/editionStatement")
+  property :media, predicate: RDF::Vocab::Bibframe.extent, multiple: false
   property :series_title, predicate: RDF::URI("http://id.loc.gov/ontologies/bibframe/seriesStatement")
   property :call_number, predicate: PULTerms.call_number
   property :abridger, predicate: RDF::Vocab::MARCRelators.abr

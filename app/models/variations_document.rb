@@ -49,13 +49,11 @@ class VariationsDocument
     'http://rightsstatements.org/vocab/InC/1.0/'
   end
 
-  # FIXME: use series_title, media?
   def local_attributes
     { source_metadata_identifier: source_metadata_identifier,
       identifier: purl,
       holding_location: holding_location,
-      # FIXME add extent
-      # extent: extent,
+      media: media,
       # FIXME: do something with copyright_owner...
       # copyright_owner: copyright_owner
     }
@@ -65,7 +63,7 @@ class VariationsDocument
     @variations.xpath('//MediaObject/Label').first&.content.to_s
   end
 
-  def extent
+  def media
     @variations.xpath("//Container/DocumentInfos/DocumentInfo[Type='Score']/Description").first&.content.to_s
   end
 

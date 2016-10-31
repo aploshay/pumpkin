@@ -39,9 +39,6 @@
     "@id": dc:subject
   type:
     "@id": dc:type
-  #FIXME: remove?
-  created:
-    "@id": dcterms:created
   extent:
     "@id": dcterms:extent
   modified:
@@ -50,6 +47,8 @@
     "@id": dcterms:title
   edition:
     "@id": bf:editionStatement
+  media:
+    "@id": bf:extent
   series_title:
     "@id": bf:seriesStatement
   lccn_call_number:
