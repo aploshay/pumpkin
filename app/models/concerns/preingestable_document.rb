@@ -23,11 +23,7 @@ module PreingestableDocument
   end
 
   def remote_attributes
-    remotes = {}
-    remote_data.attributes.each do |k, v|
-      remotes[k] = v.map(&:to_s)
-    end
-    remotes
+    remote_data.attribute_values
   end
 
   def source_metadata

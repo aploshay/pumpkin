@@ -43,6 +43,19 @@ class JSONLDRecord
       end
   end
 
+  # FIXME: rename?
+  def attribute_values
+    @attribute_values ||=
+      begin
+        values = {}
+        attributes.each do |k, v|
+          values[k] = v.map(&:value)
+          values[k] = values[k].first if proxy_record.send(k).class != ActiveTriples::Relation
+        end
+        values
+      end
+  end
+
   def appropriate_fields
     outbound_predicates = outbound_graph.predicates.to_a
     result = proxy_record.class.properties.select do |_key, value|

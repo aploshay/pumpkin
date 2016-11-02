@@ -51,11 +51,10 @@ class VariationsDocument
 
   def local_attributes
     { source_metadata_identifier: source_metadata_identifier,
-      identifier: purl,
+      identifier: identifier,
       holding_location: holding_location,
       media: media,
-      # FIXME: do something with copyright_owner...
-      # copyright_owner: copyright_owner
+      copyright_holder: copyright_holder
     }
   end
 
@@ -81,6 +80,9 @@ class VariationsDocument
   end
 
   # OTHER METHODS
+  def identifier
+    purl
+  end
 
   def purl
     'http://purl.dlib.indiana.edu/iudl/variations/score/' + source_metadata_identifier
@@ -97,8 +99,8 @@ class VariationsDocument
   end
 
   # FIXME: [Domain='Item'] check does not work; also, do we want to allow Container? see abe
-  def copyright_owner
-    @variations.xpath("//Container/CopyrightDecls/CopyrightDecl[Domain='Item']/Owner").first&.content.to_s
+  def copyright_holder
+    # @variations.xpath("//Container/CopyrightDecls/CopyrightDecl[Domain='Item']/Owner").first&.content.to_s
     @variations.xpath("//Container/CopyrightDecls/CopyrightDecl/Owner").first&.content.to_s
   end
 

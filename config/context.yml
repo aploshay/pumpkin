@@ -7,6 +7,7 @@
   dcterms: http://purl.org/dc/terms/
   bf: http://id.loc.gov/ontologies/bibframe/
   loc: http://id.loc.gov/vocabulary/identifiers/
+  om: http://opaquenamespace.org/ns/mods/
   mrel: http://id.loc.gov/vocabulary/relators/
   pulterms: http://library.princeton.edu/terms/
   rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#
@@ -39,8 +40,12 @@
     "@id": dc:subject
   type:
     "@id": dc:type
+  date_created:
+    "@id": dcterms:created
   extent:
     "@id": dcterms:extent
+  issued:
+    "@id": dcterms:issued
   modified:
     "@id": dcterms:modified
   title:
@@ -55,6 +60,8 @@
     "@id": loc:lccn
   local_call_number:
     "@id": loc:local
+  sort_title:
+    "@id": om:titleForSort
   call_number:
     "@id": pulterms:call_number
   abridger:

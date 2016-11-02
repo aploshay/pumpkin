@@ -4,6 +4,10 @@ class FileSet < ActiveFedora::Base
   Hydra::Derivatives.output_file_service = PersistPairtreeDerivatives
 
   property :replaces, predicate: ::RDF::Vocab::DC.replaces, multiple: false
+  # FIXME: drop replaces, add source_metadata_identifier?
+  # property :source_metadata_identifier, predicate: ::PULTerms.metadata_id, multiple: false do |index|
+    # index.as :stored_searchable, :symbol
+  # end
   apply_schema IIIFPageSchema, ActiveFedora::SchemaIndexingStrategy.new(
     ActiveFedora::Indexers::GlobalIndexer.new([:stored_searchable, :symbol])
   )

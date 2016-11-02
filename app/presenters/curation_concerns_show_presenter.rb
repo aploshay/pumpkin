@@ -29,7 +29,8 @@ class CurationConcernsShowPresenter < CurationConcerns::WorkShowPresenter
     Array.wrap(solr_document.language).map { |code| LanguageService.label(code) }
   end
 
-  def date_created
+  # FIXME: don't assume date_value?
+  def date_created_foo
     DateValue.new(solr_document.date_created).to_a
   end
 

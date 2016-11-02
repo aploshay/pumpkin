@@ -23,6 +23,7 @@ class PlumSchema < ActiveTriples::Schema
   property :format, predicate: RDF::Vocab::DC11.format
   property :source, predicate: RDF::Vocab::DC11.source
   property :extent, predicate: RDF::Vocab::DC.extent
+  property :issued, predicate: RDF::Vocab::DC.issued
   property :edition, predicate: RDF::URI("http://id.loc.gov/ontologies/bibframe/editionStatement")
   property :media, predicate: RDF::Vocab::Bibframe.extent, multiple: false
   property :series_title, predicate: RDF::URI("http://id.loc.gov/ontologies/bibframe/seriesStatement")
@@ -96,7 +97,8 @@ class PlumSchema < ActiveTriples::Schema
   property :contestee_appellee, predicate: RDF::Vocab::MARCRelators.cte
   property :contractor, predicate: RDF::Vocab::MARCRelators.ctr
   property :copyright_claimant, predicate: RDF::Vocab::MARCRelators.cpc
-  property :copyright_holder, predicate: RDF::Vocab::MARCRelators.cph
+# FIXME: change ingest to multi-valued, remove multiple: false
+  property :copyright_holder, predicate: RDF::Vocab::MARCRelators.cph, multiple: false
   property :corrector, predicate: RDF::Vocab::MARCRelators.crr
   property :correspondent, predicate: RDF::Vocab::MARCRelators.crp
   property :costume_designer, predicate: RDF::Vocab::MARCRelators.cst

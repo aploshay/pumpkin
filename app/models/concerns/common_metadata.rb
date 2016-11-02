@@ -77,7 +77,7 @@ module CommonMetadata
     end
 
     def update_ezid
-      Ezid::Identifier.modify(identifier, ezid_metadata)
+      # Ezid::Identifier.modify(identifier, ezid_metadata)
     end
   end
 end
