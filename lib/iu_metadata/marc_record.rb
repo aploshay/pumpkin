@@ -146,7 +146,7 @@ module IuMetadata
     end
 
     def issued
-      formatted_subfields_as_array(['260', '264'], codes: ['c'])
+      formatted_subfields_as_array(['260'], codes: ['c'])
     end
 
     def lccn_call_number
