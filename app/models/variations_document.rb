@@ -79,6 +79,11 @@ class VariationsDocument
     end
   end
 
+  def collection_slugs(collections = [])
+    collections << 'libmus_pc' if location == 'Personal Collection'
+    collections
+  end
+
   # OTHER METHODS
   def identifier
     purl

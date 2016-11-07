@@ -35,6 +35,10 @@ module PreingestableDocument
     multi_volume? ? MultiVolumeWork : ScannedResource
   end
 
+  def collection_slugs(collections = [])
+    collections
+  end
+
   private
 
     def remote_data
