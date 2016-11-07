@@ -2,6 +2,9 @@ FactoryGirl.define do
   # The ::FileSet model is defined in spec/internal/app/models by the
   # curation_concerns:install generator.
   factory :file_set, class: FileSet do
+    # source_metadata_identifier "1234567"
+    # identifier "http://purl.org/1234567"
+
     transient do
       user { FactoryGirl.create(:user) }
       content nil
