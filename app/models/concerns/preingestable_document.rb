@@ -23,7 +23,7 @@ module PreingestableDocument
   end
 
   def remote_attributes
-    remote_data.attribute_values
+    remote_data.send :cleaned_attributes
   end
 
   def source_metadata
