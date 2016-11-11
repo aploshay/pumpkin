@@ -76,6 +76,11 @@ module IuMetadata
       creator
     end
 
+    # FIXME: change to alias calls?
+    def date_created
+      date
+    end
+
     def date
       date_from_008
     end
