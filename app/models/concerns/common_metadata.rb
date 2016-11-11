@@ -67,6 +67,7 @@ module CommonMetadata
       end
     end
 
+    # FIXME: change Princeton text, or remove entirely?
     def ezid_metadata
       {
         dc_publisher: 'Princeton University Library',
@@ -76,6 +77,7 @@ module CommonMetadata
       }
     end
 
+    # FIXME: retain, disable, or drop?
     def update_ezid
       Ezid::Identifier.modify(identifier, ezid_metadata)
     end

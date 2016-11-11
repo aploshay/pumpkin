@@ -1,3 +1,5 @@
+# multi_volume?, collections
+# source_file must be defined
 module PreingestableDocument
   DEFAULT_ATTRIBUTES = {
     state: 'final_review',
@@ -6,28 +8,40 @@ module PreingestableDocument
     visibility: Hydra::AccessControls::AccessRight::VISIBILITY_TEXT_VALUE_PUBLIC
   }
 
+  def yaml_file
+    source_file.sub(/\..{3,4}$/, '.yml')
+  end
+
   def attributes
-    { default: default_attributes, local: local_attributes, remote: remote_attributes }
+    attribute_sources.map { |k, v| [k, v.raw_attributes] }.to_h
+  end
+
+  def attribute_sources
+    { default: default_data,
+      local: local_data,
+      remote: remote_data
+    }
   end
 
   def default_attributes
     DEFAULT_ATTRIBUTES
   end
 
-  def local_attributes
-    { identifier: identifier,
-      replaces: replaces,
-      source_metadata_identifier: source_metadata_identifier,
-      viewing_direction: viewing_direction
-    }
+  def default_id
+    local_id
   end
 
-  def remote_attributes
-    remotes = {}
-    remote_data.attributes.each do |k, v|
-      remotes[k] = v.map(&:to_s)
-    end
-    remotes
+  def local_attributes
+    return {} unless local&.attributes
+    local.attributes
+  end
+
+  def local_id
+    'file://' + source_file
+  end
+
+  def local
+    nil
   end
 
   def source_metadata
@@ -36,7 +50,7 @@ module PreingestableDocument
   end
 
   def resource_class
-    multi_volume? ? MultiVolumeWork : ScannedResource
+    @resource_class ||= multi_volume? ? MultiVolumeWork : ScannedResource
   end
 
   private
@@ -49,7 +63,15 @@ module PreingestableDocument
       if RemoteRecord.bibdata?(source_metadata_identifier)
         JSONLDRecord::Factory.new(resource_class)
       else
-        RemoteRecord
+        RemoteRecord::Null
       end
+    end
+
+    def local_data
+      @local_data ||= IuMetadata::AttributeIngester.new(local_id, local_attributes, factory: resource_class)
+    end
+
+    def default_data
+      @default_data ||= IuMetadata::AttributeIngester.new(default_id, default_attributes, factory: resource_class)
     end
 end

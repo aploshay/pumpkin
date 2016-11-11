@@ -18,8 +18,24 @@
     title:
     - 'The facsimil[e] edition of the autograph of Fryderyk Chopin''s works : from
       the Collection Fryderyk Chopin Society in Warsaw.'
+    sort_title: 'facsimil[e] edition of the autograph of Fryderyk Chopin''s works
+      : from the Collection Fryderyk Chopin Society in Warsaw.'
+    creator:
+    - Chopin, Frédéric, 1810-1849.
+    date_created:
+    - '1990'
     publisher:
-    - Fryderyk Chopin Society ; Green Peace Publishers,
+    - Fryderyk Chopin Society
+    - Green Peace Publishers
+    publication_place:
+    - Warsaw
+    - Tokyo
+    issued:
+    - c1990-
+    published: 'Warsaw : Fryderyk Chopin Society ; Tokyo : Green Peace Publishers,
+      c1990-'
+    lccn_call_number:
+    - ML96.4 .C5
 :source_metadata: |-
   <record xmlns="http://www.loc.gov/MARC21/slim">
     <!-- Length implementation at offset 22 should hold a digit. Assuming 0 -->

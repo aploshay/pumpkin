@@ -1,15 +1,15 @@
 require 'rails_helper'
 
-RSpec.describe VariationsDocument do
+RSpec.describe IuMetadata::VariationsRecord do
   let(:record1_path) { Rails.root.join("spec", "fixtures", "variations_xml", "bhr9405.xml") }
-  let(:record1) { described_class.new(record1_path) }
+  let(:record1) { described_class.new(record1_path, open(record1_path)) }
   let(:record1_xml) { File.open(record1_path) { |f| Nokogiri::XML(f) } }
   let(:file1) { record1_xml.xpath('//FileInfos/FileInfo').first }
 
   describe "parses attributes" do
     { source_metadata_identifier: 'BHR9405',
       identifier: 'http://purl.dlib.indiana.edu/iudl/variations/score/BHR9405',
-      viewing_direction: 'left-to-right',
+      viewing_hint: 'paged',
       location: 'IU Music Library',
       holding_location: 'https://libraries.indiana.edu/music',
       physical_description: '1 score (64 p.) ; 32 cm',
