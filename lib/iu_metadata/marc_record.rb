@@ -12,9 +12,16 @@ module IuMetadata
       {
         title: title,
         sort_title: sort_title,
+        responsibility_note: responsibility_note,
+        series: series,
         creator: creator,
-        date_created: date,
-        publisher: publisher
+        date_created: date_created,
+        publisher: publisher,
+        publication_place: publication_place,
+        issued: issued,
+        published: published,
+        lccn_call_number: lccn_call_number,
+        local_call_number: local_call_number
       }
     end
 
@@ -108,6 +115,9 @@ module IuMetadata
       parts
     end
 
+    def issued
+    end
+
     def language_codes
       codes = []
       from_fixed = data['008'].value[35, 3]
@@ -126,8 +136,20 @@ module IuMetadata
       codes.uniq
     end
 
+    def lccn_call_number
+    end
+
+    def local_call_number
+    end
+
     def provenance
       formatted_fields_as_array(['541', '561'])
+    end
+
+    def publication_place
+    end
+
+    def published
     end
 
     def publisher

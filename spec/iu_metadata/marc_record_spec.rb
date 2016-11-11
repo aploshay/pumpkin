@@ -17,11 +17,16 @@ describe IuMetadata::MarcRecord do
   record1_atts =
      {  title: ['The weeping angels'],
         sort_title: 'weeping angels',
+        series: 'foo',
         creator: ['Moffat, Steven.'],
         date_created: '1899',
-        publisher: ['A. Martínez,']
+        publisher: ['A. Martínez,'],
+        publication_place: 'foo',
+        issued: 'foo',
+        published: 'foo', 
+        lccn_call_number: 'foo',
+        local_call_number: 'foo'
      }
-
 
   describe 'id' do
     it 'stores its id' do
