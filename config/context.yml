@@ -6,11 +6,21 @@
   bf: http://id.loc.gov/ontologies/bibframe/
   dc: http://purl.org/dc/elements/1.1/
   dcterms: http://purl.org/dc/terms/
+  iiif: http://iiif.io/api/presentation/2#
+  loc: http://id.loc.gov/vocabulary/identifiers/
+  om: http://opaquenamespace.org/ns/mods/
   mods: http://www.loc.gov/mods/rdf/v1#
   mrel: http://id.loc.gov/vocabulary/relators/
   pulterms: http://library.princeton.edu/terms/
   rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#
   rdfs: http://www.w3.org/2000/01/rdf-schema#
+  skos: http://www.w3.org/2004/02/skos/core#
+  edition:
+    "@id": bf:editionStatement
+  holding_location:
+    "@id": bf:heldBy
+  series:
+    "@id": bf:seriesStatement
   contributor:
     "@id": dc:contributor
   coverage:
@@ -23,8 +33,6 @@
     "@id": dc:description
   format:
     "@id": dc:format
-  identifier:
-    "@id": dc:identifier
   language:
     "@id": dc:language
   publisher:
@@ -39,22 +47,28 @@
     "@id": dc:subject
   type:
     "@id": dc:type
-  created:
+  date_created:
     "@id": dcterms:created
   extent:
     "@id": dcterms:extent
+  identifier:
+    "@id": dcterms:identifier
+  issued:
+    "@id": dcterms:issued
   modified:
     "@id": dcterms:modified
+  replaces:
+    "@id": dcterms:replaces
   title:
     "@id": dcterms:title
-  edition:
-    "@id": bf:editionStatement
-  holding_location:
-    "@id": bf:heldBy
-  series:
-    "@id": bf:seriesStatement
-  call_number:
-    "@id": pulterms:call_number
+  viewing_direction:
+    "@id": iiif:viewingDirection
+  lccn_call_number:
+    "@id": loc:lccn
+  local_call_number:
+    "@id": loc:local
+  sort_title:
+    "@id": om:titleForSort
   media:
     "@id": mods:physicalExtent
   abridger:
@@ -587,3 +601,11 @@
     "@id": mrel:win
   writer_of_preface:
     "@id": mrel:wpr
+  call_number:
+    "@id": pulterms:call_number
+  published:
+    "@id": pulterms:published
+  source_metadata_identifier:
+    "@id": pulterms:metadata_id
+  responsibility_note:
+    "@id": skos:note
