@@ -25,6 +25,7 @@ module PreingestableDocument
   def remote_attributes
     remotes = {}
     remote_data.attributes.each do |k, v|
+      # FIXME: add catch for singular
       remotes[k] = v.map(&:to_s)
     end
     remotes
