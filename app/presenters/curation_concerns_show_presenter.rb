@@ -33,6 +33,10 @@ class CurationConcernsShowPresenter < CurationConcerns::WorkShowPresenter
     Array.wrap(title).first
   end
 
+  def full_title
+    [title, responsibility_note].map { |t| Array.wrap(t).first }.select { |t| !t.blank? }.join(' / ')
+  end
+
   def start_canvas
     Array.wrap(solr_document.start_canvas).first
   end
