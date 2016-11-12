@@ -37,7 +37,12 @@ class JSONLDRecord
       begin
         Hash[
           cleaned_attributes.map do |k, _|
-            [k, proxy_record.get_values(k, literal: true)]
+            # FIXME: replace with proper logic
+            if k.to_s.in? ['sort_title', 'published']
+              [k, proxy_record.get_values(k, literal: true).first]
+            else
+              [k, proxy_record.get_values(k, literal: true)]
+            end
           end
         ]
       end
