@@ -8,21 +8,10 @@ module IuMetadata
 
     attr_reader :id, :source
 
+    ATTRIBUTES = [:title, :sort_title, :responsibility_note, :series, :creator, :date_created, :publisher, :publication_place, :issued, :published, :lccn_call_number, :local_call_number]
+
     def attributes
-      {
-        title: title,
-        sort_title: sort_title,
-        responsibility_note: responsibility_note,
-        series: series,
-        creator: creator,
-        date_created: date_created,
-        publisher: publisher,
-        publication_place: publication_place,
-        issued: issued,
-        published: published,
-        lccn_call_number: lccn_call_number,
-        local_call_number: local_call_number
-      }
+      Hash[ATTRIBUTES.map { |att| [att, self.send(att)] }]
     end
 
     def abstract

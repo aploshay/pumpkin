@@ -45,13 +45,10 @@ class VariationsDocument
     super.merge(visibility: visibility, rights_statement: rights_statement)
   end
 
+  ATTRIBUTES = [:source_metadata_identifier, :identifier, :holding_location, :media, :copyright_holder]
+
   def local_attributes
-    { source_metadata_identifier: source_metadata_identifier,
-      identifier: identifier,
-      holding_location: holding_location,
-      media: media,
-      copyright_holder: copyright_holder
-    }
+    Hash[ATTRIBUTES.map { |att| [att, self.send(att)] }]
   end
 
   def identifier
