@@ -20,22 +20,21 @@
     creator:
     - Chopin, Frédéric, 1810-1849.
     publisher:
-    - Green Peace Publishers
     - Fryderyk Chopin Society
+    - Green Peace Publishers
     date_created:
     - '1990'
-    sort_title:
-    - 'facsimil[e] edition of the autograph of Fryderyk Chopin''s works : from the
-      Collection Fryderyk Chopin Society in Warsaw.'
+    sort_title: 'facsimil[e] edition of the autograph of Fryderyk Chopin''s works
+      : from the Collection Fryderyk Chopin Society in Warsaw.'
     issued:
     - c1990-
     lccn_call_number:
     - ML96.4 .C5
     publication_place:
-    - Warsaw
     - Tokyo
-    published:
-    - 'Warsaw : Fryderyk Chopin Society ; Tokyo : Green Peace Publishers, c1990-'
+    - Warsaw
+    published: 'Warsaw : Fryderyk Chopin Society ; Tokyo : Green Peace Publishers,
+      c1990-'
 :source_metadata: |-
   <record xmlns="http://www.loc.gov/MARC21/slim">
     <!-- Length implementation at offset 22 should hold a digit. Assuming 0 -->

@@ -26,7 +26,11 @@ module PreingestableDocument
     remotes = {}
     remote_data.attributes.each do |k, v|
       # FIXME: add catch for singular
-      remotes[k] = v.map(&:to_s)
+      if v.class == ActiveTriples::Relation
+        remotes[k] = v.map(&:value)
+      else
+        remotes[k] = v.value
+      end
     end
     remotes
   end
