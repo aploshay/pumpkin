@@ -14,12 +14,15 @@ module IuMetadata
     def attributes
       Hash[ATTRIBUTES.map { |att| [att, send(att)] }]
     end
+
     def source_metadata_identifier
       @variations.xpath('//MediaObject/Label').first.content.to_s
     end
+
     def identifier
       'http://purl.dlib.indiana.edu/iudl/variations/score/' + source_metadata_identifier
     end
+
     def holding_location
       case location
       when 'IU Music Library'
@@ -31,9 +34,11 @@ module IuMetadata
         ''
       end
     end
+
     def media
       @variations.xpath("//Container/DocumentInfos/DocumentInfo[Type='Score']/Description").first&.content.to_s
     end
+
     def copyright_holder
       @variations.xpath("//Container/CopyrightDecls/CopyrightDecl/Owner").map(&:content)
     end
@@ -43,6 +48,7 @@ module IuMetadata
     def default_attributes
       Hash[DEFAULT_ATTRIBUTES.map { |att| [att, send(att)] }]
     end
+
     def visibility
       if holding_status == 'Publicly available'
         Hydra::AccessControls::AccessRight::VISIBILITY_TEXT_VALUE_PUBLIC
@@ -52,25 +58,29 @@ module IuMetadata
         Hydra::AccessControls::AccessRight::VISIBILITY_TEXT_VALUE_AUTHENTICATED
       end
     end
+
     def rights_statement
       'http://rightsstatements.org/vocab/InC/1.0/'
     end
+
     def viewing_hint
       'paged'
     end
 
     # ingest metadata
     attr_reader :files, :structure, :volumes, :thumbnail_path
+
     def multi_volume?
       items.size > 1
     end
-  
+
     def collections
       return ['libmus_personal'] if location == 'Personal Collection'
       []
     end
-  
+
     private
+
       def holding_status
         @variations.xpath('//Container/HoldingStatus').first&.content.to_s
       end
@@ -78,11 +88,11 @@ module IuMetadata
       def location
         @variations.xpath('//Container/PhysicalID/Location').first&.content.to_s
       end
-  
+
       def items
         @items ||= @variations.xpath('/ScoreAccessPage/RecordSet/Container/Structure/Item')
       end
-  
+
       def parse
         @files = []
         @variations.xpath('//FileInfos/FileInfo').each do |file|
@@ -92,11 +102,11 @@ module IuMetadata
           file_hash[:path] = '/tmp/ingest/' + file_hash[:id]
           file_hash[:file_opts] = {}
           file_hash[:attributes] = file_attributes(file, file_hash)
-  
+
           @files << file_hash
         end
         @thumbnail_path = @files.first[:path]
-  
+
         # assign structure hash and update files array with titles
         @file_index = 0
         if multi_volume?
@@ -114,7 +124,7 @@ module IuMetadata
           @structure = { nodes: structure_to_array(items.first) }
         end
       end
-  
+
       # builds structure hash AND update file list with titles
       def structure_to_array(xml_node)
         array = []
@@ -126,7 +136,7 @@ module IuMetadata
           elsif child.name == 'Chunk'
             c[:label] = child['label']
             c[:proxy] = @files[@file_index][:id]
-  
+
             @files[@file_index][:attributes][:title] = [child['label']]
             @file_index += 1
           end
@@ -134,7 +144,7 @@ module IuMetadata
         end
         array
       end
-  
+
       def file_attributes(_file_node, file_hash)
         att_hash = {}
         att_hash[:title] = ['TITLE MISSING'] # replaced later

@@ -27,7 +27,7 @@ module IuMetadata
     end
 
     # no default metadata
-    
+
     # ingest metadata
     def volumes
       volumes = []
@@ -40,17 +40,17 @@ module IuMetadata
       end
       volumes
     end
-  
+
     def files
       add_file_attributes super
     end
-  
+
     def collections
       Array.wrap(collection_slugs)
     end
-  
+
     private
-  
+
       def add_file_attributes(file_hash_array)
         file_hash_array.each do |f|
           f[:file_opts] = file_opts(f)
@@ -60,7 +60,7 @@ module IuMetadata
         end
         file_hash_array
       end
-  
+
       def files_for_volume(volume_id)
         add_file_attributes super
       end

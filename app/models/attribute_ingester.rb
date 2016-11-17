@@ -111,6 +111,6 @@ class AttributeIngester
     # used by abbreviated pipeline, only
     def outbound_predicates_to_properties
       @outbound_predicates_to_properties ||=
-        outbound_statements.predicates.map { |p| [p, factory.properties.detect { |_key, value| value.predicate == p }&.first] }.to_h.merge({ VISIBILITY => 'visibility'})
+        outbound_statements.predicates.map { |p| [p, factory.properties.detect { |_key, value| value.predicate == p }&.first] }.to_h.merge(VISIBILITY => 'visibility')
     end
 end

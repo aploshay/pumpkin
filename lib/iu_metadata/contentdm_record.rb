@@ -1,16 +1,14 @@
 module IuMetadata
   class ContentdmRecord
-
     def initialize(id, source)
       @id = id
-      @source= source
+      @source = source
       @cdm = Nokogiri::XML(source)
       parse
     end
     attr_reader :id, :source
-  
-  
-    # standard metadata  
+
+    # standard metadata
     ATTRIBUTES = [:source_metadata_identifier, :viewing_direction]
 
     def attributes
@@ -29,21 +27,21 @@ module IuMetadata
 
     # ingest metadata
     attr_reader :files, :structure, :volumes, :thumbnail_path
-  
+
     def multi_volume?
       items.size > 1
     end
-  
+
     def collections
       []
     end
-  
+
     private
-  
+
       def items
         @items ||= @cdm.xpath('/metadata/record')
       end
-  
+
       def parse
         @files = []
         @cdm.xpath('//record/structure/page').each do |file|
@@ -73,7 +71,7 @@ module IuMetadata
           @files << file_hash
         end
         @thumbnail_path = @files.first[:thumbnail]
-  
+
         # assign structure hash and update files array with titles
         @file_index = 0
         if multi_volume?
@@ -92,7 +90,7 @@ module IuMetadata
           @structure = { nodes: record_to_structure(items.first) }
         end
       end
-  
+
       def record_to_structure_array(record)
         array = []
         record.xpath('structure/page').each do |page|
@@ -104,7 +102,7 @@ module IuMetadata
         end
         array
       end
-  
+
       # Fix file paths for IUPUI exports
       #
       # @param [String] path given from IUPUI contentDM export

@@ -48,7 +48,7 @@ module PreingestableDocument
     return unless remote_data.source
     remote_data.source.dup.try(:force_encoding, 'utf-8')
   end
-  
+
   def resource_class
     @resource_class ||= multi_volume? ? MultiVolumeWork : ScannedResource
   end
