@@ -68,10 +68,10 @@ module PreingestableDocument
     end
 
     def local_data
-      @local_data ||= AttributeIngester.new(local_id, local_attributes, factory: resource_class)
+      @local_data ||= IuMetadata::AttributeIngester.new(local_id, local_attributes, factory: resource_class)
     end
 
     def default_data
-      @default_data ||= AttributeIngester.new(default_id, default_attributes, factory: resource_class)
+      @default_data ||= IuMetadata::AttributeIngester.new(default_id, default_attributes, factory: resource_class)
     end
 end

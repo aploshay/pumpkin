@@ -23,7 +23,7 @@ class JSONLDRecord
     @marc = marc
     @mods = mods
     @factory = factory
-    @attribute_ingester = AttributeIngester.new(marc.id, marc.attributes, factory: factory)
+    @attribute_ingester = IuMetadata::AttributeIngester.new(marc.id, marc.attributes, factory: factory)
   end
 
   def source
