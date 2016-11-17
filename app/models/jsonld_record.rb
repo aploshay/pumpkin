@@ -17,13 +17,13 @@ class JSONLDRecord
 
   class MissingRemoteRecordError < StandardError; end
 
-  attr_reader :bib_id, :marc, :mods, :factory, :attribute_sanitizer
+  attr_reader :bib_id, :marc, :mods, :factory, :attribute_ingester
   def initialize(bib_id, marc, mods, factory: ScannedResource)
     @bib_id = bib_id
     @marc = marc
     @mods = mods
     @factory = factory
-    @attribute_sanitizer = AttributeSanitizer.new(marc.id, marc.attributes, factory: factory)
+    @attribute_ingester = AttributeSanitizer.new(marc.id, marc.attributes, factory: factory)
   end
 
   def source
@@ -32,6 +32,6 @@ class JSONLDRecord
 
   def_delegator :@marc, :source, :marc_source
   def_delegator :@mods, :source, :mods_source
-  def_delegator :@attribute_sanitizer, :attributes, :attributes
-  def_delegator :@attribute_sanitizer, :raw_attributes, :raw_attributes
+  def_delegator :@attribute_ingester, :attributes, :attributes
+  def_delegator :@attribute_ingester, :raw_attributes, :raw_attributes
 end

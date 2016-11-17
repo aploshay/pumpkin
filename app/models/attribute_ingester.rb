@@ -1,4 +1,4 @@
-class AttributeSanitizer
+class AttributeIngester
   def initialize(source_id, source_attributes, factory: ScannedResource, context: CONTEXT)
     @source_id = source_id
     @source_attributes = source_attributes
