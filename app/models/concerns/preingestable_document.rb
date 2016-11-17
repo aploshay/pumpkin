@@ -10,6 +10,12 @@ module PreingestableDocument
     { default: default_attributes, local: local_attributes, remote: remote_attributes }
   end
 
+# START NEW
+  def attribute_sources
+  end
+
+# END NEW
+
   def default_attributes
     DEFAULT_ATTRIBUTES
   end
