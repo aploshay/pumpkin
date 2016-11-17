@@ -11,17 +11,13 @@ module PreingestableDocument
     source_file.sub(/\..{3,4}$/, '.yml')
   end
 
-  def id
-    'file://' + source_file
-  end
-
   def attributes
     attribute_sources.map { |k, v| [k, v.raw_attributes] }.to_h
   end
 
   def attribute_sources
-    { default: AttributeIngester.new(id, default_attributes, factory: resource_class),
-      local: AttributeIngester.new(id, local_attributes, factory: resource_class),
+    { default: default_data,
+      local: local_data,
       remote: remote_data
     }
   end
@@ -34,25 +30,11 @@ module PreingestableDocument
     self.class.const_get(:LOCAL_ATTRIBUTES).map { |att| [att, send(att)] }.to_h
   end
 
-  def remote_attributes
-    remotes = {}
-    remote_data.attributes.each do |k, v|
-      if v.class.in? [Array, ActiveTriples::Relation]
-        remotes[k] = v.map(&:value)
-      else
-        remotes[k] = v.value
-      end
-    end
-    # remotes
-    # FIXME: choose whether to use attributes above, or raw_attributes below
-    remote_data.raw_attributes
-  end
-
   def source_metadata
     return unless remote_data.source
     remote_data.source.dup.try(:force_encoding, 'utf-8')
   end
-
+  
   def resource_class
     multi_volume? ? MultiVolumeWork : ScannedResource
   end
@@ -69,5 +51,13 @@ module PreingestableDocument
       else
         RemoteRecord::Null
       end
+    end
+
+    def local_data
+      @local_data ||= AttributeIngester.new(id, local_attributes, factory: resource_class)
+    end
+
+    def default_data
+      @default_data ||= AttributeIngester.new(id, default_attributes, factory: resource_class)
     end
 end
