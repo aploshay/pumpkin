@@ -9,11 +9,6 @@ class PreingestableMETS
   end
   attr_reader :source_file, :source_title, :local
 
-  def local_attributes
-    local.attributes
-  end
-
-  delegate :id, to: :local
   delegate :source_metadata_identifier, to: :local
   delegate :multi_volume?, :collections, to: :local
   delegate :files, :structure, :volumes, :thumbnail_path, to: :local

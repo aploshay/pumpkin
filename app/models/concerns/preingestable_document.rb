@@ -1,4 +1,4 @@
-# multi_volume?, id must be defined
+# multi_volume?, collections
 # source_file must be defined
 module PreingestableDocument
   DEFAULT_ATTRIBUTES = {

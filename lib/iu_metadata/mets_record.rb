@@ -6,7 +6,7 @@ module IuMetadata
       @mets = Nokogiri::XML(source)
     end
 
-    attr_reader :id, :source, :mets
+    attr_reader :id, :source
 
     # local metadata
     ATTRIBUTES = [:identifier, :replaces, :source_metadata_identifier, :viewing_direction]
