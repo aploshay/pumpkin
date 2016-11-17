@@ -1,4 +1,5 @@
 # multi_volume?, id must be defined
+# source_file must be defined
 module PreingestableDocument
   DEFAULT_ATTRIBUTES = {
     state: 'final_review',
@@ -26,8 +27,21 @@ module PreingestableDocument
     DEFAULT_ATTRIBUTES
   end
 
+  def default_id
+    local_id
+  end
+
   def local_attributes
-    self.class.const_get(:LOCAL_ATTRIBUTES).map { |att| [att, send(att)] }.to_h
+    return {} unless local&.attributes
+    local.attributes
+  end
+
+  def local_id
+    'file://' + source_file
+  end
+
+  def local
+    nil
   end
 
   def source_metadata
@@ -36,7 +50,7 @@ module PreingestableDocument
   end
   
   def resource_class
-    multi_volume? ? MultiVolumeWork : ScannedResource
+    @resource_class ||= multi_volume? ? MultiVolumeWork : ScannedResource
   end
 
   private
@@ -54,10 +68,10 @@ module PreingestableDocument
     end
 
     def local_data
-      @local_data ||= AttributeIngester.new(id, local_attributes, factory: resource_class)
+      @local_data ||= AttributeIngester.new(local_id, local_attributes, factory: resource_class)
     end
 
     def default_data
-      @default_data ||= AttributeIngester.new(id, default_attributes, factory: resource_class)
+      @default_data ||= AttributeIngester.new(default_id, default_attributes, factory: resource_class)
     end
 end
