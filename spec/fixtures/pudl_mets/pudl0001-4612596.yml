@@ -2,15 +2,15 @@
 :resource: ScannedResource
 :attributes:
   :default:
-    :state: final_review
-    :viewing_direction: left-to-right
-    :rights_statement: http://rightsstatements.org/vocab/NKC/1.0/
-    :visibility: open
+    state: final_review
+    viewing_direction: left-to-right
+    rights_statement: http://rightsstatements.org/vocab/NKC/1.0/
+    visibility: open
   :local:
-    :identifier: ark:/88435/5m60qr98h
-    :replaces: pudl0001/4612596
-    :source_metadata_identifier: bhr9405
-    :viewing_direction: left-to-right
+    identifier: ark:/88435/5m60qr98h
+    replaces: pudl0001/4612596
+    source_metadata_identifier: bhr9405
+    viewing_direction: left-to-right
   :remote:
     title:
     - Fontane di Roma ; poema sinfonico per orchestra

@@ -1,3 +1,4 @@
+# multi_volume?, id must be defined
 module PreingestableDocument
   DEFAULT_ATTRIBUTES = {
     state: 'final_review',
@@ -6,26 +7,31 @@ module PreingestableDocument
     visibility: Hydra::AccessControls::AccessRight::VISIBILITY_TEXT_VALUE_PUBLIC
   }
 
+  def yaml_file
+    source_file.sub(/\..{3,4}$/, '.yml')
+  end
+
+  def id
+    'file://' + source_file
+  end
+
   def attributes
-    { default: default_attributes, local: local_attributes, remote: remote_attributes }
+    attribute_sources.map { |k, v| [k, v.raw_attributes] }.to_h
   end
 
-# START NEW
   def attribute_sources
+    { default: AttributeIngester.new(id, default_attributes, factory: resource_class),
+      local: AttributeIngester.new(id, local_attributes, factory: resource_class),
+      remote: remote_data
+    }
   end
-
-# END NEW
 
   def default_attributes
     DEFAULT_ATTRIBUTES
   end
 
   def local_attributes
-    { identifier: identifier,
-      replaces: replaces,
-      source_metadata_identifier: source_metadata_identifier,
-      viewing_direction: viewing_direction
-    }
+    self.class.const_get(:LOCAL_ATTRIBUTES).map { |att| [att, send(att)] }.to_h
   end
 
   def remote_attributes
@@ -61,7 +67,7 @@ module PreingestableDocument
       if RemoteRecord.bibdata?(source_metadata_identifier)
         JSONLDRecord::Factory.new(resource_class)
       else
-        RemoteRecord
+        RemoteRecord::Null
       end
     end
 end

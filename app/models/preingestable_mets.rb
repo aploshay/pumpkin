@@ -6,9 +6,7 @@ class PreingestableMETS < METSDocument
     ['METS XML']
   end
 
-  def yaml_file
-    source_file.sub(/\.mets$/, '.yml')
-  end
+  LOCAL_ATTRIBUTES = [:identifier, :replaces, :source_metadata_identifier, :viewing_direction]
 
   def volumes
     volumes = []

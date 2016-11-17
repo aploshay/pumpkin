@@ -12,31 +12,21 @@ class ContentdmExport
   attr_reader :source_file, :source_title
   attr_reader :files, :structure, :volumes, :thumbnail_path
 
-  def yaml_file
-    source_file.sub(/\.xml$/, '.yml')
+  def attribute_sources
+    result = super
+    result.delete(:remote)
+    result
   end
 
   def source_metadata_identifier
     @cdm.xpath('/metadata/record/isPartOf').first.content.to_s
   end
 
-  def remote_attributes
-    {}
-  end
-
-  def source_metadata
-    nil
-  end
-
   def viewing_direction
     'left-to-right'
   end
 
-  def local_attributes
-    { source_metadata_identifier: source_metadata_identifier,
-      viewing_direction: viewing_direction
-    }
-  end
+  LOCAL_ATTRIBUTES = [:source_metadata_identifier, :viewing_direction]
 
   def multi_volume?
     items.size > 1

@@ -13,16 +13,16 @@ class VariationsDocument
   attr_reader :source_file, :source_title
   attr_reader :files, :structure, :volumes, :thumbnail_path
 
-  def yaml_file
-    source_file.sub(/\.xml$/, '.yml')
-  end
-
   def source_metadata_identifier
     @variations.xpath('//MediaObject/Label').first.content.to_s
   end
 
   def viewing_direction
     'left-to-right'
+  end
+
+  def viewing_hint
+    'paged'
   end
 
   def location
@@ -42,14 +42,10 @@ class VariationsDocument
   end
 
   def default_attributes
-    super.merge(visibility: visibility, rights_statement: rights_statement)
+    super.merge(visibility: visibility, rights_statement: rights_statement, viewing_hint: viewing_hint)
   end
 
-  ATTRIBUTES = [:source_metadata_identifier, :identifier, :holding_location, :media, :copyright_holder]
-
-  def local_attributes
-    Hash[ATTRIBUTES.map { |att| [att, send(att)] }]
-  end
+  LOCAL_ATTRIBUTES = [:source_metadata_identifier, :identifier, :holding_location, :media, :copyright_holder]
 
   def identifier
     'http://purl.dlib.indiana.edu/iudl/variations/score/' + source_metadata_identifier

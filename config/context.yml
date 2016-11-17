@@ -6,7 +6,9 @@
   bf: http://id.loc.gov/ontologies/bibframe/
   dc: http://purl.org/dc/elements/1.1/
   dcterms: http://purl.org/dc/terms/
+  edm: http://www.europeana.eu/schemas/edm/
   iiif: http://iiif.io/api/presentation/2#
+  f3access: http://fedora.info/definitions/1/0/access/ObjState#
   loc: http://id.loc.gov/vocabulary/identifiers/
   om: http://opaquenamespace.org/ns/mods/
   mods: http://www.loc.gov/mods/rdf/v1#
@@ -61,8 +63,12 @@
     "@id": dcterms:replaces
   title:
     "@id": dcterms:title
+  rights_statement:
+    "@id": edm:rights
   viewing_direction:
     "@id": iiif:viewingDirection
+  state:
+    "@id": f3access:objState
   lccn_call_number:
     "@id": loc:lccn
   local_call_number:
@@ -607,5 +613,7 @@
     "@id": pulterms:published
   source_metadata_identifier:
     "@id": pulterms:metadata_id
+  visibility:
+    "@id": pulterms:visibility
   responsibility_note:
     "@id": skos:note

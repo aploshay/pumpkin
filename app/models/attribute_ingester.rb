@@ -96,7 +96,7 @@ class AttributeIngester
 
     # used by both pipelines
     def singular_fields
-      @singular_fields ||= factory.properties.select { |_att, config| config[:multiple] == false }.keys
+      @singular_fields ||= factory.properties.select { |_att, config| config[:multiple] == false }.keys + ['visibility']
     end
 
     # used by full pipeline, only
@@ -106,9 +106,11 @@ class AttributeIngester
       end
     end
 
+    VISIBILITY = RDF::URI.new('http://library.princeton.edu/terms/visibility')
+
     # used by abbreviated pipeline, only
     def outbound_predicates_to_properties
       @outbound_predicates_to_properties ||=
-        outbound_statements.predicates.map { |p| [p, factory.properties.detect { |_key, value| value.predicate == p }&.first] }.to_h
+        outbound_statements.predicates.map { |p| [p, factory.properties.detect { |_key, value| value.predicate == p }&.first] }.to_h.merge({ VISIBILITY => 'visibility'})
     end
 end
