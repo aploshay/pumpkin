@@ -2,17 +2,15 @@
 :resource: ScannedResource
 :attributes:
   :default:
-    :state: final_review
-    :viewing_direction: left-to-right
-    :rights_statement: http://rightsstatements.org/vocab/InC/1.0/
-    :visibility: open
-    :viewing_hint: paged
+    state: final_review
+    viewing_direction: left-to-right
+    rights_statement: http://rightsstatements.org/vocab/InC/1.0/
+    visibility: open
   :local:
-    :source_metadata_identifier: BHR9405
-    :identifier: http://purl.dlib.indiana.edu/iudl/variations/score/BHR9405
-    :holding_location: https://libraries.indiana.edu/music
-    :physical_description: 1 score (64 p.) ; 32 cm
-    :copyright_holder:
+    source_metadata_identifier: BHR9405
+    holding_location: https://libraries.indiana.edu/music
+    physical_description: 1 score (64 p.) ; 32 cm
+    copyright_holder:
     - G. Ricordi & Co.
   :remote:
     title:

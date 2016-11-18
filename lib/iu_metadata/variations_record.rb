@@ -10,17 +10,13 @@ module IuMetadata
     attr_reader :id, :source
 
     # standard metadata
-    ATTRIBUTES = [:source_metadata_identifier, :identifier, :holding_location, :media, :copyright_holder]
+    ATTRIBUTES = [:source_metadata_identifier, :holding_location, :media, :copyright_holder]
     def attributes
       Hash[ATTRIBUTES.map { |att| [att, send(att)] }]
     end
 
     def source_metadata_identifier
       @variations.xpath('//MediaObject/Label').first.content.to_s
-    end
-
-    def identifier
-      'http://purl.dlib.indiana.edu/iudl/variations/score/' + source_metadata_identifier
     end
 
     def holding_location
@@ -96,14 +92,7 @@ module IuMetadata
       def parse
         @files = []
         @variations.xpath('//FileInfos/FileInfo').each do |file|
-          file_hash = {}
-          file_hash[:id] = file.xpath('FileName').first&.content.to_s
-          file_hash[:mime_type] = 'image/tiff'
-          file_hash[:path] = '/tmp/ingest/' + file_hash[:id]
-          file_hash[:file_opts] = {}
-          file_hash[:attributes] = file_attributes(file, file_hash)
-
-          @files << file_hash
+          @files << file_hash(file)
         end
         @thumbnail_path = @files.first[:path]
 
@@ -143,6 +132,22 @@ module IuMetadata
           array << c
         end
         array
+      end
+
+      def file_hash(file_node)
+        values_hash = {}
+        values_hash[:id] = filename(file_node)
+        values_hash[:mime_type] = 'image/tiff'
+        values_hash[:path] = '/tmp/ingest/' + values_hash[:id]
+        values_hash[:file_opts] = {}
+        values_hash[:attributes] = file_attributes(file_node, values_hash.dup)
+        values_hash
+      end
+  
+      def filename(file_node)
+        normalized = file_node.xpath('FileName').first&.content.to_s.downcase.sub(/\.\w{3,4}/, '')
+        root, volume, page = normalized.split('-')
+        "#{root}-#{volume}-#{page.rjust(4, '0')}.tif"
       end
 
       def file_attributes(_file_node, file_hash)

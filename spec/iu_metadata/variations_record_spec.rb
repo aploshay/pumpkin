@@ -8,7 +8,6 @@ RSpec.describe IuMetadata::VariationsRecord do
 
   describe "parses attributes" do
     { source_metadata_identifier: 'BHR9405',
-      identifier: 'http://purl.dlib.indiana.edu/iudl/variations/score/BHR9405',
       viewing_hint: 'paged',
       location: 'IU Music Library',
       holding_location: 'https://libraries.indiana.edu/music',
