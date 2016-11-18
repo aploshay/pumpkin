@@ -10,7 +10,7 @@ module IuMetadata
     attr_reader :id, :source
 
     # standard metadata
-    ATTRIBUTES = [:source_metadata_identifier, :holding_location, :media, :copyright_holder]
+    ATTRIBUTES = [:source_metadata_identifier, :holding_location, :physical_description, :copyright_holder]
     def attributes
       Hash[ATTRIBUTES.map { |att| [att, send(att)] }]
     end
@@ -31,7 +31,7 @@ module IuMetadata
       end
     end
 
-    def media
+    def physical_description
       @variations.xpath("//Container/DocumentInfos/DocumentInfo[Type='Score']/Description").first&.content.to_s
     end
 
@@ -147,7 +147,7 @@ module IuMetadata
       def filename(file_node)
         normalized = file_node.xpath('FileName').first&.content.to_s.downcase.sub(/\.\w{3,4}/, '')
         root, volume, page = normalized.split('-')
-        "#{root}-#{volume}-#{page.rjust(4, '0')}.tif"
+        "#{root}-#{volume.to_i}-#{page.rjust(4, '0')}.tif"
       end
 
       def file_attributes(_file_node, file_hash)

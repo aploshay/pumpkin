@@ -29,7 +29,7 @@ RSpec.describe IuMetadata::VariationsRecord do
     let(:raw_filename) { file1.xpath('FileName').first&.content.to_s }
     let(:normalized_filename) { record1.send(:filename, file1) }
     it "normalizes volume, pagenum components" do
-      expect(raw_filename).to match(/[a-z]{3}\d{4}-\d{1}-\d{1}/)
+      expect(raw_filename).to match(/[a-z]{3}\d{4}-\d{2}-\d{1}/)
       expect(normalized_filename).to match(/[a-z]{3}\d{4}-\d{1}-\d{4}/)
     end
     it "replaces the filename extension" do

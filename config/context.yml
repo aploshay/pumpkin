@@ -75,7 +75,7 @@
     "@id": loc:local
   sort_title:
     "@id": om:titleForSort
-  media:
+  physical_description:
     "@id": mods:physicalExtent
   abridger:
     "@id": mrel:abr
