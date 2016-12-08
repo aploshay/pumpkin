@@ -1,3 +1,7 @@
+# TODO:
+# test ingest
+# change files from folder based to individually based
+# refactor forced attribute (state) passing?
 class PreingestJob < ActiveJob::Base
   queue_as :preingest
 
