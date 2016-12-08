@@ -4,18 +4,19 @@ class IngestYAMLJob < ActiveJob::Base
 
   # @param [String] yaml_file Filename of a YAML file to ingest
   # @param [String] user User to ingest as
-  def perform(yaml_file, user)
+  def perform(yaml_file)
     logger.info "Ingesting YAML #{yaml_file}"
     @yaml_file = yaml_file
     @yaml = File.open(yaml_file) { |f| Psych.load(f) }
-    @user = user
+    @user = User.find_by_user_key(@yaml[:user])
+    logger.info "Ingesting as: #{@user.user_key}"
     ingest
   end
 
   private
 
     def ingest
-      resource = (@yaml[:volumes].present? ? MultiVolumeWork : ScannedResource).new
+      resource = @yaml[:resource].new
       if @yaml[:attributes].present?
         @yaml[:attributes].each { |_set_name, attributes| resource.attributes = attributes }
       end

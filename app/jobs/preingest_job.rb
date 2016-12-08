@@ -4,10 +4,11 @@ class PreingestJob < ActiveJob::Base
   # @param [Class] document_class Class of preingestable document wrapper
   # @param [String] preingest_file Filename of a preingest file to preingest
   # @param [String] user User to ingest as
-  def perform(document_class, preingest_file, user)
+  def perform(document_class, preingest_file, user, state)
     logger.info "Preingesting #{document_class} #{preingest_file}"
     @document = document_class.new preingest_file
     @user = user
+    @state = state
 
     preingest
   end
@@ -16,8 +17,12 @@ class PreingestJob < ActiveJob::Base
 
     def preingest
       yaml_hash = {}
-      yaml_hash[:resource] = @document.resource_class.to_s
+      yaml_hash[:resource] = @document.resource_class
+      yaml_hash[:user] = @user.user_key
       yaml_hash[:attributes] = @document.attributes
+      if @state
+        yaml_hash[:attributes][:default]['state'] = @state
+      end
       yaml_hash[:source_metadata] = @document.source_metadata
       yaml_hash[:thumbnail_path] = @document.thumbnail_path
       yaml_hash[:collections] = @document.collections

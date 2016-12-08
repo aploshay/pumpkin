@@ -1,8 +1,9 @@
 ---
-:resource: MultiVolumeWork
+:resource: !ruby/class 'MultiVolumeWork'
+:user: aploshay
 :attributes:
   :default:
-    state: final_review
+    state: ploshay_style
     viewing_direction: left-to-right
     rights_statement: http://rightsstatements.org/vocab/InC/1.0/
     visibility: authenticated
