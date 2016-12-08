@@ -1,6 +1,6 @@
 require 'rails_helper'
 
-RSpec.describe "curation_concerns/base/_attributes.html.erb" do
+RSpec.describe "curation_concerns/base/_attributes_for_editors.html.erb" do
   let(:creator) { 'Bilbo' }
   let(:date_created) { "2015-09-08" }
   let(:rights_statement) { "http://rightsstatements.org/vocab/NKC/1.0/" }
@@ -40,8 +40,8 @@ RSpec.describe "curation_concerns/base/_attributes.html.erb" do
     expect(rendered).to have_content 'Baggins'
   end
 
-  it "does not display the metadata source id" do
-    expect(rendered).not_to have_content '8675309'
+  it "displays the metadata source id" do
+    expect(rendered).to have_content '8675309'
   end
 
   it "displays the label for the rights URI" do
@@ -61,7 +61,6 @@ RSpec.describe "curation_concerns/base/_attributes.html.erb" do
     it "displays workflow note" do
       expect(rendered).to have_content "Workflow note"
       expect(rendered).to have_content "First"
-      # FIXME: add state
     end
   end
 
@@ -70,7 +69,6 @@ RSpec.describe "curation_concerns/base/_attributes.html.erb" do
     it "doesn't display workflow note" do
       expect(rendered).not_to have_content "Workflow note"
       expect(rendered).not_to have_content "First"
-      # FIXME: add state
     end
   end
 

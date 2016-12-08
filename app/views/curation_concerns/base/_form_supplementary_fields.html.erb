@@ -1,4 +1,4 @@
-<%= render "attributes_for_editors", presenter: @presenter %>
+<%= render("attributes_for_editors", presenter: @presenter) if @presenter %>
 
 <%= render "form_files_and_links", curation_concern: curation_concern, f: f %>
 
