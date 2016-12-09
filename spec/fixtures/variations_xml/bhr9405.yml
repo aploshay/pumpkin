@@ -3,7 +3,7 @@
 :user: aploshay
 :attributes:
   :default:
-    state: ploshay_style
+    state: final_review
     viewing_direction: left-to-right
     rights_statement: http://rightsstatements.org/vocab/InC/1.0/
     visibility: open

@@ -1,16 +1,22 @@
 namespace :pmp do
-  desc "Ingest one or more YAML files"
-  task ingest_yaml: :environment do
+  desc "Ingest a YAML file"
+  task ingest: :environment do
     logger = Logger.new(STDOUT)
     IngestYAMLJob.logger = logger
-    logger.info "ingesting .yml files from: #{ARGV[1]}"
-    abort "usage: rake ingest_yaml /path/to/yaml/files" unless ARGV[1] && Dir.exist?(ARGV[1])
-    Dir["#{ARGV[1]}/**/*.yml"].each do |file|
+    file = ARGV[1]
+    logger.info "ingesting file: #{file}"
+    abort "usage: rake pmp:ingest /path/to/yaml_file" unless file
+    if Dir.exists?(file)
+      abort "Directory given instead of file: #{file}"
+    elsif !File.exists?(file)
+      abort "File not found: #{file}"
+    else
       begin
         IngestYAMLJob.perform_now(file, user)
       rescue => e
-        puts "Error: #{e.message}"
-        puts e.backtrace
+        logger.info "Error: #{e.message}"
+        logger.info e.backtrace
+        abort "Error encountered"
       end
     end
   end

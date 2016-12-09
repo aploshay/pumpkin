@@ -1,7 +1,3 @@
-# TODO:
-# test ingest
-# change files from folder based to individually based
-# refactor forced attribute (state) passing?
 class PreingestJob < ActiveJob::Base
   queue_as :preingest
 
@@ -24,9 +20,7 @@ class PreingestJob < ActiveJob::Base
       yaml_hash[:resource] = @document.resource_class
       yaml_hash[:user] = @user.user_key
       yaml_hash[:attributes] = @document.attributes
-      if @state
-        yaml_hash[:attributes][:default]['state'] = @state
-      end
+      yaml_hash[:attributes][:default]['state'] = @state if @state
       yaml_hash[:source_metadata] = @document.source_metadata
       yaml_hash[:thumbnail_path] = @document.thumbnail_path
       yaml_hash[:collections] = @document.collections
