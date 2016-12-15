@@ -6,9 +6,9 @@ namespace :pmp do
     abort "File not found: #{file}" unless File.exists?(file)
     abort "Directory given instead of file: #{file}" if Dir.exists?(file)
     begin
-      document_class = "IuMetadata::Preingest::#{args.document_type.titleize}".constantize
+      document_class = "IuMetadata::Preingest::#{args.document_type.titleize.split.join}".constantize
     rescue
-      abort "unknown preingest pipeline: #{args.document_type}"
+      abort "unknown preingest pipeline: #{args.document_type} => IuMetadata::Preingest::#{args.document_type.titleize.split.join}"
     end
     user = User.find_by_user_key( ENV['USER'] ) if ENV['USER']
     user = User.all.select{ |u| u.admin? }.first unless user
