@@ -1,0 +1,1117 @@
+<AudioAccessPage>
+  <OrderedMediaObjects>
+    <MO><Label>VAD7506A</Label></MO>
+    <MO><Label>VAD7506B</Label></MO>
+    <MO><Label>VAD7506C</Label></MO>
+  </OrderedMediaObjects>
+  <Bibinfo>
+    <StmtResponsibility>Handel</StmtResponsibility>
+    <Author>Handel, George Frideric, 1685-1759</Author>
+  </Bibinfo>
+
+<RecordSet version="trunk">
+   <Container>
+      <DisplayTitle offset="0">Rodelinda [sound recording]</DisplayTitle>
+      <Publisher>Archiv Produktion</Publisher>
+      <Edition/>
+      <PublisherNumbers>
+         <PublisherNumber>Archiv Produktion:00289 477 5391</PublisherNumber>
+         <PublisherNumber>Archiv Produktion:00289 477 5392</PublisherNumber>
+         <PublisherNumber>Archiv Produktion:00289 477 5393</PublisherNumber>
+         <PublisherNumber>Archiv Produktion:00289 477 5394</PublisherNumber>
+      </PublisherNumbers>
+      <DocumentInfos>
+         <DocumentInfo>
+            <Type>Sound</Type>
+            <Format>CD</Format>
+            <Description>3 sound discs (193 min.) : digital ; 4 3/4 in</Description>
+         </DocumentInfo>
+         <DocumentInfo>
+            <Type>Sound</Type>
+            <Format>CD</Format>
+            <Description>Accompanying Materials - ContainerID: IU/Container/604574 Label: Accompanying materials</Description>
+         </DocumentInfo>
+      </DocumentInfos>
+      <PublicationDate>2005</PublicationDate>
+      <CopyrightDate>2005</CopyrightDate>
+      <PublicationPlace>Hamburg</PublicationPlace>
+      <BibliographicNotes>
+         <BibliographicNote>
+            <Type>Descriptive</Type>
+            <Text>Archiv Produktion: 00289 477 5391 (00289 477 5392--00289 477 5394)</Text>
+         </BibliographicNote>
+         <BibliographicNote>
+            <Type>Descriptive</Type>
+            <Text>Dramma per musica in 3 acts; libretto by Nicola Francesco Haym, after Antonio Salvi and Pierre Corneille</Text>
+         </BibliographicNote>
+         <BibliographicNote>
+            <Type>Descriptive</Type>
+            <Text>Compact discs</Text>
+         </BibliographicNote>
+         <BibliographicNote>
+            <Type>Descriptive</Type>
+            <Text>Program notes by Andrew Jones, notes on the performing version by Alan Curtis, and synopsis by Donna Leon, all in English with German and French translations, and libretto in Italian with English, German, and French translations (150 p. : ports.) inserted in container</Text>
+         </BibliographicNote>
+         <BibliographicNote>
+            <Type>Descriptive</Type>
+            <Text>Recorded Sept. 2004, Sala Olimpia, Palazzo Doria Pamphilj, San Martino al Cimino, Italy and Nov. 2004, Friedrich-Ebert-Halle, Hamburg-Harburg</Text>
+         </BibliographicNote>
+         <BibliographicNote>
+            <Type>Administrative</Type>
+            <Text>Sung in Italian</Text>
+         </BibliographicNote>
+      </BibliographicNotes>
+      <Structure label="Rodelinda [sound recording]">
+         <Item label="CD 1">
+            <Div isrc="null" label="George Frideric Handel, Rodelinda, regina de' Longobardi, HWV 19: Act I">
+               <Chunk isrc="null" label="Track 1. Ouverture">
+                  <ContentInterval begin="0" end="243840" mediaRef="IU/MediaObject/602096"/>
+               </Chunk>
+               <Chunk isrc="null" label="Track 2. Menuet">
+                  <ContentInterval begin="243840" end="404400" mediaRef="IU/MediaObject/602096"/>
+               </Chunk>
+               <Div label="Scena 1">
+                  <Chunk isrc="null" label="Track 3. No. 1, Aria: &#34;Ho perduto il caro sposo&#34;">
+                     <ContentInterval begin="404400" end="575600" mediaRef="IU/MediaObject/602096"/>
+                  </Chunk>
+                  <Chunk isrc="null" label="Track 4. Recitativo: &#34;Regina?&#34; -- &#34;Grimoaldo, nel mio presente stato&#34;">
+                     <ContentInterval begin="575600" end="642920" mediaRef="IU/MediaObject/602096"/>
+                  </Chunk>
+                  <Chunk isrc="null" label="Track 5. No. 2, Aria: &#34;L'empio rigor del fato&#34;">
+                     <ContentInterval begin="642920" end="911906" mediaRef="IU/MediaObject/602096"/>
+                  </Chunk>
+               </Div>
+               <Chunk isrc="null" label="Track 6. Scena 2: &#34;Duca, vedesti mai più bel disprezzo?&#34; -- Scena 3: Recitativo: &#34;E tanto, da che sei re&#34;">
+                  <ContentInterval begin="911906" end="1001813" mediaRef="IU/MediaObject/602096"/>
+               </Chunk>
+               <Chunk isrc="null" label="Track 7. Scena 3 (cont.): No. 3, Aria: &#34;Io già t'amai&#34;">
+                  <ContentInterval begin="1001813" end="1227386" mediaRef="IU/MediaObject/602096"/>
+               </Chunk>
+               <Div label="Scena 4">
+                  <Chunk isrc="null" label="Track 8. Recitativo: &#34;E tu dici d'amarmi?&#34;">
+                     <ContentInterval begin="1227386" end="1261906" mediaRef="IU/MediaObject/602096"/>
+                  </Chunk>
+                  <Chunk isrc="null" label="Track 9. No. 4, Aria: &#34;Lo farò, dirò: spietato&#34;">
+                     <ContentInterval begin="1261906" end="1460400" mediaRef="IU/MediaObject/602096"/>
+                  </Chunk>
+               </Div>
+               <Div label="Scena 5">
+                  <Chunk isrc="null" label="Track 10. Recitativo: &#34;Eduige, t'inganni&#34;">
+                     <ContentInterval begin="1460400" end="1481333" mediaRef="IU/MediaObject/602096"/>
+                  </Chunk>
+                  <Chunk isrc="null" label="Track 11. No. 5, Aria: &#34;Di Cupido impiego i vanni&#34;">
+                     <ContentInterval begin="1481333" end="1735640" mediaRef="IU/MediaObject/602096"/>
+                  </Chunk>
+               </Div>
+               <Div label="Scena 6">
+                  <Chunk isrc="null" label="Track 12. No. 6, Sinfonia ed Accompagnato: &#34;Pompe vane di morte&#34;">
+                     <ContentInterval begin="1735640" end="1854533" mediaRef="IU/MediaObject/602096"/>
+                  </Chunk>
+                  <Chunk isrc="null" label="Track 13. No. 7, Aria: &#34;Dove sei, amato bene?&#34;">
+                     <ContentInterval begin="1854533" end="2147346" mediaRef="IU/MediaObject/602096"/>
+                  </Chunk>
+                  <Chunk isrc="null" label="Track 14. Recitativo: &#34;Ma giunge Unulfo, oh Dio!&#34;">
+                     <ContentInterval begin="2147346" end="2266066" mediaRef="IU/MediaObject/602096"/>
+                  </Chunk>
+               </Div>
+               <Div label="Scena 7">
+                  <Chunk isrc="null" label="Track 15. No. 8, Aria: &#34;Ombre, piante, urne funeste&#34;">
+                     <ContentInterval begin="2266066" end="2606480" mediaRef="IU/MediaObject/602096"/>
+                  </Chunk>
+                  <Chunk isrc="null" label="Track 16. No. 9, Accompagnato e Recitativo: &#34;Ombra del mio bel sol&#34; -- &#34;Deh, lascia!&#34; -- &#34;No, signor&#34;">
+                     <ContentInterval begin="2606480" end="2658786" mediaRef="IU/MediaObject/602096"/>
+                  </Chunk>
+               </Div>
+               <Div label="Scena 8">
+                  <Chunk isrc="null" label="Track 17. Recitativo: &#34;Baci inutili e vani&#34;">
+                     <ContentInterval begin="2658786" end="2772173" mediaRef="IU/MediaObject/602096"/>
+                  </Chunk>
+                  <Chunk isrc="null" label="Track 18. No. 10, Aria: &#34;Morrai, sì; l'empia tua testa&#34;">
+                     <ContentInterval begin="2772173" end="3042973" mediaRef="IU/MediaObject/602096"/>
+                  </Chunk>
+               </Div>
+               <Div label="Scena 9">
+                  <Chunk isrc="null" label="Track 19. Recitativo: &#34;E ben, duca, poss'io all'ardor&#34;">
+                     <ContentInterval begin="3042973" end="3083813" mediaRef="IU/MediaObject/602096"/>
+                  </Chunk>
+                  <Chunk isrc="null" label="Track 20. No. 11, Aria: &#34;Se per te giungo a godere&#34;">
+                     <ContentInterval begin="3083813" end="3300493" mediaRef="IU/MediaObject/602096"/>
+                  </Chunk>
+               </Div>
+               <Div label="Scena 10">
+                  <Chunk isrc="null" label="Track 21. Recitativo: &#34;Unulfo, oh Dio! Quella è costanza?&#34;">
+                     <ContentInterval begin="3300493" end="3351253" mediaRef="IU/MediaObject/602096"/>
+                  </Chunk>
+                  <Chunk isrc="null" label="Track 22. No. 12, Aria: &#34;Sono i colpi della sorte&#34; (2nd version)">
+                     <ContentInterval begin="3351253" end="3655293" mediaRef="IU/MediaObject/602096"/>
+                  </Chunk>
+               </Div>
+               <Div label="Scena 11">
+                  <Chunk isrc="null" label="Track 23. No. 13, Accompagnato: &#34;Sì, l'infida consorte&#34;">
+                     <ContentInterval begin="3655293" end="3674533" mediaRef="IU/MediaObject/602096"/>
+                  </Chunk>
+                  <Chunk isrc="null" label="Track 24. No. 14, Aria: &#34;Confusa si miri&#34;">
+                     <ContentInterval begin="3674533" end="3970826" mediaRef="IU/MediaObject/602096"/>
+                  </Chunk>
+               </Div>
+            </Div>
+         </Item>
+         <Item label="CD 2">
+            <Div isrc="null" label="George Frideric Handel, Rodelinda, regina de' Longobardi, HWV 19 (cont.): Act II">
+               <Chunk isrc="null" label="Track 1. Scena 1, Recitativo: &#34;Già perdesti, o signora&#34; -- Scena 2: Recitativo: &#34;Rodelinda, sì mesta ritorni&#34;">
+                  <ContentInterval begin="0" end="116533" mediaRef="IU/MediaObject/602097"/>
+               </Chunk>
+               <Chunk isrc="null" label="Track 2. Scena 2 (cont.): No. 15, Aria: &#34;De' miei scherni per far le vendette&#34;">
+                  <ContentInterval begin="116533" end="377186" mediaRef="IU/MediaObject/602097"/>
+               </Chunk>
+               <Div label="Scena 3">
+                  <Chunk isrc="null" label="Track 3. Recitativo: &#34;Rodelinda, è pur ver?&#34;">
+                     <ContentInterval begin="377186" end="500973" mediaRef="IU/MediaObject/602097"/>
+                  </Chunk>
+                  <Chunk isrc="null" label="Track 4. No. 16, Aria: &#34;Spietati, io vi giurai&#34;">
+                     <ContentInterval begin="500973" end="791080" mediaRef="IU/MediaObject/602097"/>
+                  </Chunk>
+               </Div>
+               <Div label="Scena 4">
+                  <Chunk isrc="null" label="Track 5. Recitativo: &#34;Unulfo, Garibaldo, in questo seno&#34;">
+                     <ContentInterval begin="791080" end="849266" mediaRef="IU/MediaObject/602097"/>
+                  </Chunk>
+                  <Chunk isrc="null" label="Track 6. No. 17, Aria: &#34;Prigioniera ho l'alma in pena&#34;">
+                     <ContentInterval begin="849266" end="1153386" mediaRef="IU/MediaObject/602097"/>
+                  </Chunk>
+                  <Chunk isrc="null" label="Track 7. Recitativo: &#34;Massime così indegne&#34;">
+                     <ContentInterval begin="1153386" end="1189346" mediaRef="IU/MediaObject/602097"/>
+                  </Chunk>
+                  <Chunk isrc="null" label="Track 8. No. 18, Aria: &#34;Tirannia gli diede il regno&#34;">
+                     <ContentInterval begin="1189346" end="1360560" mediaRef="IU/MediaObject/602097"/>
+                  </Chunk>
+                  <Chunk isrc="null" label="Track 9. Recitativo: &#34;Sì, sì, fellon, t'intendo&#34;">
+                     <ContentInterval begin="1360560" end="1387760" mediaRef="IU/MediaObject/602097"/>
+                  </Chunk>
+                  <Chunk isrc="null" label="Track 10. No. 19, Aria: &#34;Fra tempeste funeste&#34;">
+                     <ContentInterval begin="1387760" end="1632066" mediaRef="IU/MediaObject/602097"/>
+                  </Chunk>
+               </Div>
+               <Div label="Scena 5">
+                  <Chunk isrc="null" label="Track 11. No. 20, Aria e Recitativo: &#34;Con rauco mormorio&#34; -- &#34;Dell'estinto germano&#34;">
+                     <ContentInterval begin="1632066" end="1994893" mediaRef="IU/MediaObject/602097"/>
+                  </Chunk>
+                  <Chunk isrc="null" label="Track 12. Recitativo: &#34;Ah no, che non m'inganna&#34;">
+                     <ContentInterval begin="1994893" end="2163906" mediaRef="IU/MediaObject/602097"/>
+                  </Chunk>
+                  <Chunk isrc="null" label="Track 13. No. 21, Aria: &#34;Scacciata dal suo nido&#34;">
+                     <ContentInterval begin="2163906" end="2430813" mediaRef="IU/MediaObject/602097"/>
+                  </Chunk>
+               </Div>
+               <Div label="Scena 6">
+                  <Chunk isrc="null" label="Track 14. Recitativo: &#34;Vive il mio sposo?&#34;">
+                     <ContentInterval begin="2430813" end="2486826" mediaRef="IU/MediaObject/602097"/>
+                  </Chunk>
+                  <Chunk isrc="null" label="Track 15. No. 22, Aria: &#34;Ritorna, o caro e dolce mio tesoro&#34;">
+                     <ContentInterval begin="2486826" end="2725200" mediaRef="IU/MediaObject/602097"/>
+                  </Chunk>
+               </Div>
+               <Div label="Scena 7">
+                  <Chunk isrc="null" label="Track 16. Recitativo: &#34;Ah sì! Ecco lo sposo!&#34;">
+                     <ContentInterval begin="2725200" end="2894800" mediaRef="IU/MediaObject/602097"/>
+                  </Chunk>
+                  <Chunk isrc="null" label="Track 17. No. 23, Aria: &#34;Tuo drudo è mio rivale&#34;">
+                     <ContentInterval begin="2894800" end="3087186" mediaRef="IU/MediaObject/602097"/>
+                  </Chunk>
+                  <Chunk isrc="null" label="Track 18. Recitativo: &#34;Non ti bastò, consorte&#34;">
+                     <ContentInterval begin="3087186" end="3131373" mediaRef="IU/MediaObject/602097"/>
+                  </Chunk>
+                  <Chunk isrc="null" label="Track 19. No. 24, Duetto: &#34;Io t'abbraccio&#34;">
+                     <ContentInterval begin="3131373" end="3542093" mediaRef="IU/MediaObject/602097"/>
+                  </Chunk>
+               </Div>
+            </Div>
+         </Item>
+         <Item label="CD 3">
+            <Div isrc="null" label="George Frideric Handel, Rodelinda, regina de' Longobardi, HWV 19 (cont.)">
+               <Div label="Act III">
+                  <Div label="Scena 1">
+                     <Chunk isrc="null" label="Track 1. Recitativo: &#34;Del german nel periglio&#34;">
+                        <ContentInterval begin="0" end="78320" mediaRef="IU/MediaObject/602098"/>
+                     </Chunk>
+                     <Chunk isrc="null" label="Track 2. No. 25, Aria: &#34;Un zeffiro spirò&#34;">
+                        <ContentInterval begin="78320" end="412306" mediaRef="IU/MediaObject/602098"/>
+                     </Chunk>
+                     <Chunk isrc="null" label="Track 3. Recitativo: &#34;Con opra giusta io cancellar disegno&#34;">
+                        <ContentInterval begin="412306" end="428173" mediaRef="IU/MediaObject/602098"/>
+                     </Chunk>
+                     <Chunk isrc="null" label="Track 4. No. 26, Aria: &#34;Quanto più fiera tempesta freme&#34;">
+                        <ContentInterval begin="428173" end="634200" mediaRef="IU/MediaObject/602098"/>
+                     </Chunk>
+                  </Div>
+                  <Div label="Scena 2">
+                     <Chunk isrc="null" label="Track 5. Recitativo: &#34;O falso è Bertarido o fu mendace&#34;">
+                        <ContentInterval begin="634200" end="709960" mediaRef="IU/MediaObject/602098"/>
+                     </Chunk>
+                     <Chunk isrc="null" label="Track 6. No. 27, Aria: &#34;Tra sospetti, affetti e timori&#34;">
+                        <ContentInterval begin="709960" end="967586" mediaRef="IU/MediaObject/602098"/>
+                     </Chunk>
+                  </Div>
+                  <Div label="Scena 3">
+                     <Chunk isrc="null" label="Track 7. No. 28, Arioso: &#34;Chi di voi fu più infedele&#34;">
+                        <ContentInterval begin="967586" end="1140413" mediaRef="IU/MediaObject/602098"/>
+                     </Chunk>
+                     <Chunk isrc="null" label="Track 8. No. 29, Accompagnato e Recitativo: &#34;Ma non so che dal remoto balcon&#34; -- Scena 4: Recitativo: &#34;Non temere. Signore? Germano?&#34;">
+                        <ContentInterval begin="1140413" end="1431613" mediaRef="IU/MediaObject/602098"/>
+                     </Chunk>
+                  </Div>
+                  <Chunk isrc="null" label="Track 9. Scena 4 (cont.): No. 30, Aria: &#34;Se 'l mio duol non è sì forte&#34;">
+                     <ContentInterval begin="1431613" end="1832653" mediaRef="IU/MediaObject/602098"/>
+                  </Chunk>
+                  <Div label="Scena 5">
+                     <Chunk isrc="null" label="Track 10. Recitativo: &#34;Amico, ah! che a me duole&#34;">
+                        <ContentInterval begin="1832653" end="1889440" mediaRef="IU/MediaObject/602098"/>
+                     </Chunk>
+                     <Chunk isrc="null" label="Track 11. No. 31, Aria: &#34;Se fiera belva ha cinto&#34;">
+                        <ContentInterval begin="1889440" end="2162760" mediaRef="IU/MediaObject/602098"/>
+                     </Chunk>
+                  </Div>
+                  <Div label="Scena 6">
+                     <Chunk isrc="null" label="Track 12. No. 32, Accompagnato: &#34;Fatto inferno è il mio petto&#34;">
+                        <ContentInterval begin="2162760" end="2366600" mediaRef="IU/MediaObject/602098"/>
+                     </Chunk>
+                     <Chunk isrc="null" label="Track 13. No. 33, Aria: &#34;Pastorello d'un povero armento&#34;">
+                        <ContentInterval begin="2366600" end="2599346" mediaRef="IU/MediaObject/602098"/>
+                     </Chunk>
+                  </Div>
+                  <Chunk isrc="null" label="Track 14. Scena 7, Recitativo: &#34;Che miro? Amica sorte&#34; -- Scena 8: Recitativo: &#34;Tu morrai, traditor!&#34;">
+                     <ContentInterval begin="2599346" end="2673906" mediaRef="IU/MediaObject/602098"/>
+                  </Chunk>
+                  <Div label="Scena 8 (cont.)">
+                     <Chunk isrc="null" label="Track 15. Aria: &#34;Vivi, tiranno&#34;">
+                        <ContentInterval begin="2673906" end="2998320" mediaRef="IU/MediaObject/602098"/>
+                     </Chunk>
+                     <Chunk isrc="null" label="Track 16. [Recitativo]: &#34;Dunque sei Bertarido?&#34; -- Scena ultima: Recitativo: &#34;Eccoti innanzi il reo&#34;">
+                        <ContentInterval begin="2998320" end="3074186" mediaRef="IU/MediaObject/602098"/>
+                     </Chunk>
+                  </Div>
+                  <Div label="Scena ultima (cont.)">
+                     <Chunk isrc="null" label="Track 17. No. 34, Aria: &#34;Mio caro bene&#34;">
+                        <ContentInterval begin="3074186" end="3308440" mediaRef="IU/MediaObject/602098"/>
+                     </Chunk>
+                     <Chunk isrc="null" label="Track 18. Recitativo: &#34;Sposa, figlio, sorella, amici&#34;">
+                        <ContentInterval begin="3308440" end="3339560" mediaRef="IU/MediaObject/602098"/>
+                     </Chunk>
+                     <Chunk isrc="null" label="Track 19. Duetto: &#34;D'ogni crudel martir&#34;">
+                        <ContentInterval begin="3339560" end="3664986" mediaRef="IU/MediaObject/602098"/>
+                     </Chunk>
+                     <Chunk isrc="null" label="Track 20. Coro: &#34;Dopo la notte oscura&#34;">
+                        <ContentInterval begin="3664986" end="3787946" mediaRef="IU/MediaObject/602098"/>
+                     </Chunk>
+                  </Div>
+               </Div>
+               <Chunk isrc="null" label="Track 21. Appendix: Aria: &#34;Sono i colpi della sorte&#34; (1st version)">
+                  <ContentInterval begin="3787946" end="4036506" mediaRef="IU/MediaObject/602098"/>
+               </Chunk>
+            </Div>
+         </Item>
+      </Structure>
+      <MediaObjectRefs>
+         <MediaObjectRef>IU/MediaObject/602096</MediaObjectRef>
+         <MediaObjectRef>IU/MediaObject/602097</MediaObjectRef>
+         <MediaObjectRef>IU/MediaObject/602098</MediaObjectRef>
+      </MediaObjectRefs>
+      <PhysicalID>
+         <Location>IU Music Library</Location>
+         <CallNumber>CD .H135 A.3-7</CallNumber>
+         <CopyNumber>1</CopyNumber>
+      </PhysicalID>
+      <PhysicalCondition/>
+      <HoldingStatus>Restricted access</HoldingStatus>
+      <Upc>0028947753919</Upc>
+      <CopyrightDecls>
+         <CopyrightDecl>
+            <Owner>(P) 2005 Deutsche Grammophon GmbH, Hamburg</Owner>
+            <Domain>Item</Domain>
+         </CopyrightDecl>
+      </CopyrightDecls>
+      <PublicDomain>Unknown</PublicDomain>
+      <OtherSystemIds>
+         <OtherSystemId>(Variations)vad7506</OtherSystemId>
+         <OtherSystemId>(OCoLC)ocm61184107</OtherSystemId>
+         <OtherSystemId>(DLC)2006581770</OtherSystemId>
+      </OtherSystemIds>
+      <Id>IU/Container/602081</Id>
+      <CreationInfo>
+         <User>katechap@IU.EDU</User>
+         <Timestamp>2016-06-08 09:36:28.0</Timestamp>
+      </CreationInfo>
+      <UpdateInfo>
+         <User>darnelso@IU.EDU</User>
+         <Timestamp>2016-09-29 16:49:13.516</Timestamp>
+      </UpdateInfo>
+      <Status>Import only</Status>
+   </Container>
+   <MediaObject>
+      <Label>VAD7506C</Label>
+      <FileFormat>video/quicktime</FileFormat>
+      <Compression>AAC 192 kbps</Compression>
+      <ChannelCount>2</ChannelCount>
+      <SampleSize>16</SampleSize>
+      <SampleRate>44100</SampleRate>
+      <Environment/>
+      <DigitizationDate>2016-06-08</DigitizationDate>
+      <DigitizedBy>katechap@IU.EDU</DigitizedBy>
+      <AccessCount>0</AccessCount>
+      <FileInfos>
+         <FileInfo>
+            <Extent>4036506</Extent>
+            <Size>101702144</Size>
+            <FileName>vad7506c.mp4</FileName>
+            <Checksum>2e3c884c87e1e59aeecbac73d6c439f0</Checksum>
+            <Creation>2016-06-08 09:36:51.0</Creation>
+            <Update>2016-06-08 09:36:51.0</Update>
+         </FileInfo>
+      </FileInfos>
+      <Id>IU/MediaObject/602098</Id>
+      <CreationInfo>
+         <User>katechap@IU.EDU</User>
+         <Timestamp>2016-06-08 09:36:51.0</Timestamp>
+      </CreationInfo>
+      <UpdateInfo>
+         <User>darnelso@IU.EDU</User>
+         <Timestamp>2016-09-29 16:49:13.0</Timestamp>
+      </UpdateInfo>
+      <Status>Complete</Status>
+   </MediaObject>
+   <MediaObject>
+      <Label>VAD7506B</Label>
+      <FileFormat>video/quicktime</FileFormat>
+      <Compression>AAC 192 kbps</Compression>
+      <ChannelCount>2</ChannelCount>
+      <SampleSize>16</SampleSize>
+      <SampleRate>44100</SampleRate>
+      <Environment/>
+      <DigitizationDate>2016-06-08</DigitizationDate>
+      <DigitizedBy>katechap@IU.EDU</DigitizedBy>
+      <AccessCount>0</AccessCount>
+      <FileInfos>
+         <FileInfo>
+            <Extent>3542093</Extent>
+            <Size>89244730</Size>
+            <FileName>vad7506b.mp4</FileName>
+            <Checksum>1a8a167e1bd184b7e3fa79c024dd4835</Checksum>
+            <Creation>2016-06-08 09:36:51.0</Creation>
+            <Update>2016-06-08 09:36:51.0</Update>
+         </FileInfo>
+      </FileInfos>
+      <Id>IU/MediaObject/602097</Id>
+      <CreationInfo>
+         <User>katechap@IU.EDU</User>
+         <Timestamp>2016-06-08 09:36:51.0</Timestamp>
+      </CreationInfo>
+      <UpdateInfo>
+         <User>darnelso@IU.EDU</User>
+         <Timestamp>2016-09-29 16:49:13.0</Timestamp>
+      </UpdateInfo>
+      <Status>Complete</Status>
+   </MediaObject>
+   <MediaObject>
+      <Label>VAD7506A</Label>
+      <FileFormat>video/quicktime</FileFormat>
+      <Compression>AAC 192 kbps</Compression>
+      <ChannelCount>2</ChannelCount>
+      <SampleSize>16</SampleSize>
+      <SampleRate>44100</SampleRate>
+      <Environment/>
+      <DigitizationDate>2016-06-08</DigitizationDate>
+      <DigitizedBy>katechap@IU.EDU</DigitizedBy>
+      <AccessCount>0</AccessCount>
+      <FileInfos>
+         <FileInfo>
+            <Extent>3970826</Extent>
+            <Size>100047342</Size>
+            <FileName>vad7506a.mp4</FileName>
+            <Checksum>9ac2b053dee3fdafe5c8342c66918886</Checksum>
+            <Creation>2016-06-08 09:36:51.0</Creation>
+            <Update>2016-06-08 09:36:51.0</Update>
+         </FileInfo>
+      </FileInfos>
+      <Id>IU/MediaObject/602096</Id>
+      <CreationInfo>
+         <User>katechap@IU.EDU</User>
+         <Timestamp>2016-06-08 09:36:51.0</Timestamp>
+      </CreationInfo>
+      <UpdateInfo>
+         <User>darnelso@IU.EDU</User>
+         <Timestamp>2016-09-29 16:49:13.0</Timestamp>
+      </UpdateInfo>
+      <Status>Complete</Status>
+   </MediaObject>
+   <SetInfo>
+      <TextMatches/>
+      <ThemeBaseURL>http://variations-prod-web.dlib.indiana.edu/variations/themes/</ThemeBaseURL>
+      <AvailableMediaItems>
+         <AllItemsAvailable>true</AllItemsAvailable>
+      </AvailableMediaItems>
+   </SetInfo>
+</RecordSet>
+
+<AccompanyingMaterials>
+
+<RecordSet version="trunk">
+   <Container>
+      <DisplayTitle offset="0">Accompanying materials for Rodelinda [sound recording]</DisplayTitle>
+      <Edition>ACCOMPANYING_MATERIALS</Edition>
+      <DocumentInfos>
+         <DocumentInfo>
+            <Type>Score</Type>
+            <Format>Full Score</Format>
+            <Description>Accompanying materials</Description>
+         </DocumentInfo>
+      </DocumentInfos>
+      <Structure label="Accompanying materials for Rodelinda [sound recording]">
+         <Item label="Accompanying materials for Rodelinda [sound recording]">
+            <Div label="[Front tray card]">
+               <Chunk label="[i]">
+                  <ContentInterval begin="0" end="1" mediaRef="IU/MediaObject/604575"/>
+               </Chunk>
+               <Chunk label="[ii]">
+                  <ContentInterval begin="1" end="2" mediaRef="IU/MediaObject/604575"/>
+               </Chunk>
+            </Div>
+            <Div label="[Disc face 1]">
+               <Chunk label="[iii]">
+                  <ContentInterval begin="2" end="3" mediaRef="IU/MediaObject/604575"/>
+               </Chunk>
+            </Div>
+            <Div label="[Booklet]">
+               <Div label="[Front cover]">
+                  <Chunk label="[iv]">
+                     <ContentInterval begin="3" end="4" mediaRef="IU/MediaObject/604575"/>
+                  </Chunk>
+               </Div>
+               <Div label="[Photograph of Alan Curtis]">
+                  <Chunk label="[v]">
+                     <ContentInterval begin="4" end="5" mediaRef="IU/MediaObject/604575"/>
+                  </Chunk>
+               </Div>
+               <Div label="[Title page]">
+                  <Chunk label="[1]">
+                     <ContentInterval begin="5" end="6" mediaRef="IU/MediaObject/604575"/>
+                  </Chunk>
+               </Div>
+               <Div label="[Photographs of cast]">
+                  <Chunk label="2">
+                     <ContentInterval begin="6" end="7" mediaRef="IU/MediaObject/604575"/>
+                  </Chunk>
+                  <Chunk label="3">
+                     <ContentInterval begin="7" end="8" mediaRef="IU/MediaObject/604575"/>
+                  </Chunk>
+                  <Chunk label="4">
+                     <ContentInterval begin="8" end="9" mediaRef="IU/MediaObject/604575"/>
+                  </Chunk>
+               </Div>
+               <Div label="[Cast]">
+                  <Chunk label="5">
+                     <ContentInterval begin="9" end="10" mediaRef="IU/MediaObject/604575"/>
+                  </Chunk>
+               </Div>
+               <Div label="[Instrumentalists]">
+                  <Chunk label="6">
+                     <ContentInterval begin="10" end="11" mediaRef="IU/MediaObject/604575"/>
+                  </Chunk>
+               </Div>
+               <Div label="[Track list]">
+                  <Chunk label="7">
+                     <ContentInterval begin="11" end="12" mediaRef="IU/MediaObject/604575"/>
+                  </Chunk>
+                  <Chunk label="8">
+                     <ContentInterval begin="12" end="13" mediaRef="IU/MediaObject/604575"/>
+                  </Chunk>
+                  <Chunk label="9">
+                     <ContentInterval begin="13" end="14" mediaRef="IU/MediaObject/604575"/>
+                  </Chunk>
+                  <Chunk label="10">
+                     <ContentInterval begin="14" end="15" mediaRef="IU/MediaObject/604575"/>
+                  </Chunk>
+                  <Chunk label="11">
+                     <ContentInterval begin="15" end="16" mediaRef="IU/MediaObject/604575"/>
+                  </Chunk>
+               </Div>
+               <Div label="[Liner notes (English)]">
+                  <Div label="Handel's &#34;Rodelinda&#34;, Andrew Jones">
+                     <Chunk label="12">
+                        <ContentInterval begin="16" end="17" mediaRef="IU/MediaObject/604575"/>
+                     </Chunk>
+                     <Chunk label="13">
+                        <ContentInterval begin="17" end="18" mediaRef="IU/MediaObject/604575"/>
+                     </Chunk>
+                     <Chunk label="14">
+                        <ContentInterval begin="18" end="19" mediaRef="IU/MediaObject/604575"/>
+                     </Chunk>
+                     <Chunk label="15">
+                        <ContentInterval begin="19" end="20" mediaRef="IU/MediaObject/604575"/>
+                     </Chunk>
+                     <Chunk label="16">
+                        <ContentInterval begin="20" end="21" mediaRef="IU/MediaObject/604575"/>
+                     </Chunk>
+                     <Chunk label="17">
+                        <ContentInterval begin="21" end="22" mediaRef="IU/MediaObject/604575"/>
+                     </Chunk>
+                  </Div>
+                  <Div label="A Note on the Performing Version, Alan Curtis">
+                     <Chunk label="18">
+                        <ContentInterval begin="22" end="23" mediaRef="IU/MediaObject/604575"/>
+                     </Chunk>
+                     <Chunk label="19">
+                        <ContentInterval begin="23" end="24" mediaRef="IU/MediaObject/604575"/>
+                     </Chunk>
+                  </Div>
+                  <Div label="Synopsis, Donna Leon">
+                     <Chunk label="20">
+                        <ContentInterval begin="24" end="25" mediaRef="IU/MediaObject/604575"/>
+                     </Chunk>
+                     <Chunk label="21">
+                        <ContentInterval begin="25" end="26" mediaRef="IU/MediaObject/604575"/>
+                     </Chunk>
+                     <Chunk label="22">
+                        <ContentInterval begin="26" end="27" mediaRef="IU/MediaObject/604575"/>
+                     </Chunk>
+                  </Div>
+                  <Div label="Artist Biographies">
+                     <Chunk label="23">
+                        <ContentInterval begin="27" end="28" mediaRef="IU/MediaObject/604575"/>
+                     </Chunk>
+                     <Chunk label="24">
+                        <ContentInterval begin="28" end="29" mediaRef="IU/MediaObject/604575"/>
+                     </Chunk>
+                     <Chunk label="25">
+                        <ContentInterval begin="29" end="30" mediaRef="IU/MediaObject/604575"/>
+                     </Chunk>
+                     <Chunk label="26">
+                        <ContentInterval begin="30" end="31" mediaRef="IU/MediaObject/604575"/>
+                     </Chunk>
+                  </Div>
+               </Div>
+               <Div label="[Liner notes (German)]">
+                  <Div label="Händel's &gt;&gt;Rodelinda&lt;&lt;, Andrew Jones">
+                     <Chunk label="27">
+                        <ContentInterval begin="31" end="32" mediaRef="IU/MediaObject/604575"/>
+                     </Chunk>
+                     <Chunk label="28">
+                        <ContentInterval begin="32" end="33" mediaRef="IU/MediaObject/604575"/>
+                     </Chunk>
+                     <Chunk label="29">
+                        <ContentInterval begin="33" end="34" mediaRef="IU/MediaObject/604575"/>
+                     </Chunk>
+                     <Chunk label="30">
+                        <ContentInterval begin="34" end="35" mediaRef="IU/MediaObject/604575"/>
+                     </Chunk>
+                     <Chunk label="31">
+                        <ContentInterval begin="35" end="36" mediaRef="IU/MediaObject/604575"/>
+                     </Chunk>
+                     <Chunk label="32">
+                        <ContentInterval begin="36" end="37" mediaRef="IU/MediaObject/604575"/>
+                     </Chunk>
+                  </Div>
+                  <Div label="Zur eingespielten Version, Alan Curtis">
+                     <Chunk label="33">
+                        <ContentInterval begin="37" end="38" mediaRef="IU/MediaObject/604575"/>
+                     </Chunk>
+                     <Chunk label="34">
+                        <ContentInterval begin="38" end="39" mediaRef="IU/MediaObject/604575"/>
+                     </Chunk>
+                  </Div>
+                  <Div label="Die Handlung, Donna Leon">
+                     <Chunk label="35">
+                        <ContentInterval begin="39" end="40" mediaRef="IU/MediaObject/604575"/>
+                     </Chunk>
+                     <Chunk label="36">
+                        <ContentInterval begin="40" end="41" mediaRef="IU/MediaObject/604575"/>
+                     </Chunk>
+                     <Chunk label="37">
+                        <ContentInterval begin="41" end="42" mediaRef="IU/MediaObject/604575"/>
+                     </Chunk>
+                     <Chunk label="38">
+                        <ContentInterval begin="42" end="43" mediaRef="IU/MediaObject/604575"/>
+                     </Chunk>
+                  </Div>
+                  <Div label="Die Interpreten">
+                     <Chunk label="39">
+                        <ContentInterval begin="43" end="44" mediaRef="IU/MediaObject/604575"/>
+                     </Chunk>
+                     <Chunk label="40">
+                        <ContentInterval begin="44" end="45" mediaRef="IU/MediaObject/604575"/>
+                     </Chunk>
+                     <Chunk label="41">
+                        <ContentInterval begin="45" end="46" mediaRef="IU/MediaObject/604575"/>
+                     </Chunk>
+                     <Chunk label="42">
+                        <ContentInterval begin="46" end="47" mediaRef="IU/MediaObject/604575"/>
+                     </Chunk>
+                  </Div>
+               </Div>
+               <Div label="[Liner notes (French)]">
+                  <Div label="&gt;&gt;Rodelinda&lt;&lt; de Haendel, Andrew Jones">
+                     <Chunk label="43">
+                        <ContentInterval begin="47" end="48" mediaRef="IU/MediaObject/604575"/>
+                     </Chunk>
+                     <Chunk label="44">
+                        <ContentInterval begin="48" end="49" mediaRef="IU/MediaObject/604575"/>
+                     </Chunk>
+                     <Chunk label="45">
+                        <ContentInterval begin="49" end="50" mediaRef="IU/MediaObject/604575"/>
+                     </Chunk>
+                     <Chunk label="46">
+                        <ContentInterval begin="50" end="51" mediaRef="IU/MediaObject/604575"/>
+                     </Chunk>
+                     <Chunk label="47">
+                        <ContentInterval begin="51" end="52" mediaRef="IU/MediaObject/604575"/>
+                     </Chunk>
+                     <Chunk label="48">
+                        <ContentInterval begin="52" end="53" mediaRef="IU/MediaObject/604575"/>
+                     </Chunk>
+                  </Div>
+                  <Div label="La version enregistrée, Alan Curtis">
+                     <Chunk label="49">
+                        <ContentInterval begin="53" end="54" mediaRef="IU/MediaObject/604575"/>
+                     </Chunk>
+                     <Chunk label="50">
+                        <ContentInterval begin="54" end="55" mediaRef="IU/MediaObject/604575"/>
+                     </Chunk>
+                  </Div>
+                  <Div label="Résumé de l'action, Donna Leon">
+                     <Chunk label="51">
+                        <ContentInterval begin="55" end="56" mediaRef="IU/MediaObject/604575"/>
+                     </Chunk>
+                     <Chunk label="52">
+                        <ContentInterval begin="56" end="57" mediaRef="IU/MediaObject/604575"/>
+                     </Chunk>
+                     <Chunk label="53">
+                        <ContentInterval begin="57" end="58" mediaRef="IU/MediaObject/604575"/>
+                     </Chunk>
+                  </Div>
+                  <Div label="Les interprètes">
+                     <Chunk label="54">
+                        <ContentInterval begin="58" end="59" mediaRef="IU/MediaObject/604575"/>
+                     </Chunk>
+                     <Chunk label="55">
+                        <ContentInterval begin="59" end="60" mediaRef="IU/MediaObject/604575"/>
+                     </Chunk>
+                     <Chunk label="56">
+                        <ContentInterval begin="60" end="61" mediaRef="IU/MediaObject/604575"/>
+                     </Chunk>
+                     <Chunk label="57">
+                        <ContentInterval begin="61" end="62" mediaRef="IU/MediaObject/604575"/>
+                     </Chunk>
+                  </Div>
+               </Div>
+               <Div label="[Libretto of Handel's Rodelinda]">
+                  <Div label="[Act I]">
+                     <Div label="[Scene 1]">
+                        <Chunk label="58">
+                           <ContentInterval begin="62" end="63" mediaRef="IU/MediaObject/604575"/>
+                        </Chunk>
+                        <Chunk label="59">
+                           <ContentInterval begin="63" end="64" mediaRef="IU/MediaObject/604575"/>
+                        </Chunk>
+                     </Div>
+                     <Div label="[Scene 2]">
+                        <Chunk label="60">
+                           <ContentInterval begin="64" end="65" mediaRef="IU/MediaObject/604575"/>
+                        </Chunk>
+                        <Chunk label="61">
+                           <ContentInterval begin="65" end="66" mediaRef="IU/MediaObject/604575"/>
+                        </Chunk>
+                        <Chunk label="62">
+                           <ContentInterval begin="66" end="67" mediaRef="IU/MediaObject/604575"/>
+                        </Chunk>
+                        <Chunk label="63">
+                           <ContentInterval begin="67" end="68" mediaRef="IU/MediaObject/604575"/>
+                        </Chunk>
+                     </Div>
+                     <Div label="[Scene 3-4]">
+                        <Chunk label="64">
+                           <ContentInterval begin="68" end="69" mediaRef="IU/MediaObject/604575"/>
+                        </Chunk>
+                        <Chunk label="65">
+                           <ContentInterval begin="69" end="70" mediaRef="IU/MediaObject/604575"/>
+                        </Chunk>
+                     </Div>
+                     <Div label="[Scene 5]">
+                        <Chunk label="66">
+                           <ContentInterval begin="70" end="71" mediaRef="IU/MediaObject/604575"/>
+                        </Chunk>
+                        <Chunk label="67">
+                           <ContentInterval begin="71" end="72" mediaRef="IU/MediaObject/604575"/>
+                        </Chunk>
+                     </Div>
+                     <Div label="[Scene 6]">
+                        <Chunk label="68">
+                           <ContentInterval begin="72" end="73" mediaRef="IU/MediaObject/604575"/>
+                        </Chunk>
+                        <Chunk label="69">
+                           <ContentInterval begin="73" end="74" mediaRef="IU/MediaObject/604575"/>
+                        </Chunk>
+                        <Chunk label="70">
+                           <ContentInterval begin="74" end="75" mediaRef="IU/MediaObject/604575"/>
+                        </Chunk>
+                        <Chunk label="71">
+                           <ContentInterval begin="75" end="76" mediaRef="IU/MediaObject/604575"/>
+                        </Chunk>
+                        <Chunk label="72">
+                           <ContentInterval begin="76" end="77" mediaRef="IU/MediaObject/604575"/>
+                        </Chunk>
+                        <Chunk label="73">
+                           <ContentInterval begin="77" end="78" mediaRef="IU/MediaObject/604575"/>
+                        </Chunk>
+                     </Div>
+                     <Div label="[Scene 7]">
+                        <Chunk label="74">
+                           <ContentInterval begin="78" end="79" mediaRef="IU/MediaObject/604575"/>
+                        </Chunk>
+                        <Chunk label="75">
+                           <ContentInterval begin="79" end="80" mediaRef="IU/MediaObject/604575"/>
+                        </Chunk>
+                     </Div>
+                     <Div label="[Scene 8]">
+                        <Chunk label="76">
+                           <ContentInterval begin="80" end="81" mediaRef="IU/MediaObject/604575"/>
+                        </Chunk>
+                        <Chunk label="77">
+                           <ContentInterval begin="81" end="82" mediaRef="IU/MediaObject/604575"/>
+                        </Chunk>
+                        <Chunk label="78">
+                           <ContentInterval begin="82" end="83" mediaRef="IU/MediaObject/604575"/>
+                        </Chunk>
+                        <Chunk label="79">
+                           <ContentInterval begin="83" end="84" mediaRef="IU/MediaObject/604575"/>
+                        </Chunk>
+                     </Div>
+                     <Div label="[Scene 9]">
+                        <Chunk label="80">
+                           <ContentInterval begin="84" end="85" mediaRef="IU/MediaObject/604575"/>
+                        </Chunk>
+                        <Chunk label="81">
+                           <ContentInterval begin="85" end="86" mediaRef="IU/MediaObject/604575"/>
+                        </Chunk>
+                     </Div>
+                     <Div label="[Scene 10]">
+                        <Chunk label="82">
+                           <ContentInterval begin="86" end="87" mediaRef="IU/MediaObject/604575"/>
+                        </Chunk>
+                        <Chunk label="83">
+                           <ContentInterval begin="87" end="88" mediaRef="IU/MediaObject/604575"/>
+                        </Chunk>
+                        <Chunk label="84">
+                           <ContentInterval begin="88" end="89" mediaRef="IU/MediaObject/604575"/>
+                        </Chunk>
+                        <Chunk label="85">
+                           <ContentInterval begin="89" end="90" mediaRef="IU/MediaObject/604575"/>
+                        </Chunk>
+                     </Div>
+                  </Div>
+                  <Div label="[A1 Sc.11--Act II]">
+                     <Div label="[A1 Sc.11--A2 Sc.1]">
+                        <Chunk label="86">
+                           <ContentInterval begin="90" end="91" mediaRef="IU/MediaObject/604575"/>
+                        </Chunk>
+                        <Chunk label="87">
+                           <ContentInterval begin="91" end="92" mediaRef="IU/MediaObject/604575"/>
+                        </Chunk>
+                        <Chunk label="88">
+                           <ContentInterval begin="92" end="93" mediaRef="IU/MediaObject/604575"/>
+                        </Chunk>
+                        <Chunk label="89">
+                           <ContentInterval begin="93" end="94" mediaRef="IU/MediaObject/604575"/>
+                        </Chunk>
+                     </Div>
+                     <Div label="[Scene 2]">
+                        <Chunk label="90">
+                           <ContentInterval begin="94" end="95" mediaRef="IU/MediaObject/604575"/>
+                        </Chunk>
+                        <Chunk label="91">
+                           <ContentInterval begin="95" end="96" mediaRef="IU/MediaObject/604575"/>
+                        </Chunk>
+                     </Div>
+                     <Div label="[Scene 3]">
+                        <Chunk label="92">
+                           <ContentInterval begin="96" end="97" mediaRef="IU/MediaObject/604575"/>
+                        </Chunk>
+                        <Chunk label="93">
+                           <ContentInterval begin="97" end="98" mediaRef="IU/MediaObject/604575"/>
+                        </Chunk>
+                        <Chunk label="94">
+                           <ContentInterval begin="98" end="99" mediaRef="IU/MediaObject/604575"/>
+                        </Chunk>
+                        <Chunk label="95">
+                           <ContentInterval begin="99" end="100" mediaRef="IU/MediaObject/604575"/>
+                        </Chunk>
+                     </Div>
+                     <Div label="[Scene 4]">
+                        <Chunk label="96">
+                           <ContentInterval begin="100" end="101" mediaRef="IU/MediaObject/604575"/>
+                        </Chunk>
+                        <Chunk label="97">
+                           <ContentInterval begin="101" end="102" mediaRef="IU/MediaObject/604575"/>
+                        </Chunk>
+                        <Chunk label="98">
+                           <ContentInterval begin="102" end="103" mediaRef="IU/MediaObject/604575"/>
+                        </Chunk>
+                        <Chunk label="99">
+                           <ContentInterval begin="103" end="104" mediaRef="IU/MediaObject/604575"/>
+                        </Chunk>
+                        <Chunk label="100">
+                           <ContentInterval begin="104" end="105" mediaRef="IU/MediaObject/604575"/>
+                        </Chunk>
+                        <Chunk label="101">
+                           <ContentInterval begin="105" end="106" mediaRef="IU/MediaObject/604575"/>
+                        </Chunk>
+                        <Chunk label="102">
+                           <ContentInterval begin="106" end="107" mediaRef="IU/MediaObject/604575"/>
+                        </Chunk>
+                        <Chunk label="103">
+                           <ContentInterval begin="107" end="108" mediaRef="IU/MediaObject/604575"/>
+                        </Chunk>
+                     </Div>
+                     <Div label="[Scene 5]">
+                        <Chunk label="104">
+                           <ContentInterval begin="108" end="109" mediaRef="IU/MediaObject/604575"/>
+                        </Chunk>
+                        <Chunk label="105">
+                           <ContentInterval begin="109" end="110" mediaRef="IU/MediaObject/604575"/>
+                        </Chunk>
+                        <Chunk label="106">
+                           <ContentInterval begin="110" end="111" mediaRef="IU/MediaObject/604575"/>
+                        </Chunk>
+                        <Chunk label="107">
+                           <ContentInterval begin="111" end="112" mediaRef="IU/MediaObject/604575"/>
+                        </Chunk>
+                        <Chunk label="108">
+                           <ContentInterval begin="112" end="113" mediaRef="IU/MediaObject/604575"/>
+                        </Chunk>
+                        <Chunk label="109">
+                           <ContentInterval begin="113" end="114" mediaRef="IU/MediaObject/604575"/>
+                        </Chunk>
+                     </Div>
+                     <Div label="[Scene 6]">
+                        <Chunk label="110">
+                           <ContentInterval begin="114" end="115" mediaRef="IU/MediaObject/604575"/>
+                        </Chunk>
+                        <Chunk label="111">
+                           <ContentInterval begin="115" end="116" mediaRef="IU/MediaObject/604575"/>
+                        </Chunk>
+                     </Div>
+                     <Div label="[Scene 7]">
+                        <Chunk label="112">
+                           <ContentInterval begin="116" end="117" mediaRef="IU/MediaObject/604575"/>
+                        </Chunk>
+                        <Chunk label="113">
+                           <ContentInterval begin="117" end="118" mediaRef="IU/MediaObject/604575"/>
+                        </Chunk>
+                        <Chunk label="114">
+                           <ContentInterval begin="118" end="119" mediaRef="IU/MediaObject/604575"/>
+                        </Chunk>
+                        <Chunk label="115">
+                           <ContentInterval begin="119" end="120" mediaRef="IU/MediaObject/604575"/>
+                        </Chunk>
+                        <Chunk label="116">
+                           <ContentInterval begin="120" end="121" mediaRef="IU/MediaObject/604575"/>
+                        </Chunk>
+                        <Chunk label="117">
+                           <ContentInterval begin="121" end="122" mediaRef="IU/MediaObject/604575"/>
+                        </Chunk>
+                        <Chunk label="118">
+                           <ContentInterval begin="122" end="123" mediaRef="IU/MediaObject/604575"/>
+                        </Chunk>
+                        <Chunk label="119">
+                           <ContentInterval begin="123" end="124" mediaRef="IU/MediaObject/604575"/>
+                        </Chunk>
+                     </Div>
+                  </Div>
+                  <Div label="[Act III]">
+                     <Div label="[Scene 1]">
+                        <Chunk label="120">
+                           <ContentInterval begin="124" end="125" mediaRef="IU/MediaObject/604575"/>
+                        </Chunk>
+                        <Chunk label="121">
+                           <ContentInterval begin="125" end="126" mediaRef="IU/MediaObject/604575"/>
+                        </Chunk>
+                        <Chunk label="122">
+                           <ContentInterval begin="126" end="127" mediaRef="IU/MediaObject/604575"/>
+                        </Chunk>
+                        <Chunk label="123">
+                           <ContentInterval begin="127" end="128" mediaRef="IU/MediaObject/604575"/>
+                        </Chunk>
+                        <Chunk label="124">
+                           <ContentInterval begin="128" end="129" mediaRef="IU/MediaObject/604575"/>
+                        </Chunk>
+                        <Chunk label="125">
+                           <ContentInterval begin="129" end="130" mediaRef="IU/MediaObject/604575"/>
+                        </Chunk>
+                     </Div>
+                     <Div label="[Scene 2]">
+                        <Chunk label="126">
+                           <ContentInterval begin="130" end="131" mediaRef="IU/MediaObject/604575"/>
+                        </Chunk>
+                        <Chunk label="127">
+                           <ContentInterval begin="131" end="132" mediaRef="IU/MediaObject/604575"/>
+                        </Chunk>
+                     </Div>
+                     <Div label="[Scene 3]">
+                        <Chunk label="128">
+                           <ContentInterval begin="132" end="133" mediaRef="IU/MediaObject/604575"/>
+                        </Chunk>
+                        <Chunk label="129">
+                           <ContentInterval begin="133" end="134" mediaRef="IU/MediaObject/604575"/>
+                        </Chunk>
+                        <Chunk label="130">
+                           <ContentInterval begin="134" end="135" mediaRef="IU/MediaObject/604575"/>
+                        </Chunk>
+                        <Chunk label="131">
+                           <ContentInterval begin="135" end="136" mediaRef="IU/MediaObject/604575"/>
+                        </Chunk>
+                        <Chunk label="132">
+                           <ContentInterval begin="136" end="137" mediaRef="IU/MediaObject/604575"/>
+                        </Chunk>
+                        <Chunk label="133">
+                           <ContentInterval begin="137" end="138" mediaRef="IU/MediaObject/604575"/>
+                        </Chunk>
+                     </Div>
+                     <Div label="[Scene 4]">
+                        <Chunk label="134">
+                           <ContentInterval begin="138" end="139" mediaRef="IU/MediaObject/604575"/>
+                        </Chunk>
+                        <Chunk label="135">
+                           <ContentInterval begin="139" end="140" mediaRef="IU/MediaObject/604575"/>
+                        </Chunk>
+                        <Chunk label="136">
+                           <ContentInterval begin="140" end="141" mediaRef="IU/MediaObject/604575"/>
+                        </Chunk>
+                        <Chunk label="137">
+                           <ContentInterval begin="141" end="142" mediaRef="IU/MediaObject/604575"/>
+                        </Chunk>
+                     </Div>
+                     <Div label="[Scene 5]">
+                        <Chunk label="138">
+                           <ContentInterval begin="142" end="143" mediaRef="IU/MediaObject/604575"/>
+                        </Chunk>
+                        <Chunk label="139">
+                           <ContentInterval begin="143" end="144" mediaRef="IU/MediaObject/604575"/>
+                        </Chunk>
+                     </Div>
+                     <Div label="[Scene 6]">
+                        <Chunk label="140">
+                           <ContentInterval begin="144" end="145" mediaRef="IU/MediaObject/604575"/>
+                        </Chunk>
+                        <Chunk label="141">
+                           <ContentInterval begin="145" end="146" mediaRef="IU/MediaObject/604575"/>
+                        </Chunk>
+                     </Div>
+                     <Div label="[Scene 7]">
+                        <Chunk label="142">
+                           <ContentInterval begin="146" end="147" mediaRef="IU/MediaObject/604575"/>
+                        </Chunk>
+                        <Chunk label="143">
+                           <ContentInterval begin="147" end="148" mediaRef="IU/MediaObject/604575"/>
+                        </Chunk>
+                     </Div>
+                     <Div label="[Scene 8]">
+                        <Chunk label="144">
+                           <ContentInterval begin="148" end="149" mediaRef="IU/MediaObject/604575"/>
+                        </Chunk>
+                        <Chunk label="145">
+                           <ContentInterval begin="149" end="150" mediaRef="IU/MediaObject/604575"/>
+                        </Chunk>
+                     </Div>
+                     <Div label="[Final Scene]">
+                        <Chunk label="146">
+                           <ContentInterval begin="150" end="151" mediaRef="IU/MediaObject/604575"/>
+                        </Chunk>
+                        <Chunk label="147">
+                           <ContentInterval begin="151" end="152" mediaRef="IU/MediaObject/604575"/>
+                        </Chunk>
+                        <Chunk label="148">
+                           <ContentInterval begin="152" end="153" mediaRef="IU/MediaObject/604575"/>
+                        </Chunk>
+                        <Chunk label="149">
+                           <ContentInterval begin="153" end="154" mediaRef="IU/MediaObject/604575"/>
+                        </Chunk>
+                        <Chunk label="150">
+                           <ContentInterval begin="154" end="155" mediaRef="IU/MediaObject/604575"/>
+                        </Chunk>
+                        <Chunk label="[151]">
+                           <ContentInterval begin="155" end="156" mediaRef="IU/MediaObject/604575"/>
+                        </Chunk>
+                     </Div>
+                  </Div>
+               </Div>
+               <Div label="[Copyright statement]">
+                  <Chunk label="[152]">
+                     <ContentInterval begin="156" end="157" mediaRef="IU/MediaObject/604575"/>
+                  </Chunk>
+               </Div>
+               <Div label="[Recording catalogue]">
+                  <Chunk label="[153]">
+                     <ContentInterval begin="157" end="158" mediaRef="IU/MediaObject/604575"/>
+                  </Chunk>
+               </Div>
+               <Div label="[Back cover]">
+                  <Chunk label="[154]">
+                     <ContentInterval begin="158" end="159" mediaRef="IU/MediaObject/604575"/>
+                  </Chunk>
+               </Div>
+            </Div>
+            <Div label="[Disc face 2]">
+               <Chunk label="[155]">
+                  <ContentInterval begin="159" end="160" mediaRef="IU/MediaObject/604575"/>
+               </Chunk>
+            </Div>
+            <Div label="[Disc face 3]">
+               <Chunk label="[156]">
+                  <ContentInterval begin="160" end="161" mediaRef="IU/MediaObject/604575"/>
+               </Chunk>
+            </Div>
+            <Div label="[Back tray card]">
+               <Chunk label="[157]">
+                  <ContentInterval begin="161" end="162" mediaRef="IU/MediaObject/604575"/>
+               </Chunk>
+               <Chunk label="[158]">
+                  <ContentInterval begin="162" end="163" mediaRef="IU/MediaObject/604575"/>
+               </Chunk>
+            </Div>
+         </Item>
+      </Structure>
+      <MediaObjectRefs>
+         <MediaObjectRef>IU/MediaObject/604575</MediaObjectRef>
+      </MediaObjectRefs>
+      <PhysicalID>
+         <Location/>
+         <CopyNumber>1</CopyNumber>
+      </PhysicalID>
+      <PhysicalCondition/>
+      <HoldingStatus>Restricted access</HoldingStatus>
+      <PublicDomain>Unknown</PublicDomain>
+      <OtherSystemIds>
+         <OtherSystemId>(Variations)vad7506</OtherSystemId>
+      </OtherSystemIds>
+      <Id>IU/Container/604574</Id>
+      <CreationInfo>
+         <User>darnelso@IU.EDU</User>
+         <Timestamp>2016-09-29 15:08:49.0</Timestamp>
+      </CreationInfo>
+      <UpdateInfo>
+         <User>darnelso@IU.EDU</User>
+         <Timestamp>2016-09-29 16:49:04.0</Timestamp>
+      </UpdateInfo>
+      <Status>Import only</Status>
+   </Container>
+   <SetInfo>
+      <TextMatches/>
+      <ThemeBaseURL>http://variations-prod-web.dlib.indiana.edu/variations/themes/</ThemeBaseURL>
+      <AvailableMediaItems>
+         <AvailableMediaItem>IU/Container/604574</AvailableMediaItem>
+         <AllItemsAvailable>true</AllItemsAvailable>
+      </AvailableMediaItems>
+   </SetInfo>
+</RecordSet>
+</AccompanyingMaterials>
+
+
+</AudioAccessPage>

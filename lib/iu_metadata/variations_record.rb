@@ -1,10 +1,13 @@
 # rubocop:disable Metrics/ClassLength
 module IuMetadata
   class VariationsRecord
-    def initialize(id, source)
+    def initialize(id, source, files: [], structure: {}, variations_type: 'ScoreAccessPage')
       @id = id
       @source = source
       @variations = Nokogiri::XML(source)
+      @files = files
+      @structure = structure
+      @variations_type = variations_type
       parse
     end
     attr_reader :id, :source
@@ -16,7 +19,7 @@ module IuMetadata
     end
 
     def source_metadata_identifier
-      @variations.xpath('//MediaObject/Label').first.content.to_s
+      @variations.xpath('//MediaObject/Label').first.content.to_s[0...7]
     end
 
     def holding_location
@@ -86,13 +89,15 @@ module IuMetadata
       end
 
       def items
-        @items ||= @variations.xpath('/ScoreAccessPage/RecordSet/Container/Structure/Item')
+        @items ||= @variations.xpath("//#{@variations_type}/RecordSet/Container/Structure/Item")
       end
 
       def parse
-        @files = []
-        @variations.xpath('//FileInfos/FileInfo').each do |file|
-          @files << file_hash(file)
+        @files ||= []
+        unless @files.present?
+          @variations.xpath('//FileInfos/FileInfo').each do |file|
+            @files << file_hash(file)
+          end
         end
         @thumbnail_path = @files.first[:path]
 
@@ -110,7 +115,7 @@ module IuMetadata
             @volumes << volume
           end
         else
-          @structure = { nodes: structure_to_array(items.first) }
+          @structure = { nodes: structure_to_array(items.first) } unless @structure.present?
         end
       end
 

@@ -1,0 +1,2793 @@
+---
+:resource: ScannedResource
+:attributes:
+  :default:
+    state: final_review
+    viewing_direction: left-to-right
+    rights_statement: http://rightsstatements.org/vocab/InC/1.0/
+    visibility: authenticated
+  :local:
+    source_metadata_identifier: VAD7506
+    holding_location: https://libraries.indiana.edu/music
+    physical_description: Accompanying materials
+    copyright_holder:
+    - "(P) 2005 Deutsche Grammophon GmbH, Hamburg"
+  :remote:
+    identifier: http://purl.dlib.indiana.edu/iudl/variations/score/VAD7506
+    title:
+    - Rodelinda [sound recording]
+    sort_title: Rodelinda [sound recording]
+    responsibility_note:
+    - Handel
+    creator:
+    - Handel, George Frideric, 1685-1759
+    subject:
+    - Operas
+    date_created:
+    - '2005'
+    publisher:
+    - Archiv Produktion
+    publication_place:
+    - Hamburg
+    issued:
+    - p2005
+    published: 'Hamburg : Archiv Produktion, p2005'
+    local_call_number:
+    - CD .H135 A3-7
+:source_metadata: |-
+  <record xmlns="http://www.loc.gov/MARC21/slim">
+    <!-- Length implementation at offset 22 should hold a digit. Assuming 0 -->
+    <leader>02972 jm a2200625 a 4500</leader>
+    <controlfield tag="001">ocm61184107</controlfield>
+    <controlfield tag="003">OCoLC</controlfield>
+    <controlfield tag="005">20070314164647.3</controlfield>
+    <controlfield tag="007">sd|fsngnnmmned</controlfield>
+    <controlfield tag="008">060720p20052004gw opn   defhi      ita d</controlfield>
+    <datafield tag="010" ind1=" " ind2=" ">
+      <subfield code="a">  2006581770</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)ocm61184107</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">CIN</subfield>
+      <subfield code="c">CIN</subfield>
+      <subfield code="d">DLC</subfield>
+      <subfield code="d">VP@</subfield>
+    </datafield>
+    <datafield tag="024" ind1="1" ind2=" ">
+      <subfield code="a">028947753919</subfield>
+    </datafield>
+    <datafield tag="028" ind1="0" ind2="0">
+      <subfield code="a">00289 477 5391</subfield>
+      <subfield code="b">Archiv Produktion</subfield>
+    </datafield>
+    <datafield tag="028" ind1="0" ind2="0">
+      <subfield code="a">00289 477 5392</subfield>
+      <subfield code="b">Archiv Produktion</subfield>
+    </datafield>
+    <datafield tag="028" ind1="0" ind2="0">
+      <subfield code="a">00289 477 5393</subfield>
+      <subfield code="b">Archiv Produktion</subfield>
+    </datafield>
+    <datafield tag="028" ind1="0" ind2="0">
+      <subfield code="a">00289 477 5394</subfield>
+      <subfield code="b">Archiv Produktion</subfield>
+    </datafield>
+    <datafield tag="033" ind1="1" ind2="0">
+      <subfield code="a">200409--</subfield>
+      <subfield code="a">200411--</subfield>
+    </datafield>
+    <datafield tag="041" ind1="0" ind2=" ">
+      <subfield code="d">ita</subfield>
+      <subfield code="e">ita</subfield>
+      <subfield code="e">eng</subfield>
+      <subfield code="e">ger</subfield>
+      <subfield code="e">fre</subfield>
+      <subfield code="h">ita</subfield>
+      <subfield code="g">eng</subfield>
+      <subfield code="g">ger</subfield>
+      <subfield code="g">fre</subfield>
+      <subfield code="h">eng</subfield>
+    </datafield>
+    <datafield tag="042" ind1=" " ind2=" ">
+      <subfield code="a">lccopycat</subfield>
+    </datafield>
+    <datafield tag="099" ind1=" " ind2=" ">
+      <subfield code="a">CD</subfield>
+      <subfield code="a">.H135</subfield>
+      <subfield code="a">A3-7</subfield>
+    </datafield>
+    <datafield tag="049" ind1=" " ind2=" ">
+      <subfield code="a">IULA</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Handel, George Frideric,</subfield>
+      <subfield code="d">1685-1759.</subfield>
+    </datafield>
+    <datafield tag="240" ind1="1" ind2="0">
+      <subfield code="a">Rodelinda</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">Rodelinda</subfield>
+      <subfield code="h">[sound recording] /</subfield>
+      <subfield code="c">Handel.</subfield>
+    </datafield>
+    <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">Hamburg :</subfield>
+      <subfield code="b">Archiv Produktion,</subfield>
+      <subfield code="c">p2005.</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">3 sound discs (193 min.) :</subfield>
+      <subfield code="b">digital ;</subfield>
+      <subfield code="c">4 3/4 in.</subfield>
+    </datafield>
+    <datafield tag="306" ind1=" " ind2=" ">
+      <subfield code="a">031226</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Archiv Produktion: 00289 477 5391 (00289 477 5392--00289 477 5394)</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Dramma per musica in 3 acts; libretto by Nicola Francesco Haym, after Antonio Salvi and Pierre Corneille.</subfield>
+    </datafield>
+    <datafield tag="546" ind1=" " ind2=" ">
+      <subfield code="a">Sung in Italian.</subfield>
+    </datafield>
+    <datafield tag="511" ind1="0" ind2=" ">
+      <subfield code="a">Simone Kermes, as Rodelinda ;  Sonia Prina, as Eduige ; Marie-Nicole Lemieux, as Unulfo ;  Marijana Mijanovi&#x107;, as Bertarido ;  Steve Davislim, as Grimoaldo ; Vito Priante, as Garibaldo ; Il complesso barocco ; Alan Curtis, conductor.</subfield>
+    </datafield>
+    <datafield tag="518" ind1=" " ind2=" ">
+      <subfield code="a">Recorded Sept. 2004, Sala Olimpia, Palazzo Doria Pamphilj, San Martino al Cimino, Italy and Nov. 2004, Friedrich-Ebert-Halle, Hamburg-Harburg.</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Compact discs.</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Program notes by Andrew Jones, notes on the performing version by Alan Curtis, and synopsis by Donna Leon, all in English with German and French translations, and libretto in Italian with English, German, and French translations (150 p. : ports.) bound separately as part 2.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Operas.</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Salvi, Antonio,</subfield>
+      <subfield code="d">1664-1724.</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Haym, Nicola Francesco.</subfield>
+      <subfield code="4">lbt</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Kermes, Simone.</subfield>
+      <subfield code="4">prf</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Mijanovi&#x107;, Marijana.</subfield>
+      <subfield code="4">prf</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Prina, Sonia,</subfield>
+      <subfield code="d">1975-</subfield>
+      <subfield code="4">prf</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Lemieux, Marie-Nicole.</subfield>
+      <subfield code="4">prf</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Davislim, Steve.</subfield>
+      <subfield code="4">prf</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Priante, Vito.</subfield>
+      <subfield code="4">prf</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Leon, Donna.</subfield>
+      <subfield code="4">wam</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Curtis, Alan.</subfield>
+      <subfield code="4">cnd</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Corneille, Pierre,</subfield>
+      <subfield code="d">1606-1684.</subfield>
+      <subfield code="t">Pertharite, roy des Lombards.</subfield>
+    </datafield>
+    <datafield tag="710" ind1="2" ind2=" ">
+      <subfield code="a">Complesso barocco.</subfield>
+      <subfield code="4">prf</subfield>
+    </datafield>
+    <datafield tag="856" ind1="4" ind2="1">
+      <subfield code="a">Bloomington</subfield>
+      <subfield code="3">Accompanying materials</subfield>
+      <subfield code="u">http://purl.dlib.indiana.edu/iudl/variations/score/VAD7506</subfield>
+      <subfield code="z">Available to authorized users of the Variations system</subfield>
+    </datafield>
+    <datafield tag="856" ind1="4" ind2="1">
+      <subfield code="a">Bloomington</subfield>
+      <subfield code="u">http://purl.dlib.indiana.edu/iudl/variations/sound/VAD7506</subfield>
+      <subfield code="z">Available to authorized users of the Variations System</subfield>
+    </datafield>
+    <datafield tag="596" ind1=" " ind2=" ">
+      <subfield code="a">20</subfield>
+    </datafield>
+    <datafield tag="926" ind1=" " ind2=" ">
+      <subfield code="a">B-MUSIC</subfield>
+      <subfield code="b">CD</subfield>
+      <subfield code="c">CD .H135 A.3-7 Compact discs</subfield>
+      <subfield code="d">AV</subfield>
+      <subfield code="f">1</subfield>
+    </datafield>
+    <datafield tag="926" ind1=" " ind2=" ">
+      <subfield code="a">B-MUSIC</subfield>
+      <subfield code="b">CD</subfield>
+      <subfield code="c">CD .H135 A.3-7 pt. 2</subfield>
+      <subfield code="d">AV</subfield>
+      <subfield code="f">1</subfield>
+    </datafield>
+    <datafield tag="926" ind1=" " ind2=" ">
+      <subfield code="a">B-MUSIC</subfield>
+      <subfield code="b">_MUVARIA</subfield>
+      <subfield code="c"/>
+      <subfield code="d">NONCIRC</subfield>
+      <subfield code="f">1</subfield>
+    </datafield>
+  </record>
+:thumbnail_path: "/tmp/ingest/VAD7506-1-0001.tif"
+:collections: []
+:structure:
+  :nodes:
+  - :label: "[Front tray card]"
+    :nodes:
+    - :label: "[i]"
+      :proxy: VAD7506-1-0001.tif
+    - :label: "[ii]"
+      :proxy: VAD7506-1-0002.tif
+  - :label: "[Disc face 1]"
+    :nodes:
+    - :label: "[iii]"
+      :proxy: VAD7506-1-0003.tif
+  - :label: "[Booklet]"
+    :nodes:
+    - :label: "[Front cover]"
+      :nodes:
+      - :label: "[iv]"
+        :proxy: VAD7506-1-0004.tif
+    - :label: "[Photograph of Alan Curtis]"
+      :nodes:
+      - :label: "[v]"
+        :proxy: VAD7506-1-0005.tif
+    - :label: "[Title page]"
+      :nodes:
+      - :label: "[1]"
+        :proxy: VAD7506-1-0006.tif
+    - :label: "[Photographs of cast]"
+      :nodes:
+      - :label: '2'
+        :proxy: VAD7506-1-0007.tif
+      - :label: '3'
+        :proxy: VAD7506-1-0008.tif
+      - :label: '4'
+        :proxy: VAD7506-1-0009.tif
+    - :label: "[Cast]"
+      :nodes:
+      - :label: '5'
+        :proxy: VAD7506-1-0010.tif
+    - :label: "[Instrumentalists]"
+      :nodes:
+      - :label: '6'
+        :proxy: VAD7506-1-0011.tif
+    - :label: "[Track list]"
+      :nodes:
+      - :label: '7'
+        :proxy: VAD7506-1-0012.tif
+      - :label: '8'
+        :proxy: VAD7506-1-0013.tif
+      - :label: '9'
+        :proxy: VAD7506-1-0014.tif
+      - :label: '10'
+        :proxy: VAD7506-1-0015.tif
+      - :label: '11'
+        :proxy: VAD7506-1-0016.tif
+    - :label: "[Liner notes (English)]"
+      :nodes:
+      - :label: Handel's "Rodelinda", Andrew Jones
+        :nodes:
+        - :label: '12'
+          :proxy: VAD7506-1-0017.tif
+        - :label: '13'
+          :proxy: VAD7506-1-0018.tif
+        - :label: '14'
+          :proxy: VAD7506-1-0019.tif
+        - :label: '15'
+          :proxy: VAD7506-1-0020.tif
+        - :label: '16'
+          :proxy: VAD7506-1-0021.tif
+        - :label: '17'
+          :proxy: VAD7506-1-0022.tif
+      - :label: A Note on the Performing Version, Alan Curtis
+        :nodes:
+        - :label: '18'
+          :proxy: VAD7506-1-0023.tif
+        - :label: '19'
+          :proxy: VAD7506-1-0024.tif
+      - :label: Synopsis, Donna Leon
+        :nodes:
+        - :label: '20'
+          :proxy: VAD7506-1-0025.tif
+        - :label: '21'
+          :proxy: VAD7506-1-0026.tif
+        - :label: '22'
+          :proxy: VAD7506-1-0027.tif
+      - :label: Artist Biographies
+        :nodes:
+        - :label: '23'
+          :proxy: VAD7506-1-0028.tif
+        - :label: '24'
+          :proxy: VAD7506-1-0029.tif
+        - :label: '25'
+          :proxy: VAD7506-1-0030.tif
+        - :label: '26'
+          :proxy: VAD7506-1-0031.tif
+    - :label: "[Liner notes (German)]"
+      :nodes:
+      - :label: Händel's >>Rodelinda<<, Andrew Jones
+        :nodes:
+        - :label: '27'
+          :proxy: VAD7506-1-0032.tif
+        - :label: '28'
+          :proxy: VAD7506-1-0033.tif
+        - :label: '29'
+          :proxy: VAD7506-1-0034.tif
+        - :label: '30'
+          :proxy: VAD7506-1-0035.tif
+        - :label: '31'
+          :proxy: VAD7506-1-0036.tif
+        - :label: '32'
+          :proxy: VAD7506-1-0037.tif
+      - :label: Zur eingespielten Version, Alan Curtis
+        :nodes:
+        - :label: '33'
+          :proxy: VAD7506-1-0038.tif
+        - :label: '34'
+          :proxy: VAD7506-1-0039.tif
+      - :label: Die Handlung, Donna Leon
+        :nodes:
+        - :label: '35'
+          :proxy: VAD7506-1-0040.tif
+        - :label: '36'
+          :proxy: VAD7506-1-0041.tif
+        - :label: '37'
+          :proxy: VAD7506-1-0042.tif
+        - :label: '38'
+          :proxy: VAD7506-1-0043.tif
+      - :label: Die Interpreten
+        :nodes:
+        - :label: '39'
+          :proxy: VAD7506-1-0044.tif
+        - :label: '40'
+          :proxy: VAD7506-1-0045.tif
+        - :label: '41'
+          :proxy: VAD7506-1-0046.tif
+        - :label: '42'
+          :proxy: VAD7506-1-0047.tif
+    - :label: "[Liner notes (French)]"
+      :nodes:
+      - :label: ">>Rodelinda<< de Haendel, Andrew Jones"
+        :nodes:
+        - :label: '43'
+          :proxy: VAD7506-1-0048.tif
+        - :label: '44'
+          :proxy: VAD7506-1-0049.tif
+        - :label: '45'
+          :proxy: VAD7506-1-0050.tif
+        - :label: '46'
+          :proxy: VAD7506-1-0051.tif
+        - :label: '47'
+          :proxy: VAD7506-1-0052.tif
+        - :label: '48'
+          :proxy: VAD7506-1-0053.tif
+      - :label: La version enregistrée, Alan Curtis
+        :nodes:
+        - :label: '49'
+          :proxy: VAD7506-1-0054.tif
+        - :label: '50'
+          :proxy: VAD7506-1-0055.tif
+      - :label: Résumé de l'action, Donna Leon
+        :nodes:
+        - :label: '51'
+          :proxy: VAD7506-1-0056.tif
+        - :label: '52'
+          :proxy: VAD7506-1-0057.tif
+        - :label: '53'
+          :proxy: VAD7506-1-0058.tif
+      - :label: Les interprètes
+        :nodes:
+        - :label: '54'
+          :proxy: VAD7506-1-0059.tif
+        - :label: '55'
+          :proxy: VAD7506-1-0060.tif
+        - :label: '56'
+          :proxy: VAD7506-1-0061.tif
+        - :label: '57'
+          :proxy: VAD7506-1-0062.tif
+    - :label: "[Libretto of Handel's Rodelinda]"
+      :nodes:
+      - :label: "[Act I]"
+        :nodes:
+        - :label: "[Scene 1]"
+          :nodes:
+          - :label: '58'
+            :proxy: VAD7506-1-0063.tif
+          - :label: '59'
+            :proxy: VAD7506-1-0064.tif
+        - :label: "[Scene 2]"
+          :nodes:
+          - :label: '60'
+            :proxy: VAD7506-1-0065.tif
+          - :label: '61'
+            :proxy: VAD7506-1-0066.tif
+          - :label: '62'
+            :proxy: VAD7506-1-0067.tif
+          - :label: '63'
+            :proxy: VAD7506-1-0068.tif
+        - :label: "[Scene 3-4]"
+          :nodes:
+          - :label: '64'
+            :proxy: VAD7506-1-0069.tif
+          - :label: '65'
+            :proxy: VAD7506-1-0070.tif
+        - :label: "[Scene 5]"
+          :nodes:
+          - :label: '66'
+            :proxy: VAD7506-1-0071.tif
+          - :label: '67'
+            :proxy: VAD7506-1-0072.tif
+        - :label: "[Scene 6]"
+          :nodes:
+          - :label: '68'
+            :proxy: VAD7506-1-0073.tif
+          - :label: '69'
+            :proxy: VAD7506-1-0074.tif
+          - :label: '70'
+            :proxy: VAD7506-1-0075.tif
+          - :label: '71'
+            :proxy: VAD7506-1-0076.tif
+          - :label: '72'
+            :proxy: VAD7506-1-0077.tif
+          - :label: '73'
+            :proxy: VAD7506-1-0078.tif
+        - :label: "[Scene 7]"
+          :nodes:
+          - :label: '74'
+            :proxy: VAD7506-1-0079.tif
+          - :label: '75'
+            :proxy: VAD7506-1-0080.tif
+        - :label: "[Scene 8]"
+          :nodes:
+          - :label: '76'
+            :proxy: VAD7506-1-0081.tif
+          - :label: '77'
+            :proxy: VAD7506-1-0082.tif
+          - :label: '78'
+            :proxy: VAD7506-1-0083.tif
+          - :label: '79'
+            :proxy: VAD7506-1-0084.tif
+        - :label: "[Scene 9]"
+          :nodes:
+          - :label: '80'
+            :proxy: VAD7506-1-0085.tif
+          - :label: '81'
+            :proxy: VAD7506-1-0086.tif
+        - :label: "[Scene 10]"
+          :nodes:
+          - :label: '82'
+            :proxy: VAD7506-1-0087.tif
+          - :label: '83'
+            :proxy: VAD7506-1-0088.tif
+          - :label: '84'
+            :proxy: VAD7506-1-0089.tif
+          - :label: '85'
+            :proxy: VAD7506-1-0090.tif
+      - :label: "[A1 Sc.11--Act II]"
+        :nodes:
+        - :label: "[A1 Sc.11--A2 Sc.1]"
+          :nodes:
+          - :label: '86'
+            :proxy: VAD7506-1-0091.tif
+          - :label: '87'
+            :proxy: VAD7506-1-0092.tif
+          - :label: '88'
+            :proxy: VAD7506-1-0093.tif
+          - :label: '89'
+            :proxy: VAD7506-1-0094.tif
+        - :label: "[Scene 2]"
+          :nodes:
+          - :label: '90'
+            :proxy: VAD7506-1-0095.tif
+          - :label: '91'
+            :proxy: VAD7506-1-0096.tif
+        - :label: "[Scene 3]"
+          :nodes:
+          - :label: '92'
+            :proxy: VAD7506-1-0097.tif
+          - :label: '93'
+            :proxy: VAD7506-1-0098.tif
+          - :label: '94'
+            :proxy: VAD7506-1-0099.tif
+          - :label: '95'
+            :proxy: VAD7506-1-0100.tif
+        - :label: "[Scene 4]"
+          :nodes:
+          - :label: '96'
+            :proxy: VAD7506-1-0101.tif
+          - :label: '97'
+            :proxy: VAD7506-1-0102.tif
+          - :label: '98'
+            :proxy: VAD7506-1-0103.tif
+          - :label: '99'
+            :proxy: VAD7506-1-0104.tif
+          - :label: '100'
+            :proxy: VAD7506-1-0105.tif
+          - :label: '101'
+            :proxy: VAD7506-1-0106.tif
+          - :label: '102'
+            :proxy: VAD7506-1-0107.tif
+          - :label: '103'
+            :proxy: VAD7506-1-0108.tif
+        - :label: "[Scene 5]"
+          :nodes:
+          - :label: '104'
+            :proxy: VAD7506-1-0109.tif
+          - :label: '105'
+            :proxy: VAD7506-1-0110.tif
+          - :label: '106'
+            :proxy: VAD7506-1-0111.tif
+          - :label: '107'
+            :proxy: VAD7506-1-0112.tif
+          - :label: '108'
+            :proxy: VAD7506-1-0113.tif
+          - :label: '109'
+            :proxy: VAD7506-1-0114.tif
+        - :label: "[Scene 6]"
+          :nodes:
+          - :label: '110'
+            :proxy: VAD7506-1-0115.tif
+          - :label: '111'
+            :proxy: VAD7506-1-0116.tif
+        - :label: "[Scene 7]"
+          :nodes:
+          - :label: '112'
+            :proxy: VAD7506-1-0117.tif
+          - :label: '113'
+            :proxy: VAD7506-1-0118.tif
+          - :label: '114'
+            :proxy: VAD7506-1-0119.tif
+          - :label: '115'
+            :proxy: VAD7506-1-0120.tif
+          - :label: '116'
+            :proxy: VAD7506-1-0121.tif
+          - :label: '117'
+            :proxy: VAD7506-1-0122.tif
+          - :label: '118'
+            :proxy: VAD7506-1-0123.tif
+          - :label: '119'
+            :proxy: VAD7506-1-0124.tif
+      - :label: "[Act III]"
+        :nodes:
+        - :label: "[Scene 1]"
+          :nodes:
+          - :label: '120'
+            :proxy: VAD7506-1-0125.tif
+          - :label: '121'
+            :proxy: VAD7506-1-0126.tif
+          - :label: '122'
+            :proxy: VAD7506-1-0127.tif
+          - :label: '123'
+            :proxy: VAD7506-1-0128.tif
+          - :label: '124'
+            :proxy: VAD7506-1-0129.tif
+          - :label: '125'
+            :proxy: VAD7506-1-0130.tif
+        - :label: "[Scene 2]"
+          :nodes:
+          - :label: '126'
+            :proxy: VAD7506-1-0131.tif
+          - :label: '127'
+            :proxy: VAD7506-1-0132.tif
+        - :label: "[Scene 3]"
+          :nodes:
+          - :label: '128'
+            :proxy: VAD7506-1-0133.tif
+          - :label: '129'
+            :proxy: VAD7506-1-0134.tif
+          - :label: '130'
+            :proxy: VAD7506-1-0135.tif
+          - :label: '131'
+            :proxy: VAD7506-1-0136.tif
+          - :label: '132'
+            :proxy: VAD7506-1-0137.tif
+          - :label: '133'
+            :proxy: VAD7506-1-0138.tif
+        - :label: "[Scene 4]"
+          :nodes:
+          - :label: '134'
+            :proxy: VAD7506-1-0139.tif
+          - :label: '135'
+            :proxy: VAD7506-1-0140.tif
+          - :label: '136'
+            :proxy: VAD7506-1-0141.tif
+          - :label: '137'
+            :proxy: VAD7506-1-0142.tif
+        - :label: "[Scene 5]"
+          :nodes:
+          - :label: '138'
+            :proxy: VAD7506-1-0143.tif
+          - :label: '139'
+            :proxy: VAD7506-1-0144.tif
+        - :label: "[Scene 6]"
+          :nodes:
+          - :label: '140'
+            :proxy: VAD7506-1-0145.tif
+          - :label: '141'
+            :proxy: VAD7506-1-0146.tif
+        - :label: "[Scene 7]"
+          :nodes:
+          - :label: '142'
+            :proxy: VAD7506-1-0147.tif
+          - :label: '143'
+            :proxy: VAD7506-1-0148.tif
+        - :label: "[Scene 8]"
+          :nodes:
+          - :label: '144'
+            :proxy: VAD7506-1-0149.tif
+          - :label: '145'
+            :proxy: VAD7506-1-0150.tif
+        - :label: "[Final Scene]"
+          :nodes:
+          - :label: '146'
+            :proxy: VAD7506-1-0151.tif
+          - :label: '147'
+            :proxy: VAD7506-1-0152.tif
+          - :label: '148'
+            :proxy: VAD7506-1-0153.tif
+          - :label: '149'
+            :proxy: VAD7506-1-0154.tif
+          - :label: '150'
+            :proxy: VAD7506-1-0155.tif
+          - :label: "[151]"
+            :proxy: VAD7506-1-0156.tif
+    - :label: "[Copyright statement]"
+      :nodes:
+      - :label: "[152]"
+        :proxy: VAD7506-1-0157.tif
+    - :label: "[Recording catalogue]"
+      :nodes:
+      - :label: "[153]"
+        :proxy: VAD7506-1-0158.tif
+    - :label: "[Back cover]"
+      :nodes:
+      - :label: "[154]"
+        :proxy: VAD7506-1-0159.tif
+  - :label: "[Disc face 2]"
+    :nodes:
+    - :label: "[155]"
+      :proxy: VAD7506-1-0160.tif
+  - :label: "[Disc face 3]"
+    :nodes:
+    - :label: "[156]"
+      :proxy: VAD7506-1-0161.tif
+  - :label: "[Back tray card]"
+    :nodes:
+    - :label: "[157]"
+      :proxy: VAD7506-1-0162.tif
+    - :label: "[158]"
+      :proxy: VAD7506-1-0163.tif
+:files:
+- :id: VAD7506-1-0001.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0001.tif"
+  :attributes:
+    :title:
+    - "[i]"
+    :source_metadata_identifier: VAD7506-1-0001
+- :id: VAD7506-1-0002.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0002.tif"
+  :attributes:
+    :title:
+    - "[ii]"
+    :source_metadata_identifier: VAD7506-1-0002
+- :id: VAD7506-1-0003.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0003.tif"
+  :attributes:
+    :title:
+    - "[iii]"
+    :source_metadata_identifier: VAD7506-1-0003
+- :id: VAD7506-1-0004.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0004.tif"
+  :attributes:
+    :title:
+    - "[iv]"
+    :source_metadata_identifier: VAD7506-1-0004
+- :id: VAD7506-1-0005.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0005.tif"
+  :attributes:
+    :title:
+    - "[v]"
+    :source_metadata_identifier: VAD7506-1-0005
+- :id: VAD7506-1-0006.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0006.tif"
+  :attributes:
+    :title:
+    - "[1]"
+    :source_metadata_identifier: VAD7506-1-0006
+- :id: VAD7506-1-0007.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0007.tif"
+  :attributes:
+    :title:
+    - '2'
+    :source_metadata_identifier: VAD7506-1-0007
+- :id: VAD7506-1-0008.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0008.tif"
+  :attributes:
+    :title:
+    - '3'
+    :source_metadata_identifier: VAD7506-1-0008
+- :id: VAD7506-1-0009.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0009.tif"
+  :attributes:
+    :title:
+    - '4'
+    :source_metadata_identifier: VAD7506-1-0009
+- :id: VAD7506-1-0010.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0010.tif"
+  :attributes:
+    :title:
+    - '5'
+    :source_metadata_identifier: VAD7506-1-0010
+- :id: VAD7506-1-0011.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0011.tif"
+  :attributes:
+    :title:
+    - '6'
+    :source_metadata_identifier: VAD7506-1-0011
+- :id: VAD7506-1-0012.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0012.tif"
+  :attributes:
+    :title:
+    - '7'
+    :source_metadata_identifier: VAD7506-1-0012
+- :id: VAD7506-1-0013.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0013.tif"
+  :attributes:
+    :title:
+    - '8'
+    :source_metadata_identifier: VAD7506-1-0013
+- :id: VAD7506-1-0014.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0014.tif"
+  :attributes:
+    :title:
+    - '9'
+    :source_metadata_identifier: VAD7506-1-0014
+- :id: VAD7506-1-0015.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0015.tif"
+  :attributes:
+    :title:
+    - '10'
+    :source_metadata_identifier: VAD7506-1-0015
+- :id: VAD7506-1-0016.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0016.tif"
+  :attributes:
+    :title:
+    - '11'
+    :source_metadata_identifier: VAD7506-1-0016
+- :id: VAD7506-1-0017.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0017.tif"
+  :attributes:
+    :title:
+    - '12'
+    :source_metadata_identifier: VAD7506-1-0017
+- :id: VAD7506-1-0018.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0018.tif"
+  :attributes:
+    :title:
+    - '13'
+    :source_metadata_identifier: VAD7506-1-0018
+- :id: VAD7506-1-0019.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0019.tif"
+  :attributes:
+    :title:
+    - '14'
+    :source_metadata_identifier: VAD7506-1-0019
+- :id: VAD7506-1-0020.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0020.tif"
+  :attributes:
+    :title:
+    - '15'
+    :source_metadata_identifier: VAD7506-1-0020
+- :id: VAD7506-1-0021.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0021.tif"
+  :attributes:
+    :title:
+    - '16'
+    :source_metadata_identifier: VAD7506-1-0021
+- :id: VAD7506-1-0022.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0022.tif"
+  :attributes:
+    :title:
+    - '17'
+    :source_metadata_identifier: VAD7506-1-0022
+- :id: VAD7506-1-0023.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0023.tif"
+  :attributes:
+    :title:
+    - '18'
+    :source_metadata_identifier: VAD7506-1-0023
+- :id: VAD7506-1-0024.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0024.tif"
+  :attributes:
+    :title:
+    - '19'
+    :source_metadata_identifier: VAD7506-1-0024
+- :id: VAD7506-1-0025.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0025.tif"
+  :attributes:
+    :title:
+    - '20'
+    :source_metadata_identifier: VAD7506-1-0025
+- :id: VAD7506-1-0026.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0026.tif"
+  :attributes:
+    :title:
+    - '21'
+    :source_metadata_identifier: VAD7506-1-0026
+- :id: VAD7506-1-0027.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0027.tif"
+  :attributes:
+    :title:
+    - '22'
+    :source_metadata_identifier: VAD7506-1-0027
+- :id: VAD7506-1-0028.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0028.tif"
+  :attributes:
+    :title:
+    - '23'
+    :source_metadata_identifier: VAD7506-1-0028
+- :id: VAD7506-1-0029.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0029.tif"
+  :attributes:
+    :title:
+    - '24'
+    :source_metadata_identifier: VAD7506-1-0029
+- :id: VAD7506-1-0030.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0030.tif"
+  :attributes:
+    :title:
+    - '25'
+    :source_metadata_identifier: VAD7506-1-0030
+- :id: VAD7506-1-0031.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0031.tif"
+  :attributes:
+    :title:
+    - '26'
+    :source_metadata_identifier: VAD7506-1-0031
+- :id: VAD7506-1-0032.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0032.tif"
+  :attributes:
+    :title:
+    - '27'
+    :source_metadata_identifier: VAD7506-1-0032
+- :id: VAD7506-1-0033.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0033.tif"
+  :attributes:
+    :title:
+    - '28'
+    :source_metadata_identifier: VAD7506-1-0033
+- :id: VAD7506-1-0034.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0034.tif"
+  :attributes:
+    :title:
+    - '29'
+    :source_metadata_identifier: VAD7506-1-0034
+- :id: VAD7506-1-0035.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0035.tif"
+  :attributes:
+    :title:
+    - '30'
+    :source_metadata_identifier: VAD7506-1-0035
+- :id: VAD7506-1-0036.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0036.tif"
+  :attributes:
+    :title:
+    - '31'
+    :source_metadata_identifier: VAD7506-1-0036
+- :id: VAD7506-1-0037.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0037.tif"
+  :attributes:
+    :title:
+    - '32'
+    :source_metadata_identifier: VAD7506-1-0037
+- :id: VAD7506-1-0038.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0038.tif"
+  :attributes:
+    :title:
+    - '33'
+    :source_metadata_identifier: VAD7506-1-0038
+- :id: VAD7506-1-0039.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0039.tif"
+  :attributes:
+    :title:
+    - '34'
+    :source_metadata_identifier: VAD7506-1-0039
+- :id: VAD7506-1-0040.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0040.tif"
+  :attributes:
+    :title:
+    - '35'
+    :source_metadata_identifier: VAD7506-1-0040
+- :id: VAD7506-1-0041.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0041.tif"
+  :attributes:
+    :title:
+    - '36'
+    :source_metadata_identifier: VAD7506-1-0041
+- :id: VAD7506-1-0042.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0042.tif"
+  :attributes:
+    :title:
+    - '37'
+    :source_metadata_identifier: VAD7506-1-0042
+- :id: VAD7506-1-0043.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0043.tif"
+  :attributes:
+    :title:
+    - '38'
+    :source_metadata_identifier: VAD7506-1-0043
+- :id: VAD7506-1-0044.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0044.tif"
+  :attributes:
+    :title:
+    - '39'
+    :source_metadata_identifier: VAD7506-1-0044
+- :id: VAD7506-1-0045.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0045.tif"
+  :attributes:
+    :title:
+    - '40'
+    :source_metadata_identifier: VAD7506-1-0045
+- :id: VAD7506-1-0046.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0046.tif"
+  :attributes:
+    :title:
+    - '41'
+    :source_metadata_identifier: VAD7506-1-0046
+- :id: VAD7506-1-0047.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0047.tif"
+  :attributes:
+    :title:
+    - '42'
+    :source_metadata_identifier: VAD7506-1-0047
+- :id: VAD7506-1-0048.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0048.tif"
+  :attributes:
+    :title:
+    - '43'
+    :source_metadata_identifier: VAD7506-1-0048
+- :id: VAD7506-1-0049.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0049.tif"
+  :attributes:
+    :title:
+    - '44'
+    :source_metadata_identifier: VAD7506-1-0049
+- :id: VAD7506-1-0050.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0050.tif"
+  :attributes:
+    :title:
+    - '45'
+    :source_metadata_identifier: VAD7506-1-0050
+- :id: VAD7506-1-0051.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0051.tif"
+  :attributes:
+    :title:
+    - '46'
+    :source_metadata_identifier: VAD7506-1-0051
+- :id: VAD7506-1-0052.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0052.tif"
+  :attributes:
+    :title:
+    - '47'
+    :source_metadata_identifier: VAD7506-1-0052
+- :id: VAD7506-1-0053.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0053.tif"
+  :attributes:
+    :title:
+    - '48'
+    :source_metadata_identifier: VAD7506-1-0053
+- :id: VAD7506-1-0054.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0054.tif"
+  :attributes:
+    :title:
+    - '49'
+    :source_metadata_identifier: VAD7506-1-0054
+- :id: VAD7506-1-0055.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0055.tif"
+  :attributes:
+    :title:
+    - '50'
+    :source_metadata_identifier: VAD7506-1-0055
+- :id: VAD7506-1-0056.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0056.tif"
+  :attributes:
+    :title:
+    - '51'
+    :source_metadata_identifier: VAD7506-1-0056
+- :id: VAD7506-1-0057.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0057.tif"
+  :attributes:
+    :title:
+    - '52'
+    :source_metadata_identifier: VAD7506-1-0057
+- :id: VAD7506-1-0058.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0058.tif"
+  :attributes:
+    :title:
+    - '53'
+    :source_metadata_identifier: VAD7506-1-0058
+- :id: VAD7506-1-0059.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0059.tif"
+  :attributes:
+    :title:
+    - '54'
+    :source_metadata_identifier: VAD7506-1-0059
+- :id: VAD7506-1-0060.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0060.tif"
+  :attributes:
+    :title:
+    - '55'
+    :source_metadata_identifier: VAD7506-1-0060
+- :id: VAD7506-1-0061.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0061.tif"
+  :attributes:
+    :title:
+    - '56'
+    :source_metadata_identifier: VAD7506-1-0061
+- :id: VAD7506-1-0062.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0062.tif"
+  :attributes:
+    :title:
+    - '57'
+    :source_metadata_identifier: VAD7506-1-0062
+- :id: VAD7506-1-0063.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0063.tif"
+  :attributes:
+    :title:
+    - '58'
+    :source_metadata_identifier: VAD7506-1-0063
+- :id: VAD7506-1-0064.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0064.tif"
+  :attributes:
+    :title:
+    - '59'
+    :source_metadata_identifier: VAD7506-1-0064
+- :id: VAD7506-1-0065.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0065.tif"
+  :attributes:
+    :title:
+    - '60'
+    :source_metadata_identifier: VAD7506-1-0065
+- :id: VAD7506-1-0066.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0066.tif"
+  :attributes:
+    :title:
+    - '61'
+    :source_metadata_identifier: VAD7506-1-0066
+- :id: VAD7506-1-0067.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0067.tif"
+  :attributes:
+    :title:
+    - '62'
+    :source_metadata_identifier: VAD7506-1-0067
+- :id: VAD7506-1-0068.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0068.tif"
+  :attributes:
+    :title:
+    - '63'
+    :source_metadata_identifier: VAD7506-1-0068
+- :id: VAD7506-1-0069.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0069.tif"
+  :attributes:
+    :title:
+    - '64'
+    :source_metadata_identifier: VAD7506-1-0069
+- :id: VAD7506-1-0070.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0070.tif"
+  :attributes:
+    :title:
+    - '65'
+    :source_metadata_identifier: VAD7506-1-0070
+- :id: VAD7506-1-0071.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0071.tif"
+  :attributes:
+    :title:
+    - '66'
+    :source_metadata_identifier: VAD7506-1-0071
+- :id: VAD7506-1-0072.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0072.tif"
+  :attributes:
+    :title:
+    - '67'
+    :source_metadata_identifier: VAD7506-1-0072
+- :id: VAD7506-1-0073.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0073.tif"
+  :attributes:
+    :title:
+    - '68'
+    :source_metadata_identifier: VAD7506-1-0073
+- :id: VAD7506-1-0074.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0074.tif"
+  :attributes:
+    :title:
+    - '69'
+    :source_metadata_identifier: VAD7506-1-0074
+- :id: VAD7506-1-0075.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0075.tif"
+  :attributes:
+    :title:
+    - '70'
+    :source_metadata_identifier: VAD7506-1-0075
+- :id: VAD7506-1-0076.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0076.tif"
+  :attributes:
+    :title:
+    - '71'
+    :source_metadata_identifier: VAD7506-1-0076
+- :id: VAD7506-1-0077.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0077.tif"
+  :attributes:
+    :title:
+    - '72'
+    :source_metadata_identifier: VAD7506-1-0077
+- :id: VAD7506-1-0078.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0078.tif"
+  :attributes:
+    :title:
+    - '73'
+    :source_metadata_identifier: VAD7506-1-0078
+- :id: VAD7506-1-0079.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0079.tif"
+  :attributes:
+    :title:
+    - '74'
+    :source_metadata_identifier: VAD7506-1-0079
+- :id: VAD7506-1-0080.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0080.tif"
+  :attributes:
+    :title:
+    - '75'
+    :source_metadata_identifier: VAD7506-1-0080
+- :id: VAD7506-1-0081.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0081.tif"
+  :attributes:
+    :title:
+    - '76'
+    :source_metadata_identifier: VAD7506-1-0081
+- :id: VAD7506-1-0082.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0082.tif"
+  :attributes:
+    :title:
+    - '77'
+    :source_metadata_identifier: VAD7506-1-0082
+- :id: VAD7506-1-0083.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0083.tif"
+  :attributes:
+    :title:
+    - '78'
+    :source_metadata_identifier: VAD7506-1-0083
+- :id: VAD7506-1-0084.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0084.tif"
+  :attributes:
+    :title:
+    - '79'
+    :source_metadata_identifier: VAD7506-1-0084
+- :id: VAD7506-1-0085.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0085.tif"
+  :attributes:
+    :title:
+    - '80'
+    :source_metadata_identifier: VAD7506-1-0085
+- :id: VAD7506-1-0086.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0086.tif"
+  :attributes:
+    :title:
+    - '81'
+    :source_metadata_identifier: VAD7506-1-0086
+- :id: VAD7506-1-0087.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0087.tif"
+  :attributes:
+    :title:
+    - '82'
+    :source_metadata_identifier: VAD7506-1-0087
+- :id: VAD7506-1-0088.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0088.tif"
+  :attributes:
+    :title:
+    - '83'
+    :source_metadata_identifier: VAD7506-1-0088
+- :id: VAD7506-1-0089.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0089.tif"
+  :attributes:
+    :title:
+    - '84'
+    :source_metadata_identifier: VAD7506-1-0089
+- :id: VAD7506-1-0090.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0090.tif"
+  :attributes:
+    :title:
+    - '85'
+    :source_metadata_identifier: VAD7506-1-0090
+- :id: VAD7506-1-0091.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0091.tif"
+  :attributes:
+    :title:
+    - '86'
+    :source_metadata_identifier: VAD7506-1-0091
+- :id: VAD7506-1-0092.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0092.tif"
+  :attributes:
+    :title:
+    - '87'
+    :source_metadata_identifier: VAD7506-1-0092
+- :id: VAD7506-1-0093.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0093.tif"
+  :attributes:
+    :title:
+    - '88'
+    :source_metadata_identifier: VAD7506-1-0093
+- :id: VAD7506-1-0094.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0094.tif"
+  :attributes:
+    :title:
+    - '89'
+    :source_metadata_identifier: VAD7506-1-0094
+- :id: VAD7506-1-0095.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0095.tif"
+  :attributes:
+    :title:
+    - '90'
+    :source_metadata_identifier: VAD7506-1-0095
+- :id: VAD7506-1-0096.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0096.tif"
+  :attributes:
+    :title:
+    - '91'
+    :source_metadata_identifier: VAD7506-1-0096
+- :id: VAD7506-1-0097.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0097.tif"
+  :attributes:
+    :title:
+    - '92'
+    :source_metadata_identifier: VAD7506-1-0097
+- :id: VAD7506-1-0098.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0098.tif"
+  :attributes:
+    :title:
+    - '93'
+    :source_metadata_identifier: VAD7506-1-0098
+- :id: VAD7506-1-0099.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0099.tif"
+  :attributes:
+    :title:
+    - '94'
+    :source_metadata_identifier: VAD7506-1-0099
+- :id: VAD7506-1-0100.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0100.tif"
+  :attributes:
+    :title:
+    - '95'
+    :source_metadata_identifier: VAD7506-1-0100
+- :id: VAD7506-1-0101.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0101.tif"
+  :attributes:
+    :title:
+    - '96'
+    :source_metadata_identifier: VAD7506-1-0101
+- :id: VAD7506-1-0102.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0102.tif"
+  :attributes:
+    :title:
+    - '97'
+    :source_metadata_identifier: VAD7506-1-0102
+- :id: VAD7506-1-0103.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0103.tif"
+  :attributes:
+    :title:
+    - '98'
+    :source_metadata_identifier: VAD7506-1-0103
+- :id: VAD7506-1-0104.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0104.tif"
+  :attributes:
+    :title:
+    - '99'
+    :source_metadata_identifier: VAD7506-1-0104
+- :id: VAD7506-1-0105.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0105.tif"
+  :attributes:
+    :title:
+    - '100'
+    :source_metadata_identifier: VAD7506-1-0105
+- :id: VAD7506-1-0106.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0106.tif"
+  :attributes:
+    :title:
+    - '101'
+    :source_metadata_identifier: VAD7506-1-0106
+- :id: VAD7506-1-0107.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0107.tif"
+  :attributes:
+    :title:
+    - '102'
+    :source_metadata_identifier: VAD7506-1-0107
+- :id: VAD7506-1-0108.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0108.tif"
+  :attributes:
+    :title:
+    - '103'
+    :source_metadata_identifier: VAD7506-1-0108
+- :id: VAD7506-1-0109.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0109.tif"
+  :attributes:
+    :title:
+    - '104'
+    :source_metadata_identifier: VAD7506-1-0109
+- :id: VAD7506-1-0110.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0110.tif"
+  :attributes:
+    :title:
+    - '105'
+    :source_metadata_identifier: VAD7506-1-0110
+- :id: VAD7506-1-0111.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0111.tif"
+  :attributes:
+    :title:
+    - '106'
+    :source_metadata_identifier: VAD7506-1-0111
+- :id: VAD7506-1-0112.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0112.tif"
+  :attributes:
+    :title:
+    - '107'
+    :source_metadata_identifier: VAD7506-1-0112
+- :id: VAD7506-1-0113.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0113.tif"
+  :attributes:
+    :title:
+    - '108'
+    :source_metadata_identifier: VAD7506-1-0113
+- :id: VAD7506-1-0114.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0114.tif"
+  :attributes:
+    :title:
+    - '109'
+    :source_metadata_identifier: VAD7506-1-0114
+- :id: VAD7506-1-0115.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0115.tif"
+  :attributes:
+    :title:
+    - '110'
+    :source_metadata_identifier: VAD7506-1-0115
+- :id: VAD7506-1-0116.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0116.tif"
+  :attributes:
+    :title:
+    - '111'
+    :source_metadata_identifier: VAD7506-1-0116
+- :id: VAD7506-1-0117.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0117.tif"
+  :attributes:
+    :title:
+    - '112'
+    :source_metadata_identifier: VAD7506-1-0117
+- :id: VAD7506-1-0118.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0118.tif"
+  :attributes:
+    :title:
+    - '113'
+    :source_metadata_identifier: VAD7506-1-0118
+- :id: VAD7506-1-0119.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0119.tif"
+  :attributes:
+    :title:
+    - '114'
+    :source_metadata_identifier: VAD7506-1-0119
+- :id: VAD7506-1-0120.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0120.tif"
+  :attributes:
+    :title:
+    - '115'
+    :source_metadata_identifier: VAD7506-1-0120
+- :id: VAD7506-1-0121.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0121.tif"
+  :attributes:
+    :title:
+    - '116'
+    :source_metadata_identifier: VAD7506-1-0121
+- :id: VAD7506-1-0122.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0122.tif"
+  :attributes:
+    :title:
+    - '117'
+    :source_metadata_identifier: VAD7506-1-0122
+- :id: VAD7506-1-0123.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0123.tif"
+  :attributes:
+    :title:
+    - '118'
+    :source_metadata_identifier: VAD7506-1-0123
+- :id: VAD7506-1-0124.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0124.tif"
+  :attributes:
+    :title:
+    - '119'
+    :source_metadata_identifier: VAD7506-1-0124
+- :id: VAD7506-1-0125.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0125.tif"
+  :attributes:
+    :title:
+    - '120'
+    :source_metadata_identifier: VAD7506-1-0125
+- :id: VAD7506-1-0126.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0126.tif"
+  :attributes:
+    :title:
+    - '121'
+    :source_metadata_identifier: VAD7506-1-0126
+- :id: VAD7506-1-0127.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0127.tif"
+  :attributes:
+    :title:
+    - '122'
+    :source_metadata_identifier: VAD7506-1-0127
+- :id: VAD7506-1-0128.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0128.tif"
+  :attributes:
+    :title:
+    - '123'
+    :source_metadata_identifier: VAD7506-1-0128
+- :id: VAD7506-1-0129.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0129.tif"
+  :attributes:
+    :title:
+    - '124'
+    :source_metadata_identifier: VAD7506-1-0129
+- :id: VAD7506-1-0130.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0130.tif"
+  :attributes:
+    :title:
+    - '125'
+    :source_metadata_identifier: VAD7506-1-0130
+- :id: VAD7506-1-0131.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0131.tif"
+  :attributes:
+    :title:
+    - '126'
+    :source_metadata_identifier: VAD7506-1-0131
+- :id: VAD7506-1-0132.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0132.tif"
+  :attributes:
+    :title:
+    - '127'
+    :source_metadata_identifier: VAD7506-1-0132
+- :id: VAD7506-1-0133.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0133.tif"
+  :attributes:
+    :title:
+    - '128'
+    :source_metadata_identifier: VAD7506-1-0133
+- :id: VAD7506-1-0134.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0134.tif"
+  :attributes:
+    :title:
+    - '129'
+    :source_metadata_identifier: VAD7506-1-0134
+- :id: VAD7506-1-0135.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0135.tif"
+  :attributes:
+    :title:
+    - '130'
+    :source_metadata_identifier: VAD7506-1-0135
+- :id: VAD7506-1-0136.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0136.tif"
+  :attributes:
+    :title:
+    - '131'
+    :source_metadata_identifier: VAD7506-1-0136
+- :id: VAD7506-1-0137.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0137.tif"
+  :attributes:
+    :title:
+    - '132'
+    :source_metadata_identifier: VAD7506-1-0137
+- :id: VAD7506-1-0138.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0138.tif"
+  :attributes:
+    :title:
+    - '133'
+    :source_metadata_identifier: VAD7506-1-0138
+- :id: VAD7506-1-0139.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0139.tif"
+  :attributes:
+    :title:
+    - '134'
+    :source_metadata_identifier: VAD7506-1-0139
+- :id: VAD7506-1-0140.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0140.tif"
+  :attributes:
+    :title:
+    - '135'
+    :source_metadata_identifier: VAD7506-1-0140
+- :id: VAD7506-1-0141.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0141.tif"
+  :attributes:
+    :title:
+    - '136'
+    :source_metadata_identifier: VAD7506-1-0141
+- :id: VAD7506-1-0142.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0142.tif"
+  :attributes:
+    :title:
+    - '137'
+    :source_metadata_identifier: VAD7506-1-0142
+- :id: VAD7506-1-0143.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0143.tif"
+  :attributes:
+    :title:
+    - '138'
+    :source_metadata_identifier: VAD7506-1-0143
+- :id: VAD7506-1-0144.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0144.tif"
+  :attributes:
+    :title:
+    - '139'
+    :source_metadata_identifier: VAD7506-1-0144
+- :id: VAD7506-1-0145.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0145.tif"
+  :attributes:
+    :title:
+    - '140'
+    :source_metadata_identifier: VAD7506-1-0145
+- :id: VAD7506-1-0146.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0146.tif"
+  :attributes:
+    :title:
+    - '141'
+    :source_metadata_identifier: VAD7506-1-0146
+- :id: VAD7506-1-0147.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0147.tif"
+  :attributes:
+    :title:
+    - '142'
+    :source_metadata_identifier: VAD7506-1-0147
+- :id: VAD7506-1-0148.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0148.tif"
+  :attributes:
+    :title:
+    - '143'
+    :source_metadata_identifier: VAD7506-1-0148
+- :id: VAD7506-1-0149.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0149.tif"
+  :attributes:
+    :title:
+    - '144'
+    :source_metadata_identifier: VAD7506-1-0149
+- :id: VAD7506-1-0150.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0150.tif"
+  :attributes:
+    :title:
+    - '145'
+    :source_metadata_identifier: VAD7506-1-0150
+- :id: VAD7506-1-0151.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0151.tif"
+  :attributes:
+    :title:
+    - '146'
+    :source_metadata_identifier: VAD7506-1-0151
+- :id: VAD7506-1-0152.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0152.tif"
+  :attributes:
+    :title:
+    - '147'
+    :source_metadata_identifier: VAD7506-1-0152
+- :id: VAD7506-1-0153.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0153.tif"
+  :attributes:
+    :title:
+    - '148'
+    :source_metadata_identifier: VAD7506-1-0153
+- :id: VAD7506-1-0154.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0154.tif"
+  :attributes:
+    :title:
+    - '149'
+    :source_metadata_identifier: VAD7506-1-0154
+- :id: VAD7506-1-0155.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0155.tif"
+  :attributes:
+    :title:
+    - '150'
+    :source_metadata_identifier: VAD7506-1-0155
+- :id: VAD7506-1-0156.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0156.tif"
+  :attributes:
+    :title:
+    - "[151]"
+    :source_metadata_identifier: VAD7506-1-0156
+- :id: VAD7506-1-0157.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0157.tif"
+  :attributes:
+    :title:
+    - "[152]"
+    :source_metadata_identifier: VAD7506-1-0157
+- :id: VAD7506-1-0158.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0158.tif"
+  :attributes:
+    :title:
+    - "[153]"
+    :source_metadata_identifier: VAD7506-1-0158
+- :id: VAD7506-1-0159.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0159.tif"
+  :attributes:
+    :title:
+    - "[154]"
+    :source_metadata_identifier: VAD7506-1-0159
+- :id: VAD7506-1-0160.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0160.tif"
+  :attributes:
+    :title:
+    - "[155]"
+    :source_metadata_identifier: VAD7506-1-0160
+- :id: VAD7506-1-0161.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0161.tif"
+  :attributes:
+    :title:
+    - "[156]"
+    :source_metadata_identifier: VAD7506-1-0161
+- :id: VAD7506-1-0162.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0162.tif"
+  :attributes:
+    :title:
+    - "[157]"
+    :source_metadata_identifier: VAD7506-1-0162
+- :id: VAD7506-1-0163.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0163.tif"
+  :attributes:
+    :title:
+    - "[158]"
+    :source_metadata_identifier: VAD7506-1-0163
+- :id: VAD7506-1-0164.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0164.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0164
+- :id: VAD7506-1-0165.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0165.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0165
+- :id: VAD7506-1-0166.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0166.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0166
+- :id: VAD7506-1-0167.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0167.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0167
+- :id: VAD7506-1-0168.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0168.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0168
+- :id: VAD7506-1-0169.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0169.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0169
+- :id: VAD7506-1-0170.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0170.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0170
+- :id: VAD7506-1-0171.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0171.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0171
+- :id: VAD7506-1-0172.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0172.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0172
+- :id: VAD7506-1-0173.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0173.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0173
+- :id: VAD7506-1-0174.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0174.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0174
+- :id: VAD7506-1-0175.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0175.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0175
+- :id: VAD7506-1-0176.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0176.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0176
+- :id: VAD7506-1-0177.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0177.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0177
+- :id: VAD7506-1-0178.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0178.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0178
+- :id: VAD7506-1-0179.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0179.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0179
+- :id: VAD7506-1-0180.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0180.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0180
+- :id: VAD7506-1-0181.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0181.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0181
+- :id: VAD7506-1-0182.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0182.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0182
+- :id: VAD7506-1-0183.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0183.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0183
+- :id: VAD7506-1-0184.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0184.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0184
+- :id: VAD7506-1-0185.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0185.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0185
+- :id: VAD7506-1-0186.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0186.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0186
+- :id: VAD7506-1-0187.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0187.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0187
+- :id: VAD7506-1-0188.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0188.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0188
+- :id: VAD7506-1-0189.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0189.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0189
+- :id: VAD7506-1-0190.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0190.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0190
+- :id: VAD7506-1-0191.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0191.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0191
+- :id: VAD7506-1-0192.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0192.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0192
+- :id: VAD7506-1-0193.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0193.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0193
+- :id: VAD7506-1-0194.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0194.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0194
+- :id: VAD7506-1-0195.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0195.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0195
+- :id: VAD7506-1-0196.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0196.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0196
+- :id: VAD7506-1-0197.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0197.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0197
+- :id: VAD7506-1-0198.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0198.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0198
+- :id: VAD7506-1-0199.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0199.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0199
+- :id: VAD7506-1-0200.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0200.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0200
+- :id: VAD7506-1-0201.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0201.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0201
+- :id: VAD7506-1-0202.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0202.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0202
+- :id: VAD7506-1-0203.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0203.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0203
+- :id: VAD7506-1-0204.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0204.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0204
+- :id: VAD7506-1-0205.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0205.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0205
+- :id: VAD7506-1-0206.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0206.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0206
+- :id: VAD7506-1-0207.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0207.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0207
+- :id: VAD7506-1-0208.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0208.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0208
+- :id: VAD7506-1-0209.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0209.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0209
+- :id: VAD7506-1-0210.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0210.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0210
+- :id: VAD7506-1-0211.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0211.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0211
+- :id: VAD7506-1-0212.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0212.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0212
+- :id: VAD7506-1-0213.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0213.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0213
+- :id: VAD7506-1-0214.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0214.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0214
+- :id: VAD7506-1-0215.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0215.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0215
+- :id: VAD7506-1-0216.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0216.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0216
+- :id: VAD7506-1-0217.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0217.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0217
+- :id: VAD7506-1-0218.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0218.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0218
+- :id: VAD7506-1-0219.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0219.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0219
+- :id: VAD7506-1-0220.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0220.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0220
+- :id: VAD7506-1-0221.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0221.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0221
+- :id: VAD7506-1-0222.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0222.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0222
+- :id: VAD7506-1-0223.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0223.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0223
+- :id: VAD7506-1-0224.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0224.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0224
+- :id: VAD7506-1-0225.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0225.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0225
+- :id: VAD7506-1-0226.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0226.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0226
+- :id: VAD7506-1-0227.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0227.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0227
+- :id: VAD7506-1-0228.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0228.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0228
+- :id: VAD7506-1-0229.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0229.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0229
+- :id: VAD7506-1-0230.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0230.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0230
+- :id: VAD7506-1-0231.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0231.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0231
+- :id: VAD7506-1-0232.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0232.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0232
+- :id: VAD7506-1-0233.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0233.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0233
+- :id: VAD7506-1-0234.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0234.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0234
+- :id: VAD7506-1-0235.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0235.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0235
+- :id: VAD7506-1-0236.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0236.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0236
+- :id: VAD7506-1-0237.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0237.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0237
+- :id: VAD7506-1-0238.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0238.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0238
+- :id: VAD7506-1-0239.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0239.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0239
+- :id: VAD7506-1-0240.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0240.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0240
+- :id: VAD7506-1-0241.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0241.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0241
+- :id: VAD7506-1-0242.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0242.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0242
+- :id: VAD7506-1-0243.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0243.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0243
+- :id: VAD7506-1-0244.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0244.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0244
+- :id: VAD7506-1-0245.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0245.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0245
+- :id: VAD7506-1-0246.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0246.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0246
+- :id: VAD7506-1-0247.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0247.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0247
+- :id: VAD7506-1-0248.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0248.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0248
+- :id: VAD7506-1-0249.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0249.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0249
+- :id: VAD7506-1-0250.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0250.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0250
+- :id: VAD7506-1-0251.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0251.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0251
+- :id: VAD7506-1-0252.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0252.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0252
+- :id: VAD7506-1-0253.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0253.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0253
+- :id: VAD7506-1-0254.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0254.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0254
+- :id: VAD7506-1-0255.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0255.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0255
+- :id: VAD7506-1-0256.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0256.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0256
+- :id: VAD7506-1-0257.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0257.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0257
+- :id: VAD7506-1-0258.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0258.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0258
+- :id: VAD7506-1-0259.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0259.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0259
+- :id: VAD7506-1-0260.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0260.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0260
+- :id: VAD7506-1-0261.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0261.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0261
+- :id: VAD7506-1-0262.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0262.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0262
+- :id: VAD7506-1-0263.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0263.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0263
+- :id: VAD7506-1-0264.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0264.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0264
+- :id: VAD7506-1-0265.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0265.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0265
+- :id: VAD7506-1-0266.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0266.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0266
+- :id: VAD7506-1-0267.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0267.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0267
+- :id: VAD7506-1-0268.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0268.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0268
+- :id: VAD7506-1-0269.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0269.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0269
+- :id: VAD7506-1-0270.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0270.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0270
+- :id: VAD7506-1-0271.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0271.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0271
+- :id: VAD7506-1-0272.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0272.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0272
+- :id: VAD7506-1-0273.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0273.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0273
+- :id: VAD7506-1-0274.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0274.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0274
+- :id: VAD7506-1-0275.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0275.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0275
+- :id: VAD7506-1-0276.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0276.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0276
+- :id: VAD7506-1-0277.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0277.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0277
+- :id: VAD7506-1-0278.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0278.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0278
+- :id: VAD7506-1-0279.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0279.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0279
+- :id: VAD7506-1-0280.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0280.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0280
+- :id: VAD7506-1-0281.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0281.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0281
+- :id: VAD7506-1-0282.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0282.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0282
+- :id: VAD7506-1-0283.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0283.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0283
+- :id: VAD7506-1-0284.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0284.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0284
+- :id: VAD7506-1-0285.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0285.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0285
+- :id: VAD7506-1-0286.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0286.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0286
+- :id: VAD7506-1-0287.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0287.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0287
+- :id: VAD7506-1-0288.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0288.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0288
+- :id: VAD7506-1-0289.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0289.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0289
+- :id: VAD7506-1-0290.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0290.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0290
+- :id: VAD7506-1-0291.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0291.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0291
+- :id: VAD7506-1-0292.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0292.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0292
+- :id: VAD7506-1-0293.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0293.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0293
+- :id: VAD7506-1-0294.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0294.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0294
+- :id: VAD7506-1-0295.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0295.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0295
+- :id: VAD7506-1-0296.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0296.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0296
+- :id: VAD7506-1-0297.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0297.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0297
+- :id: VAD7506-1-0298.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0298.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0298
+- :id: VAD7506-1-0299.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0299.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0299
+- :id: VAD7506-1-0300.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/VAD7506-1-0300.tif"
+  :attributes:
+    :title:
+    - 'FIXME: title missing'
+    :source_metadata_identifier: VAD7506-1-0300
+:sources:
+- :title:
+  - Variations XML
+  :file: spec/fixtures/varaccomp_xml/vad7506.xml
