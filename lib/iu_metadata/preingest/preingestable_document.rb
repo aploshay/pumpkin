@@ -57,7 +57,7 @@ module IuMetadata
       end
 
       def source_metadata
-        return unless remote_data.source
+        return unless remote_data&.source
         remote_data.source.dup.try(:force_encoding, 'utf-8')
       end
 

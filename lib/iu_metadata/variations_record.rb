@@ -1,10 +1,14 @@
 # rubocop:disable Metrics/ClassLength
 module IuMetadata
   class VariationsRecord
-    def initialize(id, source)
+    # files: array of filenames, if providing directly
+    def initialize(id, source, files: [], structure: nil, variations_type: 'ScoreAccessPage')
       @id = id
       @source = source
       @variations = Nokogiri::XML(source)
+      @files = files
+      @structure = structure
+      @variations_type = variations_type
       parse
     end
     attr_reader :id, :source
@@ -16,7 +20,7 @@ module IuMetadata
     end
 
     def source_metadata_identifier
-      @variations.xpath('//MediaObject/Label').first.content.to_s
+      @variations.xpath('//MediaObject/Label').first.content.to_s[0...7].upcase
     end
 
     def holding_location
@@ -86,13 +90,17 @@ module IuMetadata
       end
 
       def items
-        @items ||= @variations.xpath('/ScoreAccessPage/RecordSet/Container/Structure/Item')
+        @items ||= @variations.xpath("//#{@variations_type}/RecordSet/Container/Structure/Item")
       end
 
       def parse
-        @files = []
-        @variations.xpath('//FileInfos/FileInfo').each do |file|
-          @files << file_hash(file)
+        # use array of filenames, if provided
+        if @files.any?
+          @files = @files.map { |filename| file_hash(filename) }
+        else
+          @variations.xpath('//FileInfos/FileInfo').each do |file|
+            @files << file_hash(filename(file))
+          end
         end
         @thumbnail_path = @files.first[:path]
 
@@ -104,13 +112,20 @@ module IuMetadata
           items.each do |item|
             volume = {}
             volume[:title] = [item['label']]
-            volume[:structure] = { nodes: structure_to_array(item) }
+            volume[:structure] = @structure || { nodes: structure_to_array(item) }
             volume[:files] = @files[@file_start, @file_index - @file_start]
+            if @structure
+              volume[:files].each_with_index { |file, i| [:attributes][:title] = [(i + 1).to_s] }
+            end
             @file_start = @file_index
             @volumes << volume
           end
         else
-          @structure = { nodes: structure_to_array(items.first) }
+          if @structure
+            @files.each_with_index { |file, i| file[:attributes][:title] = [(i + 1).to_s] }
+          else
+            @structure = { nodes: structure_to_array(items.first) }
+          end
         end
       end
 
@@ -134,13 +149,13 @@ module IuMetadata
         array
       end
 
-      def file_hash(file_node)
+      def file_hash(id)
         values_hash = {}
-        values_hash[:id] = filename(file_node)
+        values_hash[:id] = id
         values_hash[:mime_type] = 'image/tiff'
-        values_hash[:path] = '/tmp/ingest/' + values_hash[:id]
+        values_hash[:path] = '/tmp/ingest/' + id
         values_hash[:file_opts] = {}
-        values_hash[:attributes] = file_attributes(file_node, values_hash.dup)
+        values_hash[:attributes] = file_attributes(id)
         values_hash
       end
 
@@ -156,10 +171,10 @@ module IuMetadata
         "#{root}-#{volume.to_i}-#{page.rjust(4, '0')}.tif"
       end
 
-      def file_attributes(_file_node, file_hash)
+      def file_attributes(id)
         att_hash = {}
         att_hash[:title] = ['TITLE MISSING'] # replaced later
-        att_hash[:source_metadata_identifier] = file_hash[:id].gsub(/\.\w{3,4}$/, '').upcase
+        att_hash[:source_metadata_identifier] = id.gsub(/\.\w{3,4}$/, '').upcase
         att_hash
       end
   end
