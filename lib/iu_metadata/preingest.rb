@@ -56,5 +56,60 @@ module IuMetadata
         super
       end
     end
+
+    class VariationsWithoutXml
+      include PreingestableDocument
+
+      def initialize(source_file)
+        @source_file = source_file
+        @files ||= []
+        @structure ||= nil
+        @variations_type ||= 'ScoreAccessPage'
+        @local = nil
+        @source_title = nil
+
+        id = source_file.sub(/.*\//, '').sub(/.xml/, '').downcase
+        images_by_id = YAML.load_file(Rails.root.join('config/images_by_id.yml'))
+        @files = images_by_id[id]
+        @structure = {}
+      end
+      attr_reader :source_file, :source_title, :local
+
+      def source_metadata_identifier
+        source_file.sub(/.*\//, '').sub(/.xml/, '').upcase
+      end
+
+      def multi_volume?
+        false
+      end
+      def collections
+        []
+      end
+      def files
+        index = 0
+        @files.map do |filename|
+          { id: filename,
+            mime_type: 'image/tiff',
+            path: "/tmp/ingest/#{filename}",
+            file_opts: {},
+            attributes: { title: (index += 1).to_s, source_metadata_identifier: filename.sub(/\.tif.*$/, '').upcase }
+          }
+        end
+      end
+      def structure
+        @structure
+      end
+      def volumes
+        []
+      end
+      def thumbnail_path
+        nil
+      end
+      def attribute_sources
+        { default: default_data,
+          remote: remote_data
+        }
+      end
+    end
   end
 end

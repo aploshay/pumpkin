@@ -30,6 +30,7 @@ class PreingestJob < ActiveJob::Base
       end
 
       yaml_hash[:sources] = [{ title: @document.source_title, file: @document.source_file }]
+      yaml_hash[:sources] = [] if @document.source_title.blank?
 
       File.write(@document.yaml_file, yaml_hash.to_yaml)
       logger.info "Created YAML file #{File.basename(@document.yaml_file)}"
