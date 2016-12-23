@@ -57,6 +57,9 @@ module IuMetadata
       end
     end
 
+#FIXME: without xml case -- add source_metadata_identifier to default or local atts -- or pull from remote if available?
+#FIXME: also add identifier when no remote?
+#FIXME: also add title lookup when no remote?
     class VariationsWithoutXml
       include PreingestableDocument
 
@@ -71,6 +74,8 @@ module IuMetadata
         id = source_file.sub(/.*\//, '').sub(/.xml/, '').downcase
         images_by_id = YAML.load_file(Rails.root.join('config/images_by_id.yml'))
         @files = images_by_id[id]
+        # FIXME: catch for missing images
+        @files ||= []
         @structure = {}
       end
       attr_reader :source_file, :source_title, :local
@@ -111,5 +116,14 @@ module IuMetadata
         }
       end
     end
+    class VariationsWithoutXmlWithoutRemote < VariationsWithoutXml
+      def attribute_sources
+        { default: default_data }
+      end
+      def remote_data
+        nil
+      end
+    end
+
   end
 end
