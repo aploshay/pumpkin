@@ -7,6 +7,10 @@ module IuMetadata
         @source_file = source_file
         @files ||= []
         @structure ||= nil
+        # determine XML type
+        # local: pull if available
+        # remote: try pulling, fail to empty
+        # files cases: complicated!!!
         @variations_type ||= 'ScoreAccessPage'
         @local = IuMetadata::VariationsRecord.new(source_uri, open(source_file), files: @files, structure: @structure, variations_type: @variations_type)
         @source_title = ['Variations XML']

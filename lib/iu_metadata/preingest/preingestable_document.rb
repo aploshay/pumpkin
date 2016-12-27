@@ -24,7 +24,7 @@ module IuMetadata
       end
 
       def attributes
-        attribute_sources.map { |k, v| [k, v.raw_attributes] }.to_h
+        attribute_sources.map { |k, v| [k, (v&.raw_attributes || {})] }.to_h
       end
 
       def attribute_sources
@@ -68,7 +68,11 @@ module IuMetadata
       private
 
         def remote_data
-          @remote_data ||= remote_metadata_factory.retrieve(source_metadata_identifier)
+          begin
+            @remote_data ||= remote_metadata_factory.retrieve(source_metadata_identifier)
+          rescue
+            @remote_data = nil
+          end
         end
 
         def remote_metadata_factory

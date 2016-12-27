@@ -12,6 +12,7 @@
     physical_description: ''
     copyright_holder:
     - ''
+  :remote: {}
 :source_metadata: 
 :thumbnail_path: "/tmp/ingest/zzz0731-1-0001.tif"
 :collections: []
