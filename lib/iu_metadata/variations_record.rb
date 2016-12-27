@@ -114,18 +114,20 @@ module IuMetadata
           if @variations_type == 'ScoreAccessPage' && @logger
             case @files.size <=> variations_files.size
             when 1
-              @logger.warn "More files found on server (#{@files.size}) than specified in XML (#{variations_files.size})"
-              @logger.warn "Retaining structure, but there will be extra unused images"
+              @logger.warn "#{source_metadata_identifier}: More files found on server (#{@files.size}) than specified in XML (#{variations_files.size})"
+              @logger.warn "#{source_metadata_identifier}: Retaining structure, but there will be extra unused images" unless @structure.nil? || @structure.empty?
             when 0
               if @files == variations_files
-                @logger.info "Files found on server match specifiction in XML"
+                @logger.info "#{source_metadata_identifier}: Files found on server match specifiction in XML"
+              elsif @files_source.match /other_sources/
+                @logger.info "#{source_metadata_identifier}: Files found on server do not match specifiction in XML, as expected for scores_from_other_sources content"
               else
-                @logger.warn "Files found on server don't match those specified in XML"
-                @logger.warn "Retaining structure, but it should undergo review"
+                @logger.warn "#{source_metadata_identifier}: Files found on server do not match those specified in XML, but scores-fixed content should match"
+                @logger.warn "#{source_metadata_identifier}: Retaining structure, but it should undergo review"
               end
             when -1
-              @logger.warn "Fewer files found on server (#{@files.size}) than specified in XML (#{variations_files.size})"
-              @logger.warn "Abandoning structure"
+              @logger.warn "#{source_metadata_identifier}: Fewer files found on server (#{@files.size}) than specified in XML (#{variations_files.size})"
+              @logger.warn "#{source_metadata_identifier}: Abandoning structure"
               @structure = {}
             end
           end
@@ -150,7 +152,7 @@ module IuMetadata
                   { nodes: structure_to_array(item) }
                 rescue
                   {}
-                  @logger.error("Error parsing structure; reverting to empty structure.") if @logger
+                  @logger.error("#{source_metadata_identifier}: Error parsing structure; reverting to empty structure.") if @logger
                 end
               end
             end
@@ -164,12 +166,15 @@ module IuMetadata
         else
           if @files.none?
             @structure = {}
-            @logger.warn("Force-dropping structure, due to lack of files.")
+            @logger.warn "#{source_metadata_identifier}: Force-dropping structure, due to lack of files." if @logger
           elsif @structure
             @files.each_with_index { |file, i| file[:attributes][:title] = [(i + 1).to_s] }
           else
             begin
               @structure = { nodes: structure_to_array(items.first) }
+              if @files.any? && @files.last[:attributes][:title] == ['TITLE MISSING']
+                @logger.warn("#{source_metadata_identifier}: Structure did not use all available image files.") if @logger
+              end
             rescue
               @structure = {}
               @logger.error("Error parsing structure; reverting to empty structure.") if @logger

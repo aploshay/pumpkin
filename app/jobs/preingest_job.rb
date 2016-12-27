@@ -18,6 +18,11 @@ class PreingestJob < ActiveJob::Base
       yaml_hash = {}
       yaml_hash[:resource] = @document.resource_class.to_s
       yaml_hash[:attributes] = @document.attributes
+      if yaml_hash[:attributes][:remote].nil?
+        logger.info "#{@document.source_metadata_identifier}: No remote attributes set."
+      elsif yaml_hash[:attributes][:remote].empty?
+        logger.warn "#{@document.source_metadata_identifier}: Remote attributes set empty."
+      end
       yaml_hash[:source_metadata] = @document.source_metadata
       yaml_hash[:thumbnail_path] = @document.thumbnail_path
       yaml_hash[:collections] = @document.collections
@@ -33,6 +38,6 @@ class PreingestJob < ActiveJob::Base
       yaml_hash[:sources] = [] if @document.source_title.blank?
 
       File.write(@document.yaml_file, yaml_hash.to_yaml)
-      logger.info "Created YAML file #{File.basename(@document.yaml_file)}"
+      logger.info "#{@document.source_metadata_identifier}: Created YAML file #{File.basename(@document.yaml_file)}"
     end
 end

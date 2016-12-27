@@ -18,7 +18,6 @@ module IuMetadata
         else
           @variations_type = 'ScoreAccessPage'
         end
-        logger.info("Variations XML type: #{@variations_type}") if logger
 
         lookup_id = source_file.sub(/.*\//, '').sub(/.xml/, '').downcase
         scores_fixed = YAML.load_file(Rails.root.join('config/scores-fixed.yml'))
@@ -35,15 +34,12 @@ module IuMetadata
           files_lookup = []
           files_source = nil
           @structure = {}
-          logger.info("Specifying empty structure due to lack of image files") if logger
         end
-        logger.info("Image files source: #{files_source || '(none)'}") if logger
 
         case @variations_type
         when 'blank'
           @files = files_lookup
           @structure = {}
-          logger.info("Specifying empty structure for XML type: blank") if logger
           @local = EmptyRecord.new(source_file, @files, @structure, logger: logger, files_source: files_source)
           @source_title = nil
         when 'AccompanyingMaterials'
@@ -56,8 +52,14 @@ module IuMetadata
           @local = IuMetadata::VariationsRecord.new(source_uri, open(source_file), files: @files, structure: @structure, variations_type: @variations_type, logger: logger, files_source: files_source)
           @source_title = ['Variations XML']
         end
-        # FIXME: catch case of file list different from provided
-        # FIXME: catch case of structure has more keys than files
+
+        if logger
+          logger.info("#{@local.source_metadata_identifier}: Variations XML type: #{@variations_type}")
+          logger.info("#{@local.source_metadata_identifier}: Image files source: #{files_source || '(none)'}")
+          logger.info("#{@local.source_metadata_identifier}: Specifying empty structure due to lack of image files") if files_lookup.empty?
+          logger.info("#{@local.source_metadata_identifier}: Specifying empty structure due to files coming from scores_from_other_sources folder") if files_source.match /other/
+          logger.info("#{@local.source_metadata_identifier}: Specifying empty structure for XML type: blank") if @variations_type == 'blank'
+        end
         # FIXME: catch case of structure has FEWER Keys than files
       end
       attr_reader :source_file, :source_title, :local
