@@ -1,0 +1,541 @@
+---
+:resource: ScannedResource
+:attributes:
+  :default:
+    state: final_review
+    viewing_direction: left-to-right
+    rights_statement: http://rightsstatements.org/vocab/InC/1.0/
+    visibility: authenticated
+  :local:
+    source_metadata_identifier: VAB7951
+    holding_location: https://libraries.indiana.edu/music
+    physical_description: Accompanying materials
+    copyright_holder:
+    - "(P) & (C) 1999 Hyperion Records"
+  :remote:
+    identifier: http://purl.dlib.indiana.edu/iudl/variations/sound/VAB7951
+    title:
+    - German 17th-century church music [sound recording].
+    sort_title: German 17th-century church music [sound recording].
+    creator:
+    - Parley of Instruments
+    subject:
+    - Vocal music
+    - Solo cantatas, Sacred (Low voice)
+    - Trio sonatas (Violins (2), continuo)
+    - Quintets (Violins (2), violas (2), continuo)
+    date_created:
+    - '1999'
+    publisher:
+    - Hyperion
+    publication_place:
+    - London
+    issued:
+    - p1999
+    published: 'London : Hyperion, p1999'
+:source_metadata: |-
+  <record xmlns="http://www.loc.gov/MARC21/slim">
+    <!-- Length implementation at offset 22 should hold a digit. Assuming 0 -->
+    <leader>03691 jm a2200625Ia 4500</leader>
+    <controlfield tag="001">ocm42092593</controlfield>
+    <controlfield tag="003">OCoLC</controlfield>
+    <controlfield tag="005">20051112004316.9</controlfield>
+    <controlfield tag="007">sd|fsngnn|||ed</controlfield>
+    <controlfield tag="008">990816p19991998enkmun   defhi      ger d</controlfield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)ocm42092593</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">CIN</subfield>
+      <subfield code="c">CIN</subfield>
+      <subfield code="d">OBE</subfield>
+    </datafield>
+    <datafield tag="024" ind1="1" ind2=" ">
+      <subfield code="a">034571170794</subfield>
+    </datafield>
+    <datafield tag="028" ind1="0" ind2="2">
+      <subfield code="a">CDA67079</subfield>
+      <subfield code="b">Hyperion</subfield>
+    </datafield>
+    <datafield tag="033" ind1="2" ind2="0">
+      <subfield code="a">19980908</subfield>
+      <subfield code="a">19980910</subfield>
+    </datafield>
+    <datafield tag="041" ind1="0" ind2=" ">
+      <subfield code="d">gerlat</subfield>
+      <subfield code="e">gerlateng</subfield>
+      <subfield code="h">gerlat</subfield>
+      <subfield code="g">engfreger</subfield>
+    </datafield>
+    <datafield tag="043" ind1=" " ind2=" ">
+      <subfield code="a">e-gx---</subfield>
+    </datafield>
+    <datafield tag="045" ind1=" " ind2=" ">
+      <subfield code="a">u0u9</subfield>
+    </datafield>
+    <datafield tag="047" ind1=" " ind2=" ">
+      <subfield code="a">ct</subfield>
+      <subfield code="a">sn</subfield>
+    </datafield>
+    <datafield tag="050" ind1=" " ind2="4">
+      <subfield code="a">M2020.P26</subfield>
+      <subfield code="b">G36 1999</subfield>
+    </datafield>
+    <datafield tag="049" ind1=" " ind2=" ">
+      <subfield code="a">IULA</subfield>
+    </datafield>
+    <datafield tag="110" ind1="2" ind2=" ">
+      <subfield code="a">Parley of Instruments.</subfield>
+      <subfield code="4">prf</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">German 17th-century church music</subfield>
+      <subfield code="h">[sound recording].</subfield>
+    </datafield>
+    <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">London :</subfield>
+      <subfield code="b">Hyperion,</subfield>
+      <subfield code="c">p1999.</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">1 sound disc :</subfield>
+      <subfield code="b">digital ;</subfield>
+      <subfield code="c">4 3/4 in.</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Solo cantatas and sonatas for 2 violins (Rosenm&#xFC;ller) or 2 violins and 2 violas (Bach) and continuo.</subfield>
+    </datafield>
+    <datafield tag="546" ind1=" " ind2=" ">
+      <subfield code="a">Vocal works sung in German or Latin.</subfield>
+    </datafield>
+    <datafield tag="511" ind1="0" ind2=" ">
+      <subfield code="a">Robin Blaze, countertenor ; Parley of Instruments.</subfield>
+    </datafield>
+    <datafield tag="518" ind1=" " ind2=" ">
+      <subfield code="a">Recorded Sept. 8-10, 1998.</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Compact disc.</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Program notes in English, French, and German, and vocal texts with English translations (233 p. : ports.) in container.</subfield>
+    </datafield>
+    <datafield tag="505" ind1="0" ind2=" ">
+      <subfield code="a">Erbarm dich mein, O Herre Gott / Heinrich Sch&#xFC;tz -- Was betr&#xFC;bst du dich, meine Seele / Christoph Bernhard -- Christum ducem, per crucem ; Sonata II a 2 in E minor / Johann Rosenm&#xFC;ller -- Jesu meine Freude und Lust / Dietrich Buxtehude -- Vater unser, der du bist in Himmel / Christian Geist -- Jubilate Domino, omnis terra / Buxtehude -- Sonata I in C major / Heinrich Bach -- Ach, dass ich Wassers genug h&#xE4;tte in meinem Haupte / Johann Christoph Bach -- Auf, lasst uns den Herren loben / Johann Michael Bach -- Sonata II in F major / Heinrich Bach -- O Jesu, du mein Leben / Johann Philipp Krieger -- Schlage doch, gew&#xFC;nschte Stunde / Melchior Hofmann.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Vocal music</subfield>
+      <subfield code="z">Germany</subfield>
+      <subfield code="y">17th century.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Solo cantatas, Sacred (Low voice)</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Trio sonatas (Violins (2), continuo)</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Quintets (Violins (2), violas (2), continuo)</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Blaze, Robin.</subfield>
+      <subfield code="4">voc</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2="2">
+      <subfield code="a">Sch&#xFC;tz, Heinrich,</subfield>
+      <subfield code="d">1585-1672.</subfield>
+      <subfield code="t">Erbarm dich mein, o Herre Gott,</subfield>
+      <subfield code="n">SWV 447.</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2="2">
+      <subfield code="a">Bernhard, Christoph,</subfield>
+      <subfield code="d">1627-1692.</subfield>
+      <subfield code="t">Geistliche Harmonien.</subfield>
+      <subfield code="p">Was betr&#xFC;bst du dich, meine Seele.</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2="2">
+      <subfield code="a">Rosenm&#xFC;ller, Johann,</subfield>
+      <subfield code="d">approximately 1619-1684.</subfield>
+      <subfield code="t">Sonatas</subfield>
+      <subfield code="n">(1682).</subfield>
+      <subfield code="n">No. 2</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2="2">
+      <subfield code="a">Rosenm&#xFC;ller, Johann,</subfield>
+      <subfield code="d">approximately 1619-1684.</subfield>
+      <subfield code="t">Andere Kern-Spr&#xFC;che.</subfield>
+      <subfield code="p">Christum ducem, qui per crucem</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2="2">
+      <subfield code="a">Buxtehude, Dietrich,</subfield>
+      <subfield code="d">1637-1707.</subfield>
+      <subfield code="t">Jesu meine Freud und Lust.</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2="2">
+      <subfield code="a">Buxtehude, Dietrich,</subfield>
+      <subfield code="d">1637-1707.</subfield>
+      <subfield code="t">Jubilate Domino, omnis terra.</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2="2">
+      <subfield code="a">Geist, Christian,</subfield>
+      <subfield code="d">1640-1711.</subfield>
+      <subfield code="t">Vater unser, der du bist im Himmel.</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2="2">
+      <subfield code="a">Bach, Heinrich,</subfield>
+      <subfield code="d">1615-1692.</subfield>
+      <subfield code="t">Sonatas,</subfield>
+      <subfield code="m">strings, continuo,</subfield>
+      <subfield code="r">C major.</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2="2">
+      <subfield code="a">Bach, Heinrich,</subfield>
+      <subfield code="d">1615-1692.</subfield>
+      <subfield code="t">Sonatas,</subfield>
+      <subfield code="m">strings, continuo,</subfield>
+      <subfield code="r">F major.</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2="2">
+      <subfield code="a">Bach, Johann Christoph,</subfield>
+      <subfield code="d">1642-1703.</subfield>
+      <subfield code="t">Ach, dass ich Wassers gnug h&#xE4;tte.</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2="2">
+      <subfield code="a">Bach, Johann Michael,</subfield>
+      <subfield code="d">1648-1694.</subfield>
+      <subfield code="t">Auf, lasst uns den Herren loben.</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2="2">
+      <subfield code="a">Krieger, Johann Philipp,</subfield>
+      <subfield code="d">1649-1725.</subfield>
+      <subfield code="t">O Jesu, du mein Leben.</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2="2">
+      <subfield code="a">Hoffmann, Melchior,</subfield>
+      <subfield code="d">approximately 1679-1715.</subfield>
+      <subfield code="t">Schlage doch, gew&#xFC;nschte Stunde</subfield>
+    </datafield>
+    <datafield tag="856" ind1="4" ind2="1">
+      <subfield code="a">Bloomington</subfield>
+      <subfield code="u">http://purl.dlib.indiana.edu/iudl/variations/sound/VAB7951</subfield>
+      <subfield code="z">Available to authorized users of the Variations System</subfield>
+    </datafield>
+    <datafield tag="856" ind1="4" ind2="1">
+      <subfield code="a">Bloomington</subfield>
+      <subfield code="3">Accompanying Materials</subfield>
+      <subfield code="u">http://purl.dlib.indiana.edu/iudl/variations/score/VAB7951</subfield>
+      <subfield code="z">Available to authorized users of the Variations system</subfield>
+    </datafield>
+    <datafield tag="596" ind1=" " ind2=" ">
+      <subfield code="a">20</subfield>
+    </datafield>
+    <datafield tag="926" ind1=" " ind2=" ">
+      <subfield code="a">B-MUSIC</subfield>
+      <subfield code="b">_MUFRCD</subfield>
+      <subfield code="c">6560712</subfield>
+      <subfield code="d">AV</subfield>
+      <subfield code="f">1</subfield>
+    </datafield>
+    <datafield tag="926" ind1=" " ind2=" ">
+      <subfield code="a">B-MUSIC</subfield>
+      <subfield code="b">_MUVARIA</subfield>
+      <subfield code="c"/>
+      <subfield code="d">NONCIRC</subfield>
+      <subfield code="f">1</subfield>
+    </datafield>
+  </record>
+:thumbnail_path: "/N/beryllium/srv/variations/scores-fixed/vab7951_accmat/vab7951_accmat-1-0001.tif"
+:collections: []
+:structure:
+  :nodes:
+  - :label: "[Booklet]"
+    :nodes:
+    - :label: "[Title page]"
+      :nodes:
+      - :label: "[1]"
+        :proxy: vab7951-1-0001.tif
+    - :label: "[Track listing]"
+      :nodes:
+      - :label: '2'
+        :proxy: vab7951-1-0002.tif
+      - :label: '3'
+        :proxy: vab7951-1-0003.tif
+    - :label: "[Liner notes (English)]"
+      :nodes:
+      - :label: '4'
+        :proxy: vab7951-1-0004.tif
+      - :label: '5'
+        :proxy: vab7951-1-0005.tif
+      - :label: '6'
+        :proxy: vab7951-1-0006.tif
+    - :label: "[Text]"
+      :nodes:
+      - :label: '7'
+        :proxy: vab7951-1-0007.tif
+      - :label: '8'
+        :proxy: vab7951-1-0008.tif
+      - :label: '9'
+        :proxy: vab7951-1-0009.tif
+      - :label: '10'
+        :proxy: vab7951-1-0010.tif
+      - :label: '11'
+        :proxy: vab7951-1-0011.tif
+      - :label: '12'
+        :proxy: vab7951-1-0012.tif
+    - :label: "[Performer biography]"
+      :nodes:
+      - :label: '13'
+        :proxy: vab7951-1-0013.tif
+    - :label: "[Liner notes]"
+      :nodes:
+      - :label: "[French]"
+        :nodes:
+        - :label: '14'
+          :proxy: vab7951-1-0014.tif
+        - :label: '15'
+          :proxy: vab7951-1-0015.tif
+        - :label: '16'
+          :proxy: vab7951-1-0016.tif
+        - :label: '17'
+          :proxy: vab7951-1-0017.tif
+      - :label: "[German]"
+        :nodes:
+        - :label: '18'
+          :proxy: vab7951-1-0018.tif
+        - :label: '19'
+          :proxy: vab7951-1-0019.tif
+        - :label: '20'
+          :proxy: vab7951-1-0020.tif
+        - :label: '21'
+          :proxy: vab7951-1-0021.tif
+    - :label: "[Recording information]"
+      :nodes:
+      - :label: '22'
+        :proxy: vab7951-1-0022.tif
+      - :label: '23'
+        :proxy: vab7951-1-0023.tif
+    - :label: "[Back cover]"
+      :nodes:
+      - :label: "[24]"
+        :proxy: vab7951-1-0024.tif
+  - :label: "[Disc face]"
+    :nodes:
+    - :label: "[25]"
+      :proxy: vab7951-1-0025.tif
+  - :label: "[Tray card]"
+    :nodes:
+    - :label: "[26]"
+      :proxy: vab7951-1-0026.tif
+:files:
+- :id: vab7951-1-0001.tif
+  :mime_type: image/tiff
+  :path: "/N/beryllium/srv/variations/scores-fixed/vab7951_accmat/vab7951_accmat-1-0001.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - "[1]"
+    :source_metadata_identifier: VAB7951-1-0001
+- :id: vab7951-1-0002.tif
+  :mime_type: image/tiff
+  :path: "/N/beryllium/srv/variations/scores-fixed/vab7951_accmat/vab7951_accmat-1-0002.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '2'
+    :source_metadata_identifier: VAB7951-1-0002
+- :id: vab7951-1-0003.tif
+  :mime_type: image/tiff
+  :path: "/N/beryllium/srv/variations/scores-fixed/vab7951_accmat/vab7951_accmat-1-0003.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '3'
+    :source_metadata_identifier: VAB7951-1-0003
+- :id: vab7951-1-0004.tif
+  :mime_type: image/tiff
+  :path: "/N/beryllium/srv/variations/scores-fixed/vab7951_accmat/vab7951_accmat-1-0004.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '4'
+    :source_metadata_identifier: VAB7951-1-0004
+- :id: vab7951-1-0005.tif
+  :mime_type: image/tiff
+  :path: "/N/beryllium/srv/variations/scores-fixed/vab7951_accmat/vab7951_accmat-1-0005.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '5'
+    :source_metadata_identifier: VAB7951-1-0005
+- :id: vab7951-1-0006.tif
+  :mime_type: image/tiff
+  :path: "/N/beryllium/srv/variations/scores-fixed/vab7951_accmat/vab7951_accmat-1-0006.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '6'
+    :source_metadata_identifier: VAB7951-1-0006
+- :id: vab7951-1-0007.tif
+  :mime_type: image/tiff
+  :path: "/N/beryllium/srv/variations/scores-fixed/vab7951_accmat/vab7951_accmat-1-0007.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '7'
+    :source_metadata_identifier: VAB7951-1-0007
+- :id: vab7951-1-0008.tif
+  :mime_type: image/tiff
+  :path: "/N/beryllium/srv/variations/scores-fixed/vab7951_accmat/vab7951_accmat-1-0008.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '8'
+    :source_metadata_identifier: VAB7951-1-0008
+- :id: vab7951-1-0009.tif
+  :mime_type: image/tiff
+  :path: "/N/beryllium/srv/variations/scores-fixed/vab7951_accmat/vab7951_accmat-1-0009.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '9'
+    :source_metadata_identifier: VAB7951-1-0009
+- :id: vab7951-1-0010.tif
+  :mime_type: image/tiff
+  :path: "/N/beryllium/srv/variations/scores-fixed/vab7951_accmat/vab7951_accmat-1-0010.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '10'
+    :source_metadata_identifier: VAB7951-1-0010
+- :id: vab7951-1-0011.tif
+  :mime_type: image/tiff
+  :path: "/N/beryllium/srv/variations/scores-fixed/vab7951_accmat/vab7951_accmat-1-0011.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '11'
+    :source_metadata_identifier: VAB7951-1-0011
+- :id: vab7951-1-0012.tif
+  :mime_type: image/tiff
+  :path: "/N/beryllium/srv/variations/scores-fixed/vab7951_accmat/vab7951_accmat-1-0012.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '12'
+    :source_metadata_identifier: VAB7951-1-0012
+- :id: vab7951-1-0013.tif
+  :mime_type: image/tiff
+  :path: "/N/beryllium/srv/variations/scores-fixed/vab7951_accmat/vab7951_accmat-1-0013.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '13'
+    :source_metadata_identifier: VAB7951-1-0013
+- :id: vab7951-1-0014.tif
+  :mime_type: image/tiff
+  :path: "/N/beryllium/srv/variations/scores-fixed/vab7951_accmat/vab7951_accmat-1-0014.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '14'
+    :source_metadata_identifier: VAB7951-1-0014
+- :id: vab7951-1-0015.tif
+  :mime_type: image/tiff
+  :path: "/N/beryllium/srv/variations/scores-fixed/vab7951_accmat/vab7951_accmat-1-0015.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '15'
+    :source_metadata_identifier: VAB7951-1-0015
+- :id: vab7951-1-0016.tif
+  :mime_type: image/tiff
+  :path: "/N/beryllium/srv/variations/scores-fixed/vab7951_accmat/vab7951_accmat-1-0016.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '16'
+    :source_metadata_identifier: VAB7951-1-0016
+- :id: vab7951-1-0017.tif
+  :mime_type: image/tiff
+  :path: "/N/beryllium/srv/variations/scores-fixed/vab7951_accmat/vab7951_accmat-1-0017.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '17'
+    :source_metadata_identifier: VAB7951-1-0017
+- :id: vab7951-1-0018.tif
+  :mime_type: image/tiff
+  :path: "/N/beryllium/srv/variations/scores-fixed/vab7951_accmat/vab7951_accmat-1-0018.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '18'
+    :source_metadata_identifier: VAB7951-1-0018
+- :id: vab7951-1-0019.tif
+  :mime_type: image/tiff
+  :path: "/N/beryllium/srv/variations/scores-fixed/vab7951_accmat/vab7951_accmat-1-0019.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '19'
+    :source_metadata_identifier: VAB7951-1-0019
+- :id: vab7951-1-0020.tif
+  :mime_type: image/tiff
+  :path: "/N/beryllium/srv/variations/scores-fixed/vab7951_accmat/vab7951_accmat-1-0020.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '20'
+    :source_metadata_identifier: VAB7951-1-0020
+- :id: vab7951-1-0021.tif
+  :mime_type: image/tiff
+  :path: "/N/beryllium/srv/variations/scores-fixed/vab7951_accmat/vab7951_accmat-1-0021.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '21'
+    :source_metadata_identifier: VAB7951-1-0021
+- :id: vab7951-1-0022.tif
+  :mime_type: image/tiff
+  :path: "/N/beryllium/srv/variations/scores-fixed/vab7951_accmat/vab7951_accmat-1-0022.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '22'
+    :source_metadata_identifier: VAB7951-1-0022
+- :id: vab7951-1-0023.tif
+  :mime_type: image/tiff
+  :path: "/N/beryllium/srv/variations/scores-fixed/vab7951_accmat/vab7951_accmat-1-0023.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '23'
+    :source_metadata_identifier: VAB7951-1-0023
+- :id: vab7951-1-0024.tif
+  :mime_type: image/tiff
+  :path: "/N/beryllium/srv/variations/scores-fixed/vab7951_accmat/vab7951_accmat-1-0024.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - "[24]"
+    :source_metadata_identifier: VAB7951-1-0024
+- :id: vab7951-1-0025.tif
+  :mime_type: image/tiff
+  :path: "/N/beryllium/srv/variations/scores-fixed/vab7951_accmat/vab7951_accmat-1-0025.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - "[25]"
+    :source_metadata_identifier: VAB7951-1-0025
+- :id: vab7951-1-0026.tif
+  :mime_type: image/tiff
+  :path: "/N/beryllium/srv/variations/scores-fixed/vab7951_accmat/vab7951_accmat-1-0026.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - "[26]"
+    :source_metadata_identifier: VAB7951-1-0026
+:sources:
+- :title:
+  - Variations XML
+  :file: spec/fixtures/test/vab7951.xml

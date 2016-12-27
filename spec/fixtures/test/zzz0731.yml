@@ -14,21 +14,10 @@
     - ''
   :remote: {}
 :source_metadata: 
-:thumbnail_path: "/tmp/ingest/zzz0731-1-0001.tif"
+:thumbnail_path: 
 :collections: []
-:structure:
-  :nodes:
-  - :label: "*"
-    :proxy: zzz0731-1-0001.tif
-:files:
-- :id: zzz0731-1-0001.tif
-  :mime_type: image/tiff
-  :path: "/tmp/ingest/zzz0731-1-0001.tif"
-  :file_opts: {}
-  :attributes:
-    :title:
-    - "*"
-    :source_metadata_identifier: ZZZ0731-1-0001
+:structure: {}
+:files: []
 :sources:
 - :title:
   - Variations XML

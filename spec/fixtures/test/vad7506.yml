@@ -236,7 +236,7 @@
       <subfield code="f">1</subfield>
     </datafield>
   </record>
-:thumbnail_path: "/tmp/ingest/vad7506_accmat-1-0001.tif"
+:thumbnail_path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0001.tif"
 :collections: []
 :structure:
   :nodes:
@@ -689,7 +689,7 @@
 :files:
 - :id: vad7506-1-0001.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0001.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0001.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -697,7 +697,7 @@
     :source_metadata_identifier: VAD7506-1-0001
 - :id: vad7506-1-0002.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0002.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0002.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -705,7 +705,7 @@
     :source_metadata_identifier: VAD7506-1-0002
 - :id: vad7506-1-0003.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0003.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0003.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -713,7 +713,7 @@
     :source_metadata_identifier: VAD7506-1-0003
 - :id: vad7506-1-0004.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0004.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0004.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -721,7 +721,7 @@
     :source_metadata_identifier: VAD7506-1-0004
 - :id: vad7506-1-0005.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0005.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0005.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -729,7 +729,7 @@
     :source_metadata_identifier: VAD7506-1-0005
 - :id: vad7506-1-0006.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0006.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0006.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -737,7 +737,7 @@
     :source_metadata_identifier: VAD7506-1-0006
 - :id: vad7506-1-0007.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0007.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0007.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -745,7 +745,7 @@
     :source_metadata_identifier: VAD7506-1-0007
 - :id: vad7506-1-0008.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0008.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0008.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -753,7 +753,7 @@
     :source_metadata_identifier: VAD7506-1-0008
 - :id: vad7506-1-0009.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0009.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0009.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -761,7 +761,7 @@
     :source_metadata_identifier: VAD7506-1-0009
 - :id: vad7506-1-0010.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0010.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0010.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -769,7 +769,7 @@
     :source_metadata_identifier: VAD7506-1-0010
 - :id: vad7506-1-0011.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0011.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0011.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -777,7 +777,7 @@
     :source_metadata_identifier: VAD7506-1-0011
 - :id: vad7506-1-0012.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0012.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0012.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -785,7 +785,7 @@
     :source_metadata_identifier: VAD7506-1-0012
 - :id: vad7506-1-0013.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0013.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0013.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -793,7 +793,7 @@
     :source_metadata_identifier: VAD7506-1-0013
 - :id: vad7506-1-0014.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0014.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0014.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -801,7 +801,7 @@
     :source_metadata_identifier: VAD7506-1-0014
 - :id: vad7506-1-0015.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0015.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0015.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -809,7 +809,7 @@
     :source_metadata_identifier: VAD7506-1-0015
 - :id: vad7506-1-0016.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0016.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0016.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -817,7 +817,7 @@
     :source_metadata_identifier: VAD7506-1-0016
 - :id: vad7506-1-0017.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0017.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0017.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -825,7 +825,7 @@
     :source_metadata_identifier: VAD7506-1-0017
 - :id: vad7506-1-0018.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0018.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0018.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -833,7 +833,7 @@
     :source_metadata_identifier: VAD7506-1-0018
 - :id: vad7506-1-0019.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0019.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0019.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -841,7 +841,7 @@
     :source_metadata_identifier: VAD7506-1-0019
 - :id: vad7506-1-0020.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0020.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0020.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -849,7 +849,7 @@
     :source_metadata_identifier: VAD7506-1-0020
 - :id: vad7506-1-0021.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0021.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0021.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -857,7 +857,7 @@
     :source_metadata_identifier: VAD7506-1-0021
 - :id: vad7506-1-0022.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0022.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0022.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -865,7 +865,7 @@
     :source_metadata_identifier: VAD7506-1-0022
 - :id: vad7506-1-0023.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0023.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0023.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -873,7 +873,7 @@
     :source_metadata_identifier: VAD7506-1-0023
 - :id: vad7506-1-0024.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0024.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0024.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -881,7 +881,7 @@
     :source_metadata_identifier: VAD7506-1-0024
 - :id: vad7506-1-0025.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0025.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0025.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -889,7 +889,7 @@
     :source_metadata_identifier: VAD7506-1-0025
 - :id: vad7506-1-0026.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0026.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0026.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -897,7 +897,7 @@
     :source_metadata_identifier: VAD7506-1-0026
 - :id: vad7506-1-0027.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0027.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0027.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -905,7 +905,7 @@
     :source_metadata_identifier: VAD7506-1-0027
 - :id: vad7506-1-0028.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0028.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0028.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -913,7 +913,7 @@
     :source_metadata_identifier: VAD7506-1-0028
 - :id: vad7506-1-0029.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0029.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0029.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -921,7 +921,7 @@
     :source_metadata_identifier: VAD7506-1-0029
 - :id: vad7506-1-0030.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0030.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0030.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -929,7 +929,7 @@
     :source_metadata_identifier: VAD7506-1-0030
 - :id: vad7506-1-0031.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0031.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0031.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -937,7 +937,7 @@
     :source_metadata_identifier: VAD7506-1-0031
 - :id: vad7506-1-0032.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0032.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0032.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -945,7 +945,7 @@
     :source_metadata_identifier: VAD7506-1-0032
 - :id: vad7506-1-0033.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0033.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0033.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -953,7 +953,7 @@
     :source_metadata_identifier: VAD7506-1-0033
 - :id: vad7506-1-0034.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0034.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0034.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -961,7 +961,7 @@
     :source_metadata_identifier: VAD7506-1-0034
 - :id: vad7506-1-0035.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0035.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0035.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -969,7 +969,7 @@
     :source_metadata_identifier: VAD7506-1-0035
 - :id: vad7506-1-0036.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0036.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0036.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -977,7 +977,7 @@
     :source_metadata_identifier: VAD7506-1-0036
 - :id: vad7506-1-0037.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0037.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0037.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -985,7 +985,7 @@
     :source_metadata_identifier: VAD7506-1-0037
 - :id: vad7506-1-0038.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0038.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0038.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -993,7 +993,7 @@
     :source_metadata_identifier: VAD7506-1-0038
 - :id: vad7506-1-0039.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0039.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0039.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1001,7 +1001,7 @@
     :source_metadata_identifier: VAD7506-1-0039
 - :id: vad7506-1-0040.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0040.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0040.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1009,7 +1009,7 @@
     :source_metadata_identifier: VAD7506-1-0040
 - :id: vad7506-1-0041.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0041.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0041.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1017,7 +1017,7 @@
     :source_metadata_identifier: VAD7506-1-0041
 - :id: vad7506-1-0042.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0042.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0042.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1025,7 +1025,7 @@
     :source_metadata_identifier: VAD7506-1-0042
 - :id: vad7506-1-0043.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0043.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0043.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1033,7 +1033,7 @@
     :source_metadata_identifier: VAD7506-1-0043
 - :id: vad7506-1-0044.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0044.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0044.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1041,7 +1041,7 @@
     :source_metadata_identifier: VAD7506-1-0044
 - :id: vad7506-1-0045.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0045.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0045.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1049,7 +1049,7 @@
     :source_metadata_identifier: VAD7506-1-0045
 - :id: vad7506-1-0046.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0046.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0046.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1057,7 +1057,7 @@
     :source_metadata_identifier: VAD7506-1-0046
 - :id: vad7506-1-0047.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0047.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0047.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1065,7 +1065,7 @@
     :source_metadata_identifier: VAD7506-1-0047
 - :id: vad7506-1-0048.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0048.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0048.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1073,7 +1073,7 @@
     :source_metadata_identifier: VAD7506-1-0048
 - :id: vad7506-1-0049.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0049.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0049.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1081,7 +1081,7 @@
     :source_metadata_identifier: VAD7506-1-0049
 - :id: vad7506-1-0050.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0050.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0050.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1089,7 +1089,7 @@
     :source_metadata_identifier: VAD7506-1-0050
 - :id: vad7506-1-0051.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0051.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0051.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1097,7 +1097,7 @@
     :source_metadata_identifier: VAD7506-1-0051
 - :id: vad7506-1-0052.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0052.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0052.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1105,7 +1105,7 @@
     :source_metadata_identifier: VAD7506-1-0052
 - :id: vad7506-1-0053.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0053.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0053.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1113,7 +1113,7 @@
     :source_metadata_identifier: VAD7506-1-0053
 - :id: vad7506-1-0054.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0054.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0054.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1121,7 +1121,7 @@
     :source_metadata_identifier: VAD7506-1-0054
 - :id: vad7506-1-0055.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0055.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0055.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1129,7 +1129,7 @@
     :source_metadata_identifier: VAD7506-1-0055
 - :id: vad7506-1-0056.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0056.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0056.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1137,7 +1137,7 @@
     :source_metadata_identifier: VAD7506-1-0056
 - :id: vad7506-1-0057.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0057.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0057.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1145,7 +1145,7 @@
     :source_metadata_identifier: VAD7506-1-0057
 - :id: vad7506-1-0058.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0058.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0058.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1153,7 +1153,7 @@
     :source_metadata_identifier: VAD7506-1-0058
 - :id: vad7506-1-0059.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0059.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0059.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1161,7 +1161,7 @@
     :source_metadata_identifier: VAD7506-1-0059
 - :id: vad7506-1-0060.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0060.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0060.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1169,7 +1169,7 @@
     :source_metadata_identifier: VAD7506-1-0060
 - :id: vad7506-1-0061.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0061.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0061.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1177,7 +1177,7 @@
     :source_metadata_identifier: VAD7506-1-0061
 - :id: vad7506-1-0062.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0062.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0062.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1185,7 +1185,7 @@
     :source_metadata_identifier: VAD7506-1-0062
 - :id: vad7506-1-0063.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0063.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0063.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1193,7 +1193,7 @@
     :source_metadata_identifier: VAD7506-1-0063
 - :id: vad7506-1-0064.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0064.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0064.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1201,7 +1201,7 @@
     :source_metadata_identifier: VAD7506-1-0064
 - :id: vad7506-1-0065.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0065.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0065.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1209,7 +1209,7 @@
     :source_metadata_identifier: VAD7506-1-0065
 - :id: vad7506-1-0066.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0066.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0066.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1217,7 +1217,7 @@
     :source_metadata_identifier: VAD7506-1-0066
 - :id: vad7506-1-0067.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0067.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0067.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1225,7 +1225,7 @@
     :source_metadata_identifier: VAD7506-1-0067
 - :id: vad7506-1-0068.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0068.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0068.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1233,7 +1233,7 @@
     :source_metadata_identifier: VAD7506-1-0068
 - :id: vad7506-1-0069.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0069.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0069.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1241,7 +1241,7 @@
     :source_metadata_identifier: VAD7506-1-0069
 - :id: vad7506-1-0070.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0070.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0070.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1249,7 +1249,7 @@
     :source_metadata_identifier: VAD7506-1-0070
 - :id: vad7506-1-0071.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0071.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0071.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1257,7 +1257,7 @@
     :source_metadata_identifier: VAD7506-1-0071
 - :id: vad7506-1-0072.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0072.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0072.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1265,7 +1265,7 @@
     :source_metadata_identifier: VAD7506-1-0072
 - :id: vad7506-1-0073.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0073.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0073.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1273,7 +1273,7 @@
     :source_metadata_identifier: VAD7506-1-0073
 - :id: vad7506-1-0074.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0074.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0074.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1281,7 +1281,7 @@
     :source_metadata_identifier: VAD7506-1-0074
 - :id: vad7506-1-0075.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0075.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0075.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1289,7 +1289,7 @@
     :source_metadata_identifier: VAD7506-1-0075
 - :id: vad7506-1-0076.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0076.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0076.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1297,7 +1297,7 @@
     :source_metadata_identifier: VAD7506-1-0076
 - :id: vad7506-1-0077.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0077.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0077.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1305,7 +1305,7 @@
     :source_metadata_identifier: VAD7506-1-0077
 - :id: vad7506-1-0078.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0078.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0078.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1313,7 +1313,7 @@
     :source_metadata_identifier: VAD7506-1-0078
 - :id: vad7506-1-0079.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0079.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0079.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1321,7 +1321,7 @@
     :source_metadata_identifier: VAD7506-1-0079
 - :id: vad7506-1-0080.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0080.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0080.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1329,7 +1329,7 @@
     :source_metadata_identifier: VAD7506-1-0080
 - :id: vad7506-1-0081.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0081.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0081.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1337,7 +1337,7 @@
     :source_metadata_identifier: VAD7506-1-0081
 - :id: vad7506-1-0082.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0082.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0082.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1345,7 +1345,7 @@
     :source_metadata_identifier: VAD7506-1-0082
 - :id: vad7506-1-0083.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0083.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0083.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1353,7 +1353,7 @@
     :source_metadata_identifier: VAD7506-1-0083
 - :id: vad7506-1-0084.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0084.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0084.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1361,7 +1361,7 @@
     :source_metadata_identifier: VAD7506-1-0084
 - :id: vad7506-1-0085.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0085.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0085.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1369,7 +1369,7 @@
     :source_metadata_identifier: VAD7506-1-0085
 - :id: vad7506-1-0086.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0086.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0086.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1377,7 +1377,7 @@
     :source_metadata_identifier: VAD7506-1-0086
 - :id: vad7506-1-0087.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0087.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0087.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1385,7 +1385,7 @@
     :source_metadata_identifier: VAD7506-1-0087
 - :id: vad7506-1-0088.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0088.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0088.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1393,7 +1393,7 @@
     :source_metadata_identifier: VAD7506-1-0088
 - :id: vad7506-1-0089.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0089.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0089.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1401,7 +1401,7 @@
     :source_metadata_identifier: VAD7506-1-0089
 - :id: vad7506-1-0090.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0090.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0090.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1409,7 +1409,7 @@
     :source_metadata_identifier: VAD7506-1-0090
 - :id: vad7506-1-0091.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0091.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0091.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1417,7 +1417,7 @@
     :source_metadata_identifier: VAD7506-1-0091
 - :id: vad7506-1-0092.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0092.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0092.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1425,7 +1425,7 @@
     :source_metadata_identifier: VAD7506-1-0092
 - :id: vad7506-1-0093.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0093.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0093.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1433,7 +1433,7 @@
     :source_metadata_identifier: VAD7506-1-0093
 - :id: vad7506-1-0094.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0094.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0094.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1441,7 +1441,7 @@
     :source_metadata_identifier: VAD7506-1-0094
 - :id: vad7506-1-0095.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0095.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0095.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1449,7 +1449,7 @@
     :source_metadata_identifier: VAD7506-1-0095
 - :id: vad7506-1-0096.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0096.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0096.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1457,7 +1457,7 @@
     :source_metadata_identifier: VAD7506-1-0096
 - :id: vad7506-1-0097.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0097.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0097.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1465,7 +1465,7 @@
     :source_metadata_identifier: VAD7506-1-0097
 - :id: vad7506-1-0098.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0098.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0098.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1473,7 +1473,7 @@
     :source_metadata_identifier: VAD7506-1-0098
 - :id: vad7506-1-0099.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0099.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0099.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1481,7 +1481,7 @@
     :source_metadata_identifier: VAD7506-1-0099
 - :id: vad7506-1-0100.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0100.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0100.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1489,7 +1489,7 @@
     :source_metadata_identifier: VAD7506-1-0100
 - :id: vad7506-1-0101.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0101.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0101.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1497,7 +1497,7 @@
     :source_metadata_identifier: VAD7506-1-0101
 - :id: vad7506-1-0102.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0102.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0102.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1505,7 +1505,7 @@
     :source_metadata_identifier: VAD7506-1-0102
 - :id: vad7506-1-0103.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0103.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0103.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1513,7 +1513,7 @@
     :source_metadata_identifier: VAD7506-1-0103
 - :id: vad7506-1-0104.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0104.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0104.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1521,7 +1521,7 @@
     :source_metadata_identifier: VAD7506-1-0104
 - :id: vad7506-1-0105.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0105.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0105.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1529,7 +1529,7 @@
     :source_metadata_identifier: VAD7506-1-0105
 - :id: vad7506-1-0106.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0106.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0106.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1537,7 +1537,7 @@
     :source_metadata_identifier: VAD7506-1-0106
 - :id: vad7506-1-0107.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0107.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0107.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1545,7 +1545,7 @@
     :source_metadata_identifier: VAD7506-1-0107
 - :id: vad7506-1-0108.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0108.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0108.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1553,7 +1553,7 @@
     :source_metadata_identifier: VAD7506-1-0108
 - :id: vad7506-1-0109.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0109.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0109.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1561,7 +1561,7 @@
     :source_metadata_identifier: VAD7506-1-0109
 - :id: vad7506-1-0110.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0110.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0110.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1569,7 +1569,7 @@
     :source_metadata_identifier: VAD7506-1-0110
 - :id: vad7506-1-0111.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0111.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0111.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1577,7 +1577,7 @@
     :source_metadata_identifier: VAD7506-1-0111
 - :id: vad7506-1-0112.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0112.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0112.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1585,7 +1585,7 @@
     :source_metadata_identifier: VAD7506-1-0112
 - :id: vad7506-1-0113.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0113.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0113.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1593,7 +1593,7 @@
     :source_metadata_identifier: VAD7506-1-0113
 - :id: vad7506-1-0114.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0114.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0114.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1601,7 +1601,7 @@
     :source_metadata_identifier: VAD7506-1-0114
 - :id: vad7506-1-0115.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0115.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0115.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1609,7 +1609,7 @@
     :source_metadata_identifier: VAD7506-1-0115
 - :id: vad7506-1-0116.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0116.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0116.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1617,7 +1617,7 @@
     :source_metadata_identifier: VAD7506-1-0116
 - :id: vad7506-1-0117.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0117.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0117.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1625,7 +1625,7 @@
     :source_metadata_identifier: VAD7506-1-0117
 - :id: vad7506-1-0118.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0118.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0118.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1633,7 +1633,7 @@
     :source_metadata_identifier: VAD7506-1-0118
 - :id: vad7506-1-0119.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0119.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0119.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1641,7 +1641,7 @@
     :source_metadata_identifier: VAD7506-1-0119
 - :id: vad7506-1-0120.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0120.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0120.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1649,7 +1649,7 @@
     :source_metadata_identifier: VAD7506-1-0120
 - :id: vad7506-1-0121.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0121.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0121.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1657,7 +1657,7 @@
     :source_metadata_identifier: VAD7506-1-0121
 - :id: vad7506-1-0122.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0122.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0122.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1665,7 +1665,7 @@
     :source_metadata_identifier: VAD7506-1-0122
 - :id: vad7506-1-0123.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0123.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0123.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1673,7 +1673,7 @@
     :source_metadata_identifier: VAD7506-1-0123
 - :id: vad7506-1-0124.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0124.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0124.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1681,7 +1681,7 @@
     :source_metadata_identifier: VAD7506-1-0124
 - :id: vad7506-1-0125.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0125.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0125.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1689,7 +1689,7 @@
     :source_metadata_identifier: VAD7506-1-0125
 - :id: vad7506-1-0126.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0126.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0126.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1697,7 +1697,7 @@
     :source_metadata_identifier: VAD7506-1-0126
 - :id: vad7506-1-0127.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0127.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0127.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1705,7 +1705,7 @@
     :source_metadata_identifier: VAD7506-1-0127
 - :id: vad7506-1-0128.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0128.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0128.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1713,7 +1713,7 @@
     :source_metadata_identifier: VAD7506-1-0128
 - :id: vad7506-1-0129.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0129.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0129.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1721,7 +1721,7 @@
     :source_metadata_identifier: VAD7506-1-0129
 - :id: vad7506-1-0130.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0130.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0130.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1729,7 +1729,7 @@
     :source_metadata_identifier: VAD7506-1-0130
 - :id: vad7506-1-0131.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0131.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0131.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1737,7 +1737,7 @@
     :source_metadata_identifier: VAD7506-1-0131
 - :id: vad7506-1-0132.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0132.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0132.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1745,7 +1745,7 @@
     :source_metadata_identifier: VAD7506-1-0132
 - :id: vad7506-1-0133.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0133.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0133.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1753,7 +1753,7 @@
     :source_metadata_identifier: VAD7506-1-0133
 - :id: vad7506-1-0134.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0134.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0134.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1761,7 +1761,7 @@
     :source_metadata_identifier: VAD7506-1-0134
 - :id: vad7506-1-0135.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0135.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0135.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1769,7 +1769,7 @@
     :source_metadata_identifier: VAD7506-1-0135
 - :id: vad7506-1-0136.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0136.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0136.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1777,7 +1777,7 @@
     :source_metadata_identifier: VAD7506-1-0136
 - :id: vad7506-1-0137.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0137.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0137.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1785,7 +1785,7 @@
     :source_metadata_identifier: VAD7506-1-0137
 - :id: vad7506-1-0138.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0138.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0138.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1793,7 +1793,7 @@
     :source_metadata_identifier: VAD7506-1-0138
 - :id: vad7506-1-0139.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0139.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0139.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1801,7 +1801,7 @@
     :source_metadata_identifier: VAD7506-1-0139
 - :id: vad7506-1-0140.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0140.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0140.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1809,7 +1809,7 @@
     :source_metadata_identifier: VAD7506-1-0140
 - :id: vad7506-1-0141.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0141.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0141.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1817,7 +1817,7 @@
     :source_metadata_identifier: VAD7506-1-0141
 - :id: vad7506-1-0142.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0142.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0142.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1825,7 +1825,7 @@
     :source_metadata_identifier: VAD7506-1-0142
 - :id: vad7506-1-0143.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0143.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0143.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1833,7 +1833,7 @@
     :source_metadata_identifier: VAD7506-1-0143
 - :id: vad7506-1-0144.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0144.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0144.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1841,7 +1841,7 @@
     :source_metadata_identifier: VAD7506-1-0144
 - :id: vad7506-1-0145.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0145.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0145.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1849,7 +1849,7 @@
     :source_metadata_identifier: VAD7506-1-0145
 - :id: vad7506-1-0146.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0146.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0146.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1857,7 +1857,7 @@
     :source_metadata_identifier: VAD7506-1-0146
 - :id: vad7506-1-0147.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0147.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0147.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1865,7 +1865,7 @@
     :source_metadata_identifier: VAD7506-1-0147
 - :id: vad7506-1-0148.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0148.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0148.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1873,7 +1873,7 @@
     :source_metadata_identifier: VAD7506-1-0148
 - :id: vad7506-1-0149.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0149.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0149.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1881,7 +1881,7 @@
     :source_metadata_identifier: VAD7506-1-0149
 - :id: vad7506-1-0150.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0150.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0150.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1889,7 +1889,7 @@
     :source_metadata_identifier: VAD7506-1-0150
 - :id: vad7506-1-0151.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0151.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0151.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1897,7 +1897,7 @@
     :source_metadata_identifier: VAD7506-1-0151
 - :id: vad7506-1-0152.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0152.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0152.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1905,7 +1905,7 @@
     :source_metadata_identifier: VAD7506-1-0152
 - :id: vad7506-1-0153.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0153.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0153.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1913,7 +1913,7 @@
     :source_metadata_identifier: VAD7506-1-0153
 - :id: vad7506-1-0154.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0154.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0154.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1921,7 +1921,7 @@
     :source_metadata_identifier: VAD7506-1-0154
 - :id: vad7506-1-0155.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0155.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0155.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1929,7 +1929,7 @@
     :source_metadata_identifier: VAD7506-1-0155
 - :id: vad7506-1-0156.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0156.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0156.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1937,7 +1937,7 @@
     :source_metadata_identifier: VAD7506-1-0156
 - :id: vad7506-1-0157.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0157.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0157.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1945,7 +1945,7 @@
     :source_metadata_identifier: VAD7506-1-0157
 - :id: vad7506-1-0158.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0158.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0158.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1953,7 +1953,7 @@
     :source_metadata_identifier: VAD7506-1-0158
 - :id: vad7506-1-0159.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0159.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0159.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1961,7 +1961,7 @@
     :source_metadata_identifier: VAD7506-1-0159
 - :id: vad7506-1-0160.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0160.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0160.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1969,7 +1969,7 @@
     :source_metadata_identifier: VAD7506-1-0160
 - :id: vad7506-1-0161.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0161.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0161.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1977,7 +1977,7 @@
     :source_metadata_identifier: VAD7506-1-0161
 - :id: vad7506-1-0162.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0162.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0162.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -1985,7 +1985,7 @@
     :source_metadata_identifier: VAD7506-1-0162
 - :id: vad7506-1-0163.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/vad7506_accmat-1-0163.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/vad7506_accmat/vad7506_accmat-1-0163.tif"
   :file_opts: {}
   :attributes:
     :title:

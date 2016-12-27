@@ -174,2202 +174,2322 @@
       <subfield code="f">1</subfield>
     </datafield>
   </record>
-:thumbnail_path: "/tmp/ingest/adu9084-1-0001.tif"
+:thumbnail_path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/cov1000.tif"
 :collections: []
 :structure: {}
 :files:
-- :id: adu9084-1-0001.tif
+- :id: cov1000.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0001.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/cov1000.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '1'
-    :source_metadata_identifier: ADU9084-1-0001
-- :id: adu9084-1-0002.tif
+    :source_metadata_identifier: COV1000
+- :id: cov1001.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0002.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/cov1001.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '2'
-    :source_metadata_identifier: ADU9084-1-0002
-- :id: adu9084-1-0003.tif
+    :source_metadata_identifier: COV1001
+- :id: cov2000.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0003.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/cov2000.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '3'
-    :source_metadata_identifier: ADU9084-1-0003
-- :id: adu9084-1-0004.tif
+    :source_metadata_identifier: COV2000
+- :id: cov2001.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0004.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/cov2001.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '4'
-    :source_metadata_identifier: ADU9084-1-0004
-- :id: adu9084-1-0005.tif
+    :source_metadata_identifier: COV2001
+- :id: cov3000.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0005.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/cov3000.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '5'
-    :source_metadata_identifier: ADU9084-1-0005
-- :id: adu9084-1-0006.tif
+    :source_metadata_identifier: COV3000
+- :id: cov3001.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0006.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/cov3001.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '6'
-    :source_metadata_identifier: ADU9084-1-0006
-- :id: adu9084-1-0007.tif
+    :source_metadata_identifier: COV3001
+- :id: sco10001.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0007.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10001.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '7'
-    :source_metadata_identifier: ADU9084-1-0007
-- :id: adu9084-1-0008.tif
+    :source_metadata_identifier: SCO10001
+- :id: sco10002.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0008.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10002.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '8'
-    :source_metadata_identifier: ADU9084-1-0008
-- :id: adu9084-1-0009.tif
+    :source_metadata_identifier: SCO10002
+- :id: sco10003.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0009.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10003.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '9'
-    :source_metadata_identifier: ADU9084-1-0009
-- :id: adu9084-1-0010.tif
+    :source_metadata_identifier: SCO10003
+- :id: sco10004.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0010.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10004.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '10'
-    :source_metadata_identifier: ADU9084-1-0010
-- :id: adu9084-1-0011.tif
+    :source_metadata_identifier: SCO10004
+- :id: sco10005.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0011.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10005.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '11'
-    :source_metadata_identifier: ADU9084-1-0011
-- :id: adu9084-1-0012.tif
+    :source_metadata_identifier: SCO10005
+- :id: sco10006.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0012.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10006.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '12'
-    :source_metadata_identifier: ADU9084-1-0012
-- :id: adu9084-1-0013.tif
+    :source_metadata_identifier: SCO10006
+- :id: sco10007.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0013.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10007.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '13'
-    :source_metadata_identifier: ADU9084-1-0013
-- :id: adu9084-1-0014.tif
+    :source_metadata_identifier: SCO10007
+- :id: sco10008.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0014.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10008.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '14'
-    :source_metadata_identifier: ADU9084-1-0014
-- :id: adu9084-1-0015.tif
+    :source_metadata_identifier: SCO10008
+- :id: sco10009.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0015.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10009.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '15'
-    :source_metadata_identifier: ADU9084-1-0015
-- :id: adu9084-1-0016.tif
+    :source_metadata_identifier: SCO10009
+- :id: sco10010.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0016.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10010.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '16'
-    :source_metadata_identifier: ADU9084-1-0016
-- :id: adu9084-1-0017.tif
+    :source_metadata_identifier: SCO10010
+- :id: sco10011.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0017.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10011.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '17'
-    :source_metadata_identifier: ADU9084-1-0017
-- :id: adu9084-1-0018.tif
+    :source_metadata_identifier: SCO10011
+- :id: sco10012.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0018.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10012.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '18'
-    :source_metadata_identifier: ADU9084-1-0018
-- :id: adu9084-1-0019.tif
+    :source_metadata_identifier: SCO10012
+- :id: sco10013.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0019.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10013.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '19'
-    :source_metadata_identifier: ADU9084-1-0019
-- :id: adu9084-1-0020.tif
+    :source_metadata_identifier: SCO10013
+- :id: sco10014.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0020.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10014.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '20'
-    :source_metadata_identifier: ADU9084-1-0020
-- :id: adu9084-1-0021.tif
+    :source_metadata_identifier: SCO10014
+- :id: sco10015.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0021.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10015.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '21'
-    :source_metadata_identifier: ADU9084-1-0021
-- :id: adu9084-1-0022.tif
+    :source_metadata_identifier: SCO10015
+- :id: sco10016.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0022.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10016.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '22'
-    :source_metadata_identifier: ADU9084-1-0022
-- :id: adu9084-1-0023.tif
+    :source_metadata_identifier: SCO10016
+- :id: sco10017.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0023.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10017.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '23'
-    :source_metadata_identifier: ADU9084-1-0023
-- :id: adu9084-1-0024.tif
+    :source_metadata_identifier: SCO10017
+- :id: sco10018.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0024.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10018.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '24'
-    :source_metadata_identifier: ADU9084-1-0024
-- :id: adu9084-1-0025.tif
+    :source_metadata_identifier: SCO10018
+- :id: sco10019.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0025.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10019.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '25'
-    :source_metadata_identifier: ADU9084-1-0025
-- :id: adu9084-1-0026.tif
+    :source_metadata_identifier: SCO10019
+- :id: sco10020.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0026.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10020.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '26'
-    :source_metadata_identifier: ADU9084-1-0026
-- :id: adu9084-1-0027.tif
+    :source_metadata_identifier: SCO10020
+- :id: sco10021.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0027.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10021.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '27'
-    :source_metadata_identifier: ADU9084-1-0027
-- :id: adu9084-1-0028.tif
+    :source_metadata_identifier: SCO10021
+- :id: sco10022.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0028.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10022.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '28'
-    :source_metadata_identifier: ADU9084-1-0028
-- :id: adu9084-1-0029.tif
+    :source_metadata_identifier: SCO10022
+- :id: sco10023.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0029.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10023.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '29'
-    :source_metadata_identifier: ADU9084-1-0029
-- :id: adu9084-1-0030.tif
+    :source_metadata_identifier: SCO10023
+- :id: sco10024.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0030.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10024.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '30'
-    :source_metadata_identifier: ADU9084-1-0030
-- :id: adu9084-1-0031.tif
+    :source_metadata_identifier: SCO10024
+- :id: sco10025.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0031.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10025.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '31'
-    :source_metadata_identifier: ADU9084-1-0031
-- :id: adu9084-1-0032.tif
+    :source_metadata_identifier: SCO10025
+- :id: sco10026.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0032.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10026.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '32'
-    :source_metadata_identifier: ADU9084-1-0032
-- :id: adu9084-1-0033.tif
+    :source_metadata_identifier: SCO10026
+- :id: sco10027.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0033.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10027.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '33'
-    :source_metadata_identifier: ADU9084-1-0033
-- :id: adu9084-1-0034.tif
+    :source_metadata_identifier: SCO10027
+- :id: sco10028.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0034.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10028.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '34'
-    :source_metadata_identifier: ADU9084-1-0034
-- :id: adu9084-1-0035.tif
+    :source_metadata_identifier: SCO10028
+- :id: sco10029.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0035.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10029.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '35'
-    :source_metadata_identifier: ADU9084-1-0035
-- :id: adu9084-1-0036.tif
+    :source_metadata_identifier: SCO10029
+- :id: sco10030.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0036.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10030.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '36'
-    :source_metadata_identifier: ADU9084-1-0036
-- :id: adu9084-1-0037.tif
+    :source_metadata_identifier: SCO10030
+- :id: sco10031.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0037.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10031.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '37'
-    :source_metadata_identifier: ADU9084-1-0037
-- :id: adu9084-1-0038.tif
+    :source_metadata_identifier: SCO10031
+- :id: sco10032.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0038.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10032.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '38'
-    :source_metadata_identifier: ADU9084-1-0038
-- :id: adu9084-1-0039.tif
+    :source_metadata_identifier: SCO10032
+- :id: sco10033.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0039.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10033.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '39'
-    :source_metadata_identifier: ADU9084-1-0039
-- :id: adu9084-1-0040.tif
+    :source_metadata_identifier: SCO10033
+- :id: sco10034.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0040.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10034.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '40'
-    :source_metadata_identifier: ADU9084-1-0040
-- :id: adu9084-1-0041.tif
+    :source_metadata_identifier: SCO10034
+- :id: sco10035.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0041.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10035.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '41'
-    :source_metadata_identifier: ADU9084-1-0041
-- :id: adu9084-1-0042.tif
+    :source_metadata_identifier: SCO10035
+- :id: sco10036.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0042.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10036.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '42'
-    :source_metadata_identifier: ADU9084-1-0042
-- :id: adu9084-1-0043.tif
+    :source_metadata_identifier: SCO10036
+- :id: sco10037.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0043.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10037.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '43'
-    :source_metadata_identifier: ADU9084-1-0043
-- :id: adu9084-1-0044.tif
+    :source_metadata_identifier: SCO10037
+- :id: sco10038.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0044.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10038.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '44'
-    :source_metadata_identifier: ADU9084-1-0044
-- :id: adu9084-1-0045.tif
+    :source_metadata_identifier: SCO10038
+- :id: sco10039.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0045.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10039.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '45'
-    :source_metadata_identifier: ADU9084-1-0045
-- :id: adu9084-1-0046.tif
+    :source_metadata_identifier: SCO10039
+- :id: sco10040.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0046.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10040.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '46'
-    :source_metadata_identifier: ADU9084-1-0046
-- :id: adu9084-1-0047.tif
+    :source_metadata_identifier: SCO10040
+- :id: sco10041.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0047.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10041.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '47'
-    :source_metadata_identifier: ADU9084-1-0047
-- :id: adu9084-1-0048.tif
+    :source_metadata_identifier: SCO10041
+- :id: sco10042.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0048.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10042.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '48'
-    :source_metadata_identifier: ADU9084-1-0048
-- :id: adu9084-1-0049.tif
+    :source_metadata_identifier: SCO10042
+- :id: sco10043.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0049.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10043.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '49'
-    :source_metadata_identifier: ADU9084-1-0049
-- :id: adu9084-1-0050.tif
+    :source_metadata_identifier: SCO10043
+- :id: sco10044.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0050.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10044.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '50'
-    :source_metadata_identifier: ADU9084-1-0050
-- :id: adu9084-1-0051.tif
+    :source_metadata_identifier: SCO10044
+- :id: sco10045.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0051.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10045.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '51'
-    :source_metadata_identifier: ADU9084-1-0051
-- :id: adu9084-1-0052.tif
+    :source_metadata_identifier: SCO10045
+- :id: sco10046.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0052.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10046.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '52'
-    :source_metadata_identifier: ADU9084-1-0052
-- :id: adu9084-1-0053.tif
+    :source_metadata_identifier: SCO10046
+- :id: sco10047.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0053.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10047.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '53'
-    :source_metadata_identifier: ADU9084-1-0053
-- :id: adu9084-1-0054.tif
+    :source_metadata_identifier: SCO10047
+- :id: sco10048.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0054.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10048.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '54'
-    :source_metadata_identifier: ADU9084-1-0054
-- :id: adu9084-1-0055.tif
+    :source_metadata_identifier: SCO10048
+- :id: sco10049.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0055.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10049.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '55'
-    :source_metadata_identifier: ADU9084-1-0055
-- :id: adu9084-1-0056.tif
+    :source_metadata_identifier: SCO10049
+- :id: sco10050.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0056.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10050.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '56'
-    :source_metadata_identifier: ADU9084-1-0056
-- :id: adu9084-1-0057.tif
+    :source_metadata_identifier: SCO10050
+- :id: sco10051.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0057.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10051.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '57'
-    :source_metadata_identifier: ADU9084-1-0057
-- :id: adu9084-1-0058.tif
+    :source_metadata_identifier: SCO10051
+- :id: sco10052.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0058.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10052.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '58'
-    :source_metadata_identifier: ADU9084-1-0058
-- :id: adu9084-1-0059.tif
+    :source_metadata_identifier: SCO10052
+- :id: sco10053.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0059.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10053.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '59'
-    :source_metadata_identifier: ADU9084-1-0059
-- :id: adu9084-1-0060.tif
+    :source_metadata_identifier: SCO10053
+- :id: sco10054.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0060.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10054.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '60'
-    :source_metadata_identifier: ADU9084-1-0060
-- :id: adu9084-1-0061.tif
+    :source_metadata_identifier: SCO10054
+- :id: sco10055.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0061.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10055.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '61'
-    :source_metadata_identifier: ADU9084-1-0061
-- :id: adu9084-1-0062.tif
+    :source_metadata_identifier: SCO10055
+- :id: sco10056.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0062.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10056.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '62'
-    :source_metadata_identifier: ADU9084-1-0062
-- :id: adu9084-1-0063.tif
+    :source_metadata_identifier: SCO10056
+- :id: sco10057.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0063.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10057.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '63'
-    :source_metadata_identifier: ADU9084-1-0063
-- :id: adu9084-1-0064.tif
+    :source_metadata_identifier: SCO10057
+- :id: sco10058.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0064.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10058.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '64'
-    :source_metadata_identifier: ADU9084-1-0064
-- :id: adu9084-1-0065.tif
+    :source_metadata_identifier: SCO10058
+- :id: sco10059.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0065.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10059.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '65'
-    :source_metadata_identifier: ADU9084-1-0065
-- :id: adu9084-1-0066.tif
+    :source_metadata_identifier: SCO10059
+- :id: sco10060.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0066.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10060.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '66'
-    :source_metadata_identifier: ADU9084-1-0066
-- :id: adu9084-1-0067.tif
+    :source_metadata_identifier: SCO10060
+- :id: sco10061.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0067.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10061.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '67'
-    :source_metadata_identifier: ADU9084-1-0067
-- :id: adu9084-1-0068.tif
+    :source_metadata_identifier: SCO10061
+- :id: sco10062.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0068.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10062.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '68'
-    :source_metadata_identifier: ADU9084-1-0068
-- :id: adu9084-1-0069.tif
+    :source_metadata_identifier: SCO10062
+- :id: sco10063.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0069.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10063.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '69'
-    :source_metadata_identifier: ADU9084-1-0069
-- :id: adu9084-1-0070.tif
+    :source_metadata_identifier: SCO10063
+- :id: sco10064.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0070.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10064.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '70'
-    :source_metadata_identifier: ADU9084-1-0070
-- :id: adu9084-1-0071.tif
+    :source_metadata_identifier: SCO10064
+- :id: sco10065.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0071.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10065.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '71'
-    :source_metadata_identifier: ADU9084-1-0071
-- :id: adu9084-1-0072.tif
+    :source_metadata_identifier: SCO10065
+- :id: sco10066.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0072.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10066.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '72'
-    :source_metadata_identifier: ADU9084-1-0072
-- :id: adu9084-1-0073.tif
+    :source_metadata_identifier: SCO10066
+- :id: sco10067.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0073.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10067.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '73'
-    :source_metadata_identifier: ADU9084-1-0073
-- :id: adu9084-1-0074.tif
+    :source_metadata_identifier: SCO10067
+- :id: sco10068.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0074.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10068.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '74'
-    :source_metadata_identifier: ADU9084-1-0074
-- :id: adu9084-1-0075.tif
+    :source_metadata_identifier: SCO10068
+- :id: sco10069.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0075.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10069.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '75'
-    :source_metadata_identifier: ADU9084-1-0075
-- :id: adu9084-1-0076.tif
+    :source_metadata_identifier: SCO10069
+- :id: sco10070.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0076.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10070.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '76'
-    :source_metadata_identifier: ADU9084-1-0076
-- :id: adu9084-1-0077.tif
+    :source_metadata_identifier: SCO10070
+- :id: sco10071.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0077.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10071.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '77'
-    :source_metadata_identifier: ADU9084-1-0077
-- :id: adu9084-1-0078.tif
+    :source_metadata_identifier: SCO10071
+- :id: sco10072.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0078.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10072.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '78'
-    :source_metadata_identifier: ADU9084-1-0078
-- :id: adu9084-1-0079.tif
+    :source_metadata_identifier: SCO10072
+- :id: sco10073.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0079.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10073.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '79'
-    :source_metadata_identifier: ADU9084-1-0079
-- :id: adu9084-1-0080.tif
+    :source_metadata_identifier: SCO10073
+- :id: sco10074.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0080.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10074.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '80'
-    :source_metadata_identifier: ADU9084-1-0080
-- :id: adu9084-1-0081.tif
+    :source_metadata_identifier: SCO10074
+- :id: sco10075.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0081.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10075.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '81'
-    :source_metadata_identifier: ADU9084-1-0081
-- :id: adu9084-1-0082.tif
+    :source_metadata_identifier: SCO10075
+- :id: sco10076.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0082.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10076.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '82'
-    :source_metadata_identifier: ADU9084-1-0082
-- :id: adu9084-1-0083.tif
+    :source_metadata_identifier: SCO10076
+- :id: sco10077.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0083.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10077.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '83'
-    :source_metadata_identifier: ADU9084-1-0083
-- :id: adu9084-1-0084.tif
+    :source_metadata_identifier: SCO10077
+- :id: sco10078.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0084.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10078.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '84'
-    :source_metadata_identifier: ADU9084-1-0084
-- :id: adu9084-1-0085.tif
+    :source_metadata_identifier: SCO10078
+- :id: sco10079.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0085.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10079.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '85'
-    :source_metadata_identifier: ADU9084-1-0085
-- :id: adu9084-1-0086.tif
+    :source_metadata_identifier: SCO10079
+- :id: sco10080.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0086.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10080.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '86'
-    :source_metadata_identifier: ADU9084-1-0086
-- :id: adu9084-1-0087.tif
+    :source_metadata_identifier: SCO10080
+- :id: sco10081.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0087.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10081.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '87'
-    :source_metadata_identifier: ADU9084-1-0087
-- :id: adu9084-1-0088.tif
+    :source_metadata_identifier: SCO10081
+- :id: sco10082.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0088.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10082.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '88'
-    :source_metadata_identifier: ADU9084-1-0088
-- :id: adu9084-1-0089.tif
+    :source_metadata_identifier: SCO10082
+- :id: sco10083.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0089.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10083.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '89'
-    :source_metadata_identifier: ADU9084-1-0089
-- :id: adu9084-1-0090.tif
+    :source_metadata_identifier: SCO10083
+- :id: sco10084.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0090.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10084.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '90'
-    :source_metadata_identifier: ADU9084-1-0090
-- :id: adu9084-1-0091.tif
+    :source_metadata_identifier: SCO10084
+- :id: sco10085.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0091.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10085.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '91'
-    :source_metadata_identifier: ADU9084-1-0091
-- :id: adu9084-1-0092.tif
+    :source_metadata_identifier: SCO10085
+- :id: sco10086.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0092.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10086.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '92'
-    :source_metadata_identifier: ADU9084-1-0092
-- :id: adu9084-1-0093.tif
+    :source_metadata_identifier: SCO10086
+- :id: sco10087.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0093.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10087.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '93'
-    :source_metadata_identifier: ADU9084-1-0093
-- :id: adu9084-1-0094.tif
+    :source_metadata_identifier: SCO10087
+- :id: sco10088.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0094.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10088.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '94'
-    :source_metadata_identifier: ADU9084-1-0094
-- :id: adu9084-1-0095.tif
+    :source_metadata_identifier: SCO10088
+- :id: sco10089.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0095.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10089.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '95'
-    :source_metadata_identifier: ADU9084-1-0095
-- :id: adu9084-1-0096.tif
+    :source_metadata_identifier: SCO10089
+- :id: sco10090.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0096.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10090.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '96'
-    :source_metadata_identifier: ADU9084-1-0096
-- :id: adu9084-1-0097.tif
+    :source_metadata_identifier: SCO10090
+- :id: sco10091.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0097.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10091.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '97'
-    :source_metadata_identifier: ADU9084-1-0097
-- :id: adu9084-1-0098.tif
+    :source_metadata_identifier: SCO10091
+- :id: sco10092.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0098.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10092.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '98'
-    :source_metadata_identifier: ADU9084-1-0098
-- :id: adu9084-1-0099.tif
+    :source_metadata_identifier: SCO10092
+- :id: sco10093.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0099.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10093.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '99'
-    :source_metadata_identifier: ADU9084-1-0099
-- :id: adu9084-1-0100.tif
+    :source_metadata_identifier: SCO10093
+- :id: sco10094.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0100.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10094.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '100'
-    :source_metadata_identifier: ADU9084-1-0100
-- :id: adu9084-1-0101.tif
+    :source_metadata_identifier: SCO10094
+- :id: sco10095.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0101.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10095.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '101'
-    :source_metadata_identifier: ADU9084-1-0101
-- :id: adu9084-1-0102.tif
+    :source_metadata_identifier: SCO10095
+- :id: sco10096.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0102.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10096.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '102'
-    :source_metadata_identifier: ADU9084-1-0102
-- :id: adu9084-1-0103.tif
+    :source_metadata_identifier: SCO10096
+- :id: sco10097.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0103.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10097.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '103'
-    :source_metadata_identifier: ADU9084-1-0103
-- :id: adu9084-1-0104.tif
+    :source_metadata_identifier: SCO10097
+- :id: sco10098.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0104.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10098.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '104'
-    :source_metadata_identifier: ADU9084-1-0104
-- :id: adu9084-1-0105.tif
+    :source_metadata_identifier: SCO10098
+- :id: sco10099.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0105.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10099.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '105'
-    :source_metadata_identifier: ADU9084-1-0105
-- :id: adu9084-1-0106.tif
+    :source_metadata_identifier: SCO10099
+- :id: sco10100.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0106.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10100.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '106'
-    :source_metadata_identifier: ADU9084-1-0106
-- :id: adu9084-1-0107.tif
+    :source_metadata_identifier: SCO10100
+- :id: sco10101.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0107.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10101.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '107'
-    :source_metadata_identifier: ADU9084-1-0107
-- :id: adu9084-1-0108.tif
+    :source_metadata_identifier: SCO10101
+- :id: sco10102.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0108.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10102.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '108'
-    :source_metadata_identifier: ADU9084-1-0108
-- :id: adu9084-1-0109.tif
+    :source_metadata_identifier: SCO10102
+- :id: sco10103.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0109.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10103.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '109'
-    :source_metadata_identifier: ADU9084-1-0109
-- :id: adu9084-1-0110.tif
+    :source_metadata_identifier: SCO10103
+- :id: sco10104.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0110.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10104.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '110'
-    :source_metadata_identifier: ADU9084-1-0110
-- :id: adu9084-1-0111.tif
+    :source_metadata_identifier: SCO10104
+- :id: sco10105.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0111.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10105.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '111'
-    :source_metadata_identifier: ADU9084-1-0111
-- :id: adu9084-1-0112.tif
+    :source_metadata_identifier: SCO10105
+- :id: sco10106.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0112.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10106.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '112'
-    :source_metadata_identifier: ADU9084-1-0112
-- :id: adu9084-1-0113.tif
+    :source_metadata_identifier: SCO10106
+- :id: sco10107.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0113.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10107.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '113'
-    :source_metadata_identifier: ADU9084-1-0113
-- :id: adu9084-1-0114.tif
+    :source_metadata_identifier: SCO10107
+- :id: sco10108.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0114.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10108.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '114'
-    :source_metadata_identifier: ADU9084-1-0114
-- :id: adu9084-1-0115.tif
+    :source_metadata_identifier: SCO10108
+- :id: sco10109.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0115.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10109.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '115'
-    :source_metadata_identifier: ADU9084-1-0115
-- :id: adu9084-1-0116.tif
+    :source_metadata_identifier: SCO10109
+- :id: sco10110.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0116.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10110.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '116'
-    :source_metadata_identifier: ADU9084-1-0116
-- :id: adu9084-1-0117.tif
+    :source_metadata_identifier: SCO10110
+- :id: sco10111.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0117.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10111.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '117'
-    :source_metadata_identifier: ADU9084-1-0117
-- :id: adu9084-1-0118.tif
+    :source_metadata_identifier: SCO10111
+- :id: sco10112.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0118.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10112.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '118'
-    :source_metadata_identifier: ADU9084-1-0118
-- :id: adu9084-1-0119.tif
+    :source_metadata_identifier: SCO10112
+- :id: sco10113.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0119.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10113.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '119'
-    :source_metadata_identifier: ADU9084-1-0119
-- :id: adu9084-1-0120.tif
+    :source_metadata_identifier: SCO10113
+- :id: sco10114.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0120.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10114.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '120'
-    :source_metadata_identifier: ADU9084-1-0120
-- :id: adu9084-1-0121.tif
+    :source_metadata_identifier: SCO10114
+- :id: sco10115.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0121.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10115.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '121'
-    :source_metadata_identifier: ADU9084-1-0121
-- :id: adu9084-1-0122.tif
+    :source_metadata_identifier: SCO10115
+- :id: sco10116.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0122.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10116.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '122'
-    :source_metadata_identifier: ADU9084-1-0122
-- :id: adu9084-1-0123.tif
+    :source_metadata_identifier: SCO10116
+- :id: sco10117.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0123.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10117.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '123'
-    :source_metadata_identifier: ADU9084-1-0123
-- :id: adu9084-1-0124.tif
+    :source_metadata_identifier: SCO10117
+- :id: sco10118.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0124.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10118.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '124'
-    :source_metadata_identifier: ADU9084-1-0124
-- :id: adu9084-1-0125.tif
+    :source_metadata_identifier: SCO10118
+- :id: sco10119.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0125.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10119.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '125'
-    :source_metadata_identifier: ADU9084-1-0125
-- :id: adu9084-1-0126.tif
+    :source_metadata_identifier: SCO10119
+- :id: sco10120.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0126.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco10120.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '126'
-    :source_metadata_identifier: ADU9084-1-0126
-- :id: adu9084-1-0127.tif
+    :source_metadata_identifier: SCO10120
+- :id: sco20005.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0127.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20005.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '127'
-    :source_metadata_identifier: ADU9084-1-0127
-- :id: adu9084-1-0128.tif
+    :source_metadata_identifier: SCO20005
+- :id: sco20006.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0128.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20006.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '128'
-    :source_metadata_identifier: ADU9084-1-0128
-- :id: adu9084-1-0129.tif
+    :source_metadata_identifier: SCO20006
+- :id: sco20007.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0129.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20007.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '129'
-    :source_metadata_identifier: ADU9084-1-0129
-- :id: adu9084-1-0130.tif
+    :source_metadata_identifier: SCO20007
+- :id: sco20008.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0130.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20008.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '130'
-    :source_metadata_identifier: ADU9084-1-0130
-- :id: adu9084-1-0131.tif
+    :source_metadata_identifier: SCO20008
+- :id: sco20009.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0131.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20009.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '131'
-    :source_metadata_identifier: ADU9084-1-0131
-- :id: adu9084-1-0132.tif
+    :source_metadata_identifier: SCO20009
+- :id: sco20010.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0132.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20010.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '132'
-    :source_metadata_identifier: ADU9084-1-0132
-- :id: adu9084-1-0133.tif
+    :source_metadata_identifier: SCO20010
+- :id: sco20011.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0133.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20011.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '133'
-    :source_metadata_identifier: ADU9084-1-0133
-- :id: adu9084-1-0134.tif
+    :source_metadata_identifier: SCO20011
+- :id: sco20012.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0134.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20012.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '134'
-    :source_metadata_identifier: ADU9084-1-0134
-- :id: adu9084-1-0135.tif
+    :source_metadata_identifier: SCO20012
+- :id: sco20013.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0135.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20013.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '135'
-    :source_metadata_identifier: ADU9084-1-0135
-- :id: adu9084-1-0136.tif
+    :source_metadata_identifier: SCO20013
+- :id: sco20014.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0136.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20014.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '136'
-    :source_metadata_identifier: ADU9084-1-0136
-- :id: adu9084-1-0137.tif
+    :source_metadata_identifier: SCO20014
+- :id: sco20015.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0137.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20015.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '137'
-    :source_metadata_identifier: ADU9084-1-0137
-- :id: adu9084-1-0138.tif
+    :source_metadata_identifier: SCO20015
+- :id: sco20016.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0138.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20016.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '138'
-    :source_metadata_identifier: ADU9084-1-0138
-- :id: adu9084-1-0139.tif
+    :source_metadata_identifier: SCO20016
+- :id: sco20017.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0139.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20017.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '139'
-    :source_metadata_identifier: ADU9084-1-0139
-- :id: adu9084-1-0140.tif
+    :source_metadata_identifier: SCO20017
+- :id: sco20018.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0140.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20018.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '140'
-    :source_metadata_identifier: ADU9084-1-0140
-- :id: adu9084-1-0141.tif
+    :source_metadata_identifier: SCO20018
+- :id: sco20019.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0141.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20019.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '141'
-    :source_metadata_identifier: ADU9084-1-0141
-- :id: adu9084-1-0142.tif
+    :source_metadata_identifier: SCO20019
+- :id: sco20020.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0142.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20020.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '142'
-    :source_metadata_identifier: ADU9084-1-0142
-- :id: adu9084-1-0143.tif
+    :source_metadata_identifier: SCO20020
+- :id: sco20021.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0143.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20021.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '143'
-    :source_metadata_identifier: ADU9084-1-0143
-- :id: adu9084-1-0144.tif
+    :source_metadata_identifier: SCO20021
+- :id: sco20022.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0144.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20022.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '144'
-    :source_metadata_identifier: ADU9084-1-0144
-- :id: adu9084-1-0145.tif
+    :source_metadata_identifier: SCO20022
+- :id: sco20023.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0145.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20023.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '145'
-    :source_metadata_identifier: ADU9084-1-0145
-- :id: adu9084-1-0146.tif
+    :source_metadata_identifier: SCO20023
+- :id: sco20024.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0146.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20024.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '146'
-    :source_metadata_identifier: ADU9084-1-0146
-- :id: adu9084-1-0147.tif
+    :source_metadata_identifier: SCO20024
+- :id: sco20025.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0147.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20025.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '147'
-    :source_metadata_identifier: ADU9084-1-0147
-- :id: adu9084-1-0148.tif
+    :source_metadata_identifier: SCO20025
+- :id: sco20026.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0148.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20026.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '148'
-    :source_metadata_identifier: ADU9084-1-0148
-- :id: adu9084-1-0149.tif
+    :source_metadata_identifier: SCO20026
+- :id: sco20027.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0149.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20027.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '149'
-    :source_metadata_identifier: ADU9084-1-0149
-- :id: adu9084-1-0150.tif
+    :source_metadata_identifier: SCO20027
+- :id: sco20028.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0150.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20028.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '150'
-    :source_metadata_identifier: ADU9084-1-0150
-- :id: adu9084-1-0151.tif
+    :source_metadata_identifier: SCO20028
+- :id: sco20029.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0151.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20029.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '151'
-    :source_metadata_identifier: ADU9084-1-0151
-- :id: adu9084-1-0152.tif
+    :source_metadata_identifier: SCO20029
+- :id: sco20030.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0152.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20030.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '152'
-    :source_metadata_identifier: ADU9084-1-0152
-- :id: adu9084-1-0153.tif
+    :source_metadata_identifier: SCO20030
+- :id: sco20031.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0153.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20031.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '153'
-    :source_metadata_identifier: ADU9084-1-0153
-- :id: adu9084-1-0154.tif
+    :source_metadata_identifier: SCO20031
+- :id: sco20032.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0154.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20032.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '154'
-    :source_metadata_identifier: ADU9084-1-0154
-- :id: adu9084-1-0155.tif
+    :source_metadata_identifier: SCO20032
+- :id: sco20033.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0155.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20033.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '155'
-    :source_metadata_identifier: ADU9084-1-0155
-- :id: adu9084-1-0156.tif
+    :source_metadata_identifier: SCO20033
+- :id: sco20034.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0156.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20034.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '156'
-    :source_metadata_identifier: ADU9084-1-0156
-- :id: adu9084-1-0157.tif
+    :source_metadata_identifier: SCO20034
+- :id: sco20035.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0157.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20035.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '157'
-    :source_metadata_identifier: ADU9084-1-0157
-- :id: adu9084-1-0158.tif
+    :source_metadata_identifier: SCO20035
+- :id: sco20036.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0158.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20036.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '158'
-    :source_metadata_identifier: ADU9084-1-0158
-- :id: adu9084-1-0159.tif
+    :source_metadata_identifier: SCO20036
+- :id: sco20037.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0159.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20037.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '159'
-    :source_metadata_identifier: ADU9084-1-0159
-- :id: adu9084-1-0160.tif
+    :source_metadata_identifier: SCO20037
+- :id: sco20038.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0160.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20038.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '160'
-    :source_metadata_identifier: ADU9084-1-0160
-- :id: adu9084-1-0161.tif
+    :source_metadata_identifier: SCO20038
+- :id: sco20039.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0161.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20039.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '161'
-    :source_metadata_identifier: ADU9084-1-0161
-- :id: adu9084-1-0162.tif
+    :source_metadata_identifier: SCO20039
+- :id: sco20040.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0162.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20040.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '162'
-    :source_metadata_identifier: ADU9084-1-0162
-- :id: adu9084-1-0163.tif
+    :source_metadata_identifier: SCO20040
+- :id: sco20041.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0163.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20041.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '163'
-    :source_metadata_identifier: ADU9084-1-0163
-- :id: adu9084-1-0164.tif
+    :source_metadata_identifier: SCO20041
+- :id: sco20042.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0164.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20042.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '164'
-    :source_metadata_identifier: ADU9084-1-0164
-- :id: adu9084-1-0165.tif
+    :source_metadata_identifier: SCO20042
+- :id: sco20043.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0165.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20043.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '165'
-    :source_metadata_identifier: ADU9084-1-0165
-- :id: adu9084-1-0166.tif
+    :source_metadata_identifier: SCO20043
+- :id: sco20044.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0166.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20044.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '166'
-    :source_metadata_identifier: ADU9084-1-0166
-- :id: adu9084-1-0167.tif
+    :source_metadata_identifier: SCO20044
+- :id: sco20045.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0167.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20045.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '167'
-    :source_metadata_identifier: ADU9084-1-0167
-- :id: adu9084-1-0168.tif
+    :source_metadata_identifier: SCO20045
+- :id: sco20046.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0168.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20046.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '168'
-    :source_metadata_identifier: ADU9084-1-0168
-- :id: adu9084-1-0169.tif
+    :source_metadata_identifier: SCO20046
+- :id: sco20047.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0169.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20047.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '169'
-    :source_metadata_identifier: ADU9084-1-0169
-- :id: adu9084-1-0170.tif
+    :source_metadata_identifier: SCO20047
+- :id: sco20048.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0170.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20048.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '170'
-    :source_metadata_identifier: ADU9084-1-0170
-- :id: adu9084-1-0171.tif
+    :source_metadata_identifier: SCO20048
+- :id: sco20049.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0171.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20049.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '171'
-    :source_metadata_identifier: ADU9084-1-0171
-- :id: adu9084-1-0172.tif
+    :source_metadata_identifier: SCO20049
+- :id: sco20050.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0172.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20050.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '172'
-    :source_metadata_identifier: ADU9084-1-0172
-- :id: adu9084-1-0173.tif
+    :source_metadata_identifier: SCO20050
+- :id: sco20051.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0173.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20051.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '173'
-    :source_metadata_identifier: ADU9084-1-0173
-- :id: adu9084-1-0174.tif
+    :source_metadata_identifier: SCO20051
+- :id: sco20052.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0174.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20052.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '174'
-    :source_metadata_identifier: ADU9084-1-0174
-- :id: adu9084-1-0175.tif
+    :source_metadata_identifier: SCO20052
+- :id: sco20053.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0175.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20053.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '175'
-    :source_metadata_identifier: ADU9084-1-0175
-- :id: adu9084-1-0176.tif
+    :source_metadata_identifier: SCO20053
+- :id: sco20054.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0176.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20054.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '176'
-    :source_metadata_identifier: ADU9084-1-0176
-- :id: adu9084-1-0177.tif
+    :source_metadata_identifier: SCO20054
+- :id: sco20055.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0177.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20055.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '177'
-    :source_metadata_identifier: ADU9084-1-0177
-- :id: adu9084-1-0178.tif
+    :source_metadata_identifier: SCO20055
+- :id: sco20056.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0178.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20056.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '178'
-    :source_metadata_identifier: ADU9084-1-0178
-- :id: adu9084-1-0179.tif
+    :source_metadata_identifier: SCO20056
+- :id: sco20057.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0179.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20057.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '179'
-    :source_metadata_identifier: ADU9084-1-0179
-- :id: adu9084-1-0180.tif
+    :source_metadata_identifier: SCO20057
+- :id: sco20058.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0180.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20058.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '180'
-    :source_metadata_identifier: ADU9084-1-0180
-- :id: adu9084-1-0181.tif
+    :source_metadata_identifier: SCO20058
+- :id: sco20059.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0181.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20059.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '181'
-    :source_metadata_identifier: ADU9084-1-0181
-- :id: adu9084-1-0182.tif
+    :source_metadata_identifier: SCO20059
+- :id: sco20060.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0182.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20060.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '182'
-    :source_metadata_identifier: ADU9084-1-0182
-- :id: adu9084-1-0183.tif
+    :source_metadata_identifier: SCO20060
+- :id: sco20061.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0183.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20061.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '183'
-    :source_metadata_identifier: ADU9084-1-0183
-- :id: adu9084-1-0184.tif
+    :source_metadata_identifier: SCO20061
+- :id: sco20062.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0184.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20062.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '184'
-    :source_metadata_identifier: ADU9084-1-0184
-- :id: adu9084-1-0185.tif
+    :source_metadata_identifier: SCO20062
+- :id: sco20063.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0185.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20063.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '185'
-    :source_metadata_identifier: ADU9084-1-0185
-- :id: adu9084-1-0186.tif
+    :source_metadata_identifier: SCO20063
+- :id: sco20064.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0186.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20064.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '186'
-    :source_metadata_identifier: ADU9084-1-0186
-- :id: adu9084-1-0187.tif
+    :source_metadata_identifier: SCO20064
+- :id: sco20065.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0187.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20065.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '187'
-    :source_metadata_identifier: ADU9084-1-0187
-- :id: adu9084-1-0188.tif
+    :source_metadata_identifier: SCO20065
+- :id: sco20066.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0188.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20066.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '188'
-    :source_metadata_identifier: ADU9084-1-0188
-- :id: adu9084-1-0189.tif
+    :source_metadata_identifier: SCO20066
+- :id: sco20067.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0189.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20067.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '189'
-    :source_metadata_identifier: ADU9084-1-0189
-- :id: adu9084-1-0190.tif
+    :source_metadata_identifier: SCO20067
+- :id: sco20068.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0190.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20068.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '190'
-    :source_metadata_identifier: ADU9084-1-0190
-- :id: adu9084-1-0191.tif
+    :source_metadata_identifier: SCO20068
+- :id: sco20069.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0191.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20069.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '191'
-    :source_metadata_identifier: ADU9084-1-0191
-- :id: adu9084-1-0192.tif
+    :source_metadata_identifier: SCO20069
+- :id: sco20070.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0192.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20070.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '192'
-    :source_metadata_identifier: ADU9084-1-0192
-- :id: adu9084-1-0193.tif
+    :source_metadata_identifier: SCO20070
+- :id: sco20071.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0193.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20071.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '193'
-    :source_metadata_identifier: ADU9084-1-0193
-- :id: adu9084-1-0194.tif
+    :source_metadata_identifier: SCO20071
+- :id: sco20072.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0194.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20072.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '194'
-    :source_metadata_identifier: ADU9084-1-0194
-- :id: adu9084-1-0195.tif
+    :source_metadata_identifier: SCO20072
+- :id: sco20073.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0195.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20073.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '195'
-    :source_metadata_identifier: ADU9084-1-0195
-- :id: adu9084-1-0196.tif
+    :source_metadata_identifier: SCO20073
+- :id: sco20074.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0196.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20074.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '196'
-    :source_metadata_identifier: ADU9084-1-0196
-- :id: adu9084-1-0197.tif
+    :source_metadata_identifier: SCO20074
+- :id: sco20075.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0197.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20075.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '197'
-    :source_metadata_identifier: ADU9084-1-0197
-- :id: adu9084-1-0198.tif
+    :source_metadata_identifier: SCO20075
+- :id: sco20076.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0198.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20076.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '198'
-    :source_metadata_identifier: ADU9084-1-0198
-- :id: adu9084-1-0199.tif
+    :source_metadata_identifier: SCO20076
+- :id: sco20077.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0199.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20077.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '199'
-    :source_metadata_identifier: ADU9084-1-0199
-- :id: adu9084-1-0200.tif
+    :source_metadata_identifier: SCO20077
+- :id: sco20078.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0200.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20078.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '200'
-    :source_metadata_identifier: ADU9084-1-0200
-- :id: adu9084-1-0201.tif
+    :source_metadata_identifier: SCO20078
+- :id: sco20079.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0201.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20079.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '201'
-    :source_metadata_identifier: ADU9084-1-0201
-- :id: adu9084-1-0202.tif
+    :source_metadata_identifier: SCO20079
+- :id: sco20080.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0202.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20080.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '202'
-    :source_metadata_identifier: ADU9084-1-0202
-- :id: adu9084-1-0203.tif
+    :source_metadata_identifier: SCO20080
+- :id: sco20081.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0203.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20081.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '203'
-    :source_metadata_identifier: ADU9084-1-0203
-- :id: adu9084-1-0204.tif
+    :source_metadata_identifier: SCO20081
+- :id: sco20082.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0204.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20082.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '204'
-    :source_metadata_identifier: ADU9084-1-0204
-- :id: adu9084-1-0205.tif
+    :source_metadata_identifier: SCO20082
+- :id: sco20083.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0205.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20083.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '205'
-    :source_metadata_identifier: ADU9084-1-0205
-- :id: adu9084-1-0206.tif
+    :source_metadata_identifier: SCO20083
+- :id: sco20084.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0206.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20084.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '206'
-    :source_metadata_identifier: ADU9084-1-0206
-- :id: adu9084-1-0207.tif
+    :source_metadata_identifier: SCO20084
+- :id: sco20085.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0207.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20085.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '207'
-    :source_metadata_identifier: ADU9084-1-0207
-- :id: adu9084-1-0208.tif
+    :source_metadata_identifier: SCO20085
+- :id: sco20086.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0208.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20086.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '208'
-    :source_metadata_identifier: ADU9084-1-0208
-- :id: adu9084-1-0209.tif
+    :source_metadata_identifier: SCO20086
+- :id: sco20087.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0209.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20087.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '209'
-    :source_metadata_identifier: ADU9084-1-0209
-- :id: adu9084-1-0210.tif
+    :source_metadata_identifier: SCO20087
+- :id: sco20088.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0210.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20088.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '210'
-    :source_metadata_identifier: ADU9084-1-0210
-- :id: adu9084-1-0211.tif
+    :source_metadata_identifier: SCO20088
+- :id: sco20089.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0211.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20089.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '211'
-    :source_metadata_identifier: ADU9084-1-0211
-- :id: adu9084-1-0212.tif
+    :source_metadata_identifier: SCO20089
+- :id: sco20090.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0212.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20090.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '212'
-    :source_metadata_identifier: ADU9084-1-0212
-- :id: adu9084-1-0213.tif
+    :source_metadata_identifier: SCO20090
+- :id: sco20091.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0213.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20091.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '213'
-    :source_metadata_identifier: ADU9084-1-0213
-- :id: adu9084-1-0214.tif
+    :source_metadata_identifier: SCO20091
+- :id: sco20092.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0214.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20092.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '214'
-    :source_metadata_identifier: ADU9084-1-0214
-- :id: adu9084-1-0215.tif
+    :source_metadata_identifier: SCO20092
+- :id: sco20093.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0215.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20093.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '215'
-    :source_metadata_identifier: ADU9084-1-0215
-- :id: adu9084-1-0216.tif
+    :source_metadata_identifier: SCO20093
+- :id: sco20094.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0216.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20094.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '216'
-    :source_metadata_identifier: ADU9084-1-0216
-- :id: adu9084-1-0217.tif
+    :source_metadata_identifier: SCO20094
+- :id: sco20095.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0217.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20095.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '217'
-    :source_metadata_identifier: ADU9084-1-0217
-- :id: adu9084-1-0218.tif
+    :source_metadata_identifier: SCO20095
+- :id: sco20096.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0218.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20096.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '218'
-    :source_metadata_identifier: ADU9084-1-0218
-- :id: adu9084-1-0219.tif
+    :source_metadata_identifier: SCO20096
+- :id: sco20097.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0219.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20097.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '219'
-    :source_metadata_identifier: ADU9084-1-0219
-- :id: adu9084-1-0220.tif
+    :source_metadata_identifier: SCO20097
+- :id: sco20098.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0220.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20098.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '220'
-    :source_metadata_identifier: ADU9084-1-0220
-- :id: adu9084-1-0221.tif
+    :source_metadata_identifier: SCO20098
+- :id: sco20099.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0221.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20099.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '221'
-    :source_metadata_identifier: ADU9084-1-0221
-- :id: adu9084-1-0222.tif
+    :source_metadata_identifier: SCO20099
+- :id: sco20100.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0222.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20100.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '222'
-    :source_metadata_identifier: ADU9084-1-0222
-- :id: adu9084-1-0223.tif
+    :source_metadata_identifier: SCO20100
+- :id: sco20101.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0223.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20101.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '223'
-    :source_metadata_identifier: ADU9084-1-0223
-- :id: adu9084-1-0224.tif
+    :source_metadata_identifier: SCO20101
+- :id: sco20102.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0224.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20102.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '224'
-    :source_metadata_identifier: ADU9084-1-0224
-- :id: adu9084-1-0225.tif
+    :source_metadata_identifier: SCO20102
+- :id: sco20103.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0225.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20103.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '225'
-    :source_metadata_identifier: ADU9084-1-0225
-- :id: adu9084-1-0226.tif
+    :source_metadata_identifier: SCO20103
+- :id: sco20104.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0226.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20104.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '226'
-    :source_metadata_identifier: ADU9084-1-0226
-- :id: adu9084-1-0227.tif
+    :source_metadata_identifier: SCO20104
+- :id: sco20105.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0227.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20105.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '227'
-    :source_metadata_identifier: ADU9084-1-0227
-- :id: adu9084-1-0228.tif
+    :source_metadata_identifier: SCO20105
+- :id: sco20106.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0228.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20106.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '228'
-    :source_metadata_identifier: ADU9084-1-0228
-- :id: adu9084-1-0229.tif
+    :source_metadata_identifier: SCO20106
+- :id: sco20107.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0229.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20107.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '229'
-    :source_metadata_identifier: ADU9084-1-0229
-- :id: adu9084-1-0230.tif
+    :source_metadata_identifier: SCO20107
+- :id: sco20108.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0230.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20108.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '230'
-    :source_metadata_identifier: ADU9084-1-0230
-- :id: adu9084-1-0231.tif
+    :source_metadata_identifier: SCO20108
+- :id: sco20109.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0231.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20109.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '231'
-    :source_metadata_identifier: ADU9084-1-0231
-- :id: adu9084-1-0232.tif
+    :source_metadata_identifier: SCO20109
+- :id: sco20110.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0232.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20110.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '232'
-    :source_metadata_identifier: ADU9084-1-0232
-- :id: adu9084-1-0233.tif
+    :source_metadata_identifier: SCO20110
+- :id: sco20111.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0233.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20111.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '233'
-    :source_metadata_identifier: ADU9084-1-0233
-- :id: adu9084-1-0234.tif
+    :source_metadata_identifier: SCO20111
+- :id: sco20112.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0234.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20112.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '234'
-    :source_metadata_identifier: ADU9084-1-0234
-- :id: adu9084-1-0235.tif
+    :source_metadata_identifier: SCO20112
+- :id: sco20113.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0235.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20113.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '235'
-    :source_metadata_identifier: ADU9084-1-0235
-- :id: adu9084-1-0236.tif
+    :source_metadata_identifier: SCO20113
+- :id: sco20114.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0236.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20114.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '236'
-    :source_metadata_identifier: ADU9084-1-0236
-- :id: adu9084-1-0237.tif
+    :source_metadata_identifier: SCO20114
+- :id: sco20115.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0237.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20115.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '237'
-    :source_metadata_identifier: ADU9084-1-0237
-- :id: adu9084-1-0238.tif
+    :source_metadata_identifier: SCO20115
+- :id: sco20116.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0238.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20116.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '238'
-    :source_metadata_identifier: ADU9084-1-0238
-- :id: adu9084-1-0239.tif
+    :source_metadata_identifier: SCO20116
+- :id: sco20117.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0239.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20117.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '239'
-    :source_metadata_identifier: ADU9084-1-0239
-- :id: adu9084-1-0240.tif
+    :source_metadata_identifier: SCO20117
+- :id: sco20118.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0240.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20118.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '240'
-    :source_metadata_identifier: ADU9084-1-0240
-- :id: adu9084-1-0241.tif
+    :source_metadata_identifier: SCO20118
+- :id: sco20119.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0241.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20119.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '241'
-    :source_metadata_identifier: ADU9084-1-0241
-- :id: adu9084-1-0242.tif
+    :source_metadata_identifier: SCO20119
+- :id: sco20120.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0242.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20120.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '242'
-    :source_metadata_identifier: ADU9084-1-0242
-- :id: adu9084-1-0243.tif
+    :source_metadata_identifier: SCO20120
+- :id: sco20121.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0243.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco20121.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '243'
-    :source_metadata_identifier: ADU9084-1-0243
-- :id: adu9084-1-0244.tif
+    :source_metadata_identifier: SCO20121
+- :id: sco30001.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0244.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco30001.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '244'
-    :source_metadata_identifier: ADU9084-1-0244
-- :id: adu9084-1-0245.tif
+    :source_metadata_identifier: SCO30001
+- :id: sco30002.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0245.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco30002.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '245'
-    :source_metadata_identifier: ADU9084-1-0245
-- :id: adu9084-1-0246.tif
+    :source_metadata_identifier: SCO30002
+- :id: sco30003.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0246.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco30003.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '246'
-    :source_metadata_identifier: ADU9084-1-0246
-- :id: adu9084-1-0247.tif
+    :source_metadata_identifier: SCO30003
+- :id: sco30004.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0247.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco30004.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '247'
-    :source_metadata_identifier: ADU9084-1-0247
-- :id: adu9084-1-0248.tif
+    :source_metadata_identifier: SCO30004
+- :id: sco30005.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0248.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco30005.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '248'
-    :source_metadata_identifier: ADU9084-1-0248
-- :id: adu9084-1-0249.tif
+    :source_metadata_identifier: SCO30005
+- :id: sco30006.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0249.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco30006.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '249'
-    :source_metadata_identifier: ADU9084-1-0249
-- :id: adu9084-1-0250.tif
+    :source_metadata_identifier: SCO30006
+- :id: sco30007.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0250.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco30007.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '250'
-    :source_metadata_identifier: ADU9084-1-0250
-- :id: adu9084-1-0251.tif
+    :source_metadata_identifier: SCO30007
+- :id: sco30008.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0251.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco30008.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '251'
-    :source_metadata_identifier: ADU9084-1-0251
-- :id: adu9084-1-0252.tif
+    :source_metadata_identifier: SCO30008
+- :id: sco30009.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0252.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco30009.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '252'
-    :source_metadata_identifier: ADU9084-1-0252
-- :id: adu9084-1-0253.tif
+    :source_metadata_identifier: SCO30009
+- :id: sco30010.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0253.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco30010.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '253'
-    :source_metadata_identifier: ADU9084-1-0253
-- :id: adu9084-1-0254.tif
+    :source_metadata_identifier: SCO30010
+- :id: sco30011.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0254.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco30011.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '254'
-    :source_metadata_identifier: ADU9084-1-0254
-- :id: adu9084-1-0255.tif
+    :source_metadata_identifier: SCO30011
+- :id: sco30012.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0255.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco30012.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '255'
-    :source_metadata_identifier: ADU9084-1-0255
-- :id: adu9084-1-0256.tif
+    :source_metadata_identifier: SCO30012
+- :id: sco30013.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0256.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco30013.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '256'
-    :source_metadata_identifier: ADU9084-1-0256
-- :id: adu9084-1-0257.tif
+    :source_metadata_identifier: SCO30013
+- :id: sco30014.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0257.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco30014.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '257'
-    :source_metadata_identifier: ADU9084-1-0257
-- :id: adu9084-1-0258.tif
+    :source_metadata_identifier: SCO30014
+- :id: sco30015.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0258.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco30015.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '258'
-    :source_metadata_identifier: ADU9084-1-0258
-- :id: adu9084-1-0259.tif
+    :source_metadata_identifier: SCO30015
+- :id: sco30016.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0259.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco30016.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '259'
-    :source_metadata_identifier: ADU9084-1-0259
-- :id: adu9084-1-0260.tif
+    :source_metadata_identifier: SCO30016
+- :id: sco30017.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0260.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco30017.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '260'
-    :source_metadata_identifier: ADU9084-1-0260
-- :id: adu9084-1-0261.tif
+    :source_metadata_identifier: SCO30017
+- :id: sco30018.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0261.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco30018.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '261'
-    :source_metadata_identifier: ADU9084-1-0261
-- :id: adu9084-1-0262.tif
+    :source_metadata_identifier: SCO30018
+- :id: sco30019.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0262.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco30019.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '262'
-    :source_metadata_identifier: ADU9084-1-0262
-- :id: adu9084-1-0263.tif
+    :source_metadata_identifier: SCO30019
+- :id: sco30020.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0263.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco30020.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '263'
-    :source_metadata_identifier: ADU9084-1-0263
-- :id: adu9084-1-0264.tif
+    :source_metadata_identifier: SCO30020
+- :id: sco30021.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0264.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco30021.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '264'
-    :source_metadata_identifier: ADU9084-1-0264
-- :id: adu9084-1-0265.tif
+    :source_metadata_identifier: SCO30021
+- :id: sco30022.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0265.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco30022.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '265'
-    :source_metadata_identifier: ADU9084-1-0265
-- :id: adu9084-1-0266.tif
+    :source_metadata_identifier: SCO30022
+- :id: sco30023.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0266.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco30023.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '266'
-    :source_metadata_identifier: ADU9084-1-0266
-- :id: adu9084-1-0267.tif
+    :source_metadata_identifier: SCO30023
+- :id: sco30024.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0267.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco30024.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '267'
-    :source_metadata_identifier: ADU9084-1-0267
-- :id: adu9084-1-0268.tif
+    :source_metadata_identifier: SCO30024
+- :id: sco30025.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0268.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco30025.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '268'
-    :source_metadata_identifier: ADU9084-1-0268
-- :id: adu9084-1-0269.tif
+    :source_metadata_identifier: SCO30025
+- :id: sco30026.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0269.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco30026.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '269'
-    :source_metadata_identifier: ADU9084-1-0269
-- :id: adu9084-1-0270.tif
+    :source_metadata_identifier: SCO30026
+- :id: sco30027.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0270.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco30027.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '270'
-    :source_metadata_identifier: ADU9084-1-0270
-- :id: adu9084-1-0271.tif
+    :source_metadata_identifier: SCO30027
+- :id: sco30028.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0271.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco30028.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '271'
-    :source_metadata_identifier: ADU9084-1-0271
-- :id: adu9084-1-0272.tif
+    :source_metadata_identifier: SCO30028
+- :id: sco30029.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0272.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco30029.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '272'
-    :source_metadata_identifier: ADU9084-1-0272
-- :id: adu9084-1-0273.tif
+    :source_metadata_identifier: SCO30029
+- :id: sco30030.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0273.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco30030.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '273'
-    :source_metadata_identifier: ADU9084-1-0273
-- :id: adu9084-1-0274.tif
+    :source_metadata_identifier: SCO30030
+- :id: sco30031.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/adu9084-1-0274.tif"
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco30031.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '274'
-    :source_metadata_identifier: ADU9084-1-0274
+    :source_metadata_identifier: SCO30031
+- :id: sco30032.tif
+  :mime_type: image/tiff
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco30032.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '275'
+    :source_metadata_identifier: SCO30032
+- :id: sco30033.tif
+  :mime_type: image/tiff
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco30033.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '276'
+    :source_metadata_identifier: SCO30033
+- :id: sco30034.tif
+  :mime_type: image/tiff
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco30034.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '277'
+    :source_metadata_identifier: SCO30034
+- :id: sco30035.tif
+  :mime_type: image/tiff
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco30035.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '278'
+    :source_metadata_identifier: SCO30035
+- :id: sco30036.tif
+  :mime_type: image/tiff
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/sco30036.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '279'
+    :source_metadata_identifier: SCO30036
+- :id: txt1001.tif
+  :mime_type: image/tiff
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/txt1001.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '280'
+    :source_metadata_identifier: TXT1001
+- :id: txt2001.tif
+  :mime_type: image/tiff
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/txt2001.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '281'
+    :source_metadata_identifier: TXT2001
+- :id: txt2002.tif
+  :mime_type: image/tiff
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/txt2002.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '282'
+    :source_metadata_identifier: TXT2002
+- :id: txt2003.tif
+  :mime_type: image/tiff
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/txt2003.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '283'
+    :source_metadata_identifier: TXT2003
+- :id: txt2004.tif
+  :mime_type: image/tiff
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/txt2004.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '284'
+    :source_metadata_identifier: TXT2004
+- :id: txt2122.tif
+  :mime_type: image/tiff
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/txt2122.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '285'
+    :source_metadata_identifier: TXT2122
+- :id: txt2123.tif
+  :mime_type: image/tiff
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/txt2123.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '286'
+    :source_metadata_identifier: TXT2123
+- :id: txt3001.tif
+  :mime_type: image/tiff
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/txt3001.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '287'
+    :source_metadata_identifier: TXT3001
+- :id: txt3003.tif
+  :mime_type: image/tiff
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/txt3003.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '288'
+    :source_metadata_identifier: TXT3003
+- :id: txt3004.tif
+  :mime_type: image/tiff
+  :path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/adu9084/txt3004.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '289'
+    :source_metadata_identifier: TXT3004
 :sources:
 - :title:
   - Variations XML

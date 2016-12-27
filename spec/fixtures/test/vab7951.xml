@@ -1,0 +1,328 @@
+<AudioAccessPage>
+  <OrderedMediaObjects>
+    <MO><Label>VAB7951A</Label></MO>
+  </OrderedMediaObjects>
+  <Bibinfo>
+    <Author>Parley of Instruments</Author>
+  </Bibinfo>
+
+<RecordSet version="trunk">
+   <MediaObject>
+      <Label>VAB7951A</Label>
+      <FileFormat>video/quicktime</FileFormat>
+      <Compression>MP3 192 kbps</Compression>
+      <ChannelCount>2</ChannelCount>
+      <SampleSize>16</SampleSize>
+      <SampleRate>44100</SampleRate>
+      <Environment>Sound Forge Extract Data from CD</Environment>
+      <DigitizationDate>2009-10-05</DigitizationDate>
+      <DigitizedBy>mquevedo@IU.EDU</DigitizedBy>
+      <AccessCount>0</AccessCount>
+      <FileInfos>
+         <FileInfo>
+            <Extent>4449679</Extent>
+            <Size>112111282</Size>
+            <FileName>vab7951a.mov</FileName>
+            <Checksum>844d57f2833d5b2317888849d7206e02</Checksum>
+            <Creation>2009-10-05 16:35:19.0</Creation>
+            <Update>2009-10-05 16:35:19.0</Update>
+         </FileInfo>
+      </FileInfos>
+      <Id>IU/MediaObject/466347</Id>
+      <CreationInfo>
+         <User>mquevedo@IU.EDU</User>
+         <Timestamp>2009-10-05 16:35:19.0</Timestamp>
+      </CreationInfo>
+      <UpdateInfo>
+         <User>darnelso@IU.EDU</User>
+         <Timestamp>2014-05-04 14:04:46.0</Timestamp>
+      </UpdateInfo>
+      <Status>Complete</Status>
+   </MediaObject>
+   <Container>
+      <DisplayTitle offset="0">German 17th-century church music [sound recording]</DisplayTitle>
+      <Publisher>Hyperion</Publisher>
+      <Edition/>
+      <PublisherNumbers>
+         <PublisherNumber>Hyperion:CDA67079</PublisherNumber>
+      </PublisherNumbers>
+      <DocumentInfos>
+         <DocumentInfo>
+            <Type>Sound</Type>
+            <Format>CD</Format>
+            <Description>1 sound disc : digital ; 4 3/4 in</Description>
+         </DocumentInfo>
+         <DocumentInfo>
+            <Type>Sound</Type>
+            <Format>CD</Format>
+            <Description>Accompanying Materials - ContainerID: IU/Container/568214 Label: Accompanying materials</Description>
+         </DocumentInfo>
+      </DocumentInfos>
+      <PublicationDate>1999</PublicationDate>
+      <CopyrightDate>1999</CopyrightDate>
+      <PublicationPlace>London</PublicationPlace>
+      <BibliographicNotes>
+         <BibliographicNote>
+            <Type>Descriptive</Type>
+            <Text>Solo cantatas and sonatas for 2 violins (Rosenmüller) or 2 violins and 2 violas (Bach) and continuo</Text>
+         </BibliographicNote>
+         <BibliographicNote>
+            <Type>Administrative</Type>
+            <Text>Vocal works sung in German or Latin</Text>
+         </BibliographicNote>
+         <BibliographicNote>
+            <Type>Descriptive</Type>
+            <Text>Recorded Sept. 8-10, 1998</Text>
+         </BibliographicNote>
+         <BibliographicNote>
+            <Type>Descriptive</Type>
+            <Text>Compact disc</Text>
+         </BibliographicNote>
+         <BibliographicNote>
+            <Type>Descriptive</Type>
+            <Text>Program notes in English, French, and German, and vocal texts with English translations (233 p. : ports.) in container</Text>
+         </BibliographicNote>
+      </BibliographicNotes>
+      <Structure label="German 17th-century church music [sound recording]">
+         <Item label="CD 1">
+            <Chunk isrc="null" label="Track 1. Heinrich Schütz, Erbarm dich mein, O Herre Gott, SWV 447">
+               <ContentInterval begin="0" end="261080" mediaRef="IU/MediaObject/466347"/>
+            </Chunk>
+            <Chunk isrc="null" label="Track 2. Christoph Bernhard, Was betrübst du dich, meine Seele">
+               <ContentInterval begin="261080" end="551493" mediaRef="IU/MediaObject/466347"/>
+            </Chunk>
+            <Chunk isrc="null" label="Track 3. Johann  Rosenmüller, Christum ducem, qui per crucem">
+               <ContentInterval begin="551493" end="739546" mediaRef="IU/MediaObject/466347"/>
+            </Chunk>
+            <Chunk isrc="null" label="Track 4. Johann Rosenmüller, Sonata II a 2 in E minor">
+               <ContentInterval begin="739546" end="1210693" mediaRef="IU/MediaObject/466347"/>
+            </Chunk>
+            <Chunk isrc="null" label="Track 5. Dietrich Buxtehude, Jesu, meine Freud und Lust, BuxWV 59">
+               <ContentInterval begin="1210693" end="1597626" mediaRef="IU/MediaObject/466347"/>
+            </Chunk>
+            <Chunk isrc="null" label="Track 6. Christian Geist, Vater unser, der du bist im Himmel">
+               <ContentInterval begin="1597626" end="1993666" mediaRef="IU/MediaObject/466347"/>
+            </Chunk>
+            <Chunk isrc="null" label="Track 7. Dietrich Buxtehude, Jubilate Domino, omnis terra, BuxWV 64">
+               <ContentInterval begin="1993666" end="2455133" mediaRef="IU/MediaObject/466347"/>
+            </Chunk>
+            <Chunk isrc="null" label="Track 8. Heinrich Bach, Sonata I in C major">
+               <ContentInterval begin="2455133" end="2673200" mediaRef="IU/MediaObject/466347"/>
+            </Chunk>
+            <Chunk isrc="null" label="Track 9. Johann Christoph Bach, Ach, dass ich Wassers gnug hätte in meinem Haupte">
+               <ContentInterval begin="2673200" end="3055333" mediaRef="IU/MediaObject/466347"/>
+            </Chunk>
+            <Chunk isrc="null" label="Track 10. Johann Michael Bach, Auf, lasst uns den Herren loben">
+               <ContentInterval begin="3055333" end="3453266" mediaRef="IU/MediaObject/466347"/>
+            </Chunk>
+            <Chunk isrc="null" label="Track 11. Heinrich Bach, Sonata II in F major">
+               <ContentInterval begin="3453266" end="3602560" mediaRef="IU/MediaObject/466347"/>
+            </Chunk>
+            <Chunk isrc="null" label="Track 12. Johann Philipp Krieger, O Jesu, du mein Leben">
+               <ContentInterval begin="3602560" end="4092400" mediaRef="IU/MediaObject/466347"/>
+            </Chunk>
+            <Chunk isrc="null" label="Track 13. Melchoir Hofmann (attr.), Schlage doch, gewünschte Stunde">
+               <ContentInterval begin="4092400" end="4449679" mediaRef="IU/MediaObject/466347"/>
+            </Chunk>
+         </Item>
+      </Structure>
+      <MediaObjectRefs>
+         <MediaObjectRef>IU/MediaObject/466347</MediaObjectRef>
+      </MediaObjectRefs>
+      <PhysicalID>
+         <Location>IU Music Library</Location>
+         <CallNumber>6560712 (Frontlog CDs)</CallNumber>
+         <CopyNumber>1</CopyNumber>
+      </PhysicalID>
+      <PhysicalCondition/>
+      <HoldingStatus>Restricted access</HoldingStatus>
+      <Upc>0034571170794</Upc>
+      <CopyrightDecls>
+         <CopyrightDecl>
+            <Owner>(P) &amp; (C) 1999 Hyperion Records</Owner>
+            <Domain>Item</Domain>
+         </CopyrightDecl>
+      </CopyrightDecls>
+      <PublicDomain>Unknown</PublicDomain>
+      <OtherSystemIds>
+         <OtherSystemId>(Variations)vab7951</OtherSystemId>
+         <OtherSystemId>(OCoLC)ocm42092593</OtherSystemId>
+      </OtherSystemIds>
+      <Id>IU/Container/466315</Id>
+      <CreationInfo>
+         <User>mquevedo@IU.EDU</User>
+         <Timestamp>2009-10-05 16:29:22.0</Timestamp>
+      </CreationInfo>
+      <UpdateInfo>
+         <User>darnelso@IU.EDU</User>
+         <Timestamp>2014-05-04 14:04:46.551</Timestamp>
+      </UpdateInfo>
+      <Status>Import only</Status>
+   </Container>
+   <SetInfo>
+      <TextMatches/>
+      <ThemeBaseURL>http://variations-prod-web.dlib.indiana.edu/variations/themes/</ThemeBaseURL>
+      <AvailableMediaItems>
+         <AllItemsAvailable>true</AllItemsAvailable>
+      </AvailableMediaItems>
+   </SetInfo>
+</RecordSet>
+
+<AccompanyingMaterials>
+
+<RecordSet version="trunk">
+   <Container>
+      <DisplayTitle offset="0">Accompanying materials for German 17th-century church music [sound recording]</DisplayTitle>
+      <Edition>ACCOMPANYING_MATERIALS</Edition>
+      <DocumentInfos>
+         <DocumentInfo>
+            <Type>Score</Type>
+            <Format>Full Score</Format>
+            <Description>Accompanying materials</Description>
+         </DocumentInfo>
+      </DocumentInfos>
+      <Structure label="Accompanying materials for German 17th-century church music [sound recording]">
+         <Item label="Accompanying materials for German 17th-century church music [sound recording]">
+            <Div label="[Booklet]">
+               <Div label="[Title page]">
+                  <Chunk label="[1]">
+                     <ContentInterval begin="0" end="1" mediaRef="IU/MediaObject/568215"/>
+                  </Chunk>
+               </Div>
+               <Div label="[Track listing]">
+                  <Chunk label="2">
+                     <ContentInterval begin="1" end="2" mediaRef="IU/MediaObject/568215"/>
+                  </Chunk>
+                  <Chunk label="3">
+                     <ContentInterval begin="2" end="3" mediaRef="IU/MediaObject/568215"/>
+                  </Chunk>
+               </Div>
+               <Div label="[Liner notes (English)]">
+                  <Chunk label="4">
+                     <ContentInterval begin="3" end="4" mediaRef="IU/MediaObject/568215"/>
+                  </Chunk>
+                  <Chunk label="5">
+                     <ContentInterval begin="4" end="5" mediaRef="IU/MediaObject/568215"/>
+                  </Chunk>
+                  <Chunk label="6">
+                     <ContentInterval begin="5" end="6" mediaRef="IU/MediaObject/568215"/>
+                  </Chunk>
+               </Div>
+               <Div label="[Text]">
+                  <Chunk label="7">
+                     <ContentInterval begin="6" end="7" mediaRef="IU/MediaObject/568215"/>
+                  </Chunk>
+                  <Chunk label="8">
+                     <ContentInterval begin="7" end="8" mediaRef="IU/MediaObject/568215"/>
+                  </Chunk>
+                  <Chunk label="9">
+                     <ContentInterval begin="8" end="9" mediaRef="IU/MediaObject/568215"/>
+                  </Chunk>
+                  <Chunk label="10">
+                     <ContentInterval begin="9" end="10" mediaRef="IU/MediaObject/568215"/>
+                  </Chunk>
+                  <Chunk label="11">
+                     <ContentInterval begin="10" end="11" mediaRef="IU/MediaObject/568215"/>
+                  </Chunk>
+                  <Chunk label="12">
+                     <ContentInterval begin="11" end="12" mediaRef="IU/MediaObject/568215"/>
+                  </Chunk>
+               </Div>
+               <Div label="[Performer biography]">
+                  <Chunk label="13">
+                     <ContentInterval begin="12" end="13" mediaRef="IU/MediaObject/568215"/>
+                  </Chunk>
+               </Div>
+               <Div label="[Liner notes]">
+                  <Div label="[French]">
+                     <Chunk label="14">
+                        <ContentInterval begin="13" end="14" mediaRef="IU/MediaObject/568215"/>
+                     </Chunk>
+                     <Chunk label="15">
+                        <ContentInterval begin="14" end="15" mediaRef="IU/MediaObject/568215"/>
+                     </Chunk>
+                     <Chunk label="16">
+                        <ContentInterval begin="15" end="16" mediaRef="IU/MediaObject/568215"/>
+                     </Chunk>
+                     <Chunk label="17">
+                        <ContentInterval begin="16" end="17" mediaRef="IU/MediaObject/568215"/>
+                     </Chunk>
+                  </Div>
+                  <Div label="[German]">
+                     <Chunk label="18">
+                        <ContentInterval begin="17" end="18" mediaRef="IU/MediaObject/568215"/>
+                     </Chunk>
+                     <Chunk label="19">
+                        <ContentInterval begin="18" end="19" mediaRef="IU/MediaObject/568215"/>
+                     </Chunk>
+                     <Chunk label="20">
+                        <ContentInterval begin="19" end="20" mediaRef="IU/MediaObject/568215"/>
+                     </Chunk>
+                     <Chunk label="21">
+                        <ContentInterval begin="20" end="21" mediaRef="IU/MediaObject/568215"/>
+                     </Chunk>
+                  </Div>
+               </Div>
+               <Div label="[Recording information]">
+                  <Chunk label="22">
+                     <ContentInterval begin="21" end="22" mediaRef="IU/MediaObject/568215"/>
+                  </Chunk>
+                  <Chunk label="23">
+                     <ContentInterval begin="22" end="23" mediaRef="IU/MediaObject/568215"/>
+                  </Chunk>
+               </Div>
+               <Div label="[Back cover]">
+                  <Chunk label="[24]">
+                     <ContentInterval begin="23" end="24" mediaRef="IU/MediaObject/568215"/>
+                  </Chunk>
+               </Div>
+            </Div>
+            <Div label="[Disc face]">
+               <Chunk label="[25]">
+                  <ContentInterval begin="24" end="25" mediaRef="IU/MediaObject/568215"/>
+               </Chunk>
+            </Div>
+            <Div label="[Tray card]">
+               <Chunk label="[26]">
+                  <ContentInterval begin="25" end="26" mediaRef="IU/MediaObject/568215"/>
+               </Chunk>
+            </Div>
+         </Item>
+      </Structure>
+      <MediaObjectRefs>
+         <MediaObjectRef>IU/MediaObject/568215</MediaObjectRef>
+      </MediaObjectRefs>
+      <PhysicalID>
+         <Location/>
+         <CopyNumber>1</CopyNumber>
+      </PhysicalID>
+      <PhysicalCondition/>
+      <HoldingStatus>Restricted access</HoldingStatus>
+      <PublicDomain>Unknown</PublicDomain>
+      <OtherSystemIds>
+         <OtherSystemId>(Variations)vab7951</OtherSystemId>
+      </OtherSystemIds>
+      <Id>IU/Container/568214</Id>
+      <CreationInfo>
+         <User>darnelso@IU.EDU</User>
+         <Timestamp>2014-05-04 13:50:44.0</Timestamp>
+      </CreationInfo>
+      <UpdateInfo>
+         <User>darnelso@IU.EDU</User>
+         <Timestamp>2014-05-04 14:04:32.0</Timestamp>
+      </UpdateInfo>
+      <Status>Import only</Status>
+   </Container>
+   <SetInfo>
+      <TextMatches/>
+      <ThemeBaseURL>http://variations-prod-web.dlib.indiana.edu/variations/themes/</ThemeBaseURL>
+      <AvailableMediaItems>
+         <AvailableMediaItem>IU/Container/568214</AvailableMediaItem>
+         <AllItemsAvailable>true</AllItemsAvailable>
+      </AvailableMediaItems>
+   </SetInfo>
+</RecordSet>
+</AccompanyingMaterials>
+
+
+</AudioAccessPage>

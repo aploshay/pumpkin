@@ -6,7 +6,7 @@ class PreingestJob < ActiveJob::Base
   # @param [String] user User to ingest as
   def perform(document_class, preingest_file, user)
     logger.info "Preingesting #{document_class} #{preingest_file}"
-    @document = document_class.new preingest_file
+    @document = document_class.new preingest_file, logger: logger
     @user = user
 
     preingest

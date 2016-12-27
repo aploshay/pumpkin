@@ -1,0 +1,304 @@
+<AudioAccessPage>
+  <OrderedMediaObjects>
+    <MO><Label>VAB7222A</Label></MO>
+  </OrderedMediaObjects>
+  <Bibinfo>
+    <Author>Liber unUsualis (Musical group)</Author>
+  </Bibinfo>
+
+<RecordSet version="trunk">
+   <MediaObject>
+      <Label>VAB7222A</Label>
+      <FileFormat>video/quicktime</FileFormat>
+      <Compression>MP3 192 kbps</Compression>
+      <BitDepth/>
+      <Resolution/>
+      <ChannelCount>2</ChannelCount>
+      <SampleSize>16</SampleSize>
+      <SampleRate>44100</SampleRate>
+      <Environment>Sound Forge Extract Data from CD</Environment>
+      <DigitizationDate>2009-07-09</DigitizationDate>
+      <DigitizedBy>mertz@IU.EDU</DigitizedBy>
+      <AccessCount>0</AccessCount>
+      <FileInfos>
+         <FileInfo>
+            <Extent>3391320</Extent>
+            <Size>85445354</Size>
+            <FileName>vab7222a.mov</FileName>
+            <Checksum>747495086274b540a0429e66c7a65c4b</Checksum>
+            <Creation>2009-07-09 12:16:45.0</Creation>
+            <Update>2009-07-09 12:16:45.0</Update>
+         </FileInfo>
+      </FileInfos>
+      <Id>IU/MediaObject/455001</Id>
+      <CreationInfo>
+         <User>mertz@IU.EDU</User>
+         <Timestamp>2009-07-09 12:16:45.0</Timestamp>
+      </CreationInfo>
+      <UpdateInfo>
+         <User>schmiecs@IU.EDU</User>
+         <Timestamp>2012-06-26 09:39:27.0</Timestamp>
+      </UpdateInfo>
+      <Status>Complete</Status>
+   </MediaObject>
+   <Container>
+      <DisplayTitle offset="0">Flyleaves [sound recording] : medieval music in English manuscripts</DisplayTitle>
+      <AdditionalTitles/>
+      <SeriesTitles/>
+      <Publisher>Passacaille</Publisher>
+      <Edition/>
+      <PublisherNumbers>
+         <PublisherNumber>Passacaille:938</PublisherNumber>
+      </PublisherNumbers>
+      <DocumentInfos>
+         <DocumentInfo>
+            <Type>Sound</Type>
+            <Format>CD</Format>
+            <Description>1 sound disc : digital, stereo. ; 4 3/4 in</Description>
+         </DocumentInfo>
+         <DocumentInfo>
+            <Type>Sound</Type>
+            <Format>CD</Format>
+            <Description>Accompanying Materials - ContainerID: IU/Container/497172 Label: booklet</Description>
+         </DocumentInfo>
+      </DocumentInfos>
+      <Languages/>
+      <PublicationDate>2004</PublicationDate>
+      <CopyrightDate>2004</CopyrightDate>
+      <PublicationPlace>Assebroek, Belgium</PublicationPlace>
+      <BibliographicNotes>
+         <BibliographicNote>
+            <Type>Descriptive</Type>
+            <Text>Thirteenth- and fourteenth-century songs and motets from English sources</Text>
+         </BibliographicNote>
+         <BibliographicNote>
+            <Type>Descriptive</Type>
+            <Text>Recorded Aug. 16-18, 2003 at Notre-Dame de Centeilles, Siran, France</Text>
+         </BibliographicNote>
+         <BibliographicNote>
+            <Type>Descriptive</Type>
+            <Text>Produced by International Young Artist's Presentation-Early Music</Text>
+         </BibliographicNote>
+         <BibliographicNote>
+            <Type>Descriptive</Type>
+            <Text>Compact disc</Text>
+         </BibliographicNote>
+         <BibliographicNote>
+            <Type>Administrative</Type>
+            <Text>Program notes in English by Carolann Buff, notes on the performers, and texts in Latin, Middle English, or Old French with modern English translations (31 p.) in container</Text>
+         </BibliographicNote>
+      </BibliographicNotes>
+      <Structure label="Flyleaves [sound recording] : medieval music in English manuscripts">
+         <Item label="CD 1">
+            <Chunk isrc="null" label="Track 1. Kyrie, Cuthbert prece (Durham, c.1350)">
+               <ContentInterval begin="0" end="235546" mediaRef="IU/MediaObject/455001"/>
+            </Chunk>
+            <Chunk isrc="null" label="Track 2. Barbara simplex animo (Meaux Abbey, c.1300)">
+               <ContentInterval begin="235546" end="320813" mediaRef="IU/MediaObject/455001"/>
+            </Chunk>
+            <Chunk isrc="null" label="Track 3. Patris superni gracia / Pia pacis inclita (Meaux Abbey, c.1300)">
+               <ContentInterval begin="320813" end="456600" mediaRef="IU/MediaObject/455001"/>
+            </Chunk>
+            <Chunk isrc="null" label="Track 4. Veni mater gracie / Dou way Robin (Adel, Yorkshire, 1349)">
+               <ContentInterval begin="456600" end="694333" mediaRef="IU/MediaObject/455001"/>
+            </Chunk>
+            <Chunk isrc="null" label="Track 5. Sanctus (Fountains Abbey, c.1380)">
+               <ContentInterval begin="694333" end="812626" mediaRef="IU/MediaObject/455001"/>
+            </Chunk>
+            <Chunk isrc="null" label="Track 6. Includimur nube caliginosa (Fountains Abbey, 14th c.)">
+               <ContentInterval begin="812626" end="1036853" mediaRef="IU/MediaObject/455001"/>
+            </Chunk>
+            <Chunk isrc="null" label="Track 7. Ave mundi rosa (Fountains Abbey, 14th c.)">
+               <ContentInterval begin="1036853" end="1258160" mediaRef="IU/MediaObject/455001"/>
+            </Chunk>
+            <Chunk isrc="null" label="Track 8. Gabriel fram heven-king (solo East Anglia?, c.1280)">
+               <ContentInterval begin="1258160" end="1528613" mediaRef="IU/MediaObject/455001"/>
+            </Chunk>
+            <Chunk isrc="null" label="Track 9. Doleo super te / Absolon, fili me (Norwich, c.1320)">
+               <ContentInterval begin="1528613" end="1621746" mediaRef="IU/MediaObject/455001"/>
+            </Chunk>
+            <Chunk isrc="null" label="Track 10. Kyrie: Kyria Christefera (Norwich?, c.1330-60)">
+               <ContentInterval begin="1621746" end="1871706" mediaRef="IU/MediaObject/455001"/>
+            </Chunk>
+            <Chunk isrc="null" label="Track 11. O lux beata trinitas (Norwich?, c.1330-60)">
+               <ContentInterval begin="1871706" end="2010693" mediaRef="IU/MediaObject/455001"/>
+            </Chunk>
+            <Chunk isrc="null" label="Track 12. Novi sideris lumen resplenduit (Bury St. Edmunds, c.1280)">
+               <ContentInterval begin="2010693" end="2261933" mediaRef="IU/MediaObject/455001"/>
+            </Chunk>
+            <Chunk isrc="null" label="Track 13. Pura, placens, pulcra / Parfundement plure Absolon (Bury St. Edmunds, 14th c.)">
+               <ContentInterval begin="2261933" end="2458653" mediaRef="IU/MediaObject/455001"/>
+            </Chunk>
+            <Chunk isrc="null" label="Track 14. Veine pleine de ducur (Bury St. Edmunds?, c.1280)">
+               <ContentInterval begin="2458653" end="2632093" mediaRef="IU/MediaObject/455001"/>
+            </Chunk>
+            <Chunk isrc="null" label="Track 15. Ar ne kuth ich sorghe non (London?, c.1230)">
+               <ContentInterval begin="2632093" end="2865213" mediaRef="IU/MediaObject/455001"/>
+            </Chunk>
+            <Chunk isrc="null" label="Track 16. Gaude virgo immaculata (Royal Chapel of Edward III, c.1350-60)">
+               <ContentInterval begin="2865213" end="3052933" mediaRef="IU/MediaObject/455001"/>
+            </Chunk>
+            <Chunk isrc="null" label="Track 17. Singularis laudis digna (Royal Chapel of Edward III, c.1350-60)">
+               <ContentInterval begin="3052933" end="3391320" mediaRef="IU/MediaObject/455001"/>
+            </Chunk>
+         </Item>
+      </Structure>
+      <Contributions/>
+      <InstantiationRefs/>
+      <MediaObjectRefs>
+         <MediaObjectRef>IU/MediaObject/455001</MediaObjectRef>
+      </MediaObjectRefs>
+      <PhysicalID>
+         <Location>IU Music Library</Location>
+         <CallNumber>6305381 (Frontlog CDs)</CallNumber>
+         <CopyNumber>1</CopyNumber>
+      </PhysicalID>
+      <PhysicalCondition/>
+      <HoldingStatus>Restricted access</HoldingStatus>
+      <Isbn/>
+      <Upc/>
+      <Ismn/>
+      <CopyrightDecls>
+         <CopyrightDecl>
+            <Owner>(P) &amp; (C) 2004 Passacaille</Owner>
+            <Domain>Item</Domain>
+         </CopyrightDecl>
+      </CopyrightDecls>
+      <PublicDomain>Unknown</PublicDomain>
+      <OtherSystemIds>
+         <OtherSystemId>(Variations)vab7222</OtherSystemId>
+         <OtherSystemId>(OCoLC)ocm57314087</OtherSystemId>
+      </OtherSystemIds>
+      <Id>IU/Container/454998</Id>
+      <CreationInfo>
+         <User>mertz@IU.EDU</User>
+         <Timestamp>2009-07-09 12:09:15.0</Timestamp>
+      </CreationInfo>
+      <UpdateInfo>
+         <User>schmiecs@IU.EDU</User>
+         <Timestamp>2012-06-26 09:39:27.795</Timestamp>
+      </UpdateInfo>
+      <Status>Import only</Status>
+   </Container>
+   <SetInfo>
+      <TextMatches/>
+      <ThemeBaseURL>http://variations-prod-web.dlib.indiana.edu/variations/themes/</ThemeBaseURL>
+      <AvailableMediaItems>
+         <AllItemsAvailable>true</AllItemsAvailable>
+      </AvailableMediaItems>
+   </SetInfo>
+</RecordSet>
+
+<AccompanyingMaterials>
+
+<RecordSet version="trunk">
+   <Container>
+      <DisplayTitle offset="0">booklet for Flyleaves [sound recording] : medieval music in English manuscripts</DisplayTitle>
+      <Edition>ACCOMPANYING_MATERIALS</Edition>
+      <DocumentInfos>
+         <DocumentInfo>
+            <Type>Score</Type>
+            <Format>Full Score</Format>
+            <Description>booklet</Description>
+         </DocumentInfo>
+      </DocumentInfos>
+      <Structure label="booklet for Flyleaves [sound recording] : medieval music in English manuscripts">
+         <Item label="booklet for Flyleaves [sound recording] : medieval music in English manuscripts">
+            <Div label="Cover">
+               <Chunk label="[i]">
+                  <ContentInterval begin="0" end="1" mediaRef="IU/MediaObject/497173"/>
+               </Chunk>
+            </Div>
+            <Div label="Contents">
+               <Chunk label="1">
+                  <ContentInterval begin="1" end="2" mediaRef="IU/MediaObject/497173"/>
+               </Chunk>
+               <Chunk label="2">
+                  <ContentInterval begin="2" end="3" mediaRef="IU/MediaObject/497173"/>
+               </Chunk>
+               <Chunk label="3">
+                  <ContentInterval begin="3" end="4" mediaRef="IU/MediaObject/497173"/>
+               </Chunk>
+               <Chunk label="4">
+                  <ContentInterval begin="4" end="5" mediaRef="IU/MediaObject/497173"/>
+               </Chunk>
+               <Chunk label="5">
+                  <ContentInterval begin="5" end="6" mediaRef="IU/MediaObject/497173"/>
+               </Chunk>
+               <Chunk label="6">
+                  <ContentInterval begin="6" end="7" mediaRef="IU/MediaObject/497173"/>
+               </Chunk>
+               <Chunk label="7">
+                  <ContentInterval begin="7" end="8" mediaRef="IU/MediaObject/497173"/>
+               </Chunk>
+               <Chunk label="8">
+                  <ContentInterval begin="8" end="9" mediaRef="IU/MediaObject/497173"/>
+               </Chunk>
+               <Chunk label="9">
+                  <ContentInterval begin="9" end="10" mediaRef="IU/MediaObject/497173"/>
+               </Chunk>
+               <Chunk label="10">
+                  <ContentInterval begin="10" end="11" mediaRef="IU/MediaObject/497173"/>
+               </Chunk>
+               <Chunk label="11">
+                  <ContentInterval begin="11" end="12" mediaRef="IU/MediaObject/497173"/>
+               </Chunk>
+               <Chunk label="12">
+                  <ContentInterval begin="12" end="13" mediaRef="IU/MediaObject/497173"/>
+               </Chunk>
+               <Chunk label="13">
+                  <ContentInterval begin="13" end="14" mediaRef="IU/MediaObject/497173"/>
+               </Chunk>
+               <Chunk label="14">
+                  <ContentInterval begin="14" end="15" mediaRef="IU/MediaObject/497173"/>
+               </Chunk>
+            </Div>
+            <Div label="Tray card">
+               <Chunk label="[15]">
+                  <ContentInterval begin="15" end="16" mediaRef="IU/MediaObject/497173"/>
+               </Chunk>
+            </Div>
+            <Div label="Disc face">
+               <Chunk label="[16]">
+                  <ContentInterval begin="16" end="17" mediaRef="IU/MediaObject/497173"/>
+               </Chunk>
+            </Div>
+         </Item>
+      </Structure>
+      <MediaObjectRefs>
+         <MediaObjectRef>IU/MediaObject/497173</MediaObjectRef>
+      </MediaObjectRefs>
+      <PhysicalID>
+         <Location/>
+         <CopyNumber>0</CopyNumber>
+      </PhysicalID>
+      <PhysicalCondition/>
+      <HoldingStatus>Restricted access</HoldingStatus>
+      <PublicDomain/>
+      <OtherSystemIds>
+         <OtherSystemId>(Variations)vab7222</OtherSystemId>
+      </OtherSystemIds>
+      <Id>IU/Container/497172</Id>
+      <CreationInfo>
+         <User>wdhudson@IU.EDU</User>
+         <Timestamp>2011-07-08 13:02:05.0</Timestamp>
+      </CreationInfo>
+      <UpdateInfo>
+         <User>wdhudson@IU.EDU</User>
+         <Timestamp>2011-07-08 13:08:39.0</Timestamp>
+      </UpdateInfo>
+      <Status>Import only</Status>
+   </Container>
+   <SetInfo>
+      <TextMatches/>
+      <ThemeBaseURL>http://variations-prod-web.dlib.indiana.edu/variations/themes/</ThemeBaseURL>
+      <AvailableMediaItems>
+         <AvailableMediaItem>IU/Container/497172</AvailableMediaItem>
+         <AllItemsAvailable>true</AllItemsAvailable>
+      </AvailableMediaItems>
+   </SetInfo>
+</RecordSet>
+</AccompanyingMaterials>
+
+
+</AudioAccessPage>

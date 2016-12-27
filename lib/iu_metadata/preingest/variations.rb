@@ -3,14 +3,11 @@ module IuMetadata
     class Variations
       include PreingestableDocument
 
-      def initialize(source_file)
+      def initialize(source_file, logger: nil)
         @source_file = source_file
         @files ||= []
         @structure ||= nil
-        # determine XML type
-        # local: pull if available
-        # DONE remote: try pulling, fail to empty
-        # files cases: complicated!!!
+        # local: pull title
         # add logging
 
         variations_content = File.read(source_file)
@@ -21,33 +18,42 @@ module IuMetadata
         else
           @variations_type = 'ScoreAccessPage'
         end
+        logger.info("Variations XML type: #{@variations_type}") if logger
 
         lookup_id = source_file.sub(/.*\//, '').sub(/.xml/, '').downcase
         scores_fixed = YAML.load_file(Rails.root.join('config/scores-fixed.yml'))
         scores_from_other_sources = YAML.load_file(Rails.root.join('config/scores_from_other_sources.yml'))
         if files_lookup = scores_fixed[lookup_id]
-          files_source = 'scores-fixed'
+          suffix = '_accmat' if @variations_type == 'AccompanyingMaterials'
+          suffix = '_booklet' if lookup_id == 'vab7222'
+          suffix ||= ''
+          files_source = "/N/beryllium/srv/variations/scores-fixed/#{lookup_id}#{suffix}/"
         elsif files_lookup = scores_from_other_sources[lookup_id]
-          files_source = 'scores_from_other_sources'
+          files_source = "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/#{lookup_id}/"
           @structure = {}
         else
           files_lookup = []
           files_source = nil
+          @structure = {}
+          logger.info("Specifying empty structure due to lack of image files") if logger
         end
+        logger.info("Image files source: #{files_source || '(none)'}") if logger
 
         case @variations_type
         when 'blank'
           @files = files_lookup
           @structure = {}
-          @local = EmptyRecord.new(source_file, @files, @structure)
+          logger.info("Specifying empty structure for XML type: blank") if logger
+          @local = EmptyRecord.new(source_file, @files, @structure, logger: logger, files_source: files_source)
           @source_title = nil
         when 'AccompanyingMaterials'
           @files = files_lookup
-          @local = IuMetadata::VariationsRecord.new(source_uri, open(source_file), files: @files, structure: @structure, variations_type: @variations_type)
+          @local = IuMetadata::VariationsRecord.new(source_uri, open(source_file), files: @files, structure: @structure, variations_type: @variations_type, logger: logger, files_source: files_source)
           @source_title = ['Variations XML']
         when 'ScoreAccessPage'
           # FIXME: check files
-          @local = IuMetadata::VariationsRecord.new(source_uri, open(source_file), files: @files, structure: @structure, variations_type: @variations_type)
+          @files = files_lookup
+          @local = IuMetadata::VariationsRecord.new(source_uri, open(source_file), files: @files, structure: @structure, variations_type: @variations_type, logger: logger, files_source: files_source)
           @source_title = ['Variations XML']
         end
         # FIXME: catch case of file list different from provided
@@ -65,15 +71,14 @@ module IuMetadata
       delegate :files, :structure, :volumes, :thumbnail_path, to: :local
     end
 
-#FIXME: without xml case -- add source_metadata_identifier to default or local atts -- or pull from remote if available?
-#FIXME: also add identifier when no remote?
-#FIXME: also add title lookup when no remote?
     class EmptyRecord
 
-      def initialize(source_file, files, structure)
+      def initialize(source_file, files, structure, logger: nil, files_source: '/tmp/ingest/')
         @source_file = source_file
         @files = files
         @structure = structure
+        @logger = logger
+        @files_source = files_source
       end
 
       def source_metadata_identifier
@@ -93,7 +98,7 @@ module IuMetadata
         @files.map do |filename|
           { id: filename,
             mime_type: 'image/tiff',
-            path: "/tmp/ingest/#{filename}",
+            path: @files_source + filename,
             file_opts: {},
             attributes: { title: (index += 1).to_s, source_metadata_identifier: filename.sub(/\.tif.*$/, '').upcase }
           }
@@ -109,7 +114,7 @@ module IuMetadata
       end
 
       def thumbnail_path
-        nil
+        @thumbnail_path ||= @files.any? ? files.first[:path] : nil
       end
 
       def attributes

@@ -2,13 +2,15 @@
 module IuMetadata
   class VariationsRecord
     # files: array of filenames, if providing directly
-    def initialize(id, source, files: [], structure: nil, variations_type: 'ScoreAccessPage')
+    def initialize(id, source, files: [], structure: nil, variations_type: 'ScoreAccessPage', logger: nil, files_source: '/tmp/ingest/')
       @id = id
       @source = source
       @variations = Nokogiri::XML(source)
       @files = files
       @structure = structure
       @variations_type = variations_type
+      @logger = logger
+      @files_source = (files_source || '/tmp/ingest/')
       parse
     end
     attr_reader :id, :source
@@ -93,13 +95,35 @@ module IuMetadata
         @items ||= @variations.xpath("//#{@variations_type}/RecordSet/Container/Structure/Item")
       end
 
+      def variations_files
+        @variations_files ||= @variations.xpath('//FileInfos/FileInfo').map { |file| file_hash(filename(file)) }
+      end
+
       def parse
         # use array of filenames, if provided
         if @files.any?
           @files = @files.map { |filename| file_hash(filename) }
-        elsif @variations_type == 'ScoreAccessPage'
-          @variations.xpath('//FileInfos/FileInfo').each do |file|
-            @files << file_hash(filename(file))
+          if @variations_type == 'ScoreAccessPage' && @logger
+            case @files.size <=> variations_files.size
+            when 1
+              #FIXME: log
+              @logger.info "More files found on server (#{@files.size}) than specified in XML (#{variations_files.size})"
+              @logger.info "Retaining structure, but there will be extra unused images"
+            when 0
+              if @files == variations_files
+                @logger.info "Files found on server match specifiction in XML"
+                # FIXME: log
+              else
+                @logger.info "Files found on server don't match those specified in XML"
+                @logger.info "Retaining structure, but it should undergo review"
+                # FIXME: log
+              end
+            when -1
+              #FIXME: log
+              @logger.info "Fewer files found on server (#{@files.size}) than specified in XML (#{variations_files.size})"
+              @logger.info "Abandoning structure"
+              @structure = {}
+            end
           end
         end
         # FIXME: crosscheck expected, actual files
@@ -130,7 +154,7 @@ module IuMetadata
             @volumes << volume
           end
         else
-          if files.none?
+          if @files.none?
             @structure = {}
             # FIXME: log structure drop
           elsif @structure
@@ -167,7 +191,7 @@ module IuMetadata
         values_hash = {}
         values_hash[:id] = fixed_id
         values_hash[:mime_type] = 'image/tiff'
-        values_hash[:path] = '/tmp/ingest/' + id
+        values_hash[:path] = @files_source + id
         values_hash[:file_opts] = {}
         values_hash[:attributes] = file_attributes(fixed_id)
         values_hash

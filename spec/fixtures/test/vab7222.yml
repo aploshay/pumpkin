@@ -1,0 +1,163 @@
+---
+:resource: ScannedResource
+:attributes:
+  :default:
+    state: final_review
+    viewing_direction: left-to-right
+    rights_statement: http://rightsstatements.org/vocab/InC/1.0/
+    visibility: authenticated
+  :local:
+    source_metadata_identifier: VAB7222
+    holding_location: https://libraries.indiana.edu/music
+    physical_description: booklet
+    copyright_holder:
+    - "(P) & (C) 2004 Passacaille"
+  :remote:
+    identifier: http://purl.dlib.indiana.edu/iudl/variations/sound/VAB7222
+    title:
+    - 'Flyleaves [sound recording] : medieval music in English manuscripts.'
+    sort_title: 'Flyleaves [sound recording] : medieval music in English manuscripts.'
+    creator:
+    - Liber unUsualis (Musical group)
+    subject:
+    - Sacred vocal music
+    - Part songs, Sacred
+    - Motets
+    date_created:
+    - '2004'
+    publisher:
+    - Passacaille
+    publication_place:
+    - Assebroek, Belgium
+    issued:
+    - p2004
+    published: 'Assebroek, Belgium : Passacaille, p2004'
+:source_metadata: |-
+  <record xmlns="http://www.loc.gov/MARC21/slim">
+    <!-- Length implementation at offset 22 should hold a digit. Assuming 0 -->
+    <leader>02233 jm a2200397Ia 4500</leader>
+    <controlfield tag="001">ocm57314087</controlfield>
+    <controlfield tag="003">OCoLC</controlfield>
+    <controlfield tag="005">20080809153834.6</controlfield>
+    <controlfield tag="007">sd|fsngnnmmned</controlfield>
+    <controlfield tag="008">041222p20042003be zzn   fi         mul d</controlfield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)ocm57314087</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">CUT</subfield>
+      <subfield code="c">CUT</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">RES</subfield>
+      <subfield code="d">DRB</subfield>
+    </datafield>
+    <datafield tag="028" ind1="0" ind2="2">
+      <subfield code="a">938</subfield>
+      <subfield code="b">Passacaille</subfield>
+    </datafield>
+    <datafield tag="041" ind1="1" ind2=" ">
+      <subfield code="d">enm</subfield>
+      <subfield code="d">fro</subfield>
+      <subfield code="d">lat</subfield>
+      <subfield code="e">lat</subfield>
+      <subfield code="e">eng</subfield>
+      <subfield code="e">enm</subfield>
+      <subfield code="e">fro</subfield>
+      <subfield code="g">eng</subfield>
+      <subfield code="g">fre</subfield>
+    </datafield>
+    <datafield tag="043" ind1=" " ind2=" ">
+      <subfield code="a">e-uk-en</subfield>
+    </datafield>
+    <datafield tag="050" ind1=" " ind2="4">
+      <subfield code="a">M2060.L53</subfield>
+      <subfield code="b">F59 2004</subfield>
+    </datafield>
+    <datafield tag="049" ind1=" " ind2=" ">
+      <subfield code="a">IULA</subfield>
+    </datafield>
+    <datafield tag="110" ind1="2" ind2=" ">
+      <subfield code="a">Liber unUsualis (Musical group)</subfield>
+      <subfield code="4">prf</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">Flyleaves</subfield>
+      <subfield code="h">[sound recording] :</subfield>
+      <subfield code="b">medieval music in English manuscripts.</subfield>
+    </datafield>
+    <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">Assebroek, Belgium :</subfield>
+      <subfield code="b">Passacaille,</subfield>
+      <subfield code="c">p2004.</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">1 sound disc :</subfield>
+      <subfield code="b">digital, stereo. ;</subfield>
+      <subfield code="c">4 3/4 in.</subfield>
+    </datafield>
+    <datafield tag="520" ind1=" " ind2=" ">
+      <subfield code="a">Thirteenth- and fourteenth-century songs and motets from English sources.</subfield>
+    </datafield>
+    <datafield tag="511" ind1="0" ind2=" ">
+      <subfield code="a">Liber unUsualis: Melanie Germond, soprano; Carolann Buff, mezzo-soprano; William Hudson, tenor.</subfield>
+    </datafield>
+    <datafield tag="518" ind1=" " ind2=" ">
+      <subfield code="a">Recorded Aug. 16-18, 2003 at Notre-Dame de Centeilles, Siran, France.</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Produced by International Young Artist's Presentation-Early Music.</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Compact disc.</subfield>
+    </datafield>
+    <datafield tag="546" ind1=" " ind2=" ">
+      <subfield code="a">Program notes in English by Carolann Buff, notes on the performers, and texts in Latin, Middle English, or Old French with modern English translations (31 p.) in container.</subfield>
+    </datafield>
+    <datafield tag="505" ind1="0" ind2=" ">
+      <subfield code="a">Kyrie, Cuthbert prece -- Barbara simplex animo -- Patris superni gracia/Pia pacis inclita -- Veni mater gracie/Dou way Robin -- Sanctus -- Includimur nube caliginosa -- Ave mundi rosa -- Gabriel fram heven-king -- Doleo super te/Absolon, fili me -- Kyrie: Kyria Christefera -- O lux beata trinitas -- Novi sideris lumen resplenduit -- Pura, placens, pulcra/Parfundement plure Absolon -- Veine pleine de ducur -- Ar ne kuth ich sorghe non -- Gaude virgo immaculata -- Singularis laudis digna.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Sacred vocal music</subfield>
+      <subfield code="z">England</subfield>
+      <subfield code="y">500-1400.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Part songs, Sacred.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Motets.</subfield>
+    </datafield>
+    <datafield tag="710" ind1="2" ind2=" ">
+      <subfield code="a">International Young Artist's Presentation-Early Music.</subfield>
+    </datafield>
+    <datafield tag="856" ind1="4" ind2="1">
+      <subfield code="a">Bloomington</subfield>
+      <subfield code="u">http://purl.dlib.indiana.edu/iudl/variations/sound/VAB7222</subfield>
+      <subfield code="z">Available to authorized users of the Variations System</subfield>
+    </datafield>
+    <datafield tag="596" ind1=" " ind2=" ">
+      <subfield code="a">20</subfield>
+    </datafield>
+    <datafield tag="926" ind1=" " ind2=" ">
+      <subfield code="a">B-MUSIC</subfield>
+      <subfield code="b">_MUFRCD</subfield>
+      <subfield code="c">6305381</subfield>
+      <subfield code="d">AV</subfield>
+      <subfield code="f">1</subfield>
+    </datafield>
+    <datafield tag="926" ind1=" " ind2=" ">
+      <subfield code="a">B-MUSIC</subfield>
+      <subfield code="b">_MUVARIA</subfield>
+      <subfield code="c"/>
+      <subfield code="d">NONCIRC</subfield>
+      <subfield code="f">1</subfield>
+    </datafield>
+  </record>
+:thumbnail_path: 
+:collections: []
+:structure: {}
+:files: []
+:sources:
+- :title:
+  - Variations XML
+  :file: spec/fixtures/test/vab7222.xml
