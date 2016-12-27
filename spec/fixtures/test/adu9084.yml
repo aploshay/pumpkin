@@ -1,0 +1,2376 @@
+---
+:resource: ScannedResource
+:attributes:
+  :default:
+    state: final_review
+    viewing_direction: left-to-right
+    rights_statement: http://rightsstatements.org/vocab/InC/1.0/
+    visibility: open
+  :local:
+    source_metadata_identifier: ADU9084
+    holding_location: https://libraries.indiana.edu/music
+    physical_description: 1 score (v. <1-3  >) ; 31 cm
+  :remote:
+    identifier: http://purl.dlib.indiana.edu/iudl/variations/score/ADU9084
+    title:
+    - 'Old masters of bel canto : for voice and piano'
+    sort_title: 'Old masters of bel canto : for voice and piano'
+    responsibility_note:
+    - edited by Ludwig Landshoff
+    series:
+    - Master vocal series
+    subject:
+    - Songs (High voice) with piano
+    - Songs (Medium voice) with piano
+    - Solo cantatas, Secular (High voice)
+    - Solo cantatas, Secular (Medium voice)
+    - Operas
+    date_created:
+    - '1991'
+    publisher:
+    - Masters Music Publications
+    publication_place:
+    - Boca Raton, Fla.
+    issued:
+    - "[1991]-"
+    published: 'Boca Raton, Fla. : Masters Music Publications, [1991]-'
+    lccn_call_number:
+    - M1619 .O7 1991x
+:source_metadata: |-
+  <record xmlns="http://www.loc.gov/MARC21/slim">
+    <!-- Length implementation at offset 22 should hold a digit. Assuming 0 -->
+    <leader>01841mcm a2200421 a 4500</leader>
+    <controlfield tag="001">ADU9084BM</controlfield>
+    <controlfield tag="008">910831m19919999flumua   d     n    ita d</controlfield>
+    <datafield tag="020" ind1=" " ind2=" ">
+      <subfield code="c">$17.50 (v. 1)</subfield>
+    </datafield>
+    <datafield tag="028" ind1="3" ind2="0">
+      <subfield code="a">M 1745</subfield>
+      <subfield code="b">Masters Music Publications (v. 1)</subfield>
+    </datafield>
+    <datafield tag="028" ind1="3" ind2="0">
+      <subfield code="a">M 1782</subfield>
+      <subfield code="b">Masters Music Publications (v. 2)</subfield>
+    </datafield>
+    <datafield tag="028" ind1="3" ind2="0">
+      <subfield code="a">M 2107</subfield>
+      <subfield code="b">Masters Music Publications (v. 3)</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(InU)ADU9084BM</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)ocm24318674</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">CPL</subfield>
+      <subfield code="c">CPL</subfield>
+    </datafield>
+    <datafield tag="041" ind1="0" ind2=" ">
+      <subfield code="a">ita</subfield>
+      <subfield code="e">itager</subfield>
+      <subfield code="h">ita</subfield>
+    </datafield>
+    <datafield tag="047" ind1=" " ind2=" ">
+      <subfield code="a">sg</subfield>
+      <subfield code="a">op</subfield>
+      <subfield code="a">ct</subfield>
+    </datafield>
+    <datafield tag="048" ind1=" " ind2=" ">
+      <subfield code="a">va01</subfield>
+      <subfield code="a">ka01</subfield>
+    </datafield>
+    <datafield tag="049" ind1=" " ind2=" ">
+      <subfield code="a">IULA</subfield>
+    </datafield>
+    <datafield tag="090" ind1=" " ind2=" ">
+      <subfield code="a">M1619</subfield>
+      <subfield code="b">.O7 1991x</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">Old masters of bel canto :</subfield>
+      <subfield code="b">for voice and piano /</subfield>
+      <subfield code="c">edited by Ludwig Landshoff.</subfield>
+    </datafield>
+    <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">Boca Raton, Fla. :</subfield>
+      <subfield code="b">Masters Music Publications,</subfield>
+      <subfield code="c">[1991]-</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">1 score (v. &lt;1-3  &gt;) ;</subfield>
+      <subfield code="c">31 cm.</subfield>
+    </datafield>
+    <datafield tag="490" ind1="0" ind2=" ">
+      <subfield code="a">Master vocal series</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Contains principally songs and excerpts from operas and solo cantatas with piano acc.</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Italian words, also printed as text with German translation preceding each selection.</subfield>
+    </datafield>
+    <datafield tag="505" ind1="0" ind2=" ">
+      <subfield code="a">v. 1. Soprano. -- v. 2. Soprano. -- v. 3. Alto or mezzo-soprano.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Songs (High voice) with piano.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Songs (Medium voice) with piano</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Solo cantatas, Secular (High voice)</subfield>
+      <subfield code="x">Excerpts</subfield>
+      <subfield code="x">Vocal scores with piano.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Solo cantatas, Secular (Medium voice)</subfield>
+      <subfield code="x">Excerpts</subfield>
+      <subfield code="x">Vocal scores with piano.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Operas</subfield>
+      <subfield code="x">Excerpts</subfield>
+      <subfield code="x">Vocal scores with piano.</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2="0">
+      <subfield code="a">Landshoff, Ludwig,</subfield>
+      <subfield code="d">1874-1941.</subfield>
+    </datafield>
+    <datafield tag="856" ind1="4" ind2="1">
+      <subfield code="a">Bloomington</subfield>
+      <subfield code="u">http://purl.dlib.indiana.edu/iudl/variations/score/ADU9084</subfield>
+      <subfield code="z">Available to authorized users of the Variations System</subfield>
+    </datafield>
+    <datafield tag="998" ind1=" " ind2=" ">
+      <subfield code="a">9/10/1993</subfield>
+      <subfield code="b">10/15/2000</subfield>
+      <subfield code="c">9/10/1993</subfield>
+    </datafield>
+    <datafield tag="596" ind1=" " ind2=" ">
+      <subfield code="a">20</subfield>
+    </datafield>
+    <datafield tag="926" ind1=" " ind2=" ">
+      <subfield code="a">B-MUSIC</subfield>
+      <subfield code="b">_MUFRSCOR</subfield>
+      <subfield code="c">ADU9084 v.1</subfield>
+      <subfield code="d">NORMAL</subfield>
+      <subfield code="f">1</subfield>
+    </datafield>
+    <datafield tag="926" ind1=" " ind2=" ">
+      <subfield code="a">B-MUSIC</subfield>
+      <subfield code="b">_MUFRSCOR</subfield>
+      <subfield code="c">ADU9084 v.2</subfield>
+      <subfield code="d">NORMAL</subfield>
+      <subfield code="f">1</subfield>
+    </datafield>
+    <datafield tag="926" ind1=" " ind2=" ">
+      <subfield code="a">B-MUSIC</subfield>
+      <subfield code="b">_MUFRSCOR</subfield>
+      <subfield code="c">ADU9084 v.3</subfield>
+      <subfield code="d">NORMAL</subfield>
+      <subfield code="f">1</subfield>
+    </datafield>
+  </record>
+:thumbnail_path: "/tmp/ingest/adu9084-1-0001.tif"
+:collections: []
+:structure: {}
+:files:
+- :id: adu9084-1-0001.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0001.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '1'
+    :source_metadata_identifier: ADU9084-1-0001
+- :id: adu9084-1-0002.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0002.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '2'
+    :source_metadata_identifier: ADU9084-1-0002
+- :id: adu9084-1-0003.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0003.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '3'
+    :source_metadata_identifier: ADU9084-1-0003
+- :id: adu9084-1-0004.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0004.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '4'
+    :source_metadata_identifier: ADU9084-1-0004
+- :id: adu9084-1-0005.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0005.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '5'
+    :source_metadata_identifier: ADU9084-1-0005
+- :id: adu9084-1-0006.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0006.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '6'
+    :source_metadata_identifier: ADU9084-1-0006
+- :id: adu9084-1-0007.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0007.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '7'
+    :source_metadata_identifier: ADU9084-1-0007
+- :id: adu9084-1-0008.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0008.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '8'
+    :source_metadata_identifier: ADU9084-1-0008
+- :id: adu9084-1-0009.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0009.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '9'
+    :source_metadata_identifier: ADU9084-1-0009
+- :id: adu9084-1-0010.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0010.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '10'
+    :source_metadata_identifier: ADU9084-1-0010
+- :id: adu9084-1-0011.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0011.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '11'
+    :source_metadata_identifier: ADU9084-1-0011
+- :id: adu9084-1-0012.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0012.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '12'
+    :source_metadata_identifier: ADU9084-1-0012
+- :id: adu9084-1-0013.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0013.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '13'
+    :source_metadata_identifier: ADU9084-1-0013
+- :id: adu9084-1-0014.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0014.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '14'
+    :source_metadata_identifier: ADU9084-1-0014
+- :id: adu9084-1-0015.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0015.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '15'
+    :source_metadata_identifier: ADU9084-1-0015
+- :id: adu9084-1-0016.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0016.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '16'
+    :source_metadata_identifier: ADU9084-1-0016
+- :id: adu9084-1-0017.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0017.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '17'
+    :source_metadata_identifier: ADU9084-1-0017
+- :id: adu9084-1-0018.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0018.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '18'
+    :source_metadata_identifier: ADU9084-1-0018
+- :id: adu9084-1-0019.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0019.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '19'
+    :source_metadata_identifier: ADU9084-1-0019
+- :id: adu9084-1-0020.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0020.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '20'
+    :source_metadata_identifier: ADU9084-1-0020
+- :id: adu9084-1-0021.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0021.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '21'
+    :source_metadata_identifier: ADU9084-1-0021
+- :id: adu9084-1-0022.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0022.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '22'
+    :source_metadata_identifier: ADU9084-1-0022
+- :id: adu9084-1-0023.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0023.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '23'
+    :source_metadata_identifier: ADU9084-1-0023
+- :id: adu9084-1-0024.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0024.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '24'
+    :source_metadata_identifier: ADU9084-1-0024
+- :id: adu9084-1-0025.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0025.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '25'
+    :source_metadata_identifier: ADU9084-1-0025
+- :id: adu9084-1-0026.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0026.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '26'
+    :source_metadata_identifier: ADU9084-1-0026
+- :id: adu9084-1-0027.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0027.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '27'
+    :source_metadata_identifier: ADU9084-1-0027
+- :id: adu9084-1-0028.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0028.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '28'
+    :source_metadata_identifier: ADU9084-1-0028
+- :id: adu9084-1-0029.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0029.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '29'
+    :source_metadata_identifier: ADU9084-1-0029
+- :id: adu9084-1-0030.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0030.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '30'
+    :source_metadata_identifier: ADU9084-1-0030
+- :id: adu9084-1-0031.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0031.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '31'
+    :source_metadata_identifier: ADU9084-1-0031
+- :id: adu9084-1-0032.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0032.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '32'
+    :source_metadata_identifier: ADU9084-1-0032
+- :id: adu9084-1-0033.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0033.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '33'
+    :source_metadata_identifier: ADU9084-1-0033
+- :id: adu9084-1-0034.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0034.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '34'
+    :source_metadata_identifier: ADU9084-1-0034
+- :id: adu9084-1-0035.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0035.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '35'
+    :source_metadata_identifier: ADU9084-1-0035
+- :id: adu9084-1-0036.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0036.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '36'
+    :source_metadata_identifier: ADU9084-1-0036
+- :id: adu9084-1-0037.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0037.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '37'
+    :source_metadata_identifier: ADU9084-1-0037
+- :id: adu9084-1-0038.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0038.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '38'
+    :source_metadata_identifier: ADU9084-1-0038
+- :id: adu9084-1-0039.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0039.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '39'
+    :source_metadata_identifier: ADU9084-1-0039
+- :id: adu9084-1-0040.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0040.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '40'
+    :source_metadata_identifier: ADU9084-1-0040
+- :id: adu9084-1-0041.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0041.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '41'
+    :source_metadata_identifier: ADU9084-1-0041
+- :id: adu9084-1-0042.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0042.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '42'
+    :source_metadata_identifier: ADU9084-1-0042
+- :id: adu9084-1-0043.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0043.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '43'
+    :source_metadata_identifier: ADU9084-1-0043
+- :id: adu9084-1-0044.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0044.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '44'
+    :source_metadata_identifier: ADU9084-1-0044
+- :id: adu9084-1-0045.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0045.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '45'
+    :source_metadata_identifier: ADU9084-1-0045
+- :id: adu9084-1-0046.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0046.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '46'
+    :source_metadata_identifier: ADU9084-1-0046
+- :id: adu9084-1-0047.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0047.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '47'
+    :source_metadata_identifier: ADU9084-1-0047
+- :id: adu9084-1-0048.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0048.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '48'
+    :source_metadata_identifier: ADU9084-1-0048
+- :id: adu9084-1-0049.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0049.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '49'
+    :source_metadata_identifier: ADU9084-1-0049
+- :id: adu9084-1-0050.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0050.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '50'
+    :source_metadata_identifier: ADU9084-1-0050
+- :id: adu9084-1-0051.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0051.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '51'
+    :source_metadata_identifier: ADU9084-1-0051
+- :id: adu9084-1-0052.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0052.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '52'
+    :source_metadata_identifier: ADU9084-1-0052
+- :id: adu9084-1-0053.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0053.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '53'
+    :source_metadata_identifier: ADU9084-1-0053
+- :id: adu9084-1-0054.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0054.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '54'
+    :source_metadata_identifier: ADU9084-1-0054
+- :id: adu9084-1-0055.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0055.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '55'
+    :source_metadata_identifier: ADU9084-1-0055
+- :id: adu9084-1-0056.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0056.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '56'
+    :source_metadata_identifier: ADU9084-1-0056
+- :id: adu9084-1-0057.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0057.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '57'
+    :source_metadata_identifier: ADU9084-1-0057
+- :id: adu9084-1-0058.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0058.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '58'
+    :source_metadata_identifier: ADU9084-1-0058
+- :id: adu9084-1-0059.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0059.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '59'
+    :source_metadata_identifier: ADU9084-1-0059
+- :id: adu9084-1-0060.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0060.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '60'
+    :source_metadata_identifier: ADU9084-1-0060
+- :id: adu9084-1-0061.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0061.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '61'
+    :source_metadata_identifier: ADU9084-1-0061
+- :id: adu9084-1-0062.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0062.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '62'
+    :source_metadata_identifier: ADU9084-1-0062
+- :id: adu9084-1-0063.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0063.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '63'
+    :source_metadata_identifier: ADU9084-1-0063
+- :id: adu9084-1-0064.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0064.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '64'
+    :source_metadata_identifier: ADU9084-1-0064
+- :id: adu9084-1-0065.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0065.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '65'
+    :source_metadata_identifier: ADU9084-1-0065
+- :id: adu9084-1-0066.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0066.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '66'
+    :source_metadata_identifier: ADU9084-1-0066
+- :id: adu9084-1-0067.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0067.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '67'
+    :source_metadata_identifier: ADU9084-1-0067
+- :id: adu9084-1-0068.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0068.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '68'
+    :source_metadata_identifier: ADU9084-1-0068
+- :id: adu9084-1-0069.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0069.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '69'
+    :source_metadata_identifier: ADU9084-1-0069
+- :id: adu9084-1-0070.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0070.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '70'
+    :source_metadata_identifier: ADU9084-1-0070
+- :id: adu9084-1-0071.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0071.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '71'
+    :source_metadata_identifier: ADU9084-1-0071
+- :id: adu9084-1-0072.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0072.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '72'
+    :source_metadata_identifier: ADU9084-1-0072
+- :id: adu9084-1-0073.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0073.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '73'
+    :source_metadata_identifier: ADU9084-1-0073
+- :id: adu9084-1-0074.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0074.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '74'
+    :source_metadata_identifier: ADU9084-1-0074
+- :id: adu9084-1-0075.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0075.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '75'
+    :source_metadata_identifier: ADU9084-1-0075
+- :id: adu9084-1-0076.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0076.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '76'
+    :source_metadata_identifier: ADU9084-1-0076
+- :id: adu9084-1-0077.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0077.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '77'
+    :source_metadata_identifier: ADU9084-1-0077
+- :id: adu9084-1-0078.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0078.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '78'
+    :source_metadata_identifier: ADU9084-1-0078
+- :id: adu9084-1-0079.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0079.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '79'
+    :source_metadata_identifier: ADU9084-1-0079
+- :id: adu9084-1-0080.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0080.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '80'
+    :source_metadata_identifier: ADU9084-1-0080
+- :id: adu9084-1-0081.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0081.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '81'
+    :source_metadata_identifier: ADU9084-1-0081
+- :id: adu9084-1-0082.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0082.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '82'
+    :source_metadata_identifier: ADU9084-1-0082
+- :id: adu9084-1-0083.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0083.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '83'
+    :source_metadata_identifier: ADU9084-1-0083
+- :id: adu9084-1-0084.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0084.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '84'
+    :source_metadata_identifier: ADU9084-1-0084
+- :id: adu9084-1-0085.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0085.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '85'
+    :source_metadata_identifier: ADU9084-1-0085
+- :id: adu9084-1-0086.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0086.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '86'
+    :source_metadata_identifier: ADU9084-1-0086
+- :id: adu9084-1-0087.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0087.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '87'
+    :source_metadata_identifier: ADU9084-1-0087
+- :id: adu9084-1-0088.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0088.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '88'
+    :source_metadata_identifier: ADU9084-1-0088
+- :id: adu9084-1-0089.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0089.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '89'
+    :source_metadata_identifier: ADU9084-1-0089
+- :id: adu9084-1-0090.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0090.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '90'
+    :source_metadata_identifier: ADU9084-1-0090
+- :id: adu9084-1-0091.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0091.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '91'
+    :source_metadata_identifier: ADU9084-1-0091
+- :id: adu9084-1-0092.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0092.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '92'
+    :source_metadata_identifier: ADU9084-1-0092
+- :id: adu9084-1-0093.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0093.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '93'
+    :source_metadata_identifier: ADU9084-1-0093
+- :id: adu9084-1-0094.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0094.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '94'
+    :source_metadata_identifier: ADU9084-1-0094
+- :id: adu9084-1-0095.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0095.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '95'
+    :source_metadata_identifier: ADU9084-1-0095
+- :id: adu9084-1-0096.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0096.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '96'
+    :source_metadata_identifier: ADU9084-1-0096
+- :id: adu9084-1-0097.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0097.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '97'
+    :source_metadata_identifier: ADU9084-1-0097
+- :id: adu9084-1-0098.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0098.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '98'
+    :source_metadata_identifier: ADU9084-1-0098
+- :id: adu9084-1-0099.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0099.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '99'
+    :source_metadata_identifier: ADU9084-1-0099
+- :id: adu9084-1-0100.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0100.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '100'
+    :source_metadata_identifier: ADU9084-1-0100
+- :id: adu9084-1-0101.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0101.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '101'
+    :source_metadata_identifier: ADU9084-1-0101
+- :id: adu9084-1-0102.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0102.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '102'
+    :source_metadata_identifier: ADU9084-1-0102
+- :id: adu9084-1-0103.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0103.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '103'
+    :source_metadata_identifier: ADU9084-1-0103
+- :id: adu9084-1-0104.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0104.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '104'
+    :source_metadata_identifier: ADU9084-1-0104
+- :id: adu9084-1-0105.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0105.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '105'
+    :source_metadata_identifier: ADU9084-1-0105
+- :id: adu9084-1-0106.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0106.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '106'
+    :source_metadata_identifier: ADU9084-1-0106
+- :id: adu9084-1-0107.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0107.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '107'
+    :source_metadata_identifier: ADU9084-1-0107
+- :id: adu9084-1-0108.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0108.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '108'
+    :source_metadata_identifier: ADU9084-1-0108
+- :id: adu9084-1-0109.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0109.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '109'
+    :source_metadata_identifier: ADU9084-1-0109
+- :id: adu9084-1-0110.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0110.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '110'
+    :source_metadata_identifier: ADU9084-1-0110
+- :id: adu9084-1-0111.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0111.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '111'
+    :source_metadata_identifier: ADU9084-1-0111
+- :id: adu9084-1-0112.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0112.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '112'
+    :source_metadata_identifier: ADU9084-1-0112
+- :id: adu9084-1-0113.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0113.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '113'
+    :source_metadata_identifier: ADU9084-1-0113
+- :id: adu9084-1-0114.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0114.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '114'
+    :source_metadata_identifier: ADU9084-1-0114
+- :id: adu9084-1-0115.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0115.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '115'
+    :source_metadata_identifier: ADU9084-1-0115
+- :id: adu9084-1-0116.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0116.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '116'
+    :source_metadata_identifier: ADU9084-1-0116
+- :id: adu9084-1-0117.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0117.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '117'
+    :source_metadata_identifier: ADU9084-1-0117
+- :id: adu9084-1-0118.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0118.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '118'
+    :source_metadata_identifier: ADU9084-1-0118
+- :id: adu9084-1-0119.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0119.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '119'
+    :source_metadata_identifier: ADU9084-1-0119
+- :id: adu9084-1-0120.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0120.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '120'
+    :source_metadata_identifier: ADU9084-1-0120
+- :id: adu9084-1-0121.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0121.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '121'
+    :source_metadata_identifier: ADU9084-1-0121
+- :id: adu9084-1-0122.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0122.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '122'
+    :source_metadata_identifier: ADU9084-1-0122
+- :id: adu9084-1-0123.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0123.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '123'
+    :source_metadata_identifier: ADU9084-1-0123
+- :id: adu9084-1-0124.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0124.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '124'
+    :source_metadata_identifier: ADU9084-1-0124
+- :id: adu9084-1-0125.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0125.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '125'
+    :source_metadata_identifier: ADU9084-1-0125
+- :id: adu9084-1-0126.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0126.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '126'
+    :source_metadata_identifier: ADU9084-1-0126
+- :id: adu9084-1-0127.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0127.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '127'
+    :source_metadata_identifier: ADU9084-1-0127
+- :id: adu9084-1-0128.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0128.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '128'
+    :source_metadata_identifier: ADU9084-1-0128
+- :id: adu9084-1-0129.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0129.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '129'
+    :source_metadata_identifier: ADU9084-1-0129
+- :id: adu9084-1-0130.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0130.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '130'
+    :source_metadata_identifier: ADU9084-1-0130
+- :id: adu9084-1-0131.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0131.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '131'
+    :source_metadata_identifier: ADU9084-1-0131
+- :id: adu9084-1-0132.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0132.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '132'
+    :source_metadata_identifier: ADU9084-1-0132
+- :id: adu9084-1-0133.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0133.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '133'
+    :source_metadata_identifier: ADU9084-1-0133
+- :id: adu9084-1-0134.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0134.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '134'
+    :source_metadata_identifier: ADU9084-1-0134
+- :id: adu9084-1-0135.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0135.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '135'
+    :source_metadata_identifier: ADU9084-1-0135
+- :id: adu9084-1-0136.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0136.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '136'
+    :source_metadata_identifier: ADU9084-1-0136
+- :id: adu9084-1-0137.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0137.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '137'
+    :source_metadata_identifier: ADU9084-1-0137
+- :id: adu9084-1-0138.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0138.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '138'
+    :source_metadata_identifier: ADU9084-1-0138
+- :id: adu9084-1-0139.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0139.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '139'
+    :source_metadata_identifier: ADU9084-1-0139
+- :id: adu9084-1-0140.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0140.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '140'
+    :source_metadata_identifier: ADU9084-1-0140
+- :id: adu9084-1-0141.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0141.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '141'
+    :source_metadata_identifier: ADU9084-1-0141
+- :id: adu9084-1-0142.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0142.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '142'
+    :source_metadata_identifier: ADU9084-1-0142
+- :id: adu9084-1-0143.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0143.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '143'
+    :source_metadata_identifier: ADU9084-1-0143
+- :id: adu9084-1-0144.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0144.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '144'
+    :source_metadata_identifier: ADU9084-1-0144
+- :id: adu9084-1-0145.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0145.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '145'
+    :source_metadata_identifier: ADU9084-1-0145
+- :id: adu9084-1-0146.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0146.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '146'
+    :source_metadata_identifier: ADU9084-1-0146
+- :id: adu9084-1-0147.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0147.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '147'
+    :source_metadata_identifier: ADU9084-1-0147
+- :id: adu9084-1-0148.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0148.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '148'
+    :source_metadata_identifier: ADU9084-1-0148
+- :id: adu9084-1-0149.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0149.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '149'
+    :source_metadata_identifier: ADU9084-1-0149
+- :id: adu9084-1-0150.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0150.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '150'
+    :source_metadata_identifier: ADU9084-1-0150
+- :id: adu9084-1-0151.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0151.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '151'
+    :source_metadata_identifier: ADU9084-1-0151
+- :id: adu9084-1-0152.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0152.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '152'
+    :source_metadata_identifier: ADU9084-1-0152
+- :id: adu9084-1-0153.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0153.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '153'
+    :source_metadata_identifier: ADU9084-1-0153
+- :id: adu9084-1-0154.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0154.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '154'
+    :source_metadata_identifier: ADU9084-1-0154
+- :id: adu9084-1-0155.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0155.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '155'
+    :source_metadata_identifier: ADU9084-1-0155
+- :id: adu9084-1-0156.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0156.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '156'
+    :source_metadata_identifier: ADU9084-1-0156
+- :id: adu9084-1-0157.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0157.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '157'
+    :source_metadata_identifier: ADU9084-1-0157
+- :id: adu9084-1-0158.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0158.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '158'
+    :source_metadata_identifier: ADU9084-1-0158
+- :id: adu9084-1-0159.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0159.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '159'
+    :source_metadata_identifier: ADU9084-1-0159
+- :id: adu9084-1-0160.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0160.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '160'
+    :source_metadata_identifier: ADU9084-1-0160
+- :id: adu9084-1-0161.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0161.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '161'
+    :source_metadata_identifier: ADU9084-1-0161
+- :id: adu9084-1-0162.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0162.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '162'
+    :source_metadata_identifier: ADU9084-1-0162
+- :id: adu9084-1-0163.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0163.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '163'
+    :source_metadata_identifier: ADU9084-1-0163
+- :id: adu9084-1-0164.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0164.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '164'
+    :source_metadata_identifier: ADU9084-1-0164
+- :id: adu9084-1-0165.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0165.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '165'
+    :source_metadata_identifier: ADU9084-1-0165
+- :id: adu9084-1-0166.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0166.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '166'
+    :source_metadata_identifier: ADU9084-1-0166
+- :id: adu9084-1-0167.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0167.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '167'
+    :source_metadata_identifier: ADU9084-1-0167
+- :id: adu9084-1-0168.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0168.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '168'
+    :source_metadata_identifier: ADU9084-1-0168
+- :id: adu9084-1-0169.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0169.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '169'
+    :source_metadata_identifier: ADU9084-1-0169
+- :id: adu9084-1-0170.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0170.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '170'
+    :source_metadata_identifier: ADU9084-1-0170
+- :id: adu9084-1-0171.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0171.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '171'
+    :source_metadata_identifier: ADU9084-1-0171
+- :id: adu9084-1-0172.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0172.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '172'
+    :source_metadata_identifier: ADU9084-1-0172
+- :id: adu9084-1-0173.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0173.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '173'
+    :source_metadata_identifier: ADU9084-1-0173
+- :id: adu9084-1-0174.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0174.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '174'
+    :source_metadata_identifier: ADU9084-1-0174
+- :id: adu9084-1-0175.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0175.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '175'
+    :source_metadata_identifier: ADU9084-1-0175
+- :id: adu9084-1-0176.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0176.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '176'
+    :source_metadata_identifier: ADU9084-1-0176
+- :id: adu9084-1-0177.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0177.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '177'
+    :source_metadata_identifier: ADU9084-1-0177
+- :id: adu9084-1-0178.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0178.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '178'
+    :source_metadata_identifier: ADU9084-1-0178
+- :id: adu9084-1-0179.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0179.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '179'
+    :source_metadata_identifier: ADU9084-1-0179
+- :id: adu9084-1-0180.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0180.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '180'
+    :source_metadata_identifier: ADU9084-1-0180
+- :id: adu9084-1-0181.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0181.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '181'
+    :source_metadata_identifier: ADU9084-1-0181
+- :id: adu9084-1-0182.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0182.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '182'
+    :source_metadata_identifier: ADU9084-1-0182
+- :id: adu9084-1-0183.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0183.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '183'
+    :source_metadata_identifier: ADU9084-1-0183
+- :id: adu9084-1-0184.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0184.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '184'
+    :source_metadata_identifier: ADU9084-1-0184
+- :id: adu9084-1-0185.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0185.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '185'
+    :source_metadata_identifier: ADU9084-1-0185
+- :id: adu9084-1-0186.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0186.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '186'
+    :source_metadata_identifier: ADU9084-1-0186
+- :id: adu9084-1-0187.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0187.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '187'
+    :source_metadata_identifier: ADU9084-1-0187
+- :id: adu9084-1-0188.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0188.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '188'
+    :source_metadata_identifier: ADU9084-1-0188
+- :id: adu9084-1-0189.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0189.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '189'
+    :source_metadata_identifier: ADU9084-1-0189
+- :id: adu9084-1-0190.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0190.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '190'
+    :source_metadata_identifier: ADU9084-1-0190
+- :id: adu9084-1-0191.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0191.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '191'
+    :source_metadata_identifier: ADU9084-1-0191
+- :id: adu9084-1-0192.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0192.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '192'
+    :source_metadata_identifier: ADU9084-1-0192
+- :id: adu9084-1-0193.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0193.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '193'
+    :source_metadata_identifier: ADU9084-1-0193
+- :id: adu9084-1-0194.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0194.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '194'
+    :source_metadata_identifier: ADU9084-1-0194
+- :id: adu9084-1-0195.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0195.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '195'
+    :source_metadata_identifier: ADU9084-1-0195
+- :id: adu9084-1-0196.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0196.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '196'
+    :source_metadata_identifier: ADU9084-1-0196
+- :id: adu9084-1-0197.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0197.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '197'
+    :source_metadata_identifier: ADU9084-1-0197
+- :id: adu9084-1-0198.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0198.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '198'
+    :source_metadata_identifier: ADU9084-1-0198
+- :id: adu9084-1-0199.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0199.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '199'
+    :source_metadata_identifier: ADU9084-1-0199
+- :id: adu9084-1-0200.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0200.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '200'
+    :source_metadata_identifier: ADU9084-1-0200
+- :id: adu9084-1-0201.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0201.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '201'
+    :source_metadata_identifier: ADU9084-1-0201
+- :id: adu9084-1-0202.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0202.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '202'
+    :source_metadata_identifier: ADU9084-1-0202
+- :id: adu9084-1-0203.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0203.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '203'
+    :source_metadata_identifier: ADU9084-1-0203
+- :id: adu9084-1-0204.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0204.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '204'
+    :source_metadata_identifier: ADU9084-1-0204
+- :id: adu9084-1-0205.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0205.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '205'
+    :source_metadata_identifier: ADU9084-1-0205
+- :id: adu9084-1-0206.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0206.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '206'
+    :source_metadata_identifier: ADU9084-1-0206
+- :id: adu9084-1-0207.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0207.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '207'
+    :source_metadata_identifier: ADU9084-1-0207
+- :id: adu9084-1-0208.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0208.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '208'
+    :source_metadata_identifier: ADU9084-1-0208
+- :id: adu9084-1-0209.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0209.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '209'
+    :source_metadata_identifier: ADU9084-1-0209
+- :id: adu9084-1-0210.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0210.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '210'
+    :source_metadata_identifier: ADU9084-1-0210
+- :id: adu9084-1-0211.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0211.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '211'
+    :source_metadata_identifier: ADU9084-1-0211
+- :id: adu9084-1-0212.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0212.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '212'
+    :source_metadata_identifier: ADU9084-1-0212
+- :id: adu9084-1-0213.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0213.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '213'
+    :source_metadata_identifier: ADU9084-1-0213
+- :id: adu9084-1-0214.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0214.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '214'
+    :source_metadata_identifier: ADU9084-1-0214
+- :id: adu9084-1-0215.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0215.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '215'
+    :source_metadata_identifier: ADU9084-1-0215
+- :id: adu9084-1-0216.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0216.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '216'
+    :source_metadata_identifier: ADU9084-1-0216
+- :id: adu9084-1-0217.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0217.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '217'
+    :source_metadata_identifier: ADU9084-1-0217
+- :id: adu9084-1-0218.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0218.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '218'
+    :source_metadata_identifier: ADU9084-1-0218
+- :id: adu9084-1-0219.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0219.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '219'
+    :source_metadata_identifier: ADU9084-1-0219
+- :id: adu9084-1-0220.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0220.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '220'
+    :source_metadata_identifier: ADU9084-1-0220
+- :id: adu9084-1-0221.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0221.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '221'
+    :source_metadata_identifier: ADU9084-1-0221
+- :id: adu9084-1-0222.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0222.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '222'
+    :source_metadata_identifier: ADU9084-1-0222
+- :id: adu9084-1-0223.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0223.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '223'
+    :source_metadata_identifier: ADU9084-1-0223
+- :id: adu9084-1-0224.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0224.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '224'
+    :source_metadata_identifier: ADU9084-1-0224
+- :id: adu9084-1-0225.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0225.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '225'
+    :source_metadata_identifier: ADU9084-1-0225
+- :id: adu9084-1-0226.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0226.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '226'
+    :source_metadata_identifier: ADU9084-1-0226
+- :id: adu9084-1-0227.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0227.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '227'
+    :source_metadata_identifier: ADU9084-1-0227
+- :id: adu9084-1-0228.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0228.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '228'
+    :source_metadata_identifier: ADU9084-1-0228
+- :id: adu9084-1-0229.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0229.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '229'
+    :source_metadata_identifier: ADU9084-1-0229
+- :id: adu9084-1-0230.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0230.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '230'
+    :source_metadata_identifier: ADU9084-1-0230
+- :id: adu9084-1-0231.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0231.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '231'
+    :source_metadata_identifier: ADU9084-1-0231
+- :id: adu9084-1-0232.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0232.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '232'
+    :source_metadata_identifier: ADU9084-1-0232
+- :id: adu9084-1-0233.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0233.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '233'
+    :source_metadata_identifier: ADU9084-1-0233
+- :id: adu9084-1-0234.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0234.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '234'
+    :source_metadata_identifier: ADU9084-1-0234
+- :id: adu9084-1-0235.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0235.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '235'
+    :source_metadata_identifier: ADU9084-1-0235
+- :id: adu9084-1-0236.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0236.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '236'
+    :source_metadata_identifier: ADU9084-1-0236
+- :id: adu9084-1-0237.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0237.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '237'
+    :source_metadata_identifier: ADU9084-1-0237
+- :id: adu9084-1-0238.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0238.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '238'
+    :source_metadata_identifier: ADU9084-1-0238
+- :id: adu9084-1-0239.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0239.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '239'
+    :source_metadata_identifier: ADU9084-1-0239
+- :id: adu9084-1-0240.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0240.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '240'
+    :source_metadata_identifier: ADU9084-1-0240
+- :id: adu9084-1-0241.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0241.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '241'
+    :source_metadata_identifier: ADU9084-1-0241
+- :id: adu9084-1-0242.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0242.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '242'
+    :source_metadata_identifier: ADU9084-1-0242
+- :id: adu9084-1-0243.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0243.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '243'
+    :source_metadata_identifier: ADU9084-1-0243
+- :id: adu9084-1-0244.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0244.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '244'
+    :source_metadata_identifier: ADU9084-1-0244
+- :id: adu9084-1-0245.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0245.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '245'
+    :source_metadata_identifier: ADU9084-1-0245
+- :id: adu9084-1-0246.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0246.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '246'
+    :source_metadata_identifier: ADU9084-1-0246
+- :id: adu9084-1-0247.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0247.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '247'
+    :source_metadata_identifier: ADU9084-1-0247
+- :id: adu9084-1-0248.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0248.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '248'
+    :source_metadata_identifier: ADU9084-1-0248
+- :id: adu9084-1-0249.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0249.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '249'
+    :source_metadata_identifier: ADU9084-1-0249
+- :id: adu9084-1-0250.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0250.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '250'
+    :source_metadata_identifier: ADU9084-1-0250
+- :id: adu9084-1-0251.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0251.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '251'
+    :source_metadata_identifier: ADU9084-1-0251
+- :id: adu9084-1-0252.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0252.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '252'
+    :source_metadata_identifier: ADU9084-1-0252
+- :id: adu9084-1-0253.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0253.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '253'
+    :source_metadata_identifier: ADU9084-1-0253
+- :id: adu9084-1-0254.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0254.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '254'
+    :source_metadata_identifier: ADU9084-1-0254
+- :id: adu9084-1-0255.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0255.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '255'
+    :source_metadata_identifier: ADU9084-1-0255
+- :id: adu9084-1-0256.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0256.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '256'
+    :source_metadata_identifier: ADU9084-1-0256
+- :id: adu9084-1-0257.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0257.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '257'
+    :source_metadata_identifier: ADU9084-1-0257
+- :id: adu9084-1-0258.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0258.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '258'
+    :source_metadata_identifier: ADU9084-1-0258
+- :id: adu9084-1-0259.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0259.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '259'
+    :source_metadata_identifier: ADU9084-1-0259
+- :id: adu9084-1-0260.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0260.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '260'
+    :source_metadata_identifier: ADU9084-1-0260
+- :id: adu9084-1-0261.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0261.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '261'
+    :source_metadata_identifier: ADU9084-1-0261
+- :id: adu9084-1-0262.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0262.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '262'
+    :source_metadata_identifier: ADU9084-1-0262
+- :id: adu9084-1-0263.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0263.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '263'
+    :source_metadata_identifier: ADU9084-1-0263
+- :id: adu9084-1-0264.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0264.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '264'
+    :source_metadata_identifier: ADU9084-1-0264
+- :id: adu9084-1-0265.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0265.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '265'
+    :source_metadata_identifier: ADU9084-1-0265
+- :id: adu9084-1-0266.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0266.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '266'
+    :source_metadata_identifier: ADU9084-1-0266
+- :id: adu9084-1-0267.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0267.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '267'
+    :source_metadata_identifier: ADU9084-1-0267
+- :id: adu9084-1-0268.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0268.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '268'
+    :source_metadata_identifier: ADU9084-1-0268
+- :id: adu9084-1-0269.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0269.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '269'
+    :source_metadata_identifier: ADU9084-1-0269
+- :id: adu9084-1-0270.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0270.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '270'
+    :source_metadata_identifier: ADU9084-1-0270
+- :id: adu9084-1-0271.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0271.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '271'
+    :source_metadata_identifier: ADU9084-1-0271
+- :id: adu9084-1-0272.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0272.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '272'
+    :source_metadata_identifier: ADU9084-1-0272
+- :id: adu9084-1-0273.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0273.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '273'
+    :source_metadata_identifier: ADU9084-1-0273
+- :id: adu9084-1-0274.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/adu9084-1-0274.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - '274'
+    :source_metadata_identifier: ADU9084-1-0274
+:sources:
+- :title:
+  - Variations XML
+  :file: spec/fixtures/test/adu9084.xml

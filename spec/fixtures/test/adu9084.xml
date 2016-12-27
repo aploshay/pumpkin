@@ -1,0 +1,2717 @@
+<ScoreAccessPage>
+  <HtmlPageStatus>None</HtmlPageStatus>
+  <Bibinfo>
+    <StmtResponsibility>edited by Ludwig Landshoff</StmtResponsibility>
+  </Bibinfo>
+
+<RecordSet version="trunk">
+   <Container>
+      <OtherSystemIds>
+         <OtherSystemId>(Variations)adu9084</OtherSystemId>
+         <OtherSystemId>(InU)ADU9084BM</OtherSystemId>
+         <OtherSystemId>(OCoLC)ocm24318674</OtherSystemId>
+      </OtherSystemIds>
+      <PublicDomain>Unknown</PublicDomain>
+      <CopyrightDecls/>
+      <Ismn/>
+      <Upc/>
+      <Isbn/>
+      <HoldingStatus>Publicly available</HoldingStatus>
+      <Condition/>
+      <PhysicalID>
+         <CopyNumber>0</CopyNumber>
+         <CallNumber/>
+         <Location>IU Music Library</Location>
+      </PhysicalID>
+      <MediaObjectRefs>
+         <MediaObjectRef>IU/MediaObject/23739</MediaObjectRef>
+      </MediaObjectRefs>
+      <InstantiationRefs/>
+      <Contributions/>
+      <Structure label="Old masters of bel canto : for voice and piano">
+         <Item label="Old masters of bel canto : for voice and piano">
+            <Div label="Volume I">
+               <Div label="Contents">
+                  <Chunk label="1:[i]">
+                     <ContentInterval begin="0" end="1" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+               </Div>
+               <Div label="1. Quanto è bello il mio diletto (A.M. Abbatini) [1st page is missing]">
+                  <Chunk label="1:2">
+                     <ContentInterval begin="1" end="2" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="1:3">
+                     <ContentInterval begin="2" end="3" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="1:4">
+                     <ContentInterval begin="3" end="4" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+               </Div>
+               <Div label="2. Non la volete intendere (L. Rossi)">
+                  <Chunk label="1:5">
+                     <ContentInterval begin="4" end="5" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="1:6">
+                     <ContentInterval begin="5" end="6" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="1:7">
+                     <ContentInterval begin="6" end="7" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="1:8">
+                     <ContentInterval begin="7" end="8" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="1:9">
+                     <ContentInterval begin="8" end="9" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+               </Div>
+               <Div label="3. Se mi toglie ria sventura (L. Rossi)">
+                  <Chunk label="1:10">
+                     <ContentInterval begin="9" end="10" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="1:11">
+                     <ContentInterval begin="10" end="11" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="1:12">
+                     <ContentInterval begin="11" end="12" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+               </Div>
+               <Div label="4. Che sventura! Son tant'anni (L. Rossi)">
+                  <Chunk label="1:13">
+                     <ContentInterval begin="12" end="13" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="1:14">
+                     <ContentInterval begin="13" end="14" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="1:15">
+                     <ContentInterval begin="14" end="15" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="1:16">
+                     <ContentInterval begin="15" end="16" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+               </Div>
+               <Div label="5. Soccorretemi, ch'io moro (G. Carissimi)">
+                  <Chunk label="1:17">
+                     <ContentInterval begin="16" end="17" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="1:18">
+                     <ContentInterval begin="17" end="18" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="1:19">
+                     <ContentInterval begin="18" end="19" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="1:20">
+                     <ContentInterval begin="19" end="20" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="1:21">
+                     <ContentInterval begin="20" end="21" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="1;22">
+                     <ContentInterval begin="21" end="22" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="1:23">
+                     <ContentInterval begin="22" end="23" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="1:24">
+                     <ContentInterval begin="23" end="24" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="1:25">
+                     <ContentInterval begin="24" end="25" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+               </Div>
+               <Div label="6. La mia fede altrui giurata (G. Carissimi)">
+                  <Chunk label="1:26">
+                     <ContentInterval begin="25" end="26" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="1:27">
+                     <ContentInterval begin="26" end="27" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+               </Div>
+               <Div label="7. Addio Corindo (M. Cesti)">
+                  <Chunk label="1:28">
+                     <ContentInterval begin="27" end="28" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="1:29">
+                     <ContentInterval begin="28" end="29" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="1:30">
+                     <ContentInterval begin="29" end="30" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="1:31">
+                     <ContentInterval begin="30" end="31" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="1:32">
+                     <ContentInterval begin="31" end="32" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+               </Div>
+               <Div label="8. Sconsigliata Doralba (J. Melani)">
+                  <Chunk label="1:33">
+                     <ContentInterval begin="32" end="33" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="1:34">
+                     <ContentInterval begin="33" end="34" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="1:35">
+                     <ContentInterval begin="34" end="35" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+               </Div>
+               <Div label="9. Incostante Mustafa (J. Melani)">
+                  <Chunk label="1:36">
+                     <ContentInterval begin="35" end="36" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="1:37">
+                     <ContentInterval begin="36" end="37" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="1:38">
+                     <ContentInterval begin="37" end="38" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+               </Div>
+               <Div label="10. Non mi dir di palesar (G. Legrenzi)">
+                  <Chunk label="1:39">
+                     <ContentInterval begin="38" end="39" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="1:40">
+                     <ContentInterval begin="39" end="40" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="1:41">
+                     <ContentInterval begin="40" end="41" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="1:42">
+                     <ContentInterval begin="41" end="42" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+               </Div>
+               <Div label="11. Col mio sangue comprarei (A. Stradella)">
+                  <Chunk label="1:43">
+                     <ContentInterval begin="42" end="43" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="1:44">
+                     <ContentInterval begin="43" end="44" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="1:45">
+                     <ContentInterval begin="44" end="45" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="1:46">
+                     <ContentInterval begin="45" end="46" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="1:47">
+                     <ContentInterval begin="46" end="47" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+               </Div>
+               <Div label="12. So ben, che mi saettano (A. Stradella)">
+                  <Chunk label="1:48">
+                     <ContentInterval begin="47" end="48" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="1:49">
+                     <ContentInterval begin="48" end="49" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+               </Div>
+               <Div label="13. Tu partisti, idolo amato (C.A. Lonati)">
+                  <Chunk label="1:50">
+                     <ContentInterval begin="49" end="50" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="1:51">
+                     <ContentInterval begin="50" end="51" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+               </Div>
+               <Div label="14. Caro volto pallidetto (N. Matteis)">
+                  <Chunk label="1:52">
+                     <ContentInterval begin="51" end="52" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="1:53">
+                     <ContentInterval begin="52" end="53" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+               </Div>
+               <Div label="15. Caldo sangue (A. Scarlatti)">
+                  <Chunk label="1:54">
+                     <ContentInterval begin="53" end="54" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="1:55">
+                     <ContentInterval begin="54" end="55" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+               </Div>
+               <Div label="16. Chi vuole innamorarsi (A. Scarlatti)">
+                  <Chunk label="1:56">
+                     <ContentInterval begin="55" end="56" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="1:57">
+                     <ContentInterval begin="56" end="57" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+               </Div>
+               <Div label="17. Filli nol niego (C.F. Cesarini)">
+                  <Chunk label="1:58">
+                     <ContentInterval begin="57" end="58" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="1:59">
+                     <ContentInterval begin="58" end="59" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="1:60">
+                     <ContentInterval begin="59" end="60" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="1:61">
+                     <ContentInterval begin="60" end="61" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+               </Div>
+               <Div label="18. Io son zitella (J.A. Perti)">
+                  <Chunk label="1:62">
+                     <ContentInterval begin="61" end="62" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="1:63">
+                     <ContentInterval begin="62" end="63" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="1:64">
+                     <ContentInterval begin="63" end="64" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+               </Div>
+               <Div label="19. Vuoi, che parta (A. Ariosti)">
+                  <Chunk label="1:65">
+                     <ContentInterval begin="64" end="65" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="1:66">
+                     <ContentInterval begin="65" end="66" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="1:67">
+                     <ContentInterval begin="66" end="67" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="1:68">
+                     <ContentInterval begin="67" end="68" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+               </Div>
+               <Div label="20. Alma del core (A. Caldara)">
+                  <Chunk label="1:69">
+                     <ContentInterval begin="68" end="69" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="1:70">
+                     <ContentInterval begin="69" end="70" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="1:71">
+                     <ContentInterval begin="70" end="71" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="1:72">
+                     <ContentInterval begin="71" end="72" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+               </Div>
+               <Div label="21. Non ha ragione, ingrato (D. Sarri)">
+                  <Chunk label="1:73">
+                     <ContentInterval begin="72" end="73" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="1:74">
+                     <ContentInterval begin="73" end="74" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="1:75">
+                     <ContentInterval begin="74" end="75" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="1:76">
+                     <ContentInterval begin="75" end="76" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+               </Div>
+               <Div label="22. So ben, che la speranza (N. Porpora)">
+                  <Chunk label="1:77">
+                     <ContentInterval begin="76" end="77" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="1:78">
+                     <ContentInterval begin="77" end="78" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="1:79">
+                     <ContentInterval begin="78" end="79" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="1:80">
+                     <ContentInterval begin="79" end="80" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="1:81">
+                     <ContentInterval begin="80" end="81" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="1:82">
+                     <ContentInterval begin="81" end="82" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+               </Div>
+               <Div label="23. La tua virtù mi dice (J.A. Hasse)">
+                  <Chunk label="1:83">
+                     <ContentInterval begin="82" end="83" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="1:84">
+                     <ContentInterval begin="83" end="84" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="1:85">
+                     <ContentInterval begin="84" end="85" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="1:86">
+                     <ContentInterval begin="85" end="86" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="1:87">
+                     <ContentInterval begin="86" end="87" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+               </Div>
+               <Div label="24. Disperata Porcia (K.H. Graun)">
+                  <Chunk label="1:88">
+                     <ContentInterval begin="87" end="88" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="1:89">
+                     <ContentInterval begin="88" end="89" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="1:90">
+                     <ContentInterval begin="89" end="90" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="1:91">
+                     <ContentInterval begin="90" end="91" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="1:92">
+                     <ContentInterval begin="91" end="92" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="1:93">
+                     <ContentInterval begin="92" end="93" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="1:94">
+                     <ContentInterval begin="93" end="94" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+               </Div>
+               <Div label="25. Mentre dormi (G.B. Pergolesi)">
+                  <Chunk label="1:95">
+                     <ContentInterval begin="94" end="95" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="1:96">
+                     <ContentInterval begin="95" end="96" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="1:97">
+                     <ContentInterval begin="96" end="97" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="1:98">
+                     <ContentInterval begin="97" end="98" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="1:99">
+                     <ContentInterval begin="98" end="99" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+               </Div>
+               <Div label="26. Ah, ritorna età dell'oro (C.W. Gluck)">
+                  <Chunk label="1:100">
+                     <ContentInterval begin="99" end="100" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="1:101">
+                     <ContentInterval begin="100" end="101" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="1:102">
+                     <ContentInterval begin="101" end="102" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+               </Div>
+               <Div label="27. Non sarei si sventurata (N. Piccinni)">
+                  <Chunk label="1:103">
+                     <ContentInterval begin="102" end="103" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="1:104">
+                     <ContentInterval begin="103" end="104" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="1:105">
+                     <ContentInterval begin="104" end="105" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="1:106">
+                     <ContentInterval begin="105" end="106" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="1:107">
+                     <ContentInterval begin="106" end="107" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="1:108">
+                     <ContentInterval begin="107" end="108" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+               </Div>
+               <Div label="28. Non à ver (J.C. Bach)">
+                  <Chunk label="1:109">
+                     <ContentInterval begin="108" end="109" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="1:110">
+                     <ContentInterval begin="109" end="110" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="1:111">
+                     <ContentInterval begin="110" end="111" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="1:112">
+                     <ContentInterval begin="111" end="112" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="1:113">
+                     <ContentInterval begin="112" end="113" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="1:114">
+                     <ContentInterval begin="113" end="114" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="1:115">
+                     <ContentInterval begin="114" end="115" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+               </Div>
+               <Div label="29. Accresca pietoso (F. di Majo)">
+                  <Chunk label="1:116">
+                     <ContentInterval begin="115" end="116" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="1:117">
+                     <ContentInterval begin="116" end="117" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="1:118">
+                     <ContentInterval begin="117" end="118" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="1:119">
+                     <ContentInterval begin="118" end="119" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="1:120">
+                     <ContentInterval begin="119" end="120" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+               </Div>
+            </Div>
+            <Div label="Volume II">
+               <Div label="Inhaltverzeichnis">
+                  <Chunk label="2:[i]">
+                     <ContentInterval begin="120" end="121" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+               </Div>
+               <Div label="30. Filli nol niego (C.F. Cesarini)">
+                  <Chunk label="2:5">
+                     <ContentInterval begin="121" end="122" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="2:6">
+                     <ContentInterval begin="122" end="123" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="2:7">
+                     <ContentInterval begin="123" end="124" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="2:8">
+                     <ContentInterval begin="124" end="125" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+               </Div>
+               <Div label="31. Jo son zitella (J.A. Perti)">
+                  <Chunk label="2:9">
+                     <ContentInterval begin="125" end="126" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="2:10">
+                     <ContentInterval begin="126" end="127" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="2:11">
+                     <ContentInterval begin="127" end="128" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+               </Div>
+               <Div label="32. Vuoi, che parta (A. Ariosti)">
+                  <Chunk label="2:12">
+                     <ContentInterval begin="128" end="129" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="2:13">
+                     <ContentInterval begin="129" end="130" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="2:14">
+                     <ContentInterval begin="130" end="131" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="2:15">
+                     <ContentInterval begin="131" end="132" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+               </Div>
+               <Div label="33. Vaghe luci, è troppo crudo (A. Caldara)">
+                  <Chunk label="2:16">
+                     <ContentInterval begin="132" end="133" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="2:17">
+                     <ContentInterval begin="133" end="134" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="2:18">
+                     <ContentInterval begin="134" end="135" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="2:19">
+                     <ContentInterval begin="135" end="136" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+               </Div>
+               <Div label="34. Alma del core (A. Caldara)">
+                  <Chunk label="2:20">
+                     <ContentInterval begin="136" end="137" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="2:21">
+                     <ContentInterval begin="137" end="138" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="2:22">
+                     <ContentInterval begin="138" end="139" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="2:23">
+                     <ContentInterval begin="139" end="140" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+               </Div>
+               <Div label="35. Mirti, faggi, tronchi e fronde (A. Caldara)">
+                  <Chunk label="2:24">
+                     <ContentInterval begin="140" end="141" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="2:25">
+                     <ContentInterval begin="141" end="142" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="2:26">
+                     <ContentInterval begin="142" end="143" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+               </Div>
+               <Div label="36. Vo cercando fra le ombre (E. Barone d'Astorga)">
+                  <Chunk label="2:27">
+                     <ContentInterval begin="143" end="144" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="2:28">
+                     <ContentInterval begin="144" end="145" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="2:29">
+                     <ContentInterval begin="145" end="146" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="2:30">
+                     <ContentInterval begin="146" end="147" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="2:31">
+                     <ContentInterval begin="147" end="148" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="2:32">
+                     <ContentInterval begin="148" end="149" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="2:33">
+                     <ContentInterval begin="149" end="150" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="2:34">
+                     <ContentInterval begin="150" end="151" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+               </Div>
+               <Div label="37. Non ha ragione, ingrato (D. Sarri)">
+                  <Chunk label="2:35">
+                     <ContentInterval begin="151" end="152" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="2:36">
+                     <ContentInterval begin="152" end="153" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="2:37">
+                     <ContentInterval begin="153" end="154" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="2:38">
+                     <ContentInterval begin="154" end="155" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+               </Div>
+               <Div label="38. Ecco il petto (B. Marcello)">
+                  <Chunk label="2:39">
+                     <ContentInterval begin="155" end="156" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="2:40">
+                     <ContentInterval begin="156" end="157" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="2:41">
+                     <ContentInterval begin="157" end="158" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="2:42">
+                     <ContentInterval begin="158" end="159" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="2:43">
+                     <ContentInterval begin="159" end="160" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="2:44">
+                     <ContentInterval begin="160" end="161" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="2:45">
+                     <ContentInterval begin="161" end="162" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="2:46">
+                     <ContentInterval begin="162" end="163" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+               </Div>
+               <Div label="39. So ben, che la speranza (N. Porpora)">
+                  <Chunk label="2:47">
+                     <ContentInterval begin="163" end="164" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="2:48">
+                     <ContentInterval begin="164" end="165" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="2:49">
+                     <ContentInterval begin="165" end="166" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="2:50">
+                     <ContentInterval begin="166" end="167" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="2:51">
+                     <ContentInterval begin="167" end="168" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="2:52">
+                     <ContentInterval begin="168" end="169" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+               </Div>
+               <Div label="40. Io vado...de pensa ad Aristea (L. Leo)">
+                  <Chunk label="2:53">
+                     <ContentInterval begin="169" end="170" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="2:54">
+                     <ContentInterval begin="170" end="171" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="2:55">
+                     <ContentInterval begin="171" end="172" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="2:56">
+                     <ContentInterval begin="172" end="173" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="2:57">
+                     <ContentInterval begin="173" end="174" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+               </Div>
+               <Div label="41. La tua virtù mi dice (J.A. Hasse)">
+                  <Chunk label="2:58">
+                     <ContentInterval begin="174" end="175" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="2:59">
+                     <ContentInterval begin="175" end="176" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="2:60">
+                     <ContentInterval begin="176" end="177" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="2:61">
+                     <ContentInterval begin="177" end="178" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="2:62">
+                     <ContentInterval begin="178" end="179" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+               </Div>
+               <Div label="42. Porcia...Disperata Porcia (K.H. Graun)">
+                  <Chunk label="2:63">
+                     <ContentInterval begin="179" end="180" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="2:64">
+                     <ContentInterval begin="180" end="181" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="2:65">
+                     <ContentInterval begin="181" end="182" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="2:66">
+                     <ContentInterval begin="182" end="183" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="2:67">
+                     <ContentInterval begin="183" end="184" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="2:68">
+                     <ContentInterval begin="184" end="185" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="2:69">
+                     <ContentInterval begin="185" end="186" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+               </Div>
+               <Div label="43. Ne' giorni tuoi felici (G.B. Pergolesi)">
+                  <Chunk label="2:70">
+                     <ContentInterval begin="186" end="187" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="2:71">
+                     <ContentInterval begin="187" end="188" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="2:72">
+                     <ContentInterval begin="188" end="189" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="2:73">
+                     <ContentInterval begin="189" end="190" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="2:74">
+                     <ContentInterval begin="190" end="191" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="2:75">
+                     <ContentInterval begin="191" end="192" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="2:76">
+                     <ContentInterval begin="192" end="193" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="2:77">
+                     <ContentInterval begin="193" end="194" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="2:78">
+                     <ContentInterval begin="194" end="195" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="2:79">
+                     <ContentInterval begin="195" end="196" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="2:80">
+                     <ContentInterval begin="196" end="197" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+               </Div>
+               <Div label="44. Mentre dormi, Amor fomenti  (G.B. Pergolesi)">
+                  <Chunk label="2:81">
+                     <ContentInterval begin="197" end="198" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="2:82">
+                     <ContentInterval begin="198" end="199" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="2:83">
+                     <ContentInterval begin="199" end="200" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="2:84">
+                     <ContentInterval begin="200" end="201" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="2:85">
+                     <ContentInterval begin="201" end="202" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+               </Div>
+               <Div label="45. Ah, ritorna età dell' oro (C.W. Gluck)">
+                  <Chunk label="2:86">
+                     <ContentInterval begin="202" end="203" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="2:87">
+                     <ContentInterval begin="203" end="204" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="2:88">
+                     <ContentInterval begin="204" end="205" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+               </Div>
+               <Div label="46. Non sarei si sventurata (N. Piccinni)">
+                  <Chunk label="2:89">
+                     <ContentInterval begin="205" end="206" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="2:90">
+                     <ContentInterval begin="206" end="207" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="2:91">
+                     <ContentInterval begin="207" end="208" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="2:92">
+                     <ContentInterval begin="208" end="209" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="2:93">
+                     <ContentInterval begin="209" end="210" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="2:94">
+                     <ContentInterval begin="210" end="211" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+               </Div>
+               <Div label="47. Non è ver, che assise in trono (J.C. Bach)">
+                  <Chunk label="2:95">
+                     <ContentInterval begin="211" end="212" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="2:96">
+                     <ContentInterval begin="212" end="213" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="2:97">
+                     <ContentInterval begin="213" end="214" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="2:98">
+                     <ContentInterval begin="214" end="215" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="2:99">
+                     <ContentInterval begin="215" end="216" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="2:100">
+                     <ContentInterval begin="216" end="217" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="2:101">
+                     <ContentInterval begin="217" end="218" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+               </Div>
+               <Div label="48. Accresca pietoso (F. de Majo)">
+                  <Chunk label="2:102">
+                     <ContentInterval begin="218" end="219" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="2:103">
+                     <ContentInterval begin="219" end="220" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="2:104">
+                     <ContentInterval begin="220" end="221" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="2:105">
+                     <ContentInterval begin="221" end="222" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="2:106">
+                     <ContentInterval begin="222" end="223" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+               </Div>
+               <Div label="49. Quando lo stral spezzai (G. Paësiello)">
+                  <Chunk label="2:107">
+                     <ContentInterval begin="223" end="224" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="2:108">
+                     <ContentInterval begin="224" end="225" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="2:109">
+                     <ContentInterval begin="225" end="226" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="2:110">
+                     <ContentInterval begin="226" end="227" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="2:111">
+                     <ContentInterval begin="227" end="228" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="2:112">
+                     <ContentInterval begin="228" end="229" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="2:113">
+                     <ContentInterval begin="229" end="230" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+               </Div>
+               <Div label="50. Ah, tornar la bella aurora (D. Cimarosa)">
+                  <Chunk label="2:114">
+                     <ContentInterval begin="230" end="231" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="2:115">
+                     <ContentInterval begin="231" end="232" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="2:116">
+                     <ContentInterval begin="232" end="233" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="2:117">
+                     <ContentInterval begin="233" end="234" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="2:118">
+                     <ContentInterval begin="234" end="235" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="2:119">
+                     <ContentInterval begin="235" end="236" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="2:120">
+                     <ContentInterval begin="236" end="237" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="2:121">
+                     <ContentInterval begin="237" end="238" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+               </Div>
+            </Div>
+            <Div label="Volume III">
+               <Div label="Contents">
+                  <Chunk label="3:[i]">
+                     <ContentInterval begin="238" end="239" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+               </Div>
+               <Div label="1. Kanzone: Con che soavità (Monteverdi) [1st page missing]">
+                  <Chunk label="3:2">
+                     <ContentInterval begin="239" end="240" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="3:3">
+                     <ContentInterval begin="240" end="241" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="3:4">
+                     <ContentInterval begin="241" end="242" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+               </Div>
+               <Div label="2. Per la più vaga e bella (Caccini)">
+                  <Chunk label="3:5">
+                     <ContentInterval begin="242" end="243" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="3:6">
+                     <ContentInterval begin="243" end="244" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="3:7">
+                     <ContentInterval begin="244" end="245" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+               </Div>
+               <Div label="3. No, no, non si speri (Carissimi)">
+                  <Chunk label="3:8">
+                     <ContentInterval begin="245" end="246" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="3:9">
+                     <ContentInterval begin="246" end="247" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="3:10">
+                     <ContentInterval begin="247" end="248" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+               </Div>
+               <Div label="4. Deh rendetemi (F. Provenzale)">
+                  <Chunk label="3:11">
+                     <ContentInterval begin="248" end="249" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="3:12">
+                     <ContentInterval begin="249" end="250" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="3:13">
+                     <ContentInterval begin="250" end="251" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="3:14">
+                     <ContentInterval begin="251" end="252" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+               </Div>
+               <Div label="5. Bellezza tiranna (D. Gabrielli)">
+                  <Chunk label="3:15">
+                     <ContentInterval begin="252" end="253" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="3:16">
+                     <ContentInterval begin="253" end="254" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="3:17">
+                     <ContentInterval begin="254" end="255" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+               </Div>
+               <Div label="6. Vaghe luci (A. Caldara)">
+                  <Chunk label="3:18">
+                     <ContentInterval begin="255" end="256" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="3:19">
+                     <ContentInterval begin="256" end="257" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="3:20">
+                     <ContentInterval begin="257" end="258" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="3:21">
+                     <ContentInterval begin="258" end="259" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+               </Div>
+               <Div label="7. Mirti, faggi (A. Caldara)">
+                  <Chunk label="3:22">
+                     <ContentInterval begin="259" end="260" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="3:23">
+                     <ContentInterval begin="260" end="261" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="3:24">
+                     <ContentInterval begin="261" end="262" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+               </Div>
+               <Div label="8. Jo vado (L. Leo)">
+                  <Chunk label="3:25">
+                     <ContentInterval begin="262" end="263" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="3:26">
+                     <ContentInterval begin="263" end="264" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="3:27">
+                     <ContentInterval begin="264" end="265" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="3:28">
+                     <ContentInterval begin="265" end="266" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="3:29">
+                     <ContentInterval begin="266" end="267" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+               </Div>
+               <Div label="9. Di stella infesta (Giuseppe Aldovrandini)">
+                  <Chunk label="3:30">
+                     <ContentInterval begin="267" end="268" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="3:31">
+                     <ContentInterval begin="268" end="269" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="3:32">
+                     <ContentInterval begin="269" end="270" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="3:33">
+                     <ContentInterval begin="270" end="271" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+               </Div>
+               <Div label="10. Amor, fammi goder (Anonymus)">
+                  <Chunk label="3:34">
+                     <ContentInterval begin="271" end="272" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="3:35">
+                     <ContentInterval begin="272" end="273" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+                  <Chunk label="3:36">
+                     <ContentInterval begin="273" end="274" mediaRef="IU/MediaObject/23739"/>
+                  </Chunk>
+               </Div>
+               <Chunk label="3:37">
+                  <ContentInterval begin="274" end="275" mediaRef="IU/MediaObject/23739"/>
+               </Chunk>
+               <Chunk label="3:38">
+                  <ContentInterval begin="275" end="276" mediaRef="IU/MediaObject/23739"/>
+               </Chunk>
+            </Div>
+         </Item>
+      </Structure>
+      <BibliographicNotes>
+         <BibliographicNote>
+            <Text>Contains principally songs and excerpts from operas and solo cantatas with piano acc</Text>
+            <Type>Descriptive</Type>
+         </BibliographicNote>
+         <BibliographicNote>
+            <Text>Italian words, also printed as text with German translation preceding each selection</Text>
+            <Type>Descriptive</Type>
+         </BibliographicNote>
+      </BibliographicNotes>
+      <PublicationPlace>Boca Raton, Fla</PublicationPlace>
+      <CopyrightDate/>
+      <PublicationDate>[1991]</PublicationDate>
+      <Languages/>
+      <DocumentInfos>
+         <DocumentInfo>
+            <Description>1 score (v. &lt;1-3  &gt;) ; 31 cm</Description>
+            <Format/>
+            <Type>Score</Type>
+         </DocumentInfo>
+      </DocumentInfos>
+      <PublisherNumbers>
+         <PublisherNumber>Masters Music Publications (v. 1):M 1745</PublisherNumber>
+         <PublisherNumber>Masters Music Publications (v. 2):M 1782</PublisherNumber>
+         <PublisherNumber>Masters Music Publications (v. 3):M 2107</PublisherNumber>
+      </PublisherNumbers>
+      <Edition/>
+      <Publisher>Masters Music Publications</Publisher>
+      <SeriesTitles>
+         <SeriesTitle offset="0">Master vocal series</SeriesTitle>
+      </SeriesTitles>
+      <AdditionalTitles/>
+      <DisplayTitle offset="0">Old masters of bel canto : for voice and piano</DisplayTitle>
+      <Status>Import only</Status>
+      <UpdateInfo>
+         <Timestamp>2007-11-06 10:56:35.807</Timestamp>
+         <User>mullen2@IU.EDU</User>
+      </UpdateInfo>
+      <CreationInfo>
+         <Timestamp>2004-09-29 09:55:24.689</Timestamp>
+         <User>guest@DML.INDIANA.EDU</User>
+      </CreationInfo>
+      <Id>IU/Container/23740</Id>
+   </Container>
+   <MediaObject>
+      <FileInfos>
+         <FileInfo>
+            <Checksum>9a74f7198f3c4eab09e1ec2a7239adca</Checksum>
+            <FileName>1.djvu</FileName>
+            <Size>26864</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>2423616193f04a4c61601be02c6800c8</Checksum>
+            <FileName>2.djvu</FileName>
+            <Size>69883</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>c18501ae2cf1a454cae61006b7d24a45</Checksum>
+            <FileName>3.djvu</FileName>
+            <Size>60744</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>e23d34de4a5eec70351f25af7644cfc3</Checksum>
+            <FileName>4.djvu</FileName>
+            <Size>72727</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>2b59600a7702c95c92b524256e6ca500</Checksum>
+            <FileName>5.djvu</FileName>
+            <Size>34430</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>e9b4eb540c5f91a716d6924ebf264f8a</Checksum>
+            <FileName>6.djvu</FileName>
+            <Size>68631</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>20a37d24d5622b5403de25686ccd64e2</Checksum>
+            <FileName>7.djvu</FileName>
+            <Size>62051</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>2a7efbce0bd9172316cad2fb157970df</Checksum>
+            <FileName>8.djvu</FileName>
+            <Size>60725</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>3f0b8e30b1e4fad6c20cef887d286671</Checksum>
+            <FileName>9.djvu</FileName>
+            <Size>69345</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>afb084069fec8a53a322c15e6cd593ca</Checksum>
+            <FileName>10.djvu</FileName>
+            <Size>54066</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>546c30e88c290aaa31c113ad02dbcfcc</Checksum>
+            <FileName>11.djvu</FileName>
+            <Size>62957</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>762f0ad1698e5da9fe7d81b4f3e2c916</Checksum>
+            <FileName>12.djvu</FileName>
+            <Size>64955</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>d5807b9d3f5a107013b57f9720dd7d32</Checksum>
+            <FileName>13.djvu</FileName>
+            <Size>53318</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>9e6e8f37a1e4b0ab00f2eb6ab8601d5d</Checksum>
+            <FileName>14.djvu</FileName>
+            <Size>64105</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>162d27cb5c2c36cbe51c5b3399798172</Checksum>
+            <FileName>15.djvu</FileName>
+            <Size>77158</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>75b8d89a29f271fea72f94e53c604ac9</Checksum>
+            <FileName>16.djvu</FileName>
+            <Size>75463</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>6a4f0cd271ff1cabbe24876239daa5e4</Checksum>
+            <FileName>17.djvu</FileName>
+            <Size>36583</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>bdc5922904e3d3a7228dea29af2bdc3e</Checksum>
+            <FileName>18.djvu</FileName>
+            <Size>65371</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>33745e3606800c7d96e831ba55a48e35</Checksum>
+            <FileName>19.djvu</FileName>
+            <Size>64762</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>350c3df2b5d3cc5813b79b5a69174f58</Checksum>
+            <FileName>20.djvu</FileName>
+            <Size>61294</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>51b13c717f1a826901b686ee2d999ca2</Checksum>
+            <FileName>21.djvu</FileName>
+            <Size>68569</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>2883709e2262bb2c9bb53e006bb09cfc</Checksum>
+            <FileName>22.djvu</FileName>
+            <Size>64283</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>4ed3ea02637142030b8a24fed6005c7b</Checksum>
+            <FileName>23.djvu</FileName>
+            <Size>60993</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>4686a9329858a490aed9ad70f5ef6321</Checksum>
+            <FileName>24.djvu</FileName>
+            <Size>68775</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>6a7652ff5e223e72c01e6520de141537</Checksum>
+            <FileName>25.djvu</FileName>
+            <Size>52500</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>f5ccc5fa33b2e1a99ad5b9d709c1c37a</Checksum>
+            <FileName>26.djvu</FileName>
+            <Size>45748</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>e777744ef98678d1911de5b2930bd808</Checksum>
+            <FileName>27.djvu</FileName>
+            <Size>63010</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>6c7126065e067152865e488eaa5f1653</Checksum>
+            <FileName>28.djvu</FileName>
+            <Size>51128</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>4e2da5ed5c3f28efab4747aa4501c62d</Checksum>
+            <FileName>29.djvu</FileName>
+            <Size>63603</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>673045a47a19fd836e6a2cff1e4866c7</Checksum>
+            <FileName>30.djvu</FileName>
+            <Size>62814</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>342ab6b74bada532c344c19162034f8a</Checksum>
+            <FileName>31.djvu</FileName>
+            <Size>59271</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>e807e0d6a39301c363ed13314ff45c52</Checksum>
+            <FileName>32.djvu</FileName>
+            <Size>63331</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>83dbfa6c6061e4997b79e0601b6434b5</Checksum>
+            <FileName>33.djvu</FileName>
+            <Size>48777</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>a036508a628d8423c14b3bea87352880</Checksum>
+            <FileName>34.djvu</FileName>
+            <Size>70284</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>2945acf0642c81e463e1e5d280e25c90</Checksum>
+            <FileName>35.djvu</FileName>
+            <Size>73167</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>b216543d0e0989f2816ca9129341fe71</Checksum>
+            <FileName>36.djvu</FileName>
+            <Size>47915</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>fb869e906f0d1232394fee598364b732</Checksum>
+            <FileName>37.djvu</FileName>
+            <Size>64970</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>127488a339cda4a31845c0c849592357</Checksum>
+            <FileName>38.djvu</FileName>
+            <Size>66082</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>ef8e29c0359d9a64def07fecd31b56a2</Checksum>
+            <FileName>39.djvu</FileName>
+            <Size>57639</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>178b692b7fd1f6708e7a45c8b5a2ac0f</Checksum>
+            <FileName>40.djvu</FileName>
+            <Size>69445</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>214f13ed69a53399d6278f121684b770</Checksum>
+            <FileName>41.djvu</FileName>
+            <Size>75057</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>fe26d5c33ea2bff41c3bd44f46a78551</Checksum>
+            <FileName>42.djvu</FileName>
+            <Size>77884</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>39dc10da42b5d92ae99ca6be83031882</Checksum>
+            <FileName>43.djvu</FileName>
+            <Size>61925</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>bd296291a47a5276da109f9cf69ba305</Checksum>
+            <FileName>44.djvu</FileName>
+            <Size>65600</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>95626381289d99a8e1ab956c5fe0d439</Checksum>
+            <FileName>45.djvu</FileName>
+            <Size>65691</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>e9f2dc4ee62aaf48b69c0ae9193269db</Checksum>
+            <FileName>46.djvu</FileName>
+            <Size>56551</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>2f19a988caf628ba33fcd9d99febc94e</Checksum>
+            <FileName>47.djvu</FileName>
+            <Size>53894</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>5ef659b3699006266d843a4794697e9a</Checksum>
+            <FileName>48.djvu</FileName>
+            <Size>54333</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>e0bff993116c89264df623e56688e073</Checksum>
+            <FileName>49.djvu</FileName>
+            <Size>52765</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>cd2d703b6b9e0e8b80d9de3b82bfb065</Checksum>
+            <FileName>50.djvu</FileName>
+            <Size>64443</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>67776c9c6314d4f256b1aa907a79527b</Checksum>
+            <FileName>51.djvu</FileName>
+            <Size>76582</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>e3410a6520abacaac5fe346d6dc7689f</Checksum>
+            <FileName>52.djvu</FileName>
+            <Size>43193</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>c6e950f9d27bf28c6c5d0abebc01f40e</Checksum>
+            <FileName>53.djvu</FileName>
+            <Size>46951</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>9f30984f517b04d25dbfb69473b93213</Checksum>
+            <FileName>54.djvu</FileName>
+            <Size>47274</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>ea6aafd9e2417a24ac0422a03dd5b4df</Checksum>
+            <FileName>55.djvu</FileName>
+            <Size>70197</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>e75891f01dd0bb80d100fc1b8b337031</Checksum>
+            <FileName>56.djvu</FileName>
+            <Size>51308</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>6988638fd7e6087b2841316c614b812b</Checksum>
+            <FileName>57.djvu</FileName>
+            <Size>61362</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>560c34c1986878992c1abd2fa0a2200d</Checksum>
+            <FileName>58.djvu</FileName>
+            <Size>44839</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>c235b64f97c93cc8e7cb3e6d479f75c8</Checksum>
+            <FileName>59.djvu</FileName>
+            <Size>63451</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>59406f2123fc733ec9112e8747bcd136</Checksum>
+            <FileName>60.djvu</FileName>
+            <Size>65669</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>544cc479d0429c992d95f9ff8fe50629</Checksum>
+            <FileName>61.djvu</FileName>
+            <Size>55118</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>bb6914abcac1e58dc5c869fdd60a0fab</Checksum>
+            <FileName>62.djvu</FileName>
+            <Size>49444</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>3a9770e706398d5eac759af437e08ffe</Checksum>
+            <FileName>63.djvu</FileName>
+            <Size>56796</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>cccd19b2a686a814744fa8ee2e97c7d1</Checksum>
+            <FileName>64.djvu</FileName>
+            <Size>51389</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>0dc539d4091a5b2f35e195658a5336b8</Checksum>
+            <FileName>65.djvu</FileName>
+            <Size>54369</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>636d630dc76412d560b852aaa6e41878</Checksum>
+            <FileName>66.djvu</FileName>
+            <Size>68209</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>3e59c3cbda681445a7b3f6b8b9307828</Checksum>
+            <FileName>67.djvu</FileName>
+            <Size>66577</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>f4f39da5db3c1deeceb2dae1321f9c69</Checksum>
+            <FileName>68.djvu</FileName>
+            <Size>62761</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>d3c30884480b5ef55ca6547d399f91c0</Checksum>
+            <FileName>69.djvu</FileName>
+            <Size>49485</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>53ee33c854761f927a899e2f8d7685cd</Checksum>
+            <FileName>70.djvu</FileName>
+            <Size>62006</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>2a0ba3e0f85e30268c5de70367bf1f56</Checksum>
+            <FileName>71.djvu</FileName>
+            <Size>54707</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>cdefd572896f1722fb533c92f05189d5</Checksum>
+            <FileName>72.djvu</FileName>
+            <Size>59550</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>cfb1a9137e650c4ac29e9873715ff501</Checksum>
+            <FileName>73.djvu</FileName>
+            <Size>44959</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>1e7485af8816d7c6ece57ac1504e26da</Checksum>
+            <FileName>74.djvu</FileName>
+            <Size>71097</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>dd037bb2e30989f04a0bd21eebbed542</Checksum>
+            <FileName>75.djvu</FileName>
+            <Size>74660</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>daa654c63ea652fb0776a3943ec7339c</Checksum>
+            <FileName>76.djvu</FileName>
+            <Size>68091</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>d9004eacd365aba93f8f1e444033bce8</Checksum>
+            <FileName>77.djvu</FileName>
+            <Size>59354</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>5e5c032b4d04542585e165c219beffb0</Checksum>
+            <FileName>78.djvu</FileName>
+            <Size>62327</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>519c42df6b3750256564b548f32f3c2b</Checksum>
+            <FileName>79.djvu</FileName>
+            <Size>57954</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>702192375a4e633f5820b24d9bccbf93</Checksum>
+            <FileName>80.djvu</FileName>
+            <Size>60455</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>beec42db6244a1dd654f24f92499e53f</Checksum>
+            <FileName>81.djvu</FileName>
+            <Size>60320</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>f09764ef224438b329ab284e6a9dc266</Checksum>
+            <FileName>82.djvu</FileName>
+            <Size>62150</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>14ab94a6d044b1cd4b5384851ff590ad</Checksum>
+            <FileName>83.djvu</FileName>
+            <Size>50388</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>b8ef152b528cbdfe0a7ec510c23e6daa</Checksum>
+            <FileName>84.djvu</FileName>
+            <Size>65260</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>daf360589908118f1ad09b9021ed55c4</Checksum>
+            <FileName>85.djvu</FileName>
+            <Size>57653</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>da28950907dc10e0fdb9871780b1221e</Checksum>
+            <FileName>86.djvu</FileName>
+            <Size>66516</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>20bb76ab9e100844d3aa066d2a23e87a</Checksum>
+            <FileName>87.djvu</FileName>
+            <Size>67741</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>b4b8435010c5adf4bad6cde87bcc8326</Checksum>
+            <FileName>88.djvu</FileName>
+            <Size>53379</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>cfe35b4d33624bda7375cf095c37affa</Checksum>
+            <FileName>89.djvu</FileName>
+            <Size>63122</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>f81d390845d6fabe6685b48fea505308</Checksum>
+            <FileName>90.djvu</FileName>
+            <Size>70275</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>6845f810c9f4f524d8b8087f7553cd05</Checksum>
+            <FileName>91.djvu</FileName>
+            <Size>67427</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>da23cfee2df4b5d40095a83ba9503758</Checksum>
+            <FileName>92.djvu</FileName>
+            <Size>65556</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>acc76ddc41c75c39a4fcf39d63bb8e68</Checksum>
+            <FileName>93.djvu</FileName>
+            <Size>66005</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>d0f1bfac4ce1cc98fc4d1c9ae8e473ba</Checksum>
+            <FileName>94.djvu</FileName>
+            <Size>65285</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>9ae9154b5765f5b3d204b339d49c08e1</Checksum>
+            <FileName>95.djvu</FileName>
+            <Size>63082</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>0dfdedfef5adc217782aee8731ac194c</Checksum>
+            <FileName>96.djvu</FileName>
+            <Size>77489</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>e67cb90179e53743f45037a83a617fa7</Checksum>
+            <FileName>97.djvu</FileName>
+            <Size>85223</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>044264e4e094fa3c750127601a367cbf</Checksum>
+            <FileName>98.djvu</FileName>
+            <Size>75204</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>78f376ab0c664ae241cf845740fe4faf</Checksum>
+            <FileName>99.djvu</FileName>
+            <Size>86494</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>75d8bdee96e65c0d2b3e1e443c7c2945</Checksum>
+            <FileName>100.djvu</FileName>
+            <Size>53537</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>d2aa7cedd22e16bb85bb0f3df82ee231</Checksum>
+            <FileName>101.djvu</FileName>
+            <Size>73713</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>64a61fcc1dd45aff7f41fa6dcef06bd0</Checksum>
+            <FileName>102.djvu</FileName>
+            <Size>74891</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>a397dc6f02945b25ab36b7c1f1ef9ffb</Checksum>
+            <FileName>103.djvu</FileName>
+            <Size>54705</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>d90978cf0db49a5ffcf601d6b36d21ac</Checksum>
+            <FileName>104.djvu</FileName>
+            <Size>61829</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>3ab28c4ec578861b0db6cd81ed89381d</Checksum>
+            <FileName>105.djvu</FileName>
+            <Size>67298</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>d0a3d55e25de6b7ee03ae39c9d725f92</Checksum>
+            <FileName>106.djvu</FileName>
+            <Size>72563</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>e8ee7150fbcbb6216873c04fd9b0c090</Checksum>
+            <FileName>107.djvu</FileName>
+            <Size>68489</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>3068e7ee5977739815dfbacaa1cb573e</Checksum>
+            <FileName>108.djvu</FileName>
+            <Size>63792</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>9e967aa036b7738ed2c181c6742f5863</Checksum>
+            <FileName>109.djvu</FileName>
+            <Size>54585</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>b17984017598c5e7821cd32a7001edc9</Checksum>
+            <FileName>110.djvu</FileName>
+            <Size>67015</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>5ffe42360deea7fb24fadc459ccca628</Checksum>
+            <FileName>111.djvu</FileName>
+            <Size>59051</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>cb41fc6f93956119fb28101c5121fccb</Checksum>
+            <FileName>112.djvu</FileName>
+            <Size>61149</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>7724904d3aff2f701215cf81e8c7efb3</Checksum>
+            <FileName>113.djvu</FileName>
+            <Size>57104</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>902ea4146895c0f0ecc080b91fd7135b</Checksum>
+            <FileName>114.djvu</FileName>
+            <Size>60954</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>f30fa919a57932bdc05476471ab8551b</Checksum>
+            <FileName>115.djvu</FileName>
+            <Size>56354</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>76a44c280d673978e48d6bc9ad488477</Checksum>
+            <FileName>116.djvu</FileName>
+            <Size>46347</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>6590e3643e9e00f6c45e2d3433dc7a67</Checksum>
+            <FileName>117.djvu</FileName>
+            <Size>72162</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>eefab68de96057808b0f3f8fea8864bb</Checksum>
+            <FileName>118.djvu</FileName>
+            <Size>55408</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>b5c35009c04b905eeedd58f47f479caa</Checksum>
+            <FileName>119.djvu</FileName>
+            <Size>55245</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>6566dc2df453ed034008b2e5dc5176ea</Checksum>
+            <FileName>120.djvu</FileName>
+            <Size>59389</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>0ce2153c392bc4407db3671aee6ab752</Checksum>
+            <FileName>121.djvu</FileName>
+            <Size>15834</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>c335ee3da8c97ae93edf6840105154f1</Checksum>
+            <FileName>122.djvu</FileName>
+            <Size>42699</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>1cff63cf18d26e2daf4c63f9736ca9b5</Checksum>
+            <FileName>123.djvu</FileName>
+            <Size>61298</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>836384a97e4ba99efa78e788804b295c</Checksum>
+            <FileName>124.djvu</FileName>
+            <Size>66290</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>4bc886959b01f93e0025b0845b0259c3</Checksum>
+            <FileName>125.djvu</FileName>
+            <Size>57204</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>9f4d2607bb1e38f4af696b120fbb91ea</Checksum>
+            <FileName>126.djvu</FileName>
+            <Size>48017</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>1589b6affada15eaca7547af5a8f6f11</Checksum>
+            <FileName>127.djvu</FileName>
+            <Size>55745</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>bc6384c546689f49f3e133c0a889e8a4</Checksum>
+            <FileName>128.djvu</FileName>
+            <Size>54402</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>2e5642d63d8f046c7f7fb89560d22bfc</Checksum>
+            <FileName>129.djvu</FileName>
+            <Size>55618</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>92daeefbbbd9c9c52b0b3175a692d701</Checksum>
+            <FileName>130.djvu</FileName>
+            <Size>66465</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>931dacf254cc31ea04c14144ce43c33b</Checksum>
+            <FileName>131.djvu</FileName>
+            <Size>67176</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>031639294d10ea39e4b9faac71503a49</Checksum>
+            <FileName>132.djvu</FileName>
+            <Size>67618</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>97d6afa8db2b7da46d5045465cda9feb</Checksum>
+            <FileName>133.djvu</FileName>
+            <Size>56914</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>f385b16a0ef25ab0cf89f8161cb572e6</Checksum>
+            <FileName>134.djvu</FileName>
+            <Size>64451</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>698d6f30b175424e9a70244b3dd49783</Checksum>
+            <FileName>135.djvu</FileName>
+            <Size>54222</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>e93f4ab410d1badcebdd40a07329e1e6</Checksum>
+            <FileName>136.djvu</FileName>
+            <Size>51554</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>972611fb82878f7d89e07fa7b2e17a42</Checksum>
+            <FileName>137.djvu</FileName>
+            <Size>47871</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>cf54a40868465dc7aadb8404ac3fd557</Checksum>
+            <FileName>138.djvu</FileName>
+            <Size>66830</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>b0df0d742a261ef910e0db3161075f54</Checksum>
+            <FileName>139.djvu</FileName>
+            <Size>54867</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>9712b7f2fc7f755bcc228e9832a14ce2</Checksum>
+            <FileName>140.djvu</FileName>
+            <Size>59638</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>796d22e94d0fae4e74da50f04859bb05</Checksum>
+            <FileName>141.djvu</FileName>
+            <Size>39765</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>e5e142cfdaa625d7144e0dd56b8d7d1c</Checksum>
+            <FileName>142.djvu</FileName>
+            <Size>65314</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>4749ff61d2dd17d87ce4b1ba8ff67c3c</Checksum>
+            <FileName>143.djvu</FileName>
+            <Size>51521</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>a3772d3e7aa1d213fcbe361f82a90269</Checksum>
+            <FileName>144.djvu</FileName>
+            <Size>44932</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>5da99db6ed73fd4622fb8ebfe1192c70</Checksum>
+            <FileName>145.djvu</FileName>
+            <Size>53101</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>b5c9ec325f0916a1c5604f5d7c945f9a</Checksum>
+            <FileName>146.djvu</FileName>
+            <Size>51563</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>91fd7ca7566867e0d62562f632ed949a</Checksum>
+            <FileName>147.djvu</FileName>
+            <Size>51706</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>ed9afeb98b6e1a804dcd401d6198b343</Checksum>
+            <FileName>148.djvu</FileName>
+            <Size>49284</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>2715b42b12cf6299bc3a8f160207f6c0</Checksum>
+            <FileName>149.djvu</FileName>
+            <Size>55936</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>ca3ce70f0083dc31eda870461a37a9b0</Checksum>
+            <FileName>150.djvu</FileName>
+            <Size>55013</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>1e8cc24de7e767a5a64060c12b24de8e</Checksum>
+            <FileName>151.djvu</FileName>
+            <Size>54819</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>5b820d9d2d9cee4a593df8da3871fdd0</Checksum>
+            <FileName>152.djvu</FileName>
+            <Size>45139</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>c897cf828f5b2a08f787f9ab35fe3e75</Checksum>
+            <FileName>153.djvu</FileName>
+            <Size>67616</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>5e4e57b3ea672374db2b0ca1e2481944</Checksum>
+            <FileName>154.djvu</FileName>
+            <Size>67216</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>ef66d30962cb2c993e9d6c7ad93e5ecb</Checksum>
+            <FileName>155.djvu</FileName>
+            <Size>62217</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>8441d9b2da77b755225db12fdd44004f</Checksum>
+            <FileName>156.djvu</FileName>
+            <Size>55463</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>0f541048daa8681ee3d9c36227965c31</Checksum>
+            <FileName>157.djvu</FileName>
+            <Size>53042</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>e88de277eec5e680fad658183e08409c</Checksum>
+            <FileName>158.djvu</FileName>
+            <Size>54467</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>97d382b0a78fa7d05fd61c8639d7bb20</Checksum>
+            <FileName>159.djvu</FileName>
+            <Size>53801</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>9c49eb6f452ec89d9030aca13bdee387</Checksum>
+            <FileName>160.djvu</FileName>
+            <Size>53097</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>d49078017313976825aef408e6aed599</Checksum>
+            <FileName>161.djvu</FileName>
+            <Size>52334</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>60118c70a8251780830ce0a962d84f3c</Checksum>
+            <FileName>162.djvu</FileName>
+            <Size>53955</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>0ced19428f5a3e78c003e6971d53e93b</Checksum>
+            <FileName>163.djvu</FileName>
+            <Size>57549</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>7335206d5a88eabf5e6d0df5c58b8301</Checksum>
+            <FileName>164.djvu</FileName>
+            <Size>58922</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>4605a211d36bbcc735602795b955732d</Checksum>
+            <FileName>165.djvu</FileName>
+            <Size>57132</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>d30601e2f53bac490c71678a3f9d5a89</Checksum>
+            <FileName>166.djvu</FileName>
+            <Size>58318</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>df57899dfa5860775ac84b1bb4af9dda</Checksum>
+            <FileName>167.djvu</FileName>
+            <Size>60285</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>d5591ead2c18b0bcbd5952c5042d95ec</Checksum>
+            <FileName>168.djvu</FileName>
+            <Size>58520</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>f66b66909870474d33936a39a2824357</Checksum>
+            <FileName>169.djvu</FileName>
+            <Size>58595</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>ff9bb368b88d8218e247be014fd2984c</Checksum>
+            <FileName>170.djvu</FileName>
+            <Size>45309</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>508a223fb8b52764df36f9abb1882864</Checksum>
+            <FileName>171.djvu</FileName>
+            <Size>66192</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>5459ac8140e1fa7ac40ab9e2b5178370</Checksum>
+            <FileName>172.djvu</FileName>
+            <Size>64389</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>b55ffccc9686f8f0719ec3cc850a0c17</Checksum>
+            <FileName>173.djvu</FileName>
+            <Size>68498</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>9ac0010fe3cab4c22354cd73f437ba19</Checksum>
+            <FileName>174.djvu</FileName>
+            <Size>72012</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>b292f74c35e40c5dd4849dc4040dca2b</Checksum>
+            <FileName>175.djvu</FileName>
+            <Size>47335</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>dd4f2d2a6df8bcd0b64a93c534db3ec5</Checksum>
+            <FileName>176.djvu</FileName>
+            <Size>63264</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>e0f787b6be909cd18d2fa49cdd7d0361</Checksum>
+            <FileName>177.djvu</FileName>
+            <Size>58760</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>c5805b8971522ae23cc05ffbb36b2f90</Checksum>
+            <FileName>178.djvu</FileName>
+            <Size>62658</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>bbf05db391ebc45108c4394ab9b23431</Checksum>
+            <FileName>179.djvu</FileName>
+            <Size>65413</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>4bb1f7216b501d22cd92fc51b64637f1</Checksum>
+            <FileName>180.djvu</FileName>
+            <Size>50741</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>c7530b8f0882c83a147044fa5ee84ba3</Checksum>
+            <FileName>181.djvu</FileName>
+            <Size>60789</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>a5909a91ed659378f6b07424857307f5</Checksum>
+            <FileName>182.djvu</FileName>
+            <Size>67938</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>a9432b43906a05a7c5015d2c69114659</Checksum>
+            <FileName>183.djvu</FileName>
+            <Size>64975</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>ed89d41e8bf058e998d5d753675c0c6d</Checksum>
+            <FileName>184.djvu</FileName>
+            <Size>63762</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>dcfa31af54367921a955a2e85bc51fb2</Checksum>
+            <FileName>185.djvu</FileName>
+            <Size>62505</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>458777ad9872198497458f224f48157e</Checksum>
+            <FileName>186.djvu</FileName>
+            <Size>63740</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>196c922cacf56129337ca8bcebdf6813</Checksum>
+            <FileName>187.djvu</FileName>
+            <Size>46183</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>f37d63bb9bedceb76c717c940c3642f6</Checksum>
+            <FileName>188.djvu</FileName>
+            <Size>63944</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>5f6094019fa95b3d2c8e531e4931c709</Checksum>
+            <FileName>189.djvu</FileName>
+            <Size>53355</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>3391d2aac14c5d16462f6aff82503126</Checksum>
+            <FileName>190.djvu</FileName>
+            <Size>54746</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>57a7a9dbb27a44a54edb5e8d2b1f6163</Checksum>
+            <FileName>191.djvu</FileName>
+            <Size>47411</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>5a1e4792e8451e5ab5c96640ff82767e</Checksum>
+            <FileName>192.djvu</FileName>
+            <Size>52620</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>ed1cd42db8149d29ad495cc5a2ff171f</Checksum>
+            <FileName>193.djvu</FileName>
+            <Size>54984</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>2b917c81f9d6d5cf439115b6bbf8ffe7</Checksum>
+            <FileName>194.djvu</FileName>
+            <Size>54731</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>5543a6c6bd3f918332e8a2b750490916</Checksum>
+            <FileName>195.djvu</FileName>
+            <Size>49549</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>4b4731a9ffcf6b2e2e102826f9e511f7</Checksum>
+            <FileName>196.djvu</FileName>
+            <Size>50694</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>9d29f053994b8acfa5ac3a9a052cca16</Checksum>
+            <FileName>197.djvu</FileName>
+            <Size>71044</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>64bbbc86a3ae6615bd471ffb56e37a12</Checksum>
+            <FileName>198.djvu</FileName>
+            <Size>61990</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>9d27706d2f95cd3da13191ef645595ef</Checksum>
+            <FileName>199.djvu</FileName>
+            <Size>76192</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>22dadebd9afc1355f2fc9e0cc2b6e39b</Checksum>
+            <FileName>200.djvu</FileName>
+            <Size>83727</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>ffcbac9ae91f3ecb1ffa4d91ee82781d</Checksum>
+            <FileName>201.djvu</FileName>
+            <Size>76251</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>93175b4e9b991cfeebf998e144dfd902</Checksum>
+            <FileName>202.djvu</FileName>
+            <Size>82875</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>e8c379a8c77d84e0e51f0c9469e6ee70</Checksum>
+            <FileName>203.djvu</FileName>
+            <Size>51426</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>ac366119fe7e81b125e82ad0a63ddade</Checksum>
+            <FileName>204.djvu</FileName>
+            <Size>72285</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>814b850b44a4c4b16da6c89abfda40e3</Checksum>
+            <FileName>205.djvu</FileName>
+            <Size>76873</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>e5d07b15197e42c515ad9f78cd382d4a</Checksum>
+            <FileName>206.djvu</FileName>
+            <Size>55283</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>4c4c5cba1e8640714f774cd85b96334e</Checksum>
+            <FileName>207.djvu</FileName>
+            <Size>64639</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>2f1a9b2ebc5d9963983db33ae34130f2</Checksum>
+            <FileName>208.djvu</FileName>
+            <Size>66328</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>a276aa0bff1c3b2c1cc3c733c892bcd9</Checksum>
+            <FileName>209.djvu</FileName>
+            <Size>68612</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>7a90642aa5f77e010cc20977f1c7299c</Checksum>
+            <FileName>210.djvu</FileName>
+            <Size>68493</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>10d3ed5430ef20d7c35a4ded14d28945</Checksum>
+            <FileName>211.djvu</FileName>
+            <Size>65188</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>4cc8d1d6f6450ebe51d3862a17e8fcc3</Checksum>
+            <FileName>212.djvu</FileName>
+            <Size>53466</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>7e7e6f968c6da42b4742777e5d90cc1c</Checksum>
+            <FileName>213.djvu</FileName>
+            <Size>69518</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>5a3f3441fe671c2d013f617fd317ca37</Checksum>
+            <FileName>214.djvu</FileName>
+            <Size>56827</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>49438c626a995bb21e598f9b10b4daaf</Checksum>
+            <FileName>215.djvu</FileName>
+            <Size>60001</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>cd8e64eaa2a1b01d872759a4ec917b5a</Checksum>
+            <FileName>216.djvu</FileName>
+            <Size>57426</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>caf675335e9f39a865aeb467dff36c34</Checksum>
+            <FileName>217.djvu</FileName>
+            <Size>60416</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>a17588c18d2eafa3ec5f63367e6ca462</Checksum>
+            <FileName>218.djvu</FileName>
+            <Size>54876</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>97780eacf14cafb2e820354cd5b09f46</Checksum>
+            <FileName>219.djvu</FileName>
+            <Size>46333</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>9f9842fe6d394b6a29289c2b09f457c8</Checksum>
+            <FileName>220.djvu</FileName>
+            <Size>71781</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>6aea0bfd02425b27d69a4b87b9fc9985</Checksum>
+            <FileName>221.djvu</FileName>
+            <Size>55498</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>722e2a0fd97112e6586489520f202b1c</Checksum>
+            <FileName>222.djvu</FileName>
+            <Size>54371</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>fd5dc2e2034327ad2693341d0ddfc210</Checksum>
+            <FileName>223.djvu</FileName>
+            <Size>62552</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>bece12026b4f20e1a206a14fa5bc922a</Checksum>
+            <FileName>224.djvu</FileName>
+            <Size>42235</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>87a3bce6fb023849b1c1aa7683b25980</Checksum>
+            <FileName>225.djvu</FileName>
+            <Size>50271</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>6f1236ace6661b48d67795f3dfaaa8b1</Checksum>
+            <FileName>226.djvu</FileName>
+            <Size>46830</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>64b50c114e7059448b3d466750f72e2f</Checksum>
+            <FileName>227.djvu</FileName>
+            <Size>52212</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>145e067706c89afedef12ecfc643a152</Checksum>
+            <FileName>228.djvu</FileName>
+            <Size>50058</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>fd05261a1713e5f00e93143b921a48c1</Checksum>
+            <FileName>229.djvu</FileName>
+            <Size>54018</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>e8552a84469a60a338ca45b3dcc0a05d</Checksum>
+            <FileName>230.djvu</FileName>
+            <Size>50319</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>4ffedfad4096a7c2fd117d754cbdf744</Checksum>
+            <FileName>231.djvu</FileName>
+            <Size>59591</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>095bb3901b55737324fb18615dfe5d5d</Checksum>
+            <FileName>232.djvu</FileName>
+            <Size>60006</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>ed8b5a06e5a37d3a6015f303a77d8ca6</Checksum>
+            <FileName>233.djvu</FileName>
+            <Size>67154</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>59d130d4101a7debce615f7b0f7c2b30</Checksum>
+            <FileName>234.djvu</FileName>
+            <Size>70896</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>0e905e4053c80b47dc4fcd1dd856a3a1</Checksum>
+            <FileName>235.djvu</FileName>
+            <Size>73753</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>ba8fe5334b6fd4e6d277fd8d403724fc</Checksum>
+            <FileName>236.djvu</FileName>
+            <Size>68447</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>9d4eff06969bf6b6c44dd3ba891e1051</Checksum>
+            <FileName>237.djvu</FileName>
+            <Size>71114</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>96bbee3e7a03fd65f81d635a4de798de</Checksum>
+            <FileName>238.djvu</FileName>
+            <Size>61650</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>b75d9caeefe4d0ed85bd8ce03950916c</Checksum>
+            <FileName>239.djvu</FileName>
+            <Size>9318</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>d42c41e6fe073db05f9aeaeb6d22e165</Checksum>
+            <FileName>240.djvu</FileName>
+            <Size>60038</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>52689a584c282f3eca84ffeb47000808</Checksum>
+            <FileName>241.djvu</FileName>
+            <Size>60599</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>0babaabb655449e2adf4be3bad364056</Checksum>
+            <FileName>242.djvu</FileName>
+            <Size>58672</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>1f8e4afbaf9c45b90095166054a9bfb8</Checksum>
+            <FileName>243.djvu</FileName>
+            <Size>51303</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>3c94f9aa1e051d09d26d91cd95b3e53f</Checksum>
+            <FileName>244.djvu</FileName>
+            <Size>58723</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>d763bc0192fa2100058c937f3b376385</Checksum>
+            <FileName>245.djvu</FileName>
+            <Size>58627</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>9722085591af863b86562c9bb84b0f99</Checksum>
+            <FileName>246.djvu</FileName>
+            <Size>42325</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>f0f96c1e592e0f8cc6f428c46a4408ff</Checksum>
+            <FileName>247.djvu</FileName>
+            <Size>51228</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>8f459f46ac94c1ecde73b029e275d87a</Checksum>
+            <FileName>248.djvu</FileName>
+            <Size>47052</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>3e975bae2cc60230ef6b9d87b996cff0</Checksum>
+            <FileName>249.djvu</FileName>
+            <Size>49257</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>4e3f1dc53c7b3cdcb0069950adca623e</Checksum>
+            <FileName>250.djvu</FileName>
+            <Size>51761</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>72754a0cab5188c95989d16d772c69cf</Checksum>
+            <FileName>251.djvu</FileName>
+            <Size>48814</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>14c52066c3e81fafb87eab3bf07d50c3</Checksum>
+            <FileName>252.djvu</FileName>
+            <Size>48261</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>2054c5f79512d4fbd14932131a4d28bc</Checksum>
+            <FileName>253.djvu</FileName>
+            <Size>48282</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>93c1c83752fcd513f82f66b00de1a0f2</Checksum>
+            <FileName>254.djvu</FileName>
+            <Size>59712</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>a587336e23498fb8fb662cb3ab592875</Checksum>
+            <FileName>255.djvu</FileName>
+            <Size>62148</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>7d88a6683d7d22624a7f30ec61e17fdc</Checksum>
+            <FileName>256.djvu</FileName>
+            <Size>50444</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>93240a1beb43d1dc4f80ecc0177d98fc</Checksum>
+            <FileName>257.djvu</FileName>
+            <Size>57443</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>37ad632294da75ba9e2a9c6c794aadd7</Checksum>
+            <FileName>258.djvu</FileName>
+            <Size>50116</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>581418eb46b061d2baffa0c7636f8866</Checksum>
+            <FileName>259.djvu</FileName>
+            <Size>48782</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>0a8ca020a7c586734dce31e6b8b27c24</Checksum>
+            <FileName>260.djvu</FileName>
+            <Size>34541</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>29d52b5faf6e4f1997d9b8b94085c70f</Checksum>
+            <FileName>261.djvu</FileName>
+            <Size>60415</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>39891c31e8cd75b110d62f7f213af241</Checksum>
+            <FileName>262.djvu</FileName>
+            <Size>49649</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>1575b3fe9a3bd87be697d44c884fd830</Checksum>
+            <FileName>263.djvu</FileName>
+            <Size>40572</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>bab02e7cad8f02725fda73b5d05b0771</Checksum>
+            <FileName>264.djvu</FileName>
+            <Size>60463</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>2a4124bc67643be9beee34232784a92b</Checksum>
+            <FileName>265.djvu</FileName>
+            <Size>58231</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>778adf65bc273b4030cc400c34f0a8fa</Checksum>
+            <FileName>266.djvu</FileName>
+            <Size>64406</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>0b81b73b88696249c3dbc9213d6115ff</Checksum>
+            <FileName>267.djvu</FileName>
+            <Size>64478</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>8f02da35b0101599d51c32490ccbee84</Checksum>
+            <FileName>268.djvu</FileName>
+            <Size>50065</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>6ff17b3f43e6fb812542f1a822da05a5</Checksum>
+            <FileName>269.djvu</FileName>
+            <Size>58487</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>ee7a97ace74930241b1c9e33976d66ad</Checksum>
+            <FileName>270.djvu</FileName>
+            <Size>64043</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>947060c35b325c8185700fe90fd753af</Checksum>
+            <FileName>271.djvu</FileName>
+            <Size>62605</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>5bc239b872e81e65797f7d170fc3bbd0</Checksum>
+            <FileName>272.djvu</FileName>
+            <Size>53467</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>9e11fa7932861c636fdd081607417ce2</Checksum>
+            <FileName>273.djvu</FileName>
+            <Size>46596</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+         <FileInfo>
+            <Checksum>dca47786a03019b35e2ee6aefd846b0f</Checksum>
+            <FileName>274.djvu</FileName>
+            <Size>58357</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+      </FileInfos>
+      <AccessCount>0</AccessCount>
+      <DigitizedBy>Indiana University Music Library</DigitizedBy>
+      <DigitizationDate/>
+      <Environment/>
+      <SampleRate>0</SampleRate>
+      <SampleSize>0</SampleSize>
+      <ChannelCount>0</ChannelCount>
+      <Resolution/>
+      <BitDepth/>
+      <Compression>DjVu</Compression>
+      <FileFormat>image/x.djvu</FileFormat>
+      <Label>adu9084</Label>
+      <Status>Complete</Status>
+      <UpdateInfo>
+         <Timestamp>2007-11-06 10:56:35.807</Timestamp>
+         <User>mullen2@IU.EDU</User>
+      </UpdateInfo>
+      <CreationInfo>
+         <Timestamp>2004-09-29 09:55:24.689</Timestamp>
+         <User>guest@DML.INDIANA.EDU</User>
+      </CreationInfo>
+      <Id>IU/MediaObject/23739</Id>
+   </MediaObject>
+   <SetInfo>
+      <TextMatches/>
+      <ThemeBaseURL>http://rackett.dlib.indiana.edu/variations/themes/</ThemeBaseURL>
+      <AvailableMediaItems>
+         <AllItemsAvailable>true</AllItemsAvailable>
+      </AvailableMediaItems>
+   </SetInfo>
+</RecordSet>
+</ScoreAccessPage>

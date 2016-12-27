@@ -1,0 +1,92 @@
+<?xml-stylesheet type="text/xsl" href="access-new.xsl" ?>
+<ScoreAccessPage>
+  <HtmlPageStatus>None</HtmlPageStatus>
+
+<RecordSet version="trunk">
+   <MediaObject>
+      <FileInfos>
+         <FileInfo>
+            <Checksum>OBZ4S+cOfFb8fyGKYo65kw==</Checksum>
+            <FileName>zzz0731-1-1.djvu</FileName>
+            <Size>0</Size>
+            <Extent>1</Extent>
+         </FileInfo>
+      </FileInfos>
+      <AccessCount>0</AccessCount>
+      <DigitizedBy>schmiecs@IU.EDU</DigitizedBy>
+      <DigitizationDate>2007-06-20</DigitizationDate>
+      <Environment/>
+      <SampleRate>0</SampleRate>
+      <SampleSize>0</SampleSize>
+      <ChannelCount>0</ChannelCount>
+      <FileFormat>image/x.djvu</FileFormat>
+      <Label>ZZZ0731</Label>
+      <Status>Import only</Status>
+      <UpdateInfo>
+         <Timestamp>2007-06-20 14:31:18.175</Timestamp>
+         <User>schmiecs@IU.EDU</User>
+      </UpdateInfo>
+      <CreationInfo>
+         <Timestamp>2007-06-20 14:31:18.175</Timestamp>
+         <User>schmiecs@IU.EDU</User>
+      </CreationInfo>
+      <Id>IU/MediaObject/391537</Id>
+   </MediaObject>
+   <Container>
+      <OtherSystemIds>
+         <OtherSystemId>(Variations)ZZZ0731</OtherSystemId>
+      </OtherSystemIds>
+      <PublicDomain>Unknown</PublicDomain>
+      <CopyrightDecls>
+         <CopyrightDecl>
+            <Domain>Item</Domain>
+            <Owner/>
+         </CopyrightDecl>
+      </CopyrightDecls>
+      <HoldingStatus>Restricted access</HoldingStatus>
+      <Condition/>
+      <PhysicalID>
+         <CopyNumber>1</CopyNumber>
+         <CallNumber/>
+         <Location>IU Music Library</Location>
+      </PhysicalID>
+      <MediaObjectRefs>
+         <MediaObjectRef>IU/MediaObject/391537</MediaObjectRef>
+      </MediaObjectRefs>
+      <Structure label="Untitled">
+         <Item label="Volume 1">
+            <Chunk label="*">
+               <ContentInterval begin="0" end="1" mediaRef="IU/MediaObject/391537"/>
+            </Chunk>
+         </Item>
+      </Structure>
+      <BibliographicNotes/>
+      <DocumentInfos>
+         <DocumentInfo>
+            <Description/>
+            <Format>Full Score</Format>
+            <Type>Score</Type>
+         </DocumentInfo>
+      </DocumentInfos>
+      <Publisher/>
+      <DisplayTitle offset="0"/>
+      <Status>In digitization</Status>
+      <UpdateInfo>
+         <Timestamp>2007-06-20 14:31:18.174</Timestamp>
+         <User>schmiecs@IU.EDU</User>
+      </UpdateInfo>
+      <CreationInfo>
+         <Timestamp>2007-06-20 14:18:16.871</Timestamp>
+         <User>schmiecs@IU.EDU</User>
+      </CreationInfo>
+      <Id>IU/Container/391536</Id>
+   </Container>
+   <SetInfo>
+      <TextMatches/>
+      <ThemeBaseURL>http://server1.variations2.indiana.edu/themes/</ThemeBaseURL>
+      <AvailableMediaItems>
+         <AllItemsAvailable>true</AllItemsAvailable>
+      </AvailableMediaItems>
+   </SetInfo>
+</RecordSet>
+</ScoreAccessPage>

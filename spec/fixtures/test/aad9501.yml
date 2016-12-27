@@ -1,0 +1,138 @@
+---
+:resource: ScannedResource
+:attributes:
+  :default:
+    state: final_review
+    viewing_direction: left-to-right
+    rights_statement: http://rightsstatements.org/vocab/NKC/1.0/
+    visibility: open
+  :remote:
+    identifier: http://purl.dlib.indiana.edu/iudl/variations/score/AAD9501
+    title:
+    - 'Petrushka : original version'
+    sort_title: 'Petrushka : original version'
+    responsibility_note:
+    - Igor Stravinsky
+    creator:
+    - Stravinsky, Igor, 1882-1971
+    subject:
+    - Ballets
+    date_created:
+    - '1988'
+    publisher:
+    - Dover
+    publication_place:
+    - New York
+    issued:
+    - c1988
+    published: 'New York : Dover, c1988'
+:source_metadata: |-
+  <record xmlns="http://www.loc.gov/MARC21/slim">
+    <!-- Length implementation at offset 22 should hold a digit. Assuming 0 -->
+    <leader>01274mcm a2200337 a 4500</leader>
+    <controlfield tag="001">AAD9501BM</controlfield>
+    <controlfield tag="008">880127r19881912nyubta   z     n 1       </controlfield>
+    <datafield tag="010" ind1=" " ind2=" ">
+      <subfield code="a">   88750374 /M/r89</subfield>
+    </datafield>
+    <datafield tag="020" ind1=" " ind2=" ">
+      <subfield code="a">0486256804</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(InU)AAD9501BM</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)ocm17483739</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">DLC</subfield>
+      <subfield code="c">DLC</subfield>
+    </datafield>
+    <datafield tag="041" ind1="0" ind2=" ">
+      <subfield code="g">eng</subfield>
+      <subfield code="h">frerus</subfield>
+    </datafield>
+    <datafield tag="048" ind1=" " ind2=" ">
+      <subfield code="a">oa</subfield>
+    </datafield>
+    <datafield tag="050" ind1="0" ind2=" ">
+      <subfield code="a">M1520.S9</subfield>
+      <subfield code="b">P3 1988</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2="0">
+      <subfield code="a">Stravinsky, Igor,</subfield>
+      <subfield code="d">1882-1971.</subfield>
+    </datafield>
+    <datafield tag="240" ind1="1" ind2="0">
+      <subfield code="a">Petrushka</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">Petrushka :</subfield>
+      <subfield code="b">original version /</subfield>
+      <subfield code="c">Igor Stravinsky.</subfield>
+    </datafield>
+    <datafield tag="254" ind1=" " ind2=" ">
+      <subfield code="a">In full score.</subfield>
+    </datafield>
+    <datafield tag="260" ind1="0" ind2=" ">
+      <subfield code="a">New York :</subfield>
+      <subfield code="b">Dover,</subfield>
+      <subfield code="c">c1988.</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">1 score (156, [1] p.) ;</subfield>
+      <subfield code="c">31 cm.</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Ballet.</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Reprint. Originally published: P&#xE9;trouchka. Berlin : Edition russe de musique ; New York : Breitkopf &amp; H&#xE4;rtel, 1912. With introductory matter translated into English.</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Concert ending: p. 150a at end.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Ballets</subfield>
+      <subfield code="x">Scores.</subfield>
+    </datafield>
+    <datafield tag="856" ind1="4" ind2="1">
+      <subfield code="a">Bloomington</subfield>
+      <subfield code="u">http://purl.dlib.indiana.edu/iudl/variations/score/AAD9501</subfield>
+      <subfield code="z">Available to authorized users of the Variations System</subfield>
+    </datafield>
+    <datafield tag="998" ind1=" " ind2=" ">
+      <subfield code="a">4/2/1990</subfield>
+      <subfield code="b">9/6/1990</subfield>
+      <subfield code="c">4/2/1990</subfield>
+    </datafield>
+    <datafield tag="596" ind1=" " ind2=" ">
+      <subfield code="a">20 48</subfield>
+    </datafield>
+    <datafield tag="926" ind1=" " ind2=" ">
+      <subfield code="a">B-MUSIC</subfield>
+      <subfield code="b">STACKS</subfield>
+      <subfield code="c">M1520.S91 P3</subfield>
+      <subfield code="d">NORMAL</subfield>
+      <subfield code="f">1</subfield>
+    </datafield>
+    <datafield tag="926" ind1=" " ind2=" ">
+      <subfield code="a">B-MUSIC</subfield>
+      <subfield code="b">RESERVES</subfield>
+      <subfield code="c">M1520.S91 P3</subfield>
+      <subfield code="d">HOUR02</subfield>
+      <subfield code="f">2</subfield>
+    </datafield>
+    <datafield tag="926" ind1=" " ind2=" ">
+      <subfield code="a">SOUTHEAST</subfield>
+      <subfield code="b">STACKS</subfield>
+      <subfield code="c">M1520.S9 P3 1988</subfield>
+      <subfield code="d">NORMAL</subfield>
+      <subfield code="f">1</subfield>
+    </datafield>
+  </record>
+:thumbnail_path: 
+:collections: []
+:structure: {}
+:files: []
+:sources: []

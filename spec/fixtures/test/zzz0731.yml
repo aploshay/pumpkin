@@ -1,0 +1,34 @@
+---
+:resource: ScannedResource
+:attributes:
+  :default:
+    state: final_review
+    viewing_direction: left-to-right
+    rights_statement: http://rightsstatements.org/vocab/InC/1.0/
+    visibility: authenticated
+  :local:
+    source_metadata_identifier: ZZZ0731
+    holding_location: https://libraries.indiana.edu/music
+    physical_description: ''
+    copyright_holder:
+    - ''
+:source_metadata: 
+:thumbnail_path: "/tmp/ingest/zzz0731-1-0001.tif"
+:collections: []
+:structure:
+  :nodes:
+  - :label: "*"
+    :proxy: zzz0731-1-0001.tif
+:files:
+- :id: zzz0731-1-0001.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/zzz0731-1-0001.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - "*"
+    :source_metadata_identifier: ZZZ0731-1-0001
+:sources:
+- :title:
+  - Variations XML
+  :file: spec/fixtures/test/zzz0731.xml
