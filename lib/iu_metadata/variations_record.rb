@@ -97,12 +97,13 @@ module IuMetadata
         # use array of filenames, if provided
         if @files.any?
           @files = @files.map { |filename| file_hash(filename) }
-        else
+        elsif @variations_type == 'ScoreAccessPage'
           @variations.xpath('//FileInfos/FileInfo').each do |file|
             @files << file_hash(filename(file))
           end
         end
-        @thumbnail_path = @files.first[:path]
+        # FIXME: crosscheck expected, actual files
+        @thumbnail_path = (@files.any? ? @files.first[:path] : nil)
 
         # assign structure hash and update files array with titles
         @file_index = 0
@@ -112,7 +113,15 @@ module IuMetadata
           items.each do |item|
             volume = {}
             volume[:title] = [item['label']]
-            volume[:structure] = @structure || { nodes: structure_to_array(item) }
+            volume[:structure] = begin
+              if files.none?
+                {}
+              elsif @structure
+                @structure
+              else
+                { nodes: structure_to_array(item) }
+              end
+            end
             volume[:files] = @files[@file_start, @file_index - @file_start]
             if @structure
               volume[:files].each_with_index { |file, i| [:attributes][:title] = [(i + 1).to_s] }
@@ -121,7 +130,10 @@ module IuMetadata
             @volumes << volume
           end
         else
-          if @structure
+          if files.none?
+            @structure = {}
+            # FIXME: log structure drop
+          elsif @structure
             @files.each_with_index { |file, i| file[:attributes][:title] = [(i + 1).to_s] }
           else
             @structure = { nodes: structure_to_array(items.first) }
@@ -131,6 +143,7 @@ module IuMetadata
 
       # builds structure hash AND update file list with titles
       def structure_to_array(xml_node)
+        # FIXME: try/rescue block with logging
         array = []
         xml_node.xpath('child::*').each do |child|
           c = {}
@@ -150,12 +163,13 @@ module IuMetadata
       end
 
       def file_hash(id)
+        fixed_id = id.sub('_accmat', '').sub('_booklet', '')
         values_hash = {}
-        values_hash[:id] = id
+        values_hash[:id] = fixed_id
         values_hash[:mime_type] = 'image/tiff'
         values_hash[:path] = '/tmp/ingest/' + id
         values_hash[:file_opts] = {}
-        values_hash[:attributes] = file_attributes(id)
+        values_hash[:attributes] = file_attributes(fixed_id)
         values_hash
       end
 

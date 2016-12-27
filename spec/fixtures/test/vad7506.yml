@@ -243,177 +243,177 @@
   - :label: "[Front tray card]"
     :nodes:
     - :label: "[i]"
-      :proxy: vad7506_accmat-1-0001.tif
+      :proxy: vad7506-1-0001.tif
     - :label: "[ii]"
-      :proxy: vad7506_accmat-1-0002.tif
+      :proxy: vad7506-1-0002.tif
   - :label: "[Disc face 1]"
     :nodes:
     - :label: "[iii]"
-      :proxy: vad7506_accmat-1-0003.tif
+      :proxy: vad7506-1-0003.tif
   - :label: "[Booklet]"
     :nodes:
     - :label: "[Front cover]"
       :nodes:
       - :label: "[iv]"
-        :proxy: vad7506_accmat-1-0004.tif
+        :proxy: vad7506-1-0004.tif
     - :label: "[Photograph of Alan Curtis]"
       :nodes:
       - :label: "[v]"
-        :proxy: vad7506_accmat-1-0005.tif
+        :proxy: vad7506-1-0005.tif
     - :label: "[Title page]"
       :nodes:
       - :label: "[1]"
-        :proxy: vad7506_accmat-1-0006.tif
+        :proxy: vad7506-1-0006.tif
     - :label: "[Photographs of cast]"
       :nodes:
       - :label: '2'
-        :proxy: vad7506_accmat-1-0007.tif
+        :proxy: vad7506-1-0007.tif
       - :label: '3'
-        :proxy: vad7506_accmat-1-0008.tif
+        :proxy: vad7506-1-0008.tif
       - :label: '4'
-        :proxy: vad7506_accmat-1-0009.tif
+        :proxy: vad7506-1-0009.tif
     - :label: "[Cast]"
       :nodes:
       - :label: '5'
-        :proxy: vad7506_accmat-1-0010.tif
+        :proxy: vad7506-1-0010.tif
     - :label: "[Instrumentalists]"
       :nodes:
       - :label: '6'
-        :proxy: vad7506_accmat-1-0011.tif
+        :proxy: vad7506-1-0011.tif
     - :label: "[Track list]"
       :nodes:
       - :label: '7'
-        :proxy: vad7506_accmat-1-0012.tif
+        :proxy: vad7506-1-0012.tif
       - :label: '8'
-        :proxy: vad7506_accmat-1-0013.tif
+        :proxy: vad7506-1-0013.tif
       - :label: '9'
-        :proxy: vad7506_accmat-1-0014.tif
+        :proxy: vad7506-1-0014.tif
       - :label: '10'
-        :proxy: vad7506_accmat-1-0015.tif
+        :proxy: vad7506-1-0015.tif
       - :label: '11'
-        :proxy: vad7506_accmat-1-0016.tif
+        :proxy: vad7506-1-0016.tif
     - :label: "[Liner notes (English)]"
       :nodes:
       - :label: Handel's "Rodelinda", Andrew Jones
         :nodes:
         - :label: '12'
-          :proxy: vad7506_accmat-1-0017.tif
+          :proxy: vad7506-1-0017.tif
         - :label: '13'
-          :proxy: vad7506_accmat-1-0018.tif
+          :proxy: vad7506-1-0018.tif
         - :label: '14'
-          :proxy: vad7506_accmat-1-0019.tif
+          :proxy: vad7506-1-0019.tif
         - :label: '15'
-          :proxy: vad7506_accmat-1-0020.tif
+          :proxy: vad7506-1-0020.tif
         - :label: '16'
-          :proxy: vad7506_accmat-1-0021.tif
+          :proxy: vad7506-1-0021.tif
         - :label: '17'
-          :proxy: vad7506_accmat-1-0022.tif
+          :proxy: vad7506-1-0022.tif
       - :label: A Note on the Performing Version, Alan Curtis
         :nodes:
         - :label: '18'
-          :proxy: vad7506_accmat-1-0023.tif
+          :proxy: vad7506-1-0023.tif
         - :label: '19'
-          :proxy: vad7506_accmat-1-0024.tif
+          :proxy: vad7506-1-0024.tif
       - :label: Synopsis, Donna Leon
         :nodes:
         - :label: '20'
-          :proxy: vad7506_accmat-1-0025.tif
+          :proxy: vad7506-1-0025.tif
         - :label: '21'
-          :proxy: vad7506_accmat-1-0026.tif
+          :proxy: vad7506-1-0026.tif
         - :label: '22'
-          :proxy: vad7506_accmat-1-0027.tif
+          :proxy: vad7506-1-0027.tif
       - :label: Artist Biographies
         :nodes:
         - :label: '23'
-          :proxy: vad7506_accmat-1-0028.tif
+          :proxy: vad7506-1-0028.tif
         - :label: '24'
-          :proxy: vad7506_accmat-1-0029.tif
+          :proxy: vad7506-1-0029.tif
         - :label: '25'
-          :proxy: vad7506_accmat-1-0030.tif
+          :proxy: vad7506-1-0030.tif
         - :label: '26'
-          :proxy: vad7506_accmat-1-0031.tif
+          :proxy: vad7506-1-0031.tif
     - :label: "[Liner notes (German)]"
       :nodes:
       - :label: Händel's >>Rodelinda<<, Andrew Jones
         :nodes:
         - :label: '27'
-          :proxy: vad7506_accmat-1-0032.tif
+          :proxy: vad7506-1-0032.tif
         - :label: '28'
-          :proxy: vad7506_accmat-1-0033.tif
+          :proxy: vad7506-1-0033.tif
         - :label: '29'
-          :proxy: vad7506_accmat-1-0034.tif
+          :proxy: vad7506-1-0034.tif
         - :label: '30'
-          :proxy: vad7506_accmat-1-0035.tif
+          :proxy: vad7506-1-0035.tif
         - :label: '31'
-          :proxy: vad7506_accmat-1-0036.tif
+          :proxy: vad7506-1-0036.tif
         - :label: '32'
-          :proxy: vad7506_accmat-1-0037.tif
+          :proxy: vad7506-1-0037.tif
       - :label: Zur eingespielten Version, Alan Curtis
         :nodes:
         - :label: '33'
-          :proxy: vad7506_accmat-1-0038.tif
+          :proxy: vad7506-1-0038.tif
         - :label: '34'
-          :proxy: vad7506_accmat-1-0039.tif
+          :proxy: vad7506-1-0039.tif
       - :label: Die Handlung, Donna Leon
         :nodes:
         - :label: '35'
-          :proxy: vad7506_accmat-1-0040.tif
+          :proxy: vad7506-1-0040.tif
         - :label: '36'
-          :proxy: vad7506_accmat-1-0041.tif
+          :proxy: vad7506-1-0041.tif
         - :label: '37'
-          :proxy: vad7506_accmat-1-0042.tif
+          :proxy: vad7506-1-0042.tif
         - :label: '38'
-          :proxy: vad7506_accmat-1-0043.tif
+          :proxy: vad7506-1-0043.tif
       - :label: Die Interpreten
         :nodes:
         - :label: '39'
-          :proxy: vad7506_accmat-1-0044.tif
+          :proxy: vad7506-1-0044.tif
         - :label: '40'
-          :proxy: vad7506_accmat-1-0045.tif
+          :proxy: vad7506-1-0045.tif
         - :label: '41'
-          :proxy: vad7506_accmat-1-0046.tif
+          :proxy: vad7506-1-0046.tif
         - :label: '42'
-          :proxy: vad7506_accmat-1-0047.tif
+          :proxy: vad7506-1-0047.tif
     - :label: "[Liner notes (French)]"
       :nodes:
       - :label: ">>Rodelinda<< de Haendel, Andrew Jones"
         :nodes:
         - :label: '43'
-          :proxy: vad7506_accmat-1-0048.tif
+          :proxy: vad7506-1-0048.tif
         - :label: '44'
-          :proxy: vad7506_accmat-1-0049.tif
+          :proxy: vad7506-1-0049.tif
         - :label: '45'
-          :proxy: vad7506_accmat-1-0050.tif
+          :proxy: vad7506-1-0050.tif
         - :label: '46'
-          :proxy: vad7506_accmat-1-0051.tif
+          :proxy: vad7506-1-0051.tif
         - :label: '47'
-          :proxy: vad7506_accmat-1-0052.tif
+          :proxy: vad7506-1-0052.tif
         - :label: '48'
-          :proxy: vad7506_accmat-1-0053.tif
+          :proxy: vad7506-1-0053.tif
       - :label: La version enregistrée, Alan Curtis
         :nodes:
         - :label: '49'
-          :proxy: vad7506_accmat-1-0054.tif
+          :proxy: vad7506-1-0054.tif
         - :label: '50'
-          :proxy: vad7506_accmat-1-0055.tif
+          :proxy: vad7506-1-0055.tif
       - :label: Résumé de l'action, Donna Leon
         :nodes:
         - :label: '51'
-          :proxy: vad7506_accmat-1-0056.tif
+          :proxy: vad7506-1-0056.tif
         - :label: '52'
-          :proxy: vad7506_accmat-1-0057.tif
+          :proxy: vad7506-1-0057.tif
         - :label: '53'
-          :proxy: vad7506_accmat-1-0058.tif
+          :proxy: vad7506-1-0058.tif
       - :label: Les interprètes
         :nodes:
         - :label: '54'
-          :proxy: vad7506_accmat-1-0059.tif
+          :proxy: vad7506-1-0059.tif
         - :label: '55'
-          :proxy: vad7506_accmat-1-0060.tif
+          :proxy: vad7506-1-0060.tif
         - :label: '56'
-          :proxy: vad7506_accmat-1-0061.tif
+          :proxy: vad7506-1-0061.tif
         - :label: '57'
-          :proxy: vad7506_accmat-1-0062.tif
+          :proxy: vad7506-1-0062.tif
     - :label: "[Libretto of Handel's Rodelinda]"
       :nodes:
       - :label: "[Act I]"
@@ -421,1576 +421,1576 @@
         - :label: "[Scene 1]"
           :nodes:
           - :label: '58'
-            :proxy: vad7506_accmat-1-0063.tif
+            :proxy: vad7506-1-0063.tif
           - :label: '59'
-            :proxy: vad7506_accmat-1-0064.tif
+            :proxy: vad7506-1-0064.tif
         - :label: "[Scene 2]"
           :nodes:
           - :label: '60'
-            :proxy: vad7506_accmat-1-0065.tif
+            :proxy: vad7506-1-0065.tif
           - :label: '61'
-            :proxy: vad7506_accmat-1-0066.tif
+            :proxy: vad7506-1-0066.tif
           - :label: '62'
-            :proxy: vad7506_accmat-1-0067.tif
+            :proxy: vad7506-1-0067.tif
           - :label: '63'
-            :proxy: vad7506_accmat-1-0068.tif
+            :proxy: vad7506-1-0068.tif
         - :label: "[Scene 3-4]"
           :nodes:
           - :label: '64'
-            :proxy: vad7506_accmat-1-0069.tif
+            :proxy: vad7506-1-0069.tif
           - :label: '65'
-            :proxy: vad7506_accmat-1-0070.tif
+            :proxy: vad7506-1-0070.tif
         - :label: "[Scene 5]"
           :nodes:
           - :label: '66'
-            :proxy: vad7506_accmat-1-0071.tif
+            :proxy: vad7506-1-0071.tif
           - :label: '67'
-            :proxy: vad7506_accmat-1-0072.tif
+            :proxy: vad7506-1-0072.tif
         - :label: "[Scene 6]"
           :nodes:
           - :label: '68'
-            :proxy: vad7506_accmat-1-0073.tif
+            :proxy: vad7506-1-0073.tif
           - :label: '69'
-            :proxy: vad7506_accmat-1-0074.tif
+            :proxy: vad7506-1-0074.tif
           - :label: '70'
-            :proxy: vad7506_accmat-1-0075.tif
+            :proxy: vad7506-1-0075.tif
           - :label: '71'
-            :proxy: vad7506_accmat-1-0076.tif
+            :proxy: vad7506-1-0076.tif
           - :label: '72'
-            :proxy: vad7506_accmat-1-0077.tif
+            :proxy: vad7506-1-0077.tif
           - :label: '73'
-            :proxy: vad7506_accmat-1-0078.tif
+            :proxy: vad7506-1-0078.tif
         - :label: "[Scene 7]"
           :nodes:
           - :label: '74'
-            :proxy: vad7506_accmat-1-0079.tif
+            :proxy: vad7506-1-0079.tif
           - :label: '75'
-            :proxy: vad7506_accmat-1-0080.tif
+            :proxy: vad7506-1-0080.tif
         - :label: "[Scene 8]"
           :nodes:
           - :label: '76'
-            :proxy: vad7506_accmat-1-0081.tif
+            :proxy: vad7506-1-0081.tif
           - :label: '77'
-            :proxy: vad7506_accmat-1-0082.tif
+            :proxy: vad7506-1-0082.tif
           - :label: '78'
-            :proxy: vad7506_accmat-1-0083.tif
+            :proxy: vad7506-1-0083.tif
           - :label: '79'
-            :proxy: vad7506_accmat-1-0084.tif
+            :proxy: vad7506-1-0084.tif
         - :label: "[Scene 9]"
           :nodes:
           - :label: '80'
-            :proxy: vad7506_accmat-1-0085.tif
+            :proxy: vad7506-1-0085.tif
           - :label: '81'
-            :proxy: vad7506_accmat-1-0086.tif
+            :proxy: vad7506-1-0086.tif
         - :label: "[Scene 10]"
           :nodes:
           - :label: '82'
-            :proxy: vad7506_accmat-1-0087.tif
+            :proxy: vad7506-1-0087.tif
           - :label: '83'
-            :proxy: vad7506_accmat-1-0088.tif
+            :proxy: vad7506-1-0088.tif
           - :label: '84'
-            :proxy: vad7506_accmat-1-0089.tif
+            :proxy: vad7506-1-0089.tif
           - :label: '85'
-            :proxy: vad7506_accmat-1-0090.tif
+            :proxy: vad7506-1-0090.tif
       - :label: "[A1 Sc.11--Act II]"
         :nodes:
         - :label: "[A1 Sc.11--A2 Sc.1]"
           :nodes:
           - :label: '86'
-            :proxy: vad7506_accmat-1-0091.tif
+            :proxy: vad7506-1-0091.tif
           - :label: '87'
-            :proxy: vad7506_accmat-1-0092.tif
+            :proxy: vad7506-1-0092.tif
           - :label: '88'
-            :proxy: vad7506_accmat-1-0093.tif
+            :proxy: vad7506-1-0093.tif
           - :label: '89'
-            :proxy: vad7506_accmat-1-0094.tif
+            :proxy: vad7506-1-0094.tif
         - :label: "[Scene 2]"
           :nodes:
           - :label: '90'
-            :proxy: vad7506_accmat-1-0095.tif
+            :proxy: vad7506-1-0095.tif
           - :label: '91'
-            :proxy: vad7506_accmat-1-0096.tif
+            :proxy: vad7506-1-0096.tif
         - :label: "[Scene 3]"
           :nodes:
           - :label: '92'
-            :proxy: vad7506_accmat-1-0097.tif
+            :proxy: vad7506-1-0097.tif
           - :label: '93'
-            :proxy: vad7506_accmat-1-0098.tif
+            :proxy: vad7506-1-0098.tif
           - :label: '94'
-            :proxy: vad7506_accmat-1-0099.tif
+            :proxy: vad7506-1-0099.tif
           - :label: '95'
-            :proxy: vad7506_accmat-1-0100.tif
+            :proxy: vad7506-1-0100.tif
         - :label: "[Scene 4]"
           :nodes:
           - :label: '96'
-            :proxy: vad7506_accmat-1-0101.tif
+            :proxy: vad7506-1-0101.tif
           - :label: '97'
-            :proxy: vad7506_accmat-1-0102.tif
+            :proxy: vad7506-1-0102.tif
           - :label: '98'
-            :proxy: vad7506_accmat-1-0103.tif
+            :proxy: vad7506-1-0103.tif
           - :label: '99'
-            :proxy: vad7506_accmat-1-0104.tif
+            :proxy: vad7506-1-0104.tif
           - :label: '100'
-            :proxy: vad7506_accmat-1-0105.tif
+            :proxy: vad7506-1-0105.tif
           - :label: '101'
-            :proxy: vad7506_accmat-1-0106.tif
+            :proxy: vad7506-1-0106.tif
           - :label: '102'
-            :proxy: vad7506_accmat-1-0107.tif
+            :proxy: vad7506-1-0107.tif
           - :label: '103'
-            :proxy: vad7506_accmat-1-0108.tif
+            :proxy: vad7506-1-0108.tif
         - :label: "[Scene 5]"
           :nodes:
           - :label: '104'
-            :proxy: vad7506_accmat-1-0109.tif
+            :proxy: vad7506-1-0109.tif
           - :label: '105'
-            :proxy: vad7506_accmat-1-0110.tif
+            :proxy: vad7506-1-0110.tif
           - :label: '106'
-            :proxy: vad7506_accmat-1-0111.tif
+            :proxy: vad7506-1-0111.tif
           - :label: '107'
-            :proxy: vad7506_accmat-1-0112.tif
+            :proxy: vad7506-1-0112.tif
           - :label: '108'
-            :proxy: vad7506_accmat-1-0113.tif
+            :proxy: vad7506-1-0113.tif
           - :label: '109'
-            :proxy: vad7506_accmat-1-0114.tif
+            :proxy: vad7506-1-0114.tif
         - :label: "[Scene 6]"
           :nodes:
           - :label: '110'
-            :proxy: vad7506_accmat-1-0115.tif
+            :proxy: vad7506-1-0115.tif
           - :label: '111'
-            :proxy: vad7506_accmat-1-0116.tif
+            :proxy: vad7506-1-0116.tif
         - :label: "[Scene 7]"
           :nodes:
           - :label: '112'
-            :proxy: vad7506_accmat-1-0117.tif
+            :proxy: vad7506-1-0117.tif
           - :label: '113'
-            :proxy: vad7506_accmat-1-0118.tif
+            :proxy: vad7506-1-0118.tif
           - :label: '114'
-            :proxy: vad7506_accmat-1-0119.tif
+            :proxy: vad7506-1-0119.tif
           - :label: '115'
-            :proxy: vad7506_accmat-1-0120.tif
+            :proxy: vad7506-1-0120.tif
           - :label: '116'
-            :proxy: vad7506_accmat-1-0121.tif
+            :proxy: vad7506-1-0121.tif
           - :label: '117'
-            :proxy: vad7506_accmat-1-0122.tif
+            :proxy: vad7506-1-0122.tif
           - :label: '118'
-            :proxy: vad7506_accmat-1-0123.tif
+            :proxy: vad7506-1-0123.tif
           - :label: '119'
-            :proxy: vad7506_accmat-1-0124.tif
+            :proxy: vad7506-1-0124.tif
       - :label: "[Act III]"
         :nodes:
         - :label: "[Scene 1]"
           :nodes:
           - :label: '120'
-            :proxy: vad7506_accmat-1-0125.tif
+            :proxy: vad7506-1-0125.tif
           - :label: '121'
-            :proxy: vad7506_accmat-1-0126.tif
+            :proxy: vad7506-1-0126.tif
           - :label: '122'
-            :proxy: vad7506_accmat-1-0127.tif
+            :proxy: vad7506-1-0127.tif
           - :label: '123'
-            :proxy: vad7506_accmat-1-0128.tif
+            :proxy: vad7506-1-0128.tif
           - :label: '124'
-            :proxy: vad7506_accmat-1-0129.tif
+            :proxy: vad7506-1-0129.tif
           - :label: '125'
-            :proxy: vad7506_accmat-1-0130.tif
+            :proxy: vad7506-1-0130.tif
         - :label: "[Scene 2]"
           :nodes:
           - :label: '126'
-            :proxy: vad7506_accmat-1-0131.tif
+            :proxy: vad7506-1-0131.tif
           - :label: '127'
-            :proxy: vad7506_accmat-1-0132.tif
+            :proxy: vad7506-1-0132.tif
         - :label: "[Scene 3]"
           :nodes:
           - :label: '128'
-            :proxy: vad7506_accmat-1-0133.tif
+            :proxy: vad7506-1-0133.tif
           - :label: '129'
-            :proxy: vad7506_accmat-1-0134.tif
+            :proxy: vad7506-1-0134.tif
           - :label: '130'
-            :proxy: vad7506_accmat-1-0135.tif
+            :proxy: vad7506-1-0135.tif
           - :label: '131'
-            :proxy: vad7506_accmat-1-0136.tif
+            :proxy: vad7506-1-0136.tif
           - :label: '132'
-            :proxy: vad7506_accmat-1-0137.tif
+            :proxy: vad7506-1-0137.tif
           - :label: '133'
-            :proxy: vad7506_accmat-1-0138.tif
+            :proxy: vad7506-1-0138.tif
         - :label: "[Scene 4]"
           :nodes:
           - :label: '134'
-            :proxy: vad7506_accmat-1-0139.tif
+            :proxy: vad7506-1-0139.tif
           - :label: '135'
-            :proxy: vad7506_accmat-1-0140.tif
+            :proxy: vad7506-1-0140.tif
           - :label: '136'
-            :proxy: vad7506_accmat-1-0141.tif
+            :proxy: vad7506-1-0141.tif
           - :label: '137'
-            :proxy: vad7506_accmat-1-0142.tif
+            :proxy: vad7506-1-0142.tif
         - :label: "[Scene 5]"
           :nodes:
           - :label: '138'
-            :proxy: vad7506_accmat-1-0143.tif
+            :proxy: vad7506-1-0143.tif
           - :label: '139'
-            :proxy: vad7506_accmat-1-0144.tif
+            :proxy: vad7506-1-0144.tif
         - :label: "[Scene 6]"
           :nodes:
           - :label: '140'
-            :proxy: vad7506_accmat-1-0145.tif
+            :proxy: vad7506-1-0145.tif
           - :label: '141'
-            :proxy: vad7506_accmat-1-0146.tif
+            :proxy: vad7506-1-0146.tif
         - :label: "[Scene 7]"
           :nodes:
           - :label: '142'
-            :proxy: vad7506_accmat-1-0147.tif
+            :proxy: vad7506-1-0147.tif
           - :label: '143'
-            :proxy: vad7506_accmat-1-0148.tif
+            :proxy: vad7506-1-0148.tif
         - :label: "[Scene 8]"
           :nodes:
           - :label: '144'
-            :proxy: vad7506_accmat-1-0149.tif
+            :proxy: vad7506-1-0149.tif
           - :label: '145'
-            :proxy: vad7506_accmat-1-0150.tif
+            :proxy: vad7506-1-0150.tif
         - :label: "[Final Scene]"
           :nodes:
           - :label: '146'
-            :proxy: vad7506_accmat-1-0151.tif
+            :proxy: vad7506-1-0151.tif
           - :label: '147'
-            :proxy: vad7506_accmat-1-0152.tif
+            :proxy: vad7506-1-0152.tif
           - :label: '148'
-            :proxy: vad7506_accmat-1-0153.tif
+            :proxy: vad7506-1-0153.tif
           - :label: '149'
-            :proxy: vad7506_accmat-1-0154.tif
+            :proxy: vad7506-1-0154.tif
           - :label: '150'
-            :proxy: vad7506_accmat-1-0155.tif
+            :proxy: vad7506-1-0155.tif
           - :label: "[151]"
-            :proxy: vad7506_accmat-1-0156.tif
+            :proxy: vad7506-1-0156.tif
     - :label: "[Copyright statement]"
       :nodes:
       - :label: "[152]"
-        :proxy: vad7506_accmat-1-0157.tif
+        :proxy: vad7506-1-0157.tif
     - :label: "[Recording catalogue]"
       :nodes:
       - :label: "[153]"
-        :proxy: vad7506_accmat-1-0158.tif
+        :proxy: vad7506-1-0158.tif
     - :label: "[Back cover]"
       :nodes:
       - :label: "[154]"
-        :proxy: vad7506_accmat-1-0159.tif
+        :proxy: vad7506-1-0159.tif
   - :label: "[Disc face 2]"
     :nodes:
     - :label: "[155]"
-      :proxy: vad7506_accmat-1-0160.tif
+      :proxy: vad7506-1-0160.tif
   - :label: "[Disc face 3]"
     :nodes:
     - :label: "[156]"
-      :proxy: vad7506_accmat-1-0161.tif
+      :proxy: vad7506-1-0161.tif
   - :label: "[Back tray card]"
     :nodes:
     - :label: "[157]"
-      :proxy: vad7506_accmat-1-0162.tif
+      :proxy: vad7506-1-0162.tif
     - :label: "[158]"
-      :proxy: vad7506_accmat-1-0163.tif
+      :proxy: vad7506-1-0163.tif
 :files:
-- :id: vad7506_accmat-1-0001.tif
+- :id: vad7506-1-0001.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0001.tif"
   :file_opts: {}
   :attributes:
     :title:
     - "[i]"
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0001
-- :id: vad7506_accmat-1-0002.tif
+    :source_metadata_identifier: VAD7506-1-0001
+- :id: vad7506-1-0002.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0002.tif"
   :file_opts: {}
   :attributes:
     :title:
     - "[ii]"
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0002
-- :id: vad7506_accmat-1-0003.tif
+    :source_metadata_identifier: VAD7506-1-0002
+- :id: vad7506-1-0003.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0003.tif"
   :file_opts: {}
   :attributes:
     :title:
     - "[iii]"
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0003
-- :id: vad7506_accmat-1-0004.tif
+    :source_metadata_identifier: VAD7506-1-0003
+- :id: vad7506-1-0004.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0004.tif"
   :file_opts: {}
   :attributes:
     :title:
     - "[iv]"
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0004
-- :id: vad7506_accmat-1-0005.tif
+    :source_metadata_identifier: VAD7506-1-0004
+- :id: vad7506-1-0005.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0005.tif"
   :file_opts: {}
   :attributes:
     :title:
     - "[v]"
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0005
-- :id: vad7506_accmat-1-0006.tif
+    :source_metadata_identifier: VAD7506-1-0005
+- :id: vad7506-1-0006.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0006.tif"
   :file_opts: {}
   :attributes:
     :title:
     - "[1]"
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0006
-- :id: vad7506_accmat-1-0007.tif
+    :source_metadata_identifier: VAD7506-1-0006
+- :id: vad7506-1-0007.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0007.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '2'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0007
-- :id: vad7506_accmat-1-0008.tif
+    :source_metadata_identifier: VAD7506-1-0007
+- :id: vad7506-1-0008.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0008.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '3'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0008
-- :id: vad7506_accmat-1-0009.tif
+    :source_metadata_identifier: VAD7506-1-0008
+- :id: vad7506-1-0009.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0009.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '4'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0009
-- :id: vad7506_accmat-1-0010.tif
+    :source_metadata_identifier: VAD7506-1-0009
+- :id: vad7506-1-0010.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0010.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '5'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0010
-- :id: vad7506_accmat-1-0011.tif
+    :source_metadata_identifier: VAD7506-1-0010
+- :id: vad7506-1-0011.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0011.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '6'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0011
-- :id: vad7506_accmat-1-0012.tif
+    :source_metadata_identifier: VAD7506-1-0011
+- :id: vad7506-1-0012.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0012.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '7'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0012
-- :id: vad7506_accmat-1-0013.tif
+    :source_metadata_identifier: VAD7506-1-0012
+- :id: vad7506-1-0013.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0013.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '8'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0013
-- :id: vad7506_accmat-1-0014.tif
+    :source_metadata_identifier: VAD7506-1-0013
+- :id: vad7506-1-0014.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0014.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '9'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0014
-- :id: vad7506_accmat-1-0015.tif
+    :source_metadata_identifier: VAD7506-1-0014
+- :id: vad7506-1-0015.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0015.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '10'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0015
-- :id: vad7506_accmat-1-0016.tif
+    :source_metadata_identifier: VAD7506-1-0015
+- :id: vad7506-1-0016.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0016.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '11'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0016
-- :id: vad7506_accmat-1-0017.tif
+    :source_metadata_identifier: VAD7506-1-0016
+- :id: vad7506-1-0017.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0017.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '12'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0017
-- :id: vad7506_accmat-1-0018.tif
+    :source_metadata_identifier: VAD7506-1-0017
+- :id: vad7506-1-0018.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0018.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '13'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0018
-- :id: vad7506_accmat-1-0019.tif
+    :source_metadata_identifier: VAD7506-1-0018
+- :id: vad7506-1-0019.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0019.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '14'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0019
-- :id: vad7506_accmat-1-0020.tif
+    :source_metadata_identifier: VAD7506-1-0019
+- :id: vad7506-1-0020.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0020.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '15'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0020
-- :id: vad7506_accmat-1-0021.tif
+    :source_metadata_identifier: VAD7506-1-0020
+- :id: vad7506-1-0021.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0021.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '16'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0021
-- :id: vad7506_accmat-1-0022.tif
+    :source_metadata_identifier: VAD7506-1-0021
+- :id: vad7506-1-0022.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0022.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '17'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0022
-- :id: vad7506_accmat-1-0023.tif
+    :source_metadata_identifier: VAD7506-1-0022
+- :id: vad7506-1-0023.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0023.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '18'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0023
-- :id: vad7506_accmat-1-0024.tif
+    :source_metadata_identifier: VAD7506-1-0023
+- :id: vad7506-1-0024.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0024.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '19'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0024
-- :id: vad7506_accmat-1-0025.tif
+    :source_metadata_identifier: VAD7506-1-0024
+- :id: vad7506-1-0025.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0025.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '20'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0025
-- :id: vad7506_accmat-1-0026.tif
+    :source_metadata_identifier: VAD7506-1-0025
+- :id: vad7506-1-0026.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0026.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '21'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0026
-- :id: vad7506_accmat-1-0027.tif
+    :source_metadata_identifier: VAD7506-1-0026
+- :id: vad7506-1-0027.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0027.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '22'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0027
-- :id: vad7506_accmat-1-0028.tif
+    :source_metadata_identifier: VAD7506-1-0027
+- :id: vad7506-1-0028.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0028.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '23'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0028
-- :id: vad7506_accmat-1-0029.tif
+    :source_metadata_identifier: VAD7506-1-0028
+- :id: vad7506-1-0029.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0029.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '24'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0029
-- :id: vad7506_accmat-1-0030.tif
+    :source_metadata_identifier: VAD7506-1-0029
+- :id: vad7506-1-0030.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0030.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '25'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0030
-- :id: vad7506_accmat-1-0031.tif
+    :source_metadata_identifier: VAD7506-1-0030
+- :id: vad7506-1-0031.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0031.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '26'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0031
-- :id: vad7506_accmat-1-0032.tif
+    :source_metadata_identifier: VAD7506-1-0031
+- :id: vad7506-1-0032.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0032.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '27'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0032
-- :id: vad7506_accmat-1-0033.tif
+    :source_metadata_identifier: VAD7506-1-0032
+- :id: vad7506-1-0033.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0033.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '28'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0033
-- :id: vad7506_accmat-1-0034.tif
+    :source_metadata_identifier: VAD7506-1-0033
+- :id: vad7506-1-0034.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0034.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '29'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0034
-- :id: vad7506_accmat-1-0035.tif
+    :source_metadata_identifier: VAD7506-1-0034
+- :id: vad7506-1-0035.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0035.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '30'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0035
-- :id: vad7506_accmat-1-0036.tif
+    :source_metadata_identifier: VAD7506-1-0035
+- :id: vad7506-1-0036.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0036.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '31'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0036
-- :id: vad7506_accmat-1-0037.tif
+    :source_metadata_identifier: VAD7506-1-0036
+- :id: vad7506-1-0037.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0037.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '32'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0037
-- :id: vad7506_accmat-1-0038.tif
+    :source_metadata_identifier: VAD7506-1-0037
+- :id: vad7506-1-0038.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0038.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '33'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0038
-- :id: vad7506_accmat-1-0039.tif
+    :source_metadata_identifier: VAD7506-1-0038
+- :id: vad7506-1-0039.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0039.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '34'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0039
-- :id: vad7506_accmat-1-0040.tif
+    :source_metadata_identifier: VAD7506-1-0039
+- :id: vad7506-1-0040.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0040.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '35'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0040
-- :id: vad7506_accmat-1-0041.tif
+    :source_metadata_identifier: VAD7506-1-0040
+- :id: vad7506-1-0041.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0041.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '36'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0041
-- :id: vad7506_accmat-1-0042.tif
+    :source_metadata_identifier: VAD7506-1-0041
+- :id: vad7506-1-0042.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0042.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '37'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0042
-- :id: vad7506_accmat-1-0043.tif
+    :source_metadata_identifier: VAD7506-1-0042
+- :id: vad7506-1-0043.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0043.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '38'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0043
-- :id: vad7506_accmat-1-0044.tif
+    :source_metadata_identifier: VAD7506-1-0043
+- :id: vad7506-1-0044.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0044.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '39'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0044
-- :id: vad7506_accmat-1-0045.tif
+    :source_metadata_identifier: VAD7506-1-0044
+- :id: vad7506-1-0045.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0045.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '40'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0045
-- :id: vad7506_accmat-1-0046.tif
+    :source_metadata_identifier: VAD7506-1-0045
+- :id: vad7506-1-0046.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0046.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '41'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0046
-- :id: vad7506_accmat-1-0047.tif
+    :source_metadata_identifier: VAD7506-1-0046
+- :id: vad7506-1-0047.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0047.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '42'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0047
-- :id: vad7506_accmat-1-0048.tif
+    :source_metadata_identifier: VAD7506-1-0047
+- :id: vad7506-1-0048.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0048.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '43'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0048
-- :id: vad7506_accmat-1-0049.tif
+    :source_metadata_identifier: VAD7506-1-0048
+- :id: vad7506-1-0049.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0049.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '44'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0049
-- :id: vad7506_accmat-1-0050.tif
+    :source_metadata_identifier: VAD7506-1-0049
+- :id: vad7506-1-0050.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0050.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '45'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0050
-- :id: vad7506_accmat-1-0051.tif
+    :source_metadata_identifier: VAD7506-1-0050
+- :id: vad7506-1-0051.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0051.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '46'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0051
-- :id: vad7506_accmat-1-0052.tif
+    :source_metadata_identifier: VAD7506-1-0051
+- :id: vad7506-1-0052.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0052.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '47'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0052
-- :id: vad7506_accmat-1-0053.tif
+    :source_metadata_identifier: VAD7506-1-0052
+- :id: vad7506-1-0053.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0053.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '48'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0053
-- :id: vad7506_accmat-1-0054.tif
+    :source_metadata_identifier: VAD7506-1-0053
+- :id: vad7506-1-0054.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0054.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '49'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0054
-- :id: vad7506_accmat-1-0055.tif
+    :source_metadata_identifier: VAD7506-1-0054
+- :id: vad7506-1-0055.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0055.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '50'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0055
-- :id: vad7506_accmat-1-0056.tif
+    :source_metadata_identifier: VAD7506-1-0055
+- :id: vad7506-1-0056.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0056.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '51'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0056
-- :id: vad7506_accmat-1-0057.tif
+    :source_metadata_identifier: VAD7506-1-0056
+- :id: vad7506-1-0057.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0057.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '52'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0057
-- :id: vad7506_accmat-1-0058.tif
+    :source_metadata_identifier: VAD7506-1-0057
+- :id: vad7506-1-0058.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0058.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '53'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0058
-- :id: vad7506_accmat-1-0059.tif
+    :source_metadata_identifier: VAD7506-1-0058
+- :id: vad7506-1-0059.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0059.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '54'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0059
-- :id: vad7506_accmat-1-0060.tif
+    :source_metadata_identifier: VAD7506-1-0059
+- :id: vad7506-1-0060.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0060.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '55'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0060
-- :id: vad7506_accmat-1-0061.tif
+    :source_metadata_identifier: VAD7506-1-0060
+- :id: vad7506-1-0061.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0061.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '56'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0061
-- :id: vad7506_accmat-1-0062.tif
+    :source_metadata_identifier: VAD7506-1-0061
+- :id: vad7506-1-0062.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0062.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '57'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0062
-- :id: vad7506_accmat-1-0063.tif
+    :source_metadata_identifier: VAD7506-1-0062
+- :id: vad7506-1-0063.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0063.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '58'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0063
-- :id: vad7506_accmat-1-0064.tif
+    :source_metadata_identifier: VAD7506-1-0063
+- :id: vad7506-1-0064.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0064.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '59'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0064
-- :id: vad7506_accmat-1-0065.tif
+    :source_metadata_identifier: VAD7506-1-0064
+- :id: vad7506-1-0065.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0065.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '60'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0065
-- :id: vad7506_accmat-1-0066.tif
+    :source_metadata_identifier: VAD7506-1-0065
+- :id: vad7506-1-0066.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0066.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '61'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0066
-- :id: vad7506_accmat-1-0067.tif
+    :source_metadata_identifier: VAD7506-1-0066
+- :id: vad7506-1-0067.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0067.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '62'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0067
-- :id: vad7506_accmat-1-0068.tif
+    :source_metadata_identifier: VAD7506-1-0067
+- :id: vad7506-1-0068.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0068.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '63'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0068
-- :id: vad7506_accmat-1-0069.tif
+    :source_metadata_identifier: VAD7506-1-0068
+- :id: vad7506-1-0069.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0069.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '64'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0069
-- :id: vad7506_accmat-1-0070.tif
+    :source_metadata_identifier: VAD7506-1-0069
+- :id: vad7506-1-0070.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0070.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '65'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0070
-- :id: vad7506_accmat-1-0071.tif
+    :source_metadata_identifier: VAD7506-1-0070
+- :id: vad7506-1-0071.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0071.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '66'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0071
-- :id: vad7506_accmat-1-0072.tif
+    :source_metadata_identifier: VAD7506-1-0071
+- :id: vad7506-1-0072.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0072.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '67'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0072
-- :id: vad7506_accmat-1-0073.tif
+    :source_metadata_identifier: VAD7506-1-0072
+- :id: vad7506-1-0073.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0073.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '68'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0073
-- :id: vad7506_accmat-1-0074.tif
+    :source_metadata_identifier: VAD7506-1-0073
+- :id: vad7506-1-0074.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0074.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '69'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0074
-- :id: vad7506_accmat-1-0075.tif
+    :source_metadata_identifier: VAD7506-1-0074
+- :id: vad7506-1-0075.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0075.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '70'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0075
-- :id: vad7506_accmat-1-0076.tif
+    :source_metadata_identifier: VAD7506-1-0075
+- :id: vad7506-1-0076.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0076.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '71'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0076
-- :id: vad7506_accmat-1-0077.tif
+    :source_metadata_identifier: VAD7506-1-0076
+- :id: vad7506-1-0077.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0077.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '72'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0077
-- :id: vad7506_accmat-1-0078.tif
+    :source_metadata_identifier: VAD7506-1-0077
+- :id: vad7506-1-0078.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0078.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '73'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0078
-- :id: vad7506_accmat-1-0079.tif
+    :source_metadata_identifier: VAD7506-1-0078
+- :id: vad7506-1-0079.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0079.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '74'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0079
-- :id: vad7506_accmat-1-0080.tif
+    :source_metadata_identifier: VAD7506-1-0079
+- :id: vad7506-1-0080.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0080.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '75'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0080
-- :id: vad7506_accmat-1-0081.tif
+    :source_metadata_identifier: VAD7506-1-0080
+- :id: vad7506-1-0081.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0081.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '76'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0081
-- :id: vad7506_accmat-1-0082.tif
+    :source_metadata_identifier: VAD7506-1-0081
+- :id: vad7506-1-0082.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0082.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '77'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0082
-- :id: vad7506_accmat-1-0083.tif
+    :source_metadata_identifier: VAD7506-1-0082
+- :id: vad7506-1-0083.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0083.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '78'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0083
-- :id: vad7506_accmat-1-0084.tif
+    :source_metadata_identifier: VAD7506-1-0083
+- :id: vad7506-1-0084.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0084.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '79'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0084
-- :id: vad7506_accmat-1-0085.tif
+    :source_metadata_identifier: VAD7506-1-0084
+- :id: vad7506-1-0085.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0085.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '80'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0085
-- :id: vad7506_accmat-1-0086.tif
+    :source_metadata_identifier: VAD7506-1-0085
+- :id: vad7506-1-0086.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0086.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '81'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0086
-- :id: vad7506_accmat-1-0087.tif
+    :source_metadata_identifier: VAD7506-1-0086
+- :id: vad7506-1-0087.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0087.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '82'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0087
-- :id: vad7506_accmat-1-0088.tif
+    :source_metadata_identifier: VAD7506-1-0087
+- :id: vad7506-1-0088.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0088.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '83'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0088
-- :id: vad7506_accmat-1-0089.tif
+    :source_metadata_identifier: VAD7506-1-0088
+- :id: vad7506-1-0089.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0089.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '84'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0089
-- :id: vad7506_accmat-1-0090.tif
+    :source_metadata_identifier: VAD7506-1-0089
+- :id: vad7506-1-0090.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0090.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '85'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0090
-- :id: vad7506_accmat-1-0091.tif
+    :source_metadata_identifier: VAD7506-1-0090
+- :id: vad7506-1-0091.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0091.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '86'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0091
-- :id: vad7506_accmat-1-0092.tif
+    :source_metadata_identifier: VAD7506-1-0091
+- :id: vad7506-1-0092.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0092.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '87'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0092
-- :id: vad7506_accmat-1-0093.tif
+    :source_metadata_identifier: VAD7506-1-0092
+- :id: vad7506-1-0093.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0093.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '88'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0093
-- :id: vad7506_accmat-1-0094.tif
+    :source_metadata_identifier: VAD7506-1-0093
+- :id: vad7506-1-0094.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0094.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '89'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0094
-- :id: vad7506_accmat-1-0095.tif
+    :source_metadata_identifier: VAD7506-1-0094
+- :id: vad7506-1-0095.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0095.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '90'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0095
-- :id: vad7506_accmat-1-0096.tif
+    :source_metadata_identifier: VAD7506-1-0095
+- :id: vad7506-1-0096.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0096.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '91'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0096
-- :id: vad7506_accmat-1-0097.tif
+    :source_metadata_identifier: VAD7506-1-0096
+- :id: vad7506-1-0097.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0097.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '92'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0097
-- :id: vad7506_accmat-1-0098.tif
+    :source_metadata_identifier: VAD7506-1-0097
+- :id: vad7506-1-0098.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0098.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '93'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0098
-- :id: vad7506_accmat-1-0099.tif
+    :source_metadata_identifier: VAD7506-1-0098
+- :id: vad7506-1-0099.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0099.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '94'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0099
-- :id: vad7506_accmat-1-0100.tif
+    :source_metadata_identifier: VAD7506-1-0099
+- :id: vad7506-1-0100.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0100.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '95'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0100
-- :id: vad7506_accmat-1-0101.tif
+    :source_metadata_identifier: VAD7506-1-0100
+- :id: vad7506-1-0101.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0101.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '96'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0101
-- :id: vad7506_accmat-1-0102.tif
+    :source_metadata_identifier: VAD7506-1-0101
+- :id: vad7506-1-0102.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0102.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '97'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0102
-- :id: vad7506_accmat-1-0103.tif
+    :source_metadata_identifier: VAD7506-1-0102
+- :id: vad7506-1-0103.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0103.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '98'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0103
-- :id: vad7506_accmat-1-0104.tif
+    :source_metadata_identifier: VAD7506-1-0103
+- :id: vad7506-1-0104.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0104.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '99'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0104
-- :id: vad7506_accmat-1-0105.tif
+    :source_metadata_identifier: VAD7506-1-0104
+- :id: vad7506-1-0105.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0105.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '100'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0105
-- :id: vad7506_accmat-1-0106.tif
+    :source_metadata_identifier: VAD7506-1-0105
+- :id: vad7506-1-0106.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0106.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '101'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0106
-- :id: vad7506_accmat-1-0107.tif
+    :source_metadata_identifier: VAD7506-1-0106
+- :id: vad7506-1-0107.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0107.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '102'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0107
-- :id: vad7506_accmat-1-0108.tif
+    :source_metadata_identifier: VAD7506-1-0107
+- :id: vad7506-1-0108.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0108.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '103'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0108
-- :id: vad7506_accmat-1-0109.tif
+    :source_metadata_identifier: VAD7506-1-0108
+- :id: vad7506-1-0109.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0109.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '104'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0109
-- :id: vad7506_accmat-1-0110.tif
+    :source_metadata_identifier: VAD7506-1-0109
+- :id: vad7506-1-0110.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0110.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '105'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0110
-- :id: vad7506_accmat-1-0111.tif
+    :source_metadata_identifier: VAD7506-1-0110
+- :id: vad7506-1-0111.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0111.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '106'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0111
-- :id: vad7506_accmat-1-0112.tif
+    :source_metadata_identifier: VAD7506-1-0111
+- :id: vad7506-1-0112.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0112.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '107'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0112
-- :id: vad7506_accmat-1-0113.tif
+    :source_metadata_identifier: VAD7506-1-0112
+- :id: vad7506-1-0113.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0113.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '108'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0113
-- :id: vad7506_accmat-1-0114.tif
+    :source_metadata_identifier: VAD7506-1-0113
+- :id: vad7506-1-0114.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0114.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '109'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0114
-- :id: vad7506_accmat-1-0115.tif
+    :source_metadata_identifier: VAD7506-1-0114
+- :id: vad7506-1-0115.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0115.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '110'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0115
-- :id: vad7506_accmat-1-0116.tif
+    :source_metadata_identifier: VAD7506-1-0115
+- :id: vad7506-1-0116.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0116.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '111'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0116
-- :id: vad7506_accmat-1-0117.tif
+    :source_metadata_identifier: VAD7506-1-0116
+- :id: vad7506-1-0117.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0117.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '112'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0117
-- :id: vad7506_accmat-1-0118.tif
+    :source_metadata_identifier: VAD7506-1-0117
+- :id: vad7506-1-0118.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0118.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '113'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0118
-- :id: vad7506_accmat-1-0119.tif
+    :source_metadata_identifier: VAD7506-1-0118
+- :id: vad7506-1-0119.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0119.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '114'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0119
-- :id: vad7506_accmat-1-0120.tif
+    :source_metadata_identifier: VAD7506-1-0119
+- :id: vad7506-1-0120.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0120.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '115'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0120
-- :id: vad7506_accmat-1-0121.tif
+    :source_metadata_identifier: VAD7506-1-0120
+- :id: vad7506-1-0121.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0121.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '116'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0121
-- :id: vad7506_accmat-1-0122.tif
+    :source_metadata_identifier: VAD7506-1-0121
+- :id: vad7506-1-0122.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0122.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '117'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0122
-- :id: vad7506_accmat-1-0123.tif
+    :source_metadata_identifier: VAD7506-1-0122
+- :id: vad7506-1-0123.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0123.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '118'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0123
-- :id: vad7506_accmat-1-0124.tif
+    :source_metadata_identifier: VAD7506-1-0123
+- :id: vad7506-1-0124.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0124.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '119'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0124
-- :id: vad7506_accmat-1-0125.tif
+    :source_metadata_identifier: VAD7506-1-0124
+- :id: vad7506-1-0125.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0125.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '120'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0125
-- :id: vad7506_accmat-1-0126.tif
+    :source_metadata_identifier: VAD7506-1-0125
+- :id: vad7506-1-0126.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0126.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '121'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0126
-- :id: vad7506_accmat-1-0127.tif
+    :source_metadata_identifier: VAD7506-1-0126
+- :id: vad7506-1-0127.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0127.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '122'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0127
-- :id: vad7506_accmat-1-0128.tif
+    :source_metadata_identifier: VAD7506-1-0127
+- :id: vad7506-1-0128.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0128.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '123'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0128
-- :id: vad7506_accmat-1-0129.tif
+    :source_metadata_identifier: VAD7506-1-0128
+- :id: vad7506-1-0129.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0129.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '124'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0129
-- :id: vad7506_accmat-1-0130.tif
+    :source_metadata_identifier: VAD7506-1-0129
+- :id: vad7506-1-0130.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0130.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '125'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0130
-- :id: vad7506_accmat-1-0131.tif
+    :source_metadata_identifier: VAD7506-1-0130
+- :id: vad7506-1-0131.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0131.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '126'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0131
-- :id: vad7506_accmat-1-0132.tif
+    :source_metadata_identifier: VAD7506-1-0131
+- :id: vad7506-1-0132.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0132.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '127'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0132
-- :id: vad7506_accmat-1-0133.tif
+    :source_metadata_identifier: VAD7506-1-0132
+- :id: vad7506-1-0133.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0133.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '128'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0133
-- :id: vad7506_accmat-1-0134.tif
+    :source_metadata_identifier: VAD7506-1-0133
+- :id: vad7506-1-0134.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0134.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '129'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0134
-- :id: vad7506_accmat-1-0135.tif
+    :source_metadata_identifier: VAD7506-1-0134
+- :id: vad7506-1-0135.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0135.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '130'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0135
-- :id: vad7506_accmat-1-0136.tif
+    :source_metadata_identifier: VAD7506-1-0135
+- :id: vad7506-1-0136.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0136.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '131'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0136
-- :id: vad7506_accmat-1-0137.tif
+    :source_metadata_identifier: VAD7506-1-0136
+- :id: vad7506-1-0137.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0137.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '132'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0137
-- :id: vad7506_accmat-1-0138.tif
+    :source_metadata_identifier: VAD7506-1-0137
+- :id: vad7506-1-0138.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0138.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '133'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0138
-- :id: vad7506_accmat-1-0139.tif
+    :source_metadata_identifier: VAD7506-1-0138
+- :id: vad7506-1-0139.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0139.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '134'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0139
-- :id: vad7506_accmat-1-0140.tif
+    :source_metadata_identifier: VAD7506-1-0139
+- :id: vad7506-1-0140.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0140.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '135'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0140
-- :id: vad7506_accmat-1-0141.tif
+    :source_metadata_identifier: VAD7506-1-0140
+- :id: vad7506-1-0141.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0141.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '136'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0141
-- :id: vad7506_accmat-1-0142.tif
+    :source_metadata_identifier: VAD7506-1-0141
+- :id: vad7506-1-0142.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0142.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '137'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0142
-- :id: vad7506_accmat-1-0143.tif
+    :source_metadata_identifier: VAD7506-1-0142
+- :id: vad7506-1-0143.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0143.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '138'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0143
-- :id: vad7506_accmat-1-0144.tif
+    :source_metadata_identifier: VAD7506-1-0143
+- :id: vad7506-1-0144.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0144.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '139'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0144
-- :id: vad7506_accmat-1-0145.tif
+    :source_metadata_identifier: VAD7506-1-0144
+- :id: vad7506-1-0145.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0145.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '140'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0145
-- :id: vad7506_accmat-1-0146.tif
+    :source_metadata_identifier: VAD7506-1-0145
+- :id: vad7506-1-0146.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0146.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '141'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0146
-- :id: vad7506_accmat-1-0147.tif
+    :source_metadata_identifier: VAD7506-1-0146
+- :id: vad7506-1-0147.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0147.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '142'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0147
-- :id: vad7506_accmat-1-0148.tif
+    :source_metadata_identifier: VAD7506-1-0147
+- :id: vad7506-1-0148.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0148.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '143'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0148
-- :id: vad7506_accmat-1-0149.tif
+    :source_metadata_identifier: VAD7506-1-0148
+- :id: vad7506-1-0149.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0149.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '144'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0149
-- :id: vad7506_accmat-1-0150.tif
+    :source_metadata_identifier: VAD7506-1-0149
+- :id: vad7506-1-0150.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0150.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '145'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0150
-- :id: vad7506_accmat-1-0151.tif
+    :source_metadata_identifier: VAD7506-1-0150
+- :id: vad7506-1-0151.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0151.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '146'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0151
-- :id: vad7506_accmat-1-0152.tif
+    :source_metadata_identifier: VAD7506-1-0151
+- :id: vad7506-1-0152.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0152.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '147'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0152
-- :id: vad7506_accmat-1-0153.tif
+    :source_metadata_identifier: VAD7506-1-0152
+- :id: vad7506-1-0153.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0153.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '148'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0153
-- :id: vad7506_accmat-1-0154.tif
+    :source_metadata_identifier: VAD7506-1-0153
+- :id: vad7506-1-0154.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0154.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '149'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0154
-- :id: vad7506_accmat-1-0155.tif
+    :source_metadata_identifier: VAD7506-1-0154
+- :id: vad7506-1-0155.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0155.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '150'
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0155
-- :id: vad7506_accmat-1-0156.tif
+    :source_metadata_identifier: VAD7506-1-0155
+- :id: vad7506-1-0156.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0156.tif"
   :file_opts: {}
   :attributes:
     :title:
     - "[151]"
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0156
-- :id: vad7506_accmat-1-0157.tif
+    :source_metadata_identifier: VAD7506-1-0156
+- :id: vad7506-1-0157.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0157.tif"
   :file_opts: {}
   :attributes:
     :title:
     - "[152]"
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0157
-- :id: vad7506_accmat-1-0158.tif
+    :source_metadata_identifier: VAD7506-1-0157
+- :id: vad7506-1-0158.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0158.tif"
   :file_opts: {}
   :attributes:
     :title:
     - "[153]"
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0158
-- :id: vad7506_accmat-1-0159.tif
+    :source_metadata_identifier: VAD7506-1-0158
+- :id: vad7506-1-0159.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0159.tif"
   :file_opts: {}
   :attributes:
     :title:
     - "[154]"
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0159
-- :id: vad7506_accmat-1-0160.tif
+    :source_metadata_identifier: VAD7506-1-0159
+- :id: vad7506-1-0160.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0160.tif"
   :file_opts: {}
   :attributes:
     :title:
     - "[155]"
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0160
-- :id: vad7506_accmat-1-0161.tif
+    :source_metadata_identifier: VAD7506-1-0160
+- :id: vad7506-1-0161.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0161.tif"
   :file_opts: {}
   :attributes:
     :title:
     - "[156]"
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0161
-- :id: vad7506_accmat-1-0162.tif
+    :source_metadata_identifier: VAD7506-1-0161
+- :id: vad7506-1-0162.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0162.tif"
   :file_opts: {}
   :attributes:
     :title:
     - "[157]"
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0162
-- :id: vad7506_accmat-1-0163.tif
+    :source_metadata_identifier: VAD7506-1-0162
+- :id: vad7506-1-0163.tif
   :mime_type: image/tiff
   :path: "/tmp/ingest/vad7506_accmat-1-0163.tif"
   :file_opts: {}
   :attributes:
     :title:
     - "[158]"
-    :source_metadata_identifier: VAD7506_ACCMAT-1-0163
+    :source_metadata_identifier: VAD7506-1-0163
 :sources:
 - :title:
   - Variations XML

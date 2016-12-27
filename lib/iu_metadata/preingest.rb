@@ -9,11 +9,50 @@ module IuMetadata
         @structure ||= nil
         # determine XML type
         # local: pull if available
-        # remote: try pulling, fail to empty
+        # DONE remote: try pulling, fail to empty
         # files cases: complicated!!!
-        @variations_type ||= 'ScoreAccessPage'
-        @local = IuMetadata::VariationsRecord.new(source_uri, open(source_file), files: @files, structure: @structure, variations_type: @variations_type)
-        @source_title = ['Variations XML']
+        # add logging
+
+        variations_content = File.read(source_file)
+        if variations_content.blank?
+          @variations_type = 'blank'
+        elsif Nokogiri::XML(variations_content).xpath('//ScoreAccessPage').size.zero?
+          @variations_type = 'AccompanyingMaterials'
+        else
+          @variations_type = 'ScoreAccessPage'
+        end
+
+        lookup_id = source_file.sub(/.*\//, '').sub(/.xml/, '').downcase
+        scores_fixed = YAML.load_file(Rails.root.join('config/scores-fixed.yml'))
+        scores_from_other_sources = YAML.load_file(Rails.root.join('config/scores_from_other_sources.yml'))
+        if files_lookup = scores_fixed[lookup_id]
+          files_source = 'scores-fixed'
+        elsif files_lookup = scores_from_other_sources[lookup_id]
+          files_source = 'scores_from_other_sources'
+          @structure = {}
+        else
+          files_lookup = []
+          files_source = nil
+        end
+
+        case @variations_type
+        when 'blank'
+          @files = files_lookup
+          @structure = {}
+          @local = EmptyRecord.new(source_file, @files, @structure)
+          @source_title = nil
+        when 'AccompanyingMaterials'
+          @files = files_lookup
+          @local = IuMetadata::VariationsRecord.new(source_uri, open(source_file), files: @files, structure: @structure, variations_type: @variations_type)
+          @source_title = ['Variations XML']
+        when 'ScoreAccessPage'
+          # FIXME: check files
+          @local = IuMetadata::VariationsRecord.new(source_uri, open(source_file), files: @files, structure: @structure, variations_type: @variations_type)
+          @source_title = ['Variations XML']
+        end
+        # FIXME: catch case of file list different from provided
+        # FIXME: catch case of structure has more keys than files
+        # FIXME: catch case of structure has FEWER Keys than files
       end
       attr_reader :source_file, :source_title, :local
 
@@ -26,74 +65,29 @@ module IuMetadata
       delegate :files, :structure, :volumes, :thumbnail_path, to: :local
     end
 
-    class VariationsAccompanying < Variations
-      def initialize(source_file)
-        id = source_file.sub(/.*\//, '').sub(/.xml/, '').downcase
-        images_by_id = YAML.load_file(Rails.root.join('config/images_by_id.yml'))
-        @files = images_by_id[id]
-        @variations_type = 'AccompanyingMaterials'
-        super
-      end
-    end
-
-    class VariationsWithoutRemote < Variations
-      def attribute_sources
-        result = super
-        result.delete(:remote)
-        result
-      end
-      def remote_data
-        nil
-      end
-    end
-
-    class VariationsWithoutStructure < Variations
-      def initialize(source_file)
-        @structure = {}
-        super
-      end
-    end
-
-    class VariationsAccompanyingWithoutStructure < VariationsAccompanying
-      def initialize(source_file)
-        @structure = {}
-        super
-      end
-    end
-
 #FIXME: without xml case -- add source_metadata_identifier to default or local atts -- or pull from remote if available?
 #FIXME: also add identifier when no remote?
 #FIXME: also add title lookup when no remote?
-    class VariationsWithoutXml
-      include PreingestableDocument
+    class EmptyRecord
 
-      def initialize(source_file)
+      def initialize(source_file, files, structure)
         @source_file = source_file
-        @files ||= []
-        @structure ||= nil
-        @variations_type ||= 'ScoreAccessPage'
-        @local = nil
-        @source_title = nil
-
-        id = source_file.sub(/.*\//, '').sub(/.xml/, '').downcase
-        images_by_id = YAML.load_file(Rails.root.join('config/images_by_id.yml'))
-        @files = images_by_id[id]
-        # FIXME: catch for missing images
-        @files ||= []
-        @structure = {}
+        @files = files
+        @structure = structure
       end
-      attr_reader :source_file, :source_title, :local
 
       def source_metadata_identifier
-        source_file.sub(/.*\//, '').sub(/.xml/, '').upcase
+        @source_file.sub(/.*\//, '').sub(/.xml/, '').upcase[0...7]
       end
 
       def multi_volume?
         false
       end
+
       def collections
         []
       end
+
       def files
         index = 0
         @files.map do |filename|
@@ -105,29 +99,31 @@ module IuMetadata
           }
         end
       end
+
       def structure
         @structure
       end
+
       def volumes
         []
       end
+
       def thumbnail_path
         nil
       end
-      def attribute_sources
-        { default: default_data,
-          remote: remote_data
+
+      def attributes
+        {}
+      end
+
+      def default_attributes
+        {
+          state: 'final_review',
+          viewing_direction: 'left-to-right',
+          rights_statement: 'http://rightsstatements.org/vocab/InC/1.0/',
+          visibility: Hydra::AccessControls::AccessRight::VISIBILITY_TEXT_VALUE_AUTHENTICATED
         }
       end
     end
-    class VariationsWithoutXmlWithoutRemote < VariationsWithoutXml
-      def attribute_sources
-        { default: default_data }
-      end
-      def remote_data
-        nil
-      end
-    end
-
   end
 end

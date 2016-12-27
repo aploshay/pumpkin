@@ -4,11 +4,678 @@
   :default:
     state: final_review
     viewing_direction: left-to-right
-    rights_statement: http://rightsstatements.org/vocab/NKC/1.0/
-    visibility: open
+    rights_statement: http://rightsstatements.org/vocab/InC/1.0/
+    visibility: authenticated
+  :local: {}
+  :remote: {}
 :source_metadata: 
 :thumbnail_path: 
 :collections: []
 :structure: {}
-:files: []
+:files:
+- :id: cov1001.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/cov1001.tif"
+  :file_opts: {}
+  :attributes:
+    :title: '1'
+    :source_metadata_identifier: COV1001
+- :id: cov1005.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/cov1005.tif"
+  :file_opts: {}
+  :attributes:
+    :title: '2'
+    :source_metadata_identifier: COV1005
+- :id: cov1006.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/cov1006.tif"
+  :file_opts: {}
+  :attributes:
+    :title: '3'
+    :source_metadata_identifier: COV1006
+- :id: cov1007.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/cov1007.tif"
+  :file_opts: {}
+  :attributes:
+    :title: '4'
+    :source_metadata_identifier: COV1007
+- :id: cov1008.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/cov1008.tif"
+  :file_opts: {}
+  :attributes:
+    :title: '5'
+    :source_metadata_identifier: COV1008
+- :id: cov1009.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/cov1009.tif"
+  :file_opts: {}
+  :attributes:
+    :title: '6'
+    :source_metadata_identifier: COV1009
+- :id: cov1010.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/cov1010.tif"
+  :file_opts: {}
+  :attributes:
+    :title: '7'
+    :source_metadata_identifier: COV1010
+- :id: cov1011.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/cov1011.tif"
+  :file_opts: {}
+  :attributes:
+    :title: '8'
+    :source_metadata_identifier: COV1011
+- :id: sco10001.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/sco10001.tif"
+  :file_opts: {}
+  :attributes:
+    :title: '9'
+    :source_metadata_identifier: SCO10001
+- :id: sco10002.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/sco10002.tif"
+  :file_opts: {}
+  :attributes:
+    :title: '10'
+    :source_metadata_identifier: SCO10002
+- :id: sco10003.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/sco10003.tif"
+  :file_opts: {}
+  :attributes:
+    :title: '11'
+    :source_metadata_identifier: SCO10003
+- :id: sco10004.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/sco10004.tif"
+  :file_opts: {}
+  :attributes:
+    :title: '12'
+    :source_metadata_identifier: SCO10004
+- :id: sco10005.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/sco10005.tif"
+  :file_opts: {}
+  :attributes:
+    :title: '13'
+    :source_metadata_identifier: SCO10005
+- :id: sco10006.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/sco10006.tif"
+  :file_opts: {}
+  :attributes:
+    :title: '14'
+    :source_metadata_identifier: SCO10006
+- :id: sco10007.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/sco10007.tif"
+  :file_opts: {}
+  :attributes:
+    :title: '15'
+    :source_metadata_identifier: SCO10007
+- :id: sco10008.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/sco10008.tif"
+  :file_opts: {}
+  :attributes:
+    :title: '16'
+    :source_metadata_identifier: SCO10008
+- :id: sco10009.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/sco10009.tif"
+  :file_opts: {}
+  :attributes:
+    :title: '17'
+    :source_metadata_identifier: SCO10009
+- :id: sco10010.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/sco10010.tif"
+  :file_opts: {}
+  :attributes:
+    :title: '18'
+    :source_metadata_identifier: SCO10010
+- :id: sco10011.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/sco10011.tif"
+  :file_opts: {}
+  :attributes:
+    :title: '19'
+    :source_metadata_identifier: SCO10011
+- :id: sco10012.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/sco10012.tif"
+  :file_opts: {}
+  :attributes:
+    :title: '20'
+    :source_metadata_identifier: SCO10012
+- :id: sco10013.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/sco10013.tif"
+  :file_opts: {}
+  :attributes:
+    :title: '21'
+    :source_metadata_identifier: SCO10013
+- :id: sco10014.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/sco10014.tif"
+  :file_opts: {}
+  :attributes:
+    :title: '22'
+    :source_metadata_identifier: SCO10014
+- :id: sco10015.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/sco10015.tif"
+  :file_opts: {}
+  :attributes:
+    :title: '23'
+    :source_metadata_identifier: SCO10015
+- :id: sco10016.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/sco10016.tif"
+  :file_opts: {}
+  :attributes:
+    :title: '24'
+    :source_metadata_identifier: SCO10016
+- :id: sco10017.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/sco10017.tif"
+  :file_opts: {}
+  :attributes:
+    :title: '25'
+    :source_metadata_identifier: SCO10017
+- :id: sco10018.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/sco10018.tif"
+  :file_opts: {}
+  :attributes:
+    :title: '26'
+    :source_metadata_identifier: SCO10018
+- :id: sco10019.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/sco10019.tif"
+  :file_opts: {}
+  :attributes:
+    :title: '27'
+    :source_metadata_identifier: SCO10019
+- :id: sco10020.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/sco10020.tif"
+  :file_opts: {}
+  :attributes:
+    :title: '28'
+    :source_metadata_identifier: SCO10020
+- :id: sco10021.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/sco10021.tif"
+  :file_opts: {}
+  :attributes:
+    :title: '29'
+    :source_metadata_identifier: SCO10021
+- :id: sco10022.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/sco10022.tif"
+  :file_opts: {}
+  :attributes:
+    :title: '30'
+    :source_metadata_identifier: SCO10022
+- :id: sco10023.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/sco10023.tif"
+  :file_opts: {}
+  :attributes:
+    :title: '31'
+    :source_metadata_identifier: SCO10023
+- :id: sco10024.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/sco10024.tif"
+  :file_opts: {}
+  :attributes:
+    :title: '32'
+    :source_metadata_identifier: SCO10024
+- :id: sco10025.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/sco10025.tif"
+  :file_opts: {}
+  :attributes:
+    :title: '33'
+    :source_metadata_identifier: SCO10025
+- :id: sco10026.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/sco10026.tif"
+  :file_opts: {}
+  :attributes:
+    :title: '34'
+    :source_metadata_identifier: SCO10026
+- :id: sco10027.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/sco10027.tif"
+  :file_opts: {}
+  :attributes:
+    :title: '35'
+    :source_metadata_identifier: SCO10027
+- :id: sco10028.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/sco10028.tif"
+  :file_opts: {}
+  :attributes:
+    :title: '36'
+    :source_metadata_identifier: SCO10028
+- :id: sco10029.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/sco10029.tif"
+  :file_opts: {}
+  :attributes:
+    :title: '37'
+    :source_metadata_identifier: SCO10029
+- :id: sco10030.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/sco10030.tif"
+  :file_opts: {}
+  :attributes:
+    :title: '38'
+    :source_metadata_identifier: SCO10030
+- :id: sco10031.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/sco10031.tif"
+  :file_opts: {}
+  :attributes:
+    :title: '39'
+    :source_metadata_identifier: SCO10031
+- :id: sco10032.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/sco10032.tif"
+  :file_opts: {}
+  :attributes:
+    :title: '40'
+    :source_metadata_identifier: SCO10032
+- :id: sco10033.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/sco10033.tif"
+  :file_opts: {}
+  :attributes:
+    :title: '41'
+    :source_metadata_identifier: SCO10033
+- :id: sco10034.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/sco10034.tif"
+  :file_opts: {}
+  :attributes:
+    :title: '42'
+    :source_metadata_identifier: SCO10034
+- :id: sco10035.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/sco10035.tif"
+  :file_opts: {}
+  :attributes:
+    :title: '43'
+    :source_metadata_identifier: SCO10035
+- :id: sco10036.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/sco10036.tif"
+  :file_opts: {}
+  :attributes:
+    :title: '44'
+    :source_metadata_identifier: SCO10036
+- :id: sco10037.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/sco10037.tif"
+  :file_opts: {}
+  :attributes:
+    :title: '45'
+    :source_metadata_identifier: SCO10037
+- :id: sco10038.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/sco10038.tif"
+  :file_opts: {}
+  :attributes:
+    :title: '46'
+    :source_metadata_identifier: SCO10038
+- :id: sco10039.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/sco10039.tif"
+  :file_opts: {}
+  :attributes:
+    :title: '47'
+    :source_metadata_identifier: SCO10039
+- :id: sco10040.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/sco10040.tif"
+  :file_opts: {}
+  :attributes:
+    :title: '48'
+    :source_metadata_identifier: SCO10040
+- :id: sco10041.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/sco10041.tif"
+  :file_opts: {}
+  :attributes:
+    :title: '49'
+    :source_metadata_identifier: SCO10041
+- :id: sco10042.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/sco10042.tif"
+  :file_opts: {}
+  :attributes:
+    :title: '50'
+    :source_metadata_identifier: SCO10042
+- :id: sco10043.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/sco10043.tif"
+  :file_opts: {}
+  :attributes:
+    :title: '51'
+    :source_metadata_identifier: SCO10043
+- :id: sco10044.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/sco10044.tif"
+  :file_opts: {}
+  :attributes:
+    :title: '52'
+    :source_metadata_identifier: SCO10044
+- :id: sco10045.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/sco10045.tif"
+  :file_opts: {}
+  :attributes:
+    :title: '53'
+    :source_metadata_identifier: SCO10045
+- :id: sco10046.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/sco10046.tif"
+  :file_opts: {}
+  :attributes:
+    :title: '54'
+    :source_metadata_identifier: SCO10046
+- :id: sco10047.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/sco10047.tif"
+  :file_opts: {}
+  :attributes:
+    :title: '55'
+    :source_metadata_identifier: SCO10047
+- :id: sco10048.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/sco10048.tif"
+  :file_opts: {}
+  :attributes:
+    :title: '56'
+    :source_metadata_identifier: SCO10048
+- :id: sco10049.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/sco10049.tif"
+  :file_opts: {}
+  :attributes:
+    :title: '57'
+    :source_metadata_identifier: SCO10049
+- :id: sco10050.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/sco10050.tif"
+  :file_opts: {}
+  :attributes:
+    :title: '58'
+    :source_metadata_identifier: SCO10050
+- :id: sco10051.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/sco10051.tif"
+  :file_opts: {}
+  :attributes:
+    :title: '59'
+    :source_metadata_identifier: SCO10051
+- :id: sco10052.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/sco10052.tif"
+  :file_opts: {}
+  :attributes:
+    :title: '60'
+    :source_metadata_identifier: SCO10052
+- :id: sco10053.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/sco10053.tif"
+  :file_opts: {}
+  :attributes:
+    :title: '61'
+    :source_metadata_identifier: SCO10053
+- :id: sco10054.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/sco10054.tif"
+  :file_opts: {}
+  :attributes:
+    :title: '62'
+    :source_metadata_identifier: SCO10054
+- :id: sco10055.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/sco10055.tif"
+  :file_opts: {}
+  :attributes:
+    :title: '63'
+    :source_metadata_identifier: SCO10055
+- :id: sco10056.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/sco10056.tif"
+  :file_opts: {}
+  :attributes:
+    :title: '64'
+    :source_metadata_identifier: SCO10056
+- :id: sco10057.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/sco10057.tif"
+  :file_opts: {}
+  :attributes:
+    :title: '65'
+    :source_metadata_identifier: SCO10057
+- :id: sco10058.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/sco10058.tif"
+  :file_opts: {}
+  :attributes:
+    :title: '66'
+    :source_metadata_identifier: SCO10058
+- :id: sco10059.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/sco10059.tif"
+  :file_opts: {}
+  :attributes:
+    :title: '67'
+    :source_metadata_identifier: SCO10059
+- :id: sco10060.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/sco10060.tif"
+  :file_opts: {}
+  :attributes:
+    :title: '68'
+    :source_metadata_identifier: SCO10060
+- :id: sco10061.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/sco10061.tif"
+  :file_opts: {}
+  :attributes:
+    :title: '69'
+    :source_metadata_identifier: SCO10061
+- :id: sco10062.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/sco10062.tif"
+  :file_opts: {}
+  :attributes:
+    :title: '70'
+    :source_metadata_identifier: SCO10062
+- :id: sco10063.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/sco10063.tif"
+  :file_opts: {}
+  :attributes:
+    :title: '71'
+    :source_metadata_identifier: SCO10063
+- :id: sco10064.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/sco10064.tif"
+  :file_opts: {}
+  :attributes:
+    :title: '72'
+    :source_metadata_identifier: SCO10064
+- :id: sco10065.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/sco10065.tif"
+  :file_opts: {}
+  :attributes:
+    :title: '73'
+    :source_metadata_identifier: SCO10065
+- :id: sco10066.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/sco10066.tif"
+  :file_opts: {}
+  :attributes:
+    :title: '74'
+    :source_metadata_identifier: SCO10066
+- :id: sco10067.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/sco10067.tif"
+  :file_opts: {}
+  :attributes:
+    :title: '75'
+    :source_metadata_identifier: SCO10067
+- :id: sco10068.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/sco10068.tif"
+  :file_opts: {}
+  :attributes:
+    :title: '76'
+    :source_metadata_identifier: SCO10068
+- :id: sco10069.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/sco10069.tif"
+  :file_opts: {}
+  :attributes:
+    :title: '77'
+    :source_metadata_identifier: SCO10069
+- :id: sco10070.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/sco10070.tif"
+  :file_opts: {}
+  :attributes:
+    :title: '78'
+    :source_metadata_identifier: SCO10070
+- :id: sco10071.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/sco10071.tif"
+  :file_opts: {}
+  :attributes:
+    :title: '79'
+    :source_metadata_identifier: SCO10071
+- :id: sco10072.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/sco10072.tif"
+  :file_opts: {}
+  :attributes:
+    :title: '80'
+    :source_metadata_identifier: SCO10072
+- :id: sco10073.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/sco10073.tif"
+  :file_opts: {}
+  :attributes:
+    :title: '81'
+    :source_metadata_identifier: SCO10073
+- :id: sco10074.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/sco10074.tif"
+  :file_opts: {}
+  :attributes:
+    :title: '82'
+    :source_metadata_identifier: SCO10074
+- :id: sco10075.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/sco10075.tif"
+  :file_opts: {}
+  :attributes:
+    :title: '83'
+    :source_metadata_identifier: SCO10075
+- :id: sco10076.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/sco10076.tif"
+  :file_opts: {}
+  :attributes:
+    :title: '84'
+    :source_metadata_identifier: SCO10076
+- :id: sco10077.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/sco10077.tif"
+  :file_opts: {}
+  :attributes:
+    :title: '85'
+    :source_metadata_identifier: SCO10077
+- :id: sco10078.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/sco10078.tif"
+  :file_opts: {}
+  :attributes:
+    :title: '86'
+    :source_metadata_identifier: SCO10078
+- :id: sco10079.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/sco10079.tif"
+  :file_opts: {}
+  :attributes:
+    :title: '87'
+    :source_metadata_identifier: SCO10079
+- :id: sco10080.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/sco10080.tif"
+  :file_opts: {}
+  :attributes:
+    :title: '88'
+    :source_metadata_identifier: SCO10080
+- :id: sco10081.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/sco10081.tif"
+  :file_opts: {}
+  :attributes:
+    :title: '89'
+    :source_metadata_identifier: SCO10081
+- :id: sco10082.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/sco10082.tif"
+  :file_opts: {}
+  :attributes:
+    :title: '90'
+    :source_metadata_identifier: SCO10082
+- :id: sco10083.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/sco10083.tif"
+  :file_opts: {}
+  :attributes:
+    :title: '91'
+    :source_metadata_identifier: SCO10083
+- :id: sco10084.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/sco10084.tif"
+  :file_opts: {}
+  :attributes:
+    :title: '92'
+    :source_metadata_identifier: SCO10084
+- :id: sco10085.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/sco10085.tif"
+  :file_opts: {}
+  :attributes:
+    :title: '93'
+    :source_metadata_identifier: SCO10085
+- :id: sco10086.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/sco10086.tif"
+  :file_opts: {}
+  :attributes:
+    :title: '94'
+    :source_metadata_identifier: SCO10086
+- :id: sco10087.tif
+  :mime_type: image/tiff
+  :path: "/tmp/ingest/sco10087.tif"
+  :file_opts: {}
+  :attributes:
+    :title: '95'
+    :source_metadata_identifier: SCO10087
 :sources: []
