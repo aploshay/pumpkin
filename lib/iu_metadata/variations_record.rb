@@ -106,27 +106,22 @@ module IuMetadata
           if @variations_type == 'ScoreAccessPage' && @logger
             case @files.size <=> variations_files.size
             when 1
-              #FIXME: log
-              @logger.info "More files found on server (#{@files.size}) than specified in XML (#{variations_files.size})"
-              @logger.info "Retaining structure, but there will be extra unused images"
+              @logger.warn "More files found on server (#{@files.size}) than specified in XML (#{variations_files.size})"
+              @logger.warn "Retaining structure, but there will be extra unused images"
             when 0
               if @files == variations_files
                 @logger.info "Files found on server match specifiction in XML"
-                # FIXME: log
               else
-                @logger.info "Files found on server don't match those specified in XML"
-                @logger.info "Retaining structure, but it should undergo review"
-                # FIXME: log
+                @logger.warn "Files found on server don't match those specified in XML"
+                @logger.warn "Retaining structure, but it should undergo review"
               end
             when -1
-              #FIXME: log
-              @logger.info "Fewer files found on server (#{@files.size}) than specified in XML (#{variations_files.size})"
-              @logger.info "Abandoning structure"
+              @logger.warn "Fewer files found on server (#{@files.size}) than specified in XML (#{variations_files.size})"
+              @logger.warn "Abandoning structure"
               @structure = {}
             end
           end
         end
-        # FIXME: crosscheck expected, actual files
         @thumbnail_path = (@files.any? ? @files.first[:path] : nil)
 
         # assign structure hash and update files array with titles
@@ -143,7 +138,12 @@ module IuMetadata
               elsif @structure
                 @structure
               else
-                { nodes: structure_to_array(item) }
+                begin
+                  { nodes: structure_to_array(item) }
+                rescue
+                  {}
+                  @logger.error("Error parsing structure; reverting to empty structure.") if @logger
+                end
               end
             end
             volume[:files] = @files[@file_start, @file_index - @file_start]
@@ -156,18 +156,22 @@ module IuMetadata
         else
           if @files.none?
             @structure = {}
-            # FIXME: log structure drop
+            @logger.warn("Force-dropping structure, due to lack of files.")
           elsif @structure
             @files.each_with_index { |file, i| file[:attributes][:title] = [(i + 1).to_s] }
           else
-            @structure = { nodes: structure_to_array(items.first) }
+            begin
+              @structure = { nodes: structure_to_array(items.first) }
+            rescue
+              @structure = {}
+              @logger.error("Error parsing structure; reverting to empty structure.") if @logger
+            end
           end
         end
       end
 
       # builds structure hash AND update file list with titles
       def structure_to_array(xml_node)
-        # FIXME: try/rescue block with logging
         array = []
         xml_node.xpath('child::*').each do |child|
           c = {}
