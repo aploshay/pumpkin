@@ -12,6 +12,10 @@
     physical_description: booklet
     copyright_holder:
     - "(P) & (C) 2004 Passacaille"
+    title:
+    - 'Flyleaves [sound recording] : medieval music in English manuscripts'
+    responsibility_note:
+    - ''
   :remote:
     identifier: http://purl.dlib.indiana.edu/iudl/variations/sound/VAB7222
     title:

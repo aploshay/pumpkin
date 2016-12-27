@@ -10,6 +10,10 @@
     source_metadata_identifier: ADU9084
     holding_location: https://libraries.indiana.edu/music
     physical_description: 1 score (v. <1-3  >) ; 31 cm
+    title:
+    - 'Old masters of bel canto : for voice and piano'
+    responsibility_note:
+    - edited by Ludwig Landshoff
   :remote:
     identifier: http://purl.dlib.indiana.edu/iudl/variations/score/ADU9084
     title:

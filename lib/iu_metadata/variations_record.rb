@@ -16,7 +16,7 @@ module IuMetadata
     attr_reader :id, :source
 
     # standard metadata
-    ATTRIBUTES = [:source_metadata_identifier, :holding_location, :physical_description, :copyright_holder]
+    ATTRIBUTES = [:source_metadata_identifier, :holding_location, :physical_description, :copyright_holder, :title, :responsibility_note]
     def attributes
       Hash[ATTRIBUTES.map { |att| [att, send(att)] }]
     end
@@ -43,6 +43,14 @@ module IuMetadata
 
     def copyright_holder
       @variations.xpath("//Container/CopyrightDecls/CopyrightDecl/Owner").map(&:content)
+    end
+
+    def title
+      @variations.xpath('//Container/DisplayTitle').first&.content.to_s
+    end
+
+    def responsibility_note
+      @variations.xpath('//Bibinfo/StmtResponsibility').first&.content.to_s
     end
 
     # default metadata
