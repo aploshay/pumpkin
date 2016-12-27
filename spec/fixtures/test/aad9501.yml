@@ -6,7 +6,8 @@
     viewing_direction: left-to-right
     rights_statement: http://rightsstatements.org/vocab/InC/1.0/
     visibility: authenticated
-  :local: {}
+  :local:
+    source_metadata_identifier: AAD9501
   :remote:
     identifier: http://purl.dlib.indiana.edu/iudl/variations/score/AAD9501
     title:

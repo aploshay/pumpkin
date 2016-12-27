@@ -46,11 +46,11 @@ module IuMetadata
     end
 
     def title
-      @variations.xpath('//Container/DisplayTitle').first&.content.to_s
+      @variations.xpath('//Container/DisplayTitle').first&.content.to_s.gsub(/\n\s*/, ' ')
     end
 
     def responsibility_note
-      @variations.xpath('//Bibinfo/StmtResponsibility').first&.content.to_s
+      @variations.xpath('//Bibinfo/StmtResponsibility').first&.content.to_s.gsub(/\n\s*/, ' ')
     end
 
     # default metadata

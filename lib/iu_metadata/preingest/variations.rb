@@ -118,7 +118,7 @@ module IuMetadata
       end
 
       def attributes
-        {}
+        { source_metadata_identifier: source_metadata_identifier }
       end
 
       def default_attributes

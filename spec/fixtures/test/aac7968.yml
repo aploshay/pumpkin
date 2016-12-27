@@ -6,7 +6,8 @@
     viewing_direction: left-to-right
     rights_statement: http://rightsstatements.org/vocab/InC/1.0/
     visibility: authenticated
-  :local: {}
+  :local:
+    source_metadata_identifier: AAC7968
   :remote: {}
 :source_metadata: 
 :thumbnail_path: "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/aac7968/cov1001.tif"
