@@ -6,12 +6,17 @@
     viewing_direction: left-to-right
     rights_statement: http://rightsstatements.org/vocab/InC/1.0/
     visibility: open
+    viewing_hint: paged
   :local:
     source_metadata_identifier: BHR9405
     holding_location: https://libraries.indiana.edu/music
     physical_description: 1 score (64 p.) ; 32 cm
     copyright_holder:
     - G. Ricordi & Co.
+    title:
+    - Fontane di Roma ; poema sinfonico per orchestra
+    responsibility_note:
+    - di Ottorino Respighi
   :remote:
     identifier: http://purl.dlib.indiana.edu/iudl/variations/score/BHR9405
     title:
@@ -127,7 +132,7 @@
       <subfield code="f">1</subfield>
     </datafield>
   </record>
-:thumbnail_path: "/tmp/ingest/bhr9405-1-0001.tif"
+:thumbnail_path: "/N/beryllium/srv/variations/scores-fixed/bhr9405/bhr9405-1-0001.tif"
 :collections: []
 :structure:
   :nodes:
@@ -164,7 +169,7 @@
 :files:
 - :id: bhr9405-1-0001.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/bhr9405-1-0001.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/bhr9405/bhr9405-1-0001.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -172,7 +177,7 @@
     :source_metadata_identifier: BHR9405-1-0001
 - :id: bhr9405-1-0002.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/bhr9405-1-0002.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/bhr9405/bhr9405-1-0002.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -180,7 +185,7 @@
     :source_metadata_identifier: BHR9405-1-0002
 - :id: bhr9405-1-0003.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/bhr9405-1-0003.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/bhr9405/bhr9405-1-0003.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -188,7 +193,7 @@
     :source_metadata_identifier: BHR9405-1-0003
 - :id: bhr9405-1-0004.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/bhr9405-1-0004.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/bhr9405/bhr9405-1-0004.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -196,7 +201,7 @@
     :source_metadata_identifier: BHR9405-1-0004
 - :id: bhr9405-1-0005.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/bhr9405-1-0005.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/bhr9405/bhr9405-1-0005.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -204,7 +209,7 @@
     :source_metadata_identifier: BHR9405-1-0005
 - :id: bhr9405-1-0006.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/bhr9405-1-0006.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/bhr9405/bhr9405-1-0006.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -212,7 +217,7 @@
     :source_metadata_identifier: BHR9405-1-0006
 - :id: bhr9405-1-0007.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/bhr9405-1-0007.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/bhr9405/bhr9405-1-0007.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -220,7 +225,7 @@
     :source_metadata_identifier: BHR9405-1-0007
 - :id: bhr9405-1-0008.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/bhr9405-1-0008.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/bhr9405/bhr9405-1-0008.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -228,7 +233,7 @@
     :source_metadata_identifier: BHR9405-1-0008
 - :id: bhr9405-1-0009.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/bhr9405-1-0009.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/bhr9405/bhr9405-1-0009.tif"
   :file_opts: {}
   :attributes:
     :title:
@@ -236,12 +241,492 @@
     :source_metadata_identifier: BHR9405-1-0009
 - :id: bhr9405-1-0010.tif
   :mime_type: image/tiff
-  :path: "/tmp/ingest/bhr9405-1-0010.tif"
+  :path: "/N/beryllium/srv/variations/scores-fixed/bhr9405/bhr9405-1-0010.tif"
   :file_opts: {}
   :attributes:
     :title:
     - '4'
     :source_metadata_identifier: BHR9405-1-0010
+- :id: bhr9405-1-0011.tif
+  :mime_type: image/tiff
+  :path: "/N/beryllium/srv/variations/scores-fixed/bhr9405/bhr9405-1-0011.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - TITLE MISSING
+    :source_metadata_identifier: BHR9405-1-0011
+- :id: bhr9405-1-0012.tif
+  :mime_type: image/tiff
+  :path: "/N/beryllium/srv/variations/scores-fixed/bhr9405/bhr9405-1-0012.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - TITLE MISSING
+    :source_metadata_identifier: BHR9405-1-0012
+- :id: bhr9405-1-0013.tif
+  :mime_type: image/tiff
+  :path: "/N/beryllium/srv/variations/scores-fixed/bhr9405/bhr9405-1-0013.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - TITLE MISSING
+    :source_metadata_identifier: BHR9405-1-0013
+- :id: bhr9405-1-0014.tif
+  :mime_type: image/tiff
+  :path: "/N/beryllium/srv/variations/scores-fixed/bhr9405/bhr9405-1-0014.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - TITLE MISSING
+    :source_metadata_identifier: BHR9405-1-0014
+- :id: bhr9405-1-0015.tif
+  :mime_type: image/tiff
+  :path: "/N/beryllium/srv/variations/scores-fixed/bhr9405/bhr9405-1-0015.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - TITLE MISSING
+    :source_metadata_identifier: BHR9405-1-0015
+- :id: bhr9405-1-0016.tif
+  :mime_type: image/tiff
+  :path: "/N/beryllium/srv/variations/scores-fixed/bhr9405/bhr9405-1-0016.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - TITLE MISSING
+    :source_metadata_identifier: BHR9405-1-0016
+- :id: bhr9405-1-0017.tif
+  :mime_type: image/tiff
+  :path: "/N/beryllium/srv/variations/scores-fixed/bhr9405/bhr9405-1-0017.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - TITLE MISSING
+    :source_metadata_identifier: BHR9405-1-0017
+- :id: bhr9405-1-0018.tif
+  :mime_type: image/tiff
+  :path: "/N/beryllium/srv/variations/scores-fixed/bhr9405/bhr9405-1-0018.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - TITLE MISSING
+    :source_metadata_identifier: BHR9405-1-0018
+- :id: bhr9405-1-0019.tif
+  :mime_type: image/tiff
+  :path: "/N/beryllium/srv/variations/scores-fixed/bhr9405/bhr9405-1-0019.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - TITLE MISSING
+    :source_metadata_identifier: BHR9405-1-0019
+- :id: bhr9405-1-0020.tif
+  :mime_type: image/tiff
+  :path: "/N/beryllium/srv/variations/scores-fixed/bhr9405/bhr9405-1-0020.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - TITLE MISSING
+    :source_metadata_identifier: BHR9405-1-0020
+- :id: bhr9405-1-0021.tif
+  :mime_type: image/tiff
+  :path: "/N/beryllium/srv/variations/scores-fixed/bhr9405/bhr9405-1-0021.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - TITLE MISSING
+    :source_metadata_identifier: BHR9405-1-0021
+- :id: bhr9405-1-0022.tif
+  :mime_type: image/tiff
+  :path: "/N/beryllium/srv/variations/scores-fixed/bhr9405/bhr9405-1-0022.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - TITLE MISSING
+    :source_metadata_identifier: BHR9405-1-0022
+- :id: bhr9405-1-0023.tif
+  :mime_type: image/tiff
+  :path: "/N/beryllium/srv/variations/scores-fixed/bhr9405/bhr9405-1-0023.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - TITLE MISSING
+    :source_metadata_identifier: BHR9405-1-0023
+- :id: bhr9405-1-0024.tif
+  :mime_type: image/tiff
+  :path: "/N/beryllium/srv/variations/scores-fixed/bhr9405/bhr9405-1-0024.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - TITLE MISSING
+    :source_metadata_identifier: BHR9405-1-0024
+- :id: bhr9405-1-0025.tif
+  :mime_type: image/tiff
+  :path: "/N/beryllium/srv/variations/scores-fixed/bhr9405/bhr9405-1-0025.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - TITLE MISSING
+    :source_metadata_identifier: BHR9405-1-0025
+- :id: bhr9405-1-0026.tif
+  :mime_type: image/tiff
+  :path: "/N/beryllium/srv/variations/scores-fixed/bhr9405/bhr9405-1-0026.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - TITLE MISSING
+    :source_metadata_identifier: BHR9405-1-0026
+- :id: bhr9405-1-0027.tif
+  :mime_type: image/tiff
+  :path: "/N/beryllium/srv/variations/scores-fixed/bhr9405/bhr9405-1-0027.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - TITLE MISSING
+    :source_metadata_identifier: BHR9405-1-0027
+- :id: bhr9405-1-0028.tif
+  :mime_type: image/tiff
+  :path: "/N/beryllium/srv/variations/scores-fixed/bhr9405/bhr9405-1-0028.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - TITLE MISSING
+    :source_metadata_identifier: BHR9405-1-0028
+- :id: bhr9405-1-0029.tif
+  :mime_type: image/tiff
+  :path: "/N/beryllium/srv/variations/scores-fixed/bhr9405/bhr9405-1-0029.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - TITLE MISSING
+    :source_metadata_identifier: BHR9405-1-0029
+- :id: bhr9405-1-0030.tif
+  :mime_type: image/tiff
+  :path: "/N/beryllium/srv/variations/scores-fixed/bhr9405/bhr9405-1-0030.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - TITLE MISSING
+    :source_metadata_identifier: BHR9405-1-0030
+- :id: bhr9405-1-0031.tif
+  :mime_type: image/tiff
+  :path: "/N/beryllium/srv/variations/scores-fixed/bhr9405/bhr9405-1-0031.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - TITLE MISSING
+    :source_metadata_identifier: BHR9405-1-0031
+- :id: bhr9405-1-0032.tif
+  :mime_type: image/tiff
+  :path: "/N/beryllium/srv/variations/scores-fixed/bhr9405/bhr9405-1-0032.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - TITLE MISSING
+    :source_metadata_identifier: BHR9405-1-0032
+- :id: bhr9405-1-0033.tif
+  :mime_type: image/tiff
+  :path: "/N/beryllium/srv/variations/scores-fixed/bhr9405/bhr9405-1-0033.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - TITLE MISSING
+    :source_metadata_identifier: BHR9405-1-0033
+- :id: bhr9405-1-0034.tif
+  :mime_type: image/tiff
+  :path: "/N/beryllium/srv/variations/scores-fixed/bhr9405/bhr9405-1-0034.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - TITLE MISSING
+    :source_metadata_identifier: BHR9405-1-0034
+- :id: bhr9405-1-0035.tif
+  :mime_type: image/tiff
+  :path: "/N/beryllium/srv/variations/scores-fixed/bhr9405/bhr9405-1-0035.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - TITLE MISSING
+    :source_metadata_identifier: BHR9405-1-0035
+- :id: bhr9405-1-0036.tif
+  :mime_type: image/tiff
+  :path: "/N/beryllium/srv/variations/scores-fixed/bhr9405/bhr9405-1-0036.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - TITLE MISSING
+    :source_metadata_identifier: BHR9405-1-0036
+- :id: bhr9405-1-0037.tif
+  :mime_type: image/tiff
+  :path: "/N/beryllium/srv/variations/scores-fixed/bhr9405/bhr9405-1-0037.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - TITLE MISSING
+    :source_metadata_identifier: BHR9405-1-0037
+- :id: bhr9405-1-0038.tif
+  :mime_type: image/tiff
+  :path: "/N/beryllium/srv/variations/scores-fixed/bhr9405/bhr9405-1-0038.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - TITLE MISSING
+    :source_metadata_identifier: BHR9405-1-0038
+- :id: bhr9405-1-0039.tif
+  :mime_type: image/tiff
+  :path: "/N/beryllium/srv/variations/scores-fixed/bhr9405/bhr9405-1-0039.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - TITLE MISSING
+    :source_metadata_identifier: BHR9405-1-0039
+- :id: bhr9405-1-0040.tif
+  :mime_type: image/tiff
+  :path: "/N/beryllium/srv/variations/scores-fixed/bhr9405/bhr9405-1-0040.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - TITLE MISSING
+    :source_metadata_identifier: BHR9405-1-0040
+- :id: bhr9405-1-0041.tif
+  :mime_type: image/tiff
+  :path: "/N/beryllium/srv/variations/scores-fixed/bhr9405/bhr9405-1-0041.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - TITLE MISSING
+    :source_metadata_identifier: BHR9405-1-0041
+- :id: bhr9405-1-0042.tif
+  :mime_type: image/tiff
+  :path: "/N/beryllium/srv/variations/scores-fixed/bhr9405/bhr9405-1-0042.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - TITLE MISSING
+    :source_metadata_identifier: BHR9405-1-0042
+- :id: bhr9405-1-0043.tif
+  :mime_type: image/tiff
+  :path: "/N/beryllium/srv/variations/scores-fixed/bhr9405/bhr9405-1-0043.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - TITLE MISSING
+    :source_metadata_identifier: BHR9405-1-0043
+- :id: bhr9405-1-0044.tif
+  :mime_type: image/tiff
+  :path: "/N/beryllium/srv/variations/scores-fixed/bhr9405/bhr9405-1-0044.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - TITLE MISSING
+    :source_metadata_identifier: BHR9405-1-0044
+- :id: bhr9405-1-0045.tif
+  :mime_type: image/tiff
+  :path: "/N/beryllium/srv/variations/scores-fixed/bhr9405/bhr9405-1-0045.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - TITLE MISSING
+    :source_metadata_identifier: BHR9405-1-0045
+- :id: bhr9405-1-0046.tif
+  :mime_type: image/tiff
+  :path: "/N/beryllium/srv/variations/scores-fixed/bhr9405/bhr9405-1-0046.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - TITLE MISSING
+    :source_metadata_identifier: BHR9405-1-0046
+- :id: bhr9405-1-0047.tif
+  :mime_type: image/tiff
+  :path: "/N/beryllium/srv/variations/scores-fixed/bhr9405/bhr9405-1-0047.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - TITLE MISSING
+    :source_metadata_identifier: BHR9405-1-0047
+- :id: bhr9405-1-0048.tif
+  :mime_type: image/tiff
+  :path: "/N/beryllium/srv/variations/scores-fixed/bhr9405/bhr9405-1-0048.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - TITLE MISSING
+    :source_metadata_identifier: BHR9405-1-0048
+- :id: bhr9405-1-0049.tif
+  :mime_type: image/tiff
+  :path: "/N/beryllium/srv/variations/scores-fixed/bhr9405/bhr9405-1-0049.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - TITLE MISSING
+    :source_metadata_identifier: BHR9405-1-0049
+- :id: bhr9405-1-0050.tif
+  :mime_type: image/tiff
+  :path: "/N/beryllium/srv/variations/scores-fixed/bhr9405/bhr9405-1-0050.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - TITLE MISSING
+    :source_metadata_identifier: BHR9405-1-0050
+- :id: bhr9405-1-0051.tif
+  :mime_type: image/tiff
+  :path: "/N/beryllium/srv/variations/scores-fixed/bhr9405/bhr9405-1-0051.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - TITLE MISSING
+    :source_metadata_identifier: BHR9405-1-0051
+- :id: bhr9405-1-0052.tif
+  :mime_type: image/tiff
+  :path: "/N/beryllium/srv/variations/scores-fixed/bhr9405/bhr9405-1-0052.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - TITLE MISSING
+    :source_metadata_identifier: BHR9405-1-0052
+- :id: bhr9405-1-0053.tif
+  :mime_type: image/tiff
+  :path: "/N/beryllium/srv/variations/scores-fixed/bhr9405/bhr9405-1-0053.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - TITLE MISSING
+    :source_metadata_identifier: BHR9405-1-0053
+- :id: bhr9405-1-0054.tif
+  :mime_type: image/tiff
+  :path: "/N/beryllium/srv/variations/scores-fixed/bhr9405/bhr9405-1-0054.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - TITLE MISSING
+    :source_metadata_identifier: BHR9405-1-0054
+- :id: bhr9405-1-0055.tif
+  :mime_type: image/tiff
+  :path: "/N/beryllium/srv/variations/scores-fixed/bhr9405/bhr9405-1-0055.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - TITLE MISSING
+    :source_metadata_identifier: BHR9405-1-0055
+- :id: bhr9405-1-0056.tif
+  :mime_type: image/tiff
+  :path: "/N/beryllium/srv/variations/scores-fixed/bhr9405/bhr9405-1-0056.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - TITLE MISSING
+    :source_metadata_identifier: BHR9405-1-0056
+- :id: bhr9405-1-0057.tif
+  :mime_type: image/tiff
+  :path: "/N/beryllium/srv/variations/scores-fixed/bhr9405/bhr9405-1-0057.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - TITLE MISSING
+    :source_metadata_identifier: BHR9405-1-0057
+- :id: bhr9405-1-0058.tif
+  :mime_type: image/tiff
+  :path: "/N/beryllium/srv/variations/scores-fixed/bhr9405/bhr9405-1-0058.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - TITLE MISSING
+    :source_metadata_identifier: BHR9405-1-0058
+- :id: bhr9405-1-0059.tif
+  :mime_type: image/tiff
+  :path: "/N/beryllium/srv/variations/scores-fixed/bhr9405/bhr9405-1-0059.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - TITLE MISSING
+    :source_metadata_identifier: BHR9405-1-0059
+- :id: bhr9405-1-0060.tif
+  :mime_type: image/tiff
+  :path: "/N/beryllium/srv/variations/scores-fixed/bhr9405/bhr9405-1-0060.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - TITLE MISSING
+    :source_metadata_identifier: BHR9405-1-0060
+- :id: bhr9405-1-0061.tif
+  :mime_type: image/tiff
+  :path: "/N/beryllium/srv/variations/scores-fixed/bhr9405/bhr9405-1-0061.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - TITLE MISSING
+    :source_metadata_identifier: BHR9405-1-0061
+- :id: bhr9405-1-0062.tif
+  :mime_type: image/tiff
+  :path: "/N/beryllium/srv/variations/scores-fixed/bhr9405/bhr9405-1-0062.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - TITLE MISSING
+    :source_metadata_identifier: BHR9405-1-0062
+- :id: bhr9405-1-0063.tif
+  :mime_type: image/tiff
+  :path: "/N/beryllium/srv/variations/scores-fixed/bhr9405/bhr9405-1-0063.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - TITLE MISSING
+    :source_metadata_identifier: BHR9405-1-0063
+- :id: bhr9405-1-0064.tif
+  :mime_type: image/tiff
+  :path: "/N/beryllium/srv/variations/scores-fixed/bhr9405/bhr9405-1-0064.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - TITLE MISSING
+    :source_metadata_identifier: BHR9405-1-0064
+- :id: bhr9405-1-0065.tif
+  :mime_type: image/tiff
+  :path: "/N/beryllium/srv/variations/scores-fixed/bhr9405/bhr9405-1-0065.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - TITLE MISSING
+    :source_metadata_identifier: BHR9405-1-0065
+- :id: bhr9405-1-0066.tif
+  :mime_type: image/tiff
+  :path: "/N/beryllium/srv/variations/scores-fixed/bhr9405/bhr9405-1-0066.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - TITLE MISSING
+    :source_metadata_identifier: BHR9405-1-0066
+- :id: bhr9405-1-0067.tif
+  :mime_type: image/tiff
+  :path: "/N/beryllium/srv/variations/scores-fixed/bhr9405/bhr9405-1-0067.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - TITLE MISSING
+    :source_metadata_identifier: BHR9405-1-0067
+- :id: bhr9405-1-0068.tif
+  :mime_type: image/tiff
+  :path: "/N/beryllium/srv/variations/scores-fixed/bhr9405/bhr9405-1-0068.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - TITLE MISSING
+    :source_metadata_identifier: BHR9405-1-0068
+- :id: bhr9405-1-0069.tif
+  :mime_type: image/tiff
+  :path: "/N/beryllium/srv/variations/scores-fixed/bhr9405/bhr9405-1-0069.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - TITLE MISSING
+    :source_metadata_identifier: BHR9405-1-0069
+- :id: bhr9405-1-0070.tif
+  :mime_type: image/tiff
+  :path: "/N/beryllium/srv/variations/scores-fixed/bhr9405/bhr9405-1-0070.tif"
+  :file_opts: {}
+  :attributes:
+    :title:
+    - TITLE MISSING
+    :source_metadata_identifier: BHR9405-1-0070
 :sources:
 - :title:
   - Variations XML
