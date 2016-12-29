@@ -3,7 +3,7 @@ module IuMetadata
     class Contentdm
       include PreingestableDocument
 
-      def initialize(source_file)
+      def initialize(source_file, logger: nil)
         @source_file = source_file
         @local = IuMetadata::ContentdmRecord.new(source_uri, open(source_file))
         @source_title = ['Contentdm XML']
