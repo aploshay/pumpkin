@@ -3,6 +3,14 @@
   <h1>File Details <small><%= @presenter.title %></small></h1>
 <% end %>
 <%= media_display @presenter %>
+
+<% if parent %>
+  Display viewer turned to this page:
+  <% { 'Standard view' => :html, 'Full-screen view' => :uv }.each do |view, format| %>
+    <%= link_to view, polymorphic_path([main_app, parent], format: format) + "#?c=0&m=0&s=0&cv=#{parent&.ordered_member_ids&.index(@presenter.id).to_i}", class: 'btn btn-default' %>
+  <% end %>
+<% end %>
+
 <%= render "attributes", curation_concern: @presenter %>
 
   <div class="form-actions">
