@@ -29,7 +29,6 @@ module IuMetadata
           files_source = "/N/beryllium/srv/variations/scores-fixed/#{lookup_id}#{suffix}/"
         elsif files_lookup = scores_from_other_sources[lookup_id]
           files_source = "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/#{lookup_id}/"
-          @structure = {}
         else
           files_lookup = []
           files_source = nil
@@ -57,7 +56,6 @@ module IuMetadata
           logger.info("#{@local.source_metadata_identifier}: Variations XML type: #{@variations_type}")
           logger.info("#{@local.source_metadata_identifier}: Image files source: #{files_source || '(none)'}")
           logger.info("#{@local.source_metadata_identifier}: Specifying empty structure due to lack of image files") if files_lookup.empty?
-          logger.info("#{@local.source_metadata_identifier}: Specifying empty structure due to files coming from scores_from_other_sources folder") if files_source.to_s.match /other/
           logger.info("#{@local.source_metadata_identifier}: Specifying empty structure for XML type: blank") if @variations_type == 'blank'
         end
         # FIXME: catch case of structure has FEWER Keys than files

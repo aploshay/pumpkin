@@ -120,7 +120,11 @@ module IuMetadata
               if @files == variations_files
                 @logger.info "#{source_metadata_identifier}: Files found on server match specifiction in XML"
               elsif @files_source.match /other_sources/
-                @logger.info "#{source_metadata_identifier}: Files found on server do not match specifiction in XML, as expected for scores_from_other_sources content"
+                @logger.info "#{source_metadata_identifier}: Files found on server do not match specifiction in XML, as expected for scores_from_other_sources content.  Setting replacement filenames as pulled from XML."
+                @files.each_with_index do |file, i|
+                  file[:id] = variations_files[i][:id]
+                  file[:attributes][:source_metadata_identifier] = variations_files[i][:attributes][:source_metadata_identifier]
+                end
               else
                 @logger.warn "#{source_metadata_identifier}: Files found on server do not match those specified in XML, but scores-fixed content should match"
                 @logger.warn "#{source_metadata_identifier}: Retaining structure, but it should undergo review"
@@ -221,7 +225,7 @@ module IuMetadata
         normalized = file_node.xpath('FileName').first&.content.to_s.downcase.sub(/\.\w{3,4}/, '')
         if normalized.match(/^\d+$/)
           root = source_metadata_identifier.downcase
-          volume = 1
+          volume = 1 # FIXME: need better logic for multi-volume cases
           page = normalized
         else
           root, volume, page = normalized.split('-')
