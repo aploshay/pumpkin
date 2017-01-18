@@ -63,6 +63,7 @@ class IngestYAMLJob < ActiveJob::Base
     end
 
     def ingest_volumes(parent)
+      @volumes = []
       @yaml[:volumes].each do |volume|
         r = ScannedResource.new
         r.attributes = @yaml[:attributes][:default] if @yaml[:attributes].present? && @yaml[:attributes][:default].present?
@@ -75,13 +76,11 @@ class IngestYAMLJob < ActiveJob::Base
         ingest_files(parent: parent, resource: r, files: volume[:files])
         r.logical_order.order = map_fileids(volume[:structure])
         r.save!
-
-        parent.ordered_members << r
-        parent.save!
       end
+      parent.ordered_members << @volumes
+      parent.save!
     end
 
-# FIXME: check that setting membership also sets member_of on child
     def ingest_files(parent: nil, resource: nil, files: [])
       @file_sets = []
       files.each do |f|
@@ -101,12 +100,14 @@ class IngestYAMLJob < ActiveJob::Base
         yaml_to_repo_map[f[:id]] = file_set.id
         @file_sets << file_set
 
-        # FIXME: add representative association, along with thumbnail?
-        next unless f[:path] == thumbnail_path
+        next unless thumbnail_path.present? && f[:path] == thumbnail_path
         resource.thumbnail_id = file_set.id
+        resource.representative_id = file_set.id
         resource.save!
-        parent.thumbnail_id = file_set.id if parent
-        # FIXME: save parent?  add representative?
+        if parent
+          parent.thumbnail_id = file_set.id
+          parent.representative_id = file_set.id
+        end
       end
       if @file_association_method == 'batch'
         logger.info "Starting batch file_set association"
@@ -134,18 +135,18 @@ class IngestYAMLJob < ActiveJob::Base
       @thumbnail_path ||= @yaml[:thumbnail_path]
     end
 
-    # TESTING
+    # All below copied, modified from FileSetActor
         def attach_files_to_work(work, file_sets)
           acquire_lock_for(work.id) do
-            set_representative(work, file_sets.first) if file_sets.any?
-            set_thumbnail(work, file_sets.first) if file_sets.any?
+            set_representative(work, file_sets.first)
+            set_thumbnail(work, file_sets.first)
             # Ensure we have an up-to-date copy of the members association, so
             # that we append to the end of the list.
             work.reload unless work.new_record?
-            work.ordered_members = file_sets
+            work.ordered_members << file_sets
 
             # Save the work so the association between the work and the file_set is persisted (head_id)
-            work.save! # FIXME: added !
+            work.save!
           end
         end
 
