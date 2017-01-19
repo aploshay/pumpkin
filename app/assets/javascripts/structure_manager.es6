@@ -73,6 +73,8 @@ export default class StructureManager {
       let url = `${root_prefix}/concern/${element.attr("data-class-name")}/${element.attr("data-id")}/structure`
       let button = $(this)
       button.text("Saving..")
+// FIXME: does this prevent the path doubling?
+url = 'structure';
       button.addClass("disabled")
       $.ajax({
         type: "POST",
