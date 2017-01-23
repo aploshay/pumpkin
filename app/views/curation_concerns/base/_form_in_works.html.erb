@@ -1,0 +1,11 @@
+<% if true || params[:parent_id] %>
+  <h2>FIXME</h2>
+  <%= f.object.in_works_ids.inspect %>
+  <% if f.object.in_works_ids.empty? %>
+    No parent; want one?
+  <% end %>
+  <% (f.object.in_works_ids + [params[:parent_id]]).uniq.each do |work_id| %>
+    <%= f.input :in_works_ids, as: :hidden, input_html: { value: work_id, multiple: true } %>
+  <% end %>
+  <%= hidden_field_tag 'parent_id', params[:parent_id] %>
+<% end %>

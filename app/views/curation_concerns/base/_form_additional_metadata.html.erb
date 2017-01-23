@@ -1,0 +1,18 @@
+<fieldset class="optional prompt">
+  <legend>Additional Metadata</legend>
+  <%= f.input :portion_note, label: 'Portion Note',
+              as: :text, input_html: { rows: '2', type: 'textarea'} %>
+  <%= f.input :description, as: :text,
+              input_html: { rows: '5', type: 'textarea'} %>
+  <%= f.input :workflow_note, as: :multi_value %>
+  <%= f.input :nav_date, input_html: { class: 'timepicker' } %>
+  <% (PlumSchema.display_fields - [:creator, :series_title, :published, :publisher, :publication_place, :issued, :media, :call_number, :identifier, :responsibility_note, :sort_title, :lccn_call_number, :local_call_number]).each do |display_field| %>
+    <% begin %>
+      <%= f.input display_field, as: :multi_value %>
+    <% rescue %>
+      <%= "Error displaying: #{display_field}<br/>".html_safe %>
+    <% end %>
+  <% end %>
+  <%# f.input :architect %>
+
+</fieldset>
