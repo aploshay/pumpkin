@@ -1,18 +1,38 @@
 <fieldset class="optional prompt">
   <legend>Additional Metadata</legend>
-  <%= f.input :portion_note, label: 'Portion Note',
-              as: :text, input_html: { rows: '2', type: 'textarea'} %>
-  <%= f.input :description, as: :text,
-              input_html: { rows: '5', type: 'textarea'} %>
-  <%= f.input :workflow_note, as: :multi_value %>
-  <%= f.input :nav_date, input_html: { class: 'timepicker' } %>
-  <% (PlumSchema.display_fields - [:creator, :series_title, :published, :publisher, :publication_place, :issued, :media, :call_number, :identifier, :responsibility_note, :sort_title, :lccn_call_number, :local_call_number]).each do |display_field| %>
+  <% available_fields = PlumSchema.display_fields - [:has_model, :depositor, :date_uploaded, :date_modified, :relative_path, :import_url, :sort_title, :replaces, :physical_description, :published, :source_metadata] - [:portion_note, :rights_note, :start_canvas] %>
+  <% available_fields = PlumSchema.edit_fields %>
+  <div class="col-md-6" id="single-metadata"%>
+  <h2>Single-valued fields</h2>
+  <% @failed_fields = [] %>
+  <% single_fields = available_fields.select { |p| f.object.model_class.properties[p.to_s].try(:multiple?) == false }.map(&:to_sym) %>
+  <% single_fields.each do |display_field| %>
+    <% begin %>
+      <%= f.input display_field %>
+    <% rescue %>
+      <%= "Error displaying: #{display_field}<br/>".html_safe %>
+      <% @failed_fields << display_field %>
+    <% end %>
+  <% end %>
+  <%= "Failed fields: #{@failed_fields.join(', ')}" %>
+  </div>
+  <div class="col-md-6" id="multi-metadata"%>
+  <h2>Multi-valued Fields (<%= (available_fields - single_fields).size %>)</h2>
+  <% @failed_fields = [] %>
+  <% (available_fields - single_fields).each do |display_field| %>
     <% begin %>
       <%= f.input display_field, as: :multi_value %>
     <% rescue %>
       <%= "Error displaying: #{display_field}<br/>".html_safe %>
+      <% @failed_fields << display_field %>
     <% end %>
   <% end %>
-  <%# f.input :architect %>
-
+  <%= "Failed fields: #{@failed_fields.join(', ')}" %>
+  </div>
 </fieldset>
+<%# FIXME
+  remove :modified (alias for modified_date?)
+  remove portion_note, rights_note, start_canvas?
+  remove label?
+
+%>
