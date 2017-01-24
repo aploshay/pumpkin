@@ -1,25 +1,46 @@
+<% single_fields = PlumSchema.edit_fields.select { |p| !f.object.model_class.multiple?(p) }.map(&:to_sym) %>
+<% multi_fields = PlumSchema.edit_fields - single_fields %>
+<div class="row">
+  <% [{ header: 'Single-valued Metadata Fields',
+        id: 'single-metadata',
+        args: {},
+        fields: single_fields },
+      { header: 'Multi-valued Metadata Fields',
+        id: 'multi-metadata',
+        args: { as: :multi_value },
+        fields: multi_fields }].each do |fieldset| %>
+    <% if fieldset[:fields].any? %>
+      <div class="col-md-6">
+        <fieldset class="optional prompt">
+          <legend><%= fieldset[:header] %></legend>
+          <% fieldset[:fields].each do |display_field| %>
+          <% begin %>
+            <%= f.input display_field, **fieldset[:args] %>
+          <% rescue %>
+            <%= "Error displaying: #{display_field}<br/>".html_safe %>
+          <% end %>
+        <% end %>
+        </fieldset>
+      </div>
+    <% end %>
+  <% end %>
+</div>
+
 <fieldset class="optional prompt">
   <legend>Additional Metadata</legend>
-  <% available_fields = PlumSchema.display_fields - [:has_model, :depositor, :date_uploaded, :date_modified, :relative_path, :import_url, :sort_title, :replaces, :physical_description, :published, :source_metadata] - [:portion_note, :rights_note, :start_canvas] %>
-  <% available_fields = PlumSchema.edit_fields %>
   <div class="col-md-6" id="single-metadata"%>
-  <h2>Single-valued fields</h2>
-  <% @failed_fields = [] %>
-  <% single_fields = available_fields.select { |p| f.object.model_class.properties[p.to_s].try(:multiple?) == false }.map(&:to_sym) %>
+  <% single_fields = PlumSchema.edit_fields.select { |p| !f.object.model_class.multiple?(p) }.map(&:to_sym) %>
   <% single_fields.each do |display_field| %>
     <% begin %>
       <%= f.input display_field %>
     <% rescue %>
       <%= "Error displaying: #{display_field}<br/>".html_safe %>
-      <% @failed_fields << display_field %>
     <% end %>
   <% end %>
-  <%= "Failed fields: #{@failed_fields.join(', ')}" %>
   </div>
   <div class="col-md-6" id="multi-metadata"%>
-  <h2>Multi-valued Fields (<%= (available_fields - single_fields).size %>)</h2>
-  <% @failed_fields = [] %>
-  <% (available_fields - single_fields).each do |display_field| %>
+  <h2>Multi-valued Fields</h2>
+  <% (PlumSchema.edit_fields - single_fields).each do |display_field| %>
     <% begin %>
       <%= f.input display_field, as: :multi_value %>
     <% rescue %>
@@ -27,12 +48,5 @@
       <% @failed_fields << display_field %>
     <% end %>
   <% end %>
-  <%= "Failed fields: #{@failed_fields.join(', ')}" %>
   </div>
 </fieldset>
-<%# FIXME
-  remove :modified (alias for modified_date?)
-  remove portion_note, rights_note, start_canvas?
-  remove label?
-
-%>
