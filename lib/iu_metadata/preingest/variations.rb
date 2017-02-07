@@ -28,7 +28,7 @@ module IuMetadata
           suffix ||= ''
           files_source = "/N/beryllium/srv/variations/scores-fixed/#{lookup_id}#{suffix}/"
         elsif files_lookup = scores_from_other_sources[lookup_id]
-          files_source = "/N/beryllium/srv/variations/scores_from_other_sources/digitize/image/#{lookup_id}/"
+          files_source = "/N/beryllium/srv/variations/scores-fixed/_other_sources/#{lookup_id}/"
         else
           files_lookup = []
           files_source = nil

@@ -116,6 +116,17 @@ module IuMetadata
             when 1
               @logger.warn "#{source_metadata_identifier}: More files found on server (#{@files.size}) than specified in XML (#{variations_files.size})"
               @logger.warn "#{source_metadata_identifier}: Retaining structure, but there will be extra unused images" unless @structure.nil? || @structure.empty?
+              @logger.warn "Renaming, anyway..."
+              @files.each_with_index do |file, i|
+                if i < variations_files.size
+                  file[:id] = variations_files[i][:id]
+                  file[:attributes][:source_metadata_identifier] = variations_files[i][:attributes][:source_metadata_identifier]
+                else
+                  file[:id] = extra_filename(i)
+                  file[:attributes][:source_metadata_identifier] = file[:id].gsub(/\.\w{3,4}$/, '').upcase
+                  file[:attributes][:title] = Array.wrap("[#{i + 1}]")
+                end
+              end
             when 0
               if @files == variations_files
                 @logger.info "#{source_metadata_identifier}: Files found on server match specifiction in XML"
@@ -230,6 +241,13 @@ module IuMetadata
         else
           root, volume, page = normalized.split('-')
         end
+        "#{root}-#{volume.to_i}-#{page.rjust(4, '0')}.tif"
+      end
+
+      def extra_filename(i)
+        root = source_metadata_identifier.downcase
+        volume = 1 # FIXME: need better logic for multi-volume cases
+        page = (i + 1).to_s
         "#{root}-#{volume.to_i}-#{page.rjust(4, '0')}.tif"
       end
 
