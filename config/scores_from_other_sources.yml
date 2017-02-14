@@ -290,6 +290,11 @@ aap9569:
 - cov0001.tif
 - cov0002.tif
 - cov0003.tif
+- txt0001.tif
+- txt0002.tif
+- txt0003.tif
+- txt0004.tif
+- txt0005.tif
 - sco10001.tif
 - sco10002.tif
 - sco10003.tif
@@ -435,11 +440,6 @@ aap9569:
 - sco10143.tif
 - sco10144.tif
 - sco10145.tif
-- txt0001.tif
-- txt0002.tif
-- txt0003.tif
-- txt0004.tif
-- txt0005.tif
 - txt0147.tif
 - txt0148.tif
 - txt0149.tif
@@ -2069,6 +2069,10 @@ aaz0423:
 aaz2552:
 - cov0001.tif
 - cov0002.tif
+- txt0001.tif
+- txt0002.tif
+- txt0003.tif
+- txt0004.tif
 - sco10001.tif
 - sco10002.tif
 - sco10003.tif
@@ -2460,10 +2464,6 @@ aaz2552:
 - sco40389.tif
 - sco40390.tif
 - sco40391.tif
-- txt0001.tif
-- txt0002.tif
-- txt0003.tif
-- txt0004.tif
 aaz6254:
 - cov0001.tif
 - cov0002.tif
@@ -2888,6 +2888,15 @@ abf1877:
 - cov0002.tif
 - cov0003.tif
 - cov0004.tif
+- txt0005.tif
+- txt0006.tif
+- txt0007.tif
+- txt0008.tif
+- txt0009.tif
+- txt0010.tif
+- txt0011.tif
+- txt0012.tif
+- txt0013.tif
 - sco10001.tif
 - sco10002.tif
 - sco10003.tif
@@ -3059,15 +3068,6 @@ abf1877:
 - sco30169.tif
 - sco30170.tif
 - sco30171.tif
-- txt0005.tif
-- txt0006.tif
-- txt0007.tif
-- txt0008.tif
-- txt0009.tif
-- txt0010.tif
-- txt0011.tif
-- txt0012.tif
-- txt0013.tif
 abg2045:
 - cov0001.tif
 - sco10001.tif
@@ -3374,8 +3374,6 @@ abg6894:
 - txt0004.tif
 - txt0005.tif
 abg6909:
-- cov0001.tif
-- cov0002.tif
 - sco10001.tif
 - sco10002.tif
 - sco10003.tif
@@ -3507,6 +3505,8 @@ abg6909:
 - sco10129.tif
 - sco10130.tif
 - sco10131.tif
+- cov0001.tif
+- cov0002.tif
 - txt0001.tif
 - txt0002.tif
 - txt0003.tif
@@ -5161,7 +5161,6 @@ abq4096:
 - sco10362.tif
 abt8726:
 - cov0001.tif
-- cov0002.tif
 - cov1001.tif
 - cov2001.tif
 - sco10003.tif
@@ -5362,6 +5361,7 @@ abt8726:
 - sco20200.tif
 - sco20201.tif
 - sco20202.tif
+- cov0002.tif
 - txt0003.tif
 - txt0004.tif
 - txt0005.tif
@@ -5465,6 +5465,8 @@ abu7619:
 - cov0001.tif
 - cov0002.tif
 - cov0003.tif
+- txt0001.tif
+- txt0002.tif
 - sco10001.tif
 - sco10002.tif
 - sco10003.tif
@@ -5615,8 +5617,6 @@ abu7619:
 - sco10148.tif
 - sco10149.tif
 - sco10150.tif
-- txt0001.tif
-- txt0002.tif
 abv6439:
 - cove0001.tif
 - page0001.tif
@@ -5820,6 +5820,8 @@ abw5366:
 - cov0001.tif
 - cov0002.tif
 - cov0003.tif
+- txt0001.tif
+- txt0002.tif
 - sco10001.tif
 - sco10002.tif
 - sco10003.tif
@@ -5959,8 +5961,6 @@ abw5366:
 - sco10137.tif
 - sco10138.tif
 - sco10139.tif
-- txt0001.tif
-- txt0002.tif
 abw6630:
 - cov0001.tif
 - cov0002.tif
@@ -6665,10 +6665,6 @@ aby2369:
 aby3341:
 - cov0001.tif
 - cov0002.tif
-- cov1001.tif
-- cov1002.tif
-- cov2001.tif
-- cov2002.tif
 - sco10001.tif
 - sco10002.tif
 - sco10003.tif
@@ -7133,10 +7129,11 @@ aby3341:
 - sco10462.tif
 - sco10463.tif
 - sco10464.tif
+- cov1001.tif
+- cov1002.tif
+- cov2001.tif
+- cov2002.tif
 aby8822:
-- cov0000.tif
-- cov0001.tif
-- cov0002.tif
 - sco10003.tif
 - sco10004.tif
 - sco10005.tif
@@ -7183,10 +7180,10 @@ aby8822:
 - sco10046.tif
 - sco10047.tif
 - sco10048.tif
-aby8825:
 - cov0000.tif
 - cov0001.tif
 - cov0002.tif
+aby8825:
 - sco10003.tif
 - sco10004.tif
 - sco10005.tif
@@ -7243,6 +7240,9 @@ aby8825:
 - sco10056.tif
 - sco10057.tif
 - sco10058.tif
+- cov0000.tif
+- cov0001.tif
+- cov0002.tif
 - txt0001.tif
 - txt0002.tif
 - txt0003.tif
@@ -7442,7 +7442,6 @@ acf7280:
 - sco10054.tif
 - sco10055.tif
 acg4636:
-- cov0001.tif
 - sco10003.tif
 - sco10004.tif
 - sco10005.tif
@@ -7634,6 +7633,7 @@ acg4636:
 - sco10191.tif
 - sco10192.tif
 - sco10193.tif
+- cov0001.tif
 ach2563:
 - cov0001.tif
 - sco10001.tif
@@ -8153,10 +8153,8 @@ acu3898:
 - acu3898-01-69.tif
 - acu3898-01-70.tif
 acx1739:
-- cov1001.tif
-- cov1002.tif
-- cov2001.tif
 - cov2002.tif
+- txt2001.tif
 - sco10001.tif
 - sco10002.tif
 - sco10003.tif
@@ -8276,12 +8274,11 @@ acx1739:
 - sco20058.tif
 - sco20059.tif
 - sco20060.tif
+- cov1001.tif
+- cov1002.tif
+- cov2001.tif
 - txt1001.tif
-- txt2001.tif
 acx1750:
-- cov0000.tif
-- cov0001.tif
-- cov0002.tif
 - sco10003.tif
 - sco10004.tif
 - sco10005.tif
@@ -8321,6 +8318,9 @@ acx1750:
 - sco10039.tif
 - sco10040.tif
 - sco10041.tif
+- cov0000.tif
+- cov0001.tif
+- cov0002.tif
 - txt0001.tif
 - txt0002.tif
 - txt0003.tif
@@ -8517,9 +8517,10 @@ acy1886:
 - txt0156.tif
 - txt0158.tif
 ada1242:
-- cov0000.tif
 - cov0001.tif
 - cov0002.tif
+- txt0003.tif
+- txt0004.tif
 - sco10001.tif
 - sco10002.tif
 - sco10003.tif
@@ -8654,8 +8655,6 @@ ada1242:
 - sco10132.tif
 - sco10133.tif
 - sco10134.tif
-- txt0003.tif
-- txt0004.tif
 - txt0135.tif
 - txt0136.tif
 - txt0137.tif
@@ -8663,6 +8662,7 @@ ada1242:
 - txt0139.tif
 - txt0140.tif
 - txt0141.tif
+- cov0000.tif
 adb0631:
 - cov0001.tif
 - txt0003.tif
@@ -8833,6 +8833,10 @@ adb9086:
 adg7955:
 - cov0001.tif
 - cov0002.tif
+- txt0001.tif
+- txt0002.tif
+- txt0003.tif
+- txt0004.tif
 - sco10001.tif
 - sco10002.tif
 - sco10003.tif
@@ -9355,12 +9359,11 @@ adg7955:
 - sco30520.tif
 - sco30521.tif
 - sco30522.tif
+adg7991:
+- cov0001.tif
 - txt0001.tif
 - txt0002.tif
 - txt0003.tif
-- txt0004.tif
-adg7991:
-- cov0001.tif
 - sco10001.tif
 - sco10002.tif
 - sco10003.tif
@@ -9740,9 +9743,6 @@ adg7991:
 - sco10377.tif
 - sco10378.tif
 - sco10379.tif
-- txt0001.tif
-- txt0002.tif
-- txt0003.tif
 adh0843:
 - cov1001.tif
 - cov1003.tif
@@ -10437,10 +10437,20 @@ adh0888:
 - sco10311.tif
 adh1164:
 - cov0000.tif
-- cov0001.tif
 - cov0002.tif
-- cov0125.tif
-- cov0126.tif
+- txt0001.tif
+- txt0002.tif
+- txt0003.tif
+- txt0004.tif
+- txt0005.tif
+- txt0006.tif
+- txt0007.tif
+- txt0008.tif
+- txt0009.tif
+- txt0010.tif
+- txt0011.tif
+- txt0012.tif
+- txt0013.tif
 - sco10001.tif
 - sco10002.tif
 - sco10003.tif
@@ -10565,6 +10575,12 @@ adh1164:
 - sco10122.tif
 - sco10123.tif
 - sco10124.tif
+- cov0001.tif
+- cov0125.tif
+- cov0126.tif
+adh1166:
+- cov0000.tif
+- cov0002.tif
 - txt0001.tif
 - txt0002.tif
 - txt0003.tif
@@ -10577,11 +10593,6 @@ adh1164:
 - txt0010.tif
 - txt0011.tif
 - txt0012.tif
-- txt0013.tif
-adh1166:
-- cov0000.tif
-- cov0001.tif
-- cov0002.tif
 - sco10001.tif
 - sco10002.tif
 - sco10003.tif
@@ -10758,22 +10769,11 @@ adh1166:
 - sco40174.tif
 - sco40175.tif
 - sco40176.tif
-- txt0001.tif
-- txt0002.tif
-- txt0003.tif
-- txt0004.tif
-- txt0005.tif
-- txt0006.tif
-- txt0007.tif
-- txt0008.tif
-- txt0009.tif
-- txt0010.tif
-- txt0011.tif
-- txt0012.tif
 - txt0177.tif
 - txt0178.tif
 - txt0179.tif
 - txt0180.tif
+- cov0001.tif
 adm3533:
 - cov0001.tif
 - txt0002.tif
@@ -10784,7 +10784,6 @@ adm3533:
 - txt0007.tif
 - txt0008.tif
 adn1061:
-- cov0001.tif
 - sco10001.tif
 - sco10002.tif
 - sco10003.tif
@@ -10829,6 +10828,7 @@ adn1061:
 - sco10042.tif
 - sco10043.tif
 - sco10044.tif
+- cov0001.tif
 adp2358:
 - cov0001.tif
 - sco10001.tif
@@ -10888,9 +10888,10 @@ adp2358:
 - sco10055.tif
 - sco10056.tif
 adp6080:
-- cov0000.tif
 - cov0001.tif
-- cov0002.tif
+- txt0001.tif
+- txt0002.tif
+- txt0003.tif
 - sco10001.tif
 - sco10002.tif
 - sco10003.tif
@@ -11206,9 +11207,8 @@ adp6080:
 - sco10313.tif
 - sco10314.tif
 - sco10315.tif
-- txt0001.tif
-- txt0002.tif
-- txt0003.tif
+- cov0000.tif
+- cov0002.tif
 adp7850:
 - cov0001.tif
 - cov0002.tif
@@ -11522,9 +11522,6 @@ adp7850:
 - txt0006.tif
 - txt0007.tif
 adp7906:
-- cov0000.tif
-- cov0001.tif
-- cov0002.tif
 - sco10003.tif
 - sco10004.tif
 - sco10005.tif
@@ -11557,14 +11554,13 @@ adp7906:
 - sco10032.tif
 - sco10033.tif
 - sco10034.tif
+- cov0000.tif
+- cov0001.tif
+- cov0002.tif
 - txt0001.tif
 - txt0002.tif
 - txt0003.tif
 adr4498:
-- cov0001.tif
-- cov0002.tif
-- cov1001.tif
-- cov2001.tif
 - sco10003.tif
 - sco10004.tif
 - sco10005.tif
@@ -11819,6 +11815,10 @@ adr4498:
 - sco20256.tif
 - sco20257.tif
 - sco20258.tif
+- cov0001.tif
+- cov0002.tif
+- cov1001.tif
+- cov2001.tif
 - txt0001.tif
 ads6783:
 - cov0001.tif
@@ -12266,13 +12266,7 @@ ads6783:
 - txt0437.tif
 - txt0438.tif
 adu9084:
-- cov1000.tif
-- cov1001.tif
-- cov2000.tif
-- cov2001.tif
-- cov3000.tif
-- cov3001.tif
-- sco10001.tif
+- txt1001.tif
 - sco10002.tif
 - sco10003.tif
 - sco10004.tif
@@ -12392,6 +12386,7 @@ adu9084:
 - sco10118.tif
 - sco10119.tif
 - sco10120.tif
+- txt2001.tif
 - sco20005.tif
 - sco20006.tif
 - sco20007.tif
@@ -12509,7 +12504,7 @@ adu9084:
 - sco20119.tif
 - sco20120.tif
 - sco20121.tif
-- sco30001.tif
+- txt3001.tif
 - sco30002.tif
 - sco30003.tif
 - sco30004.tif
@@ -12545,16 +12540,21 @@ adu9084:
 - sco30034.tif
 - sco30035.tif
 - sco30036.tif
-- txt1001.tif
-- txt2001.tif
+- txt3003.tif
+- txt3004.tif
+- cov1000.tif
+- cov1001.tif
+- cov2000.tif
+- cov2001.tif
+- cov3000.tif
+- cov3001.tif
+- sco10001.tif
+- sco30001.tif
 - txt2002.tif
 - txt2003.tif
 - txt2004.tif
 - txt2122.tif
 - txt2123.tif
-- txt3001.tif
-- txt3003.tif
-- txt3004.tif
 adv0220:
 - cov0001.tif
 - end0077.tif
@@ -12634,9 +12634,7 @@ adv0220:
 - txt0074.tif
 - txt0075.tif
 ady0407:
-- cov0000.tif
 - cov0001.tif
-- cov0002.tif
 - sco10002.tif
 - sco10003.tif
 - sco10004.tif
@@ -12646,11 +12644,11 @@ ady0407:
 - sco10008.tif
 - sco10009.tif
 - sco10010.tif
+- cov0000.tif
+- cov0002.tif
 - txt0001.tif
 - txt0002.tif
 adz1011:
-- cov0001.tif
-- cov0002.tif
 - sco10001.tif
 - sco10002.tif
 - sco10003.tif
@@ -12738,10 +12736,11 @@ adz1011:
 - sco10085.tif
 - sco10086.tif
 - sco10087.tif
-adz1014:
-- cov0000.tif
 - cov0001.tif
 - cov0002.tif
+adz1014:
+- cov0001.tif
+- txt0001.tif
 - sco10003.tif
 - sco10004.tif
 - sco10005.tif
@@ -12897,7 +12896,8 @@ adz1014:
 - sco10155.tif
 - sco10156.tif
 - sco10157.tif
-- txt0001.tif
+- cov0000.tif
+- cov0002.tif
 aea0660:
 - cov0001.tif
 - cov0002.tif
@@ -13199,9 +13199,7 @@ aea7621:
 - txt0006.tif
 - txt0007.tif
 aec6455:
-- cov0000.tif
 - cov0001.tif
-- cov0002.tif
 - sco10001.tif
 - sco10002.tif
 - sco10003.tif
@@ -13214,11 +13212,10 @@ aec6455:
 - sco10010.tif
 - sco10011.tif
 - sco10012.tif
+- cov0000.tif
+- cov0002.tif
 - txt0001.tif
 aec6463:
-- cov0000.tif
-- cov0001.tif
-- cov0002.tif
 - sco10003.tif
 - sco10004.tif
 - sco10005.tif
@@ -13240,11 +13237,11 @@ aec6463:
 - sco10021.tif
 - sco10022.tif
 - sco10023.tif
-- txt0002.tif
-aec6474:
 - cov0000.tif
 - cov0001.tif
 - cov0002.tif
+- txt0002.tif
+aec6474:
 - sco10001.tif
 - sco10002.tif
 - sco10003.tif
@@ -13282,6 +13279,9 @@ aec6474:
 - sco10035.tif
 - sco10036.tif
 - sco10037.tif
+- cov0000.tif
+- cov0001.tif
+- cov0002.tif
 - txt0001.tif
 aec6477:
 - cov0001.tif
@@ -13333,7 +13333,6 @@ aec6477:
 - sco10046.tif
 aef4439:
 - cov0001.tif
-- cov0002.tif
 - sco10001.tif
 - sco10002.tif
 - sco10003.tif
@@ -13779,6 +13778,7 @@ aef4439:
 - sco10443.tif
 - sco10444.tif
 - sco10445.tif
+- cov0002.tif
 - txt0001.tif
 aef5651:
 - cov0000.tif
@@ -14039,10 +14039,6 @@ aef8378:
 - txt0002.tif
 - txt0003.tif
 aeh1598:
-- cov0000.tif
-- cov0001.tif
-- cov0002.tif
-- cov0003.tif
 - sco10003.tif
 - sco10004.tif
 - sco10005.tif
@@ -14100,6 +14096,10 @@ aeh1598:
 - sco10057.tif
 - sco10058.tif
 - sco10059.tif
+- cov0000.tif
+- cov0001.tif
+- cov0002.tif
+- cov0003.tif
 aeh5883:
 - cov0001.tif
 - txt0002.tif
@@ -14430,8 +14430,7 @@ aeh8606:
 aek3910:
 - cov1001.tif
 - cov1002.tif
-- cov2001.tif
-- cov2002.tif
+- txt1001.tif
 - sco10001.tif
 - sco10002.tif
 - sco10003.tif
@@ -14748,6 +14747,9 @@ aek3910:
 - sco10314.tif
 - sco10315.tif
 - sco10316.tif
+- cov2001.tif
+- cov2002.tif
+- txt2001.tif
 - sco20001.tif
 - sco20002.tif
 - sco20003.tif
@@ -15075,8 +15077,6 @@ aek3910:
 - sco20325.tif
 - sco20326.tif
 - sco20327.tif
-- txt1001.tif
-- txt2001.tif
 - txt2002.tif
 - txt2003.tif
 - txt2004.tif
@@ -15510,10 +15510,6 @@ aem4842:
 - txt0108.tif
 - txt0110.tif
 aep5362:
-- cov0000.tif
-- cov0001.tif
-- cov0002.tif
-- sco10003.tif
 - sco10004.tif
 - sco10005.tif
 - sco10006.tif
@@ -15534,6 +15530,10 @@ aep5362:
 - sco10021.tif
 - sco10022.tif
 - sco10023.tif
+- cov0000.tif
+- cov0001.tif
+- cov0002.tif
+- sco10003.tif
 aer3908:
 - cov0001.tif
 - sco10003.tif
@@ -16040,7 +16040,6 @@ aer3910:
 - sco10152.tif
 - sco10153.tif
 aer3911:
-- cov0001.tif
 - sco10003.tif
 - sco10004.tif
 - sco10005.tif
@@ -16161,9 +16160,13 @@ aer3911:
 - sco10120.tif
 - sco10121.tif
 - sco10122.tif
+- cov0001.tif
 aeu6026:
 - cov0001.tif
 - cov0002.tif
+- txt0001.tif
+- txt0002.tif
+- txt0003.tif
 - sco10007.tif
 - sco10008.tif
 - sco10009.tif
@@ -16524,13 +16527,7 @@ aeu6026:
 - sco10364.tif
 - sco10365.tif
 - sco10366.tif
-- txt0001.tif
-- txt0002.tif
-- txt0003.tif
 aeu6051:
-- cov0001.tif
-- cov0003.tif
-- cov0014.tif
 - sco10002.tif
 - sco10003.tif
 - sco10004.tif
@@ -16541,10 +16538,10 @@ aeu6051:
 - sco10009.tif
 - sco10010.tif
 - sco10011.tif
-aeu6054:
-- cov0000.tif
 - cov0001.tif
-- cov0002.tif
+- cov0003.tif
+- cov0014.tif
+aeu6054:
 - sco10002.tif
 - sco10003.tif
 - sco10004.tif
@@ -16563,10 +16560,11 @@ aeu6054:
 - sco10017.tif
 - sco10018.tif
 - sco10019.tif
-aey5010:
+- cov0000.tif
 - cov0001.tif
+- cov0002.tif
+aey5010:
 - cov1001.tif
-- cov2001.tif
 - sco10001.tif
 - sco10002.tif
 - sco10003.tif
@@ -16964,6 +16962,8 @@ aey5010:
 - sco10395.tif
 - sco10396.tif
 - sco10397.tif
+- cov0001.tif
+- cov2001.tif
 - txt0005.tif
 - txt0006.tif
 - txt0007.tif
@@ -17333,6 +17333,11 @@ afc2434:
 afg2057:
 - cov0001.tif
 - cov0002.tif
+- txt0001.tif
+- txt0002.tif
+- txt0003.tif
+- txt0004.tif
+- txt0005.tif
 - sco10001.tif
 - sco10002.tif
 - sco10003.tif
@@ -17481,6 +17486,7 @@ afg2057:
 - sco10146.tif
 - sco10147.tif
 - sco10148.tif
+- txt2001.tif
 - sco20149.tif
 - sco20150.tif
 - sco20151.tif
@@ -17522,9 +17528,9 @@ afg2057:
 - sco20187.tif
 - sco20188.tif
 - sco20189.tif
-- sco20190.tif
 - sco20190a.tif
 - sco20190b.tif
+- sco20190.tif
 - sco20191.tif
 - sco20192.tif
 - sco20193.tif
@@ -17582,6 +17588,7 @@ afg2057:
 - sco20245.tif
 - sco20246.tif
 - sco20247.tif
+- txt3001.tif
 - sco30248.tif
 - sco30249.tif
 - sco30250.tif
@@ -17677,19 +17684,7 @@ afg2057:
 - sco30340.tif
 - sco30341.tif
 - sco30342.tif
-- txt0001.tif
-- txt0002.tif
-- txt0003.tif
-- txt0004.tif
-- txt0005.tif
-- txt2001.tif
-- txt3001.tif
 afh9815:
-- cov0001.tif
-- cov0002.tif
-- cov0003.tif
-- sco10001.tif
-- sco10002.tif
 - sco10003.tif
 - sco10004.tif
 - sco10005.tif
@@ -17940,10 +17935,14 @@ afh9815:
 - sco10250.tif
 - sco10251.tif
 - sco10252.tif
-afh9858:
-- cov0000.tif
 - cov0001.tif
 - cov0002.tif
+- cov0003.tif
+- sco10001.tif
+- sco10002.tif
+afh9858:
+- cov0001.tif
+- txt0001.tif
 - sco10001.tif
 - sco10002.tif
 - sco10003.tif
@@ -18039,7 +18038,8 @@ afh9858:
 - sco10093.tif
 - sco10094.tif
 - sco10095.tif
-- txt0001.tif
+- cov0000.tif
+- cov0002.tif
 afj9433:
 - cov1001.tif
 - cov1002.tif
@@ -18713,9 +18713,6 @@ afn9622:
 - txt1001.tif
 - txt2001.tif
 afs6140:
-- cov0000.tif
-- cov0001.tif
-- cov0002.tif
 - sco10002.tif
 - sco10003.tif
 - sco10004.tif
@@ -18726,11 +18723,11 @@ afs6140:
 - sco10009.tif
 - sco20002.tif
 - sco20003.tif
-- txt0001.tif
-afs6147:
 - cov0000.tif
 - cov0001.tif
 - cov0002.tif
+- txt0001.tif
+afs6147:
 - sco10003.tif
 - sco10004.tif
 - sco10005.tif
@@ -18809,12 +18806,11 @@ afs6147:
 - sco10078.tif
 - sco10079.tif
 - sco10080.tif
-- txt0001.tif
-afs6163:
+- cov0000.tif
 - cov0001.tif
 - cov0002.tif
-- cov0003.tif
-- cov0004.tif
+- txt0001.tif
+afs6163:
 - sco10001.tif
 - sco10002.tif
 - sco10003.tif
@@ -18822,6 +18818,10 @@ afs6163:
 - sco10005.tif
 - sco20002.tif
 - sco20003.tif
+- cov0001.tif
+- cov0002.tif
+- cov0003.tif
+- cov0004.tif
 afv5632:
 - cov0001.tif
 - cov0050.tif
@@ -18874,9 +18874,6 @@ afv5632:
 - txt0001.tif
 - txt0002.tif
 agk4828:
-- cov0002.tif
-- cov0003.tif
-- cov0004.tif
 - sco10001.tif
 - sco10002.tif
 - sco10003.tif
@@ -19048,6 +19045,9 @@ agk4828:
 - sco10169.tif
 - sco10170.tif
 - sco10171.tif
+- cov0002.tif
+- cov0003.tif
+- cov0004.tif
 - txt0005.tif
 - txt0006.tif
 - txt0007.tif
@@ -19360,21 +19360,6 @@ agv4935:
 - txt0170.tif
 - txt0171.tif
 agy4923:
-- cov1000.tif
-- cov1001.tif
-- cov1002.tif
-- cov2000.tif
-- cov2001.tif
-- cov2002.tif
-- cov3000.tif
-- cov3001.tif
-- cov3002.tif
-- cov4000.tif
-- cov4001.tif
-- cov4002.tif
-- cov5000.tif
-- cov5001.tif
-- cov5002.tif
 - sco10003.tif
 - sco10004.tif
 - sco10005.tif
@@ -19545,6 +19530,21 @@ agy4923:
 - sco50017.tif
 - sco50018.tif
 - sco50019.tif
+- cov1000.tif
+- cov1001.tif
+- cov1002.tif
+- cov2000.tif
+- cov2001.tif
+- cov2002.tif
+- cov3000.tif
+- cov3001.tif
+- cov3002.tif
+- cov4000.tif
+- cov4001.tif
+- cov4002.tif
+- cov5000.tif
+- cov5001.tif
+- cov5002.tif
 - txt1002.tif
 - txt1003.tif
 - txt2002.tif
@@ -19552,7 +19552,6 @@ agy4923:
 - txt3003.tif
 - txt4002.tif
 agy6203:
-- cov0001.tif
 - sco10001.tif
 - sco10002.tif
 - sco10003.tif
@@ -20080,6 +20079,7 @@ agy6203:
 - sco10525.tif
 - sco10526.tif
 - sco10527.tif
+- cov0001.tif
 - txt0001.tif
 - txt0002.tif
 - txt0003.tif
@@ -20096,6 +20096,18 @@ aha1209:
 - cov0001.tif
 - cov0002.tif
 - cov0003.tif
+- txt0003.tif
+- txt0004.tif
+- txt0005.tif
+- txt0006.tif
+- txt0007.tif
+- txt0008.tif
+- txt0009.tif
+- txt0010.tif
+- txt0011.tif
+- txt0012.tif
+- txt0013.tif
+- txt0014.tif
 - sco10001.tif
 - sco10002.tif
 - sco10003.tif
@@ -20358,20 +20370,11 @@ aha1209:
 - sco20260.tif
 - sco20261.tif
 - sco20262.tif
-- txt0003.tif
-- txt0004.tif
-- txt0005.tif
-- txt0006.tif
-- txt0007.tif
-- txt0008.tif
-- txt0009.tif
-- txt0010.tif
-- txt0011.tif
-- txt0012.tif
-- txt0013.tif
-- txt0014.tif
 aha1738:
 - cov0001.tif
+- txt0001.tif
+- txt0002.tif
+- txt0003.tif
 - sco10001.tif
 - sco10002.tif
 - sco10003.tif
@@ -20872,9 +20875,6 @@ aha1738:
 - sco50498.tif
 - sco50499.tif
 - sco50500.tif
-- txt0001.tif
-- txt0002.tif
-- txt0003.tif
 aha2917:
 - cov1005.tif
 - cov1006.tif
@@ -22042,9 +22042,7 @@ ahb9881:
 - sco40050.tif
 - txt4001.tif
 ahb9900:
-- cov0000.tif
 - cov0001.tif
-- cov0002.tif
 - sco10001.tif
 - sco10002.tif
 - sco10003.tif
@@ -22125,6 +22123,8 @@ ahb9900:
 - sco60010.tif
 - sco60011.tif
 - sco60012.tif
+- cov0000.tif
+- cov0002.tif
 - txt0001.tif
 - txt0002.tif
 - txt0003.tif
@@ -22135,9 +22135,7 @@ ahb9900:
 - txt0008.tif
 - txt0009.tif
 ahb9912:
-- cov0000.tif
 - cov0001.tif
-- cov0002.tif
 - sco10001.tif
 - sco10002.tif
 - sco10003.tif
@@ -22168,6 +22166,8 @@ ahb9912:
 - sco10028.tif
 - sco10029.tif
 - sco10030.tif
+- cov0000.tif
+- cov0002.tif
 ahb9918:
 - cov0000.tif
 - cov0001.tif
@@ -22411,7 +22411,6 @@ ahb9976:
 - txt0004.tif
 - txt0005.tif
 ahb9985:
-- cov0000.tif
 - cov0001.tif
 - sco10003.tif
 - sco10004.tif
@@ -22670,15 +22669,13 @@ ahb9985:
 - sco10257.tif
 - sco10258.tif
 - sco10259.tif
+- cov0000.tif
 - txt0002.tif
 - txt0003.tif
 - txt0004.tif
 - txt0005.tif
 - txt0006.tif
 ahd9113:
-- cov0001.tif
-- cov0002.tif
-- cov0003.tif
 - sco10002.tif
 - sco10003.tif
 - sco10004.tif
@@ -22689,6 +22686,9 @@ ahd9113:
 - sco10009.tif
 - sco10010.tif
 - sco10011.tif
+- cov0001.tif
+- cov0002.tif
+- cov0003.tif
 - txt0001.tif
 ahm2391:
 - cov0001.tif
@@ -22797,8 +22797,6 @@ ahm2391:
 - txt0101.tif
 - txt0102.tif
 ahn2034:
-- cov0000.tif
-- cov0001.tif
 - sco10002.tif
 - sco10003.tif
 - sco10004.tif
@@ -22830,11 +22828,9 @@ ahn2034:
 - sco10030.tif
 - sco10031.tif
 - sco10032.tif
-ahp5955:
+- cov0000.tif
 - cov0001.tif
-- cov0002.tif
-- cov0003.tif
-- cov0004.tif
+ahp5955:
 - sco10003.tif
 - sco10004.tif
 - sco10005.tif
@@ -22896,11 +22892,11 @@ ahp5955:
 - sco10061.tif
 - sco10062.tif
 - sco10063.tif
-ahp5976:
-- cov0000.tif
 - cov0001.tif
 - cov0002.tif
 - cov0003.tif
+- cov0004.tif
+ahp5976:
 - sco10001.tif
 - sco10002.tif
 - sco10003.tif
@@ -23145,6 +23141,10 @@ ahp5976:
 - sco10242.tif
 - sco10243.tif
 - sco10244.tif
+- cov0000.tif
+- cov0001.tif
+- cov0002.tif
+- cov0003.tif
 - txt0001.tif
 - txt0002.tif
 aht9796:
@@ -23330,7 +23330,6 @@ aht9796:
 - txt0002.tif
 - txt0003.tif
 ajc2722:
-- cov0001.tif
 - sco10001.tif
 - sco10002.tif
 - sco10003.tif
@@ -23370,6 +23369,7 @@ ajc2722:
 - sco10037.tif
 - sco10038.tif
 - sco10039.tif
+- cov0001.tif
 - txt0001.tif
 - txt0002.tif
 - txt0003.tif
@@ -23441,9 +23441,7 @@ aje5988:
 - txt0002.tif
 - txt0003.tif
 aje7079:
-- cov0000.tif
 - cov0001.tif
-- cov0002.tif
 - sco10003.tif
 - sco10004.tif
 - sco10005.tif
@@ -23483,6 +23481,8 @@ aje7079:
 - sco10039.tif
 - sco10040.tif
 - sco10041.tif
+- cov0000.tif
+- cov0002.tif
 - txt0001.tif
 - txt0002.tif
 - txt0003.tif
@@ -24131,11 +24131,12 @@ ajz0974:
 - txt0007.tif
 - txt0008.tif
 ajz8076:
-- cov1001.tif
 - cov1002.tif
 - cov1003.tif
 - cov1004.tif
+- cov1004a.tif
 - cov1005.tif
+- cov1005a.tif
 - cov1006.tif
 - cov1007.tif
 - cov1008.tif
@@ -24276,9 +24277,12 @@ ajz8076:
 - sco10084.tif
 - sco10085.tif
 - sco10086.tif
+- cov1001.tif
 akh8731:
 - cov0001.tif
 - cov0002.tif
+- txt0001.tif
+- txt0002.tif
 - sco10001.tif
 - sco10002.tif
 - sco10003.tif
@@ -24365,8 +24369,6 @@ akh8731:
 - sco40084.tif
 - sco40085.tif
 - sco40086.tif
-- txt0001.tif
-- txt0002.tif
 akh8735:
 - cov0001.tif
 - cov0002.tif
@@ -24457,10 +24459,9 @@ akh8735:
 - txt0005.tif
 - txt0006.tif
 - txt0007.tif
-baj1758: 
+baj1758:
 - cov0001.tif
 - cov0002.tif
-- txt0001.tif
 - sco10001.tif
 - sco10002.tif
 - sco10003.tif
@@ -24521,10 +24522,8 @@ baj1758:
 - sco10058.tif
 - sco10059.tif
 - sco10060.tif
+- txt0001.tif
 akh8764:
-- cov0000.tif
-- cov0001.tif
-- cov0002.tif
 - sco10003.tif
 - sco10004.tif
 - sco10005.tif
@@ -24538,6 +24537,9 @@ akh8764:
 - sco10013.tif
 - sco10014.tif
 - sco10015.tif
+- cov0000.tif
+- cov0001.tif
+- cov0002.tif
 - txt0001.tif
 - txt0002.tif
 akj7165:
@@ -24565,6 +24567,11 @@ akj7165:
 akn9800:
 - cov0001.tif
 - cov0002.tif
+- txt0003.tif
+- txt0004.tif
+- txt0005.tif
+- txt0006.tif
+- txt0007.tif
 - sco10001.tif
 - sco10002.tif
 - sco10003.tif
@@ -24987,13 +24994,19 @@ akn9800:
 - sco10420.tif
 - sco10421.tif
 - sco10422.tif
+aks3433:
+- cov0001.tif
+- txt0001.tif
+- txt0002.tif
 - txt0003.tif
 - txt0004.tif
 - txt0005.tif
 - txt0006.tif
 - txt0007.tif
-aks3433:
-- cov0001.tif
+- txt0008.tif
+- txt0009.tif
+- txt0010.tif
+- txt0011.tif
 - sco10001.tif
 - sco10002.tif
 - sco10003.tif
@@ -25147,21 +25160,7 @@ aks3433:
 - sco10151.tif
 - sco10152.tif
 - sco10153.tif
-- txt0001.tif
-- txt0002.tif
-- txt0003.tif
-- txt0004.tif
-- txt0005.tif
-- txt0006.tif
-- txt0007.tif
-- txt0008.tif
-- txt0009.tif
-- txt0010.tif
-- txt0011.tif
 aks4350:
-- cov0000.tif
-- cov0001.tif
-- cov0002.tif
 - sco10002.tif
 - sco10003.tif
 - sco10004.tif
@@ -25187,11 +25186,16 @@ aks4350:
 - sco10024.tif
 - sco10025.tif
 - sco10026.tif
+- cov0000.tif
+- cov0001.tif
+- cov0002.tif
 - txt0001.tif
 - txt0002.tif
 akx3424:
 - cov0001.tif
 - cov0002.tif
+- txt0001.tif
+- txt0002.tif
 - sco10001.tif
 - sco10002.tif
 - sco10003.tif
@@ -25281,12 +25285,9 @@ akx3424:
 - sco40087.tif
 - sco40088.tif
 - sco40089.tif
+ald4111:
 - txt0001.tif
 - txt0002.tif
-ald4111:
-- cov0000.tif
-- cov0001.tif
-- cov0002.tif
 - sco10001.tif
 - sco10002.tif
 - sco10003.tif
@@ -25644,8 +25645,9 @@ ald4111:
 - sco10355.tif
 - sco10356.tif
 - sco10357.tif
-- txt0001.tif
-- txt0002.tif
+- cov0000.tif
+- cov0001.tif
+- cov0002.tif
 alj7380:
 - cov1001.tif
 - cov1002.tif
@@ -26825,9 +26827,8 @@ alj7380:
 - txt2006.tif
 - txt2007.tif
 alr0754:
-- cov0000.tif
 - cov0001.tif
-- cov0002.tif
+- txt0001.tif
 - sco10001.tif
 - sco10002.tif
 - sco10003.tif
@@ -26996,7 +26997,8 @@ alr0754:
 - sco10166.tif
 - sco10167.tif
 - sco10168.tif
-- txt0001.tif
+- cov0000.tif
+- cov0002.tif
 alr1946:
 - cov0000.tif
 - cov0001.tif
@@ -27075,10 +27077,7 @@ alr1946:
 - txt0003.tif
 - txt0004.tif
 alr1958:
-- cov0000.tif
 - cov0001.tif
-- cov2001.tif
-- cov3001.tif
 - sco10003.tif
 - sco10004.tif
 - sco10005.tif
@@ -27101,6 +27100,7 @@ alr1958:
 - sco10022.tif
 - sco10023.tif
 - sco10024.tif
+- cov2001.tif
 - sco20027.tif
 - sco20028.tif
 - sco20029.tif
@@ -27136,6 +27136,7 @@ alr1958:
 - sco20059.tif
 - sco20060.tif
 - sco20061.tif
+- cov3001.tif
 - sco30065.tif
 - sco30066.tif
 - sco30067.tif
@@ -27168,6 +27169,7 @@ alr1958:
 - sco30094.tif
 - sco30095.tif
 - sco30096.tif
+- cov0000.tif
 - txt0001.tif
 - txt0002.tif
 - txt0003.tif
@@ -27180,9 +27182,7 @@ alr1958:
 - txt0010.tif
 - txt0011.tif
 alr1961:
-- cov0000.tif
 - cov0001.tif
-- cov0002.tif
 - sco10003.tif
 - sco10004.tif
 - sco10005.tif
@@ -27299,6 +27299,8 @@ alr1961:
 - sco10116.tif
 - sco10117.tif
 - sco10118.tif
+- cov0000.tif
+- cov0002.tif
 alr1966:
 - cov1001.tif
 - cov1002.tif
@@ -27509,7 +27511,6 @@ alr1966:
 - txt1002.tif
 - txt1003.tif
 alr2130:
-- cov0001.tif
 - sco10003.tif
 - sco10004.tif
 - sco10005.tif
@@ -27651,6 +27652,7 @@ alr2130:
 - sco10141.tif
 - sco10142.tif
 - sco10143.tif
+- cov0001.tif
 alr3925:
 - cov0000.tif
 - cov0001.tif
@@ -28368,8 +28370,6 @@ bae5245:
 - txt0005.tif
 - txt0006.tif
 bae7451:
-- cov0001.tif
-- cov0002.tif
 - sco10003.tif
 - sco10004.tif
 - sco10005.tif
@@ -28637,6 +28637,8 @@ bae7451:
 - sco10267.tif
 - sco10268.tif
 - sco10269.tif
+- cov0001.tif
+- cov0002.tif
 - txt0001.tif
 - txt0002.tif
 bae9210:
@@ -29561,6 +29563,9 @@ baf2400:
 baf2619:
 - cov0001.tif
 - cov0002.tif
+- txt0001.tif
+- txt0002.tif
+- txt0003.tif
 - sco10001.tif
 - sco10002.tif
 - sco10003.tif
@@ -29725,9 +29730,6 @@ baf2619:
 - sco10162.tif
 - sco10163.tif
 - sco10164.tif
-- txt0001.tif
-- txt0002.tif
-- txt0003.tif
 baf2980:
 - cov0001.tif
 - cov0002.tif
@@ -30020,7 +30022,6 @@ baf4113:
 - txt0116.tif
 - txt0117.tif
 baf6137:
-- cov0001.tif
 - sco10001.tif
 - sco10002.tif
 - sco10003.tif
@@ -30375,6 +30376,7 @@ baf6137:
 - sco10352.tif
 - sco10353.tif
 - sco10354.tif
+- cov0001.tif
 - txt0003.tif
 - txt0004.tif
 - txt0355.tif
@@ -30611,6 +30613,9 @@ baf6603:
 - txt4006.tif
 baf7511:
 - cov0001.tif
+- txt0001.tif
+- txt0002.tif
+- txt0003.tif
 - sco10001.tif
 - sco10002.tif
 - sco10003.tif
@@ -31047,9 +31052,6 @@ baf7511:
 - sco10434.tif
 - sco10435.tif
 - sco10436.tif
-- txt0001.tif
-- txt0002.tif
-- txt0003.tif
 baf7658:
 - cov1001.tif
 - cov1002.tif
@@ -31678,6 +31680,8 @@ baf7658:
 - txt1003.tif
 baf9827:
 - cov0001.tif
+- txt10001.tif
+- txt10002.tif
 - sco10001.tif
 - sco10002.tif
 - sco10003.tif
@@ -31845,8 +31849,6 @@ baf9827:
 - sco10165.tif
 - sco10166.tif
 - sco10167.tif
-- txt10001.tif
-- txt10002.tif
 bag0118:
 - cov1001.tif
 - cov1003.tif
@@ -32097,6 +32099,8 @@ bag0348:
 bag1293:
 - cov0001.tif
 - cov0002.tif
+- txt0001.tif
+- txt0002.tif
 - sco10001.tif
 - sco10002.tif
 - sco10003.tif
@@ -32245,8 +32249,6 @@ bag1293:
 - sco40146.tif
 - sco40147.tif
 - sco40148.tif
-- txt0001.tif
-- txt0002.tif
 bag7054:
 - cov0001.tif
 - sco10002.tif
@@ -32374,6 +32376,7 @@ bag7054:
 - txt0002.tif
 bag7058:
 - cov0001.tif
+- txt0001.tif
 - sco10001.tif
 - sco10002.tif
 - sco10003.tif
@@ -32598,7 +32601,6 @@ bag7058:
 - sco20222.tif
 - sco20223.tif
 - sco20224.tif
-- txt0001.tif
 bag7381:
 - cov0001.tif
 - cov0002.tif
@@ -33231,8 +33233,8 @@ bag7381:
 - sco10617.tif
 - sco10618.tif
 bag7726:
-- cov0000.tif
 - cov0001.tif
+- txt0001.tif
 - sco10001.tif
 - sco10002.tif
 - sco10003.tif
@@ -33292,7 +33294,7 @@ bag7726:
 - sco10057.tif
 - sco10058.tif
 - sco10059.tif
-- txt0001.tif
+- cov0000.tif
 bag7983:
 - cov0001.tif
 - sco10001.tif
@@ -33928,6 +33930,10 @@ bag8010:
 - sco20315.tif
 bag8971:
 - cov0001.tif
+- txt0001.tif
+- txt0002.tif
+- txt0003.tif
+- txt0004.tif
 - sco10001.tif
 - sco10002.tif
 - sco10003.tif
@@ -34206,10 +34212,6 @@ bag8971:
 - sco10277.tif
 - sco10278.tif
 - sco10279.tif
-- txt0001.tif
-- txt0002.tif
-- txt0003.tif
-- txt0004.tif
 bah1070:
 - cov0001.tif
 - cov0002.tif
@@ -34549,8 +34551,13 @@ bah1462:
 bah2322:
 - cov0001.tif
 - cov0002.tif
+- txt0003.tif
+- txt0004.tif
+- txt0005.tif
+- txt0006.tif
+- txt0007.tif
+- txt0008.tif
 - cov1001.tif
-- cov1071.tif
 - sco10003.tif
 - sco10004.tif
 - sco10005.tif
@@ -34619,6 +34626,7 @@ bah2322:
 - sco10068.tif
 - sco10069.tif
 - sco10070.tif
+- cov1071.tif
 - sco10073.tif
 - sco10074.tif
 - sco10075.tif
@@ -34632,17 +34640,14 @@ bah2322:
 - sco10083.tif
 - sco10084.tif
 - sco10085.tif
+bah2685:
+- cov0001.tif
+- cov0002.tif
+- txt0001.tif
+- txt0002.tif
 - txt0003.tif
 - txt0004.tif
 - txt0005.tif
-- txt0006.tif
-- txt0007.tif
-- txt0008.tif
-bah2685:
-- cov0000.tif
-- cov0001.tif
-- cov0002.tif
-- cov0003.tif
 - sco10001.tif
 - sco10002.tif
 - sco10003.tif
@@ -34994,11 +34999,8 @@ bah2685:
 - sco10349.tif
 - sco10350.tif
 - sco10351.tif
-- txt0001.tif
-- txt0002.tif
-- txt0003.tif
-- txt0004.tif
-- txt0005.tif
+- cov0000.tif
+- cov0003.tif
 bah3321:
 - app0077.tif
 - app0078.tif
@@ -36983,6 +36985,8 @@ bah6944:
 - txt0004.tif
 bah8816:
 - cov0001.tif
+- txt0001.tif
+- txt0002.tif
 - sco10003.tif
 - sco10004.tif
 - sco10005.tif
@@ -37067,8 +37071,6 @@ bah8816:
 - sco10084.tif
 - sco10085.tif
 - sco10086.tif
-- txt0001.tif
-- txt0002.tif
 bah9804:
 - cov0001.tif
 - sco10001.tif
@@ -37094,70 +37096,6 @@ bah9838:
 - sco10010.tif
 - txt0001.tif
 baj0784: []
-baj1758:
-- cov0001.tif
-- cov0002.tif
-- sco10001.tif
-- sco10002.tif
-- sco10003.tif
-- sco10004.tif
-- sco10005.tif
-- sco10006.tif
-- sco10007.tif
-- sco10008.tif
-- sco10009.tif
-- sco10010.tif
-- sco10011.tif
-- sco10012.tif
-- sco10013.tif
-- sco10014.tif
-- sco10015.tif
-- sco10016.tif
-- sco10017.tif
-- sco10018.tif
-- sco10019.tif
-- sco10020.tif
-- sco10021.tif
-- sco10022.tif
-- sco10023.tif
-- sco10024.tif
-- sco10025.tif
-- sco10026.tif
-- sco10027.tif
-- sco10028.tif
-- sco10029.tif
-- sco10030.tif
-- sco10031.tif
-- sco10032.tif
-- sco10033.tif
-- sco10034.tif
-- sco10035.tif
-- sco10036.tif
-- sco10037.tif
-- sco10038.tif
-- sco10039.tif
-- sco10040.tif
-- sco10041.tif
-- sco10042.tif
-- sco10043.tif
-- sco10044.tif
-- sco10045.tif
-- sco10046.tif
-- sco10047.tif
-- sco10048.tif
-- sco10049.tif
-- sco10050.tif
-- sco10051.tif
-- sco10052.tif
-- sco10053.tif
-- sco10054.tif
-- sco10055.tif
-- sco10056.tif
-- sco10057.tif
-- sco10058.tif
-- sco10059.tif
-- sco10060.tif
-- txt0001.tif
 baj1973:
 - cov0001.tif
 - cov0002.tif
@@ -37517,6 +37455,10 @@ baj1973:
 baj2627:
 - cov0001.tif
 - cov0002.tif
+- txt0001.tif
+- txt0002.tif
+- txt0003.tif
+- txt0004.tif
 - sco10001.tif
 - sco10002.tif
 - sco10003.tif
@@ -37625,10 +37567,6 @@ baj2627:
 - sco40106.tif
 - sco40107.tif
 - sco40108.tif
-- txt0001.tif
-- txt0002.tif
-- txt0003.tif
-- txt0004.tif
 - txt0005.tif
 - txt0006.tif
 baj3219:
@@ -37863,13 +37801,8 @@ baj3421:
 - txt0002.tif
 baj3443:
 - cov0001.tif
-- cov0002.tif
+- txt0001.tif
 - cov1001.tif
-- cov2031.tif
-- cov3057.tif
-- cov4083.tif
-- cov5125.tif
-- cov6165.tif
 - sco10003.tif
 - sco10004.tif
 - sco10005.tif
@@ -37898,6 +37831,7 @@ baj3443:
 - sco10028.tif
 - sco10029.tif
 - sco10030.tif
+- cov2031.tif
 - sco20033.tif
 - sco20034.tif
 - sco20035.tif
@@ -37922,6 +37856,7 @@ baj3443:
 - sco20054.tif
 - sco20055.tif
 - sco20056.tif
+- cov3057.tif
 - sco30059.tif
 - sco30060.tif
 - sco30061.tif
@@ -37946,6 +37881,9 @@ baj3443:
 - sco30080.tif
 - sco30081.tif
 - sco30082.tif
+- cov0002.tif
+- txt0002.tif
+- cov4083.tif
 - sco40085.tif
 - sco40086.tif
 - sco40087.tif
@@ -37986,6 +37924,7 @@ baj3443:
 - sco40122.tif
 - sco40123.tif
 - sco40124.tif
+- cov5125.tif
 - sco50127.tif
 - sco50128.tif
 - sco50129.tif
@@ -38024,6 +37963,7 @@ baj3443:
 - sco50162.tif
 - sco50163.tif
 - sco50164.tif
+- cov6165.tif
 - sco60167.tif
 - sco60168.tif
 - sco60169.tif
@@ -38050,8 +37990,6 @@ baj3443:
 - sco60190.tif
 - sco60191.tif
 - sco60192.tif
-- txt0001.tif
-- txt0002.tif
 baj3555:
 - cov0001.tif
 - sco10001.tif
@@ -38115,23 +38053,8 @@ baj3555:
 - txt0002.tif
 - txt0003.tif
 baj3789:
-- anh0293.tif
-- anh0294.tif
-- anh0295.tif
-- anh0296.tif
-- anh0297.tif
-- anh0298.tif
-- anh0299.tif
-- anh0300.tif
-- anh0301.tif
-- anh0302.tif
-- anh0303.tif
-- anh0304.tif
-- anh0305.tif
-- anh0306.tif
-- anh0307.tif
-- anh0308.tif
 - cov0001.tif
+- txt0001.tif
 - sco10001.tif
 - sco10002.tif
 - sco10003.tif
@@ -38424,7 +38347,22 @@ baj3789:
 - sco30290.tif
 - sco30291.tif
 - sco30292.tif
-- txt0001.tif
+- anh0293.tif
+- anh0294.tif
+- anh0295.tif
+- anh0296.tif
+- anh0297.tif
+- anh0298.tif
+- anh0299.tif
+- anh0300.tif
+- anh0301.tif
+- anh0302.tif
+- anh0303.tif
+- anh0304.tif
+- anh0305.tif
+- anh0306.tif
+- anh0307.tif
+- anh0308.tif
 baj3949:
 - cov0001.tif
 - cov0002.tif
@@ -41657,9 +41595,16 @@ baj9087:
 beq5407:
 - cov0001.tif
 - cov0002.tif
-- cov0003.tif
 - cov0004.tif
 - cov1001.tif
+- txt0001.tif
+- txt0002.tif
+- txt0003.tif
+- txt0004.tif
+- txt1001.tif
+- txt1002.tif
+- txt1003.tif
+- txt1004.tif
 - sco10001.tif
 - sco10002.tif
 - sco10003.tif
@@ -41984,14 +41929,7 @@ beq5407:
 - sco10322.tif
 - sco10323.tif
 - sco10324.tif
-- txt0001.tif
-- txt0002.tif
-- txt0003.tif
-- txt0004.tif
-- txt1001.tif
-- txt1002.tif
-- txt1003.tif
-- txt1004.tif
+- cov0003.tif
 bfj4926:
 - cov0001.tif
 - sco10003.tif
@@ -48134,6 +48072,11 @@ bfk3941:
 - txt0244.tif
 bfk3978:
 - cov0001.tif
+- txt0001.tif
+- txt0002.tif
+- txt0003.tif
+- txt0004.tif
+- txt0005.tif
 - sco10001.tif
 - sco10002.tif
 - sco10003.tif
@@ -48563,11 +48506,6 @@ bfk3978:
 - sco10427.tif
 - sco10428.tif
 - sco10429.tif
-- txt0001.tif
-- txt0002.tif
-- txt0003.tif
-- txt0004.tif
-- txt0005.tif
 bfk4074:
 - cov0001.tif
 - cov0003.tif
@@ -50154,11 +50092,10 @@ bgn8253:
 - txt0001.tif
 - txt0002.tif
 bgn8273:
-- cov0001.tif
-- cov0002.tif
 - cov0003.tif
-- cov0004.tif
-- cov0005.tif
+- txt0001.tif
+- txt0002.tif
+- txt0003.tif
 - sco10001.tif
 - sco10002.tif
 - sco10003.tif
@@ -50185,9 +50122,10 @@ bgn8273:
 - sco10024.tif
 - sco10025.tif
 - sco10026.tif
-- txt0001.tif
-- txt0002.tif
-- txt0003.tif
+- cov0001.tif
+- cov0002.tif
+- cov0004.tif
+- cov0005.tif
 - txt0004.tif
 - txt0005.tif
 bgn8688:
@@ -53386,9 +53324,16 @@ bgp3577:
 - txt3003.tif
 - txt4003.tif
 bgp3737:
-- cov0000.tif
 - cov0001.tif
-- cov0002.tif
+- txt0003.tif
+- txt0004.tif
+- txt0005.tif
+- txt0006.tif
+- txt0007.tif
+- txt0008.tif
+- txt0009.tif
+- txt0010.tif
+- txt0011.tif
 - sco10001.tif
 - sco10002.tif
 - sco10003.tif
@@ -53430,15 +53375,6 @@ bgp3737:
 - sco10039.tif
 - sco10040.tif
 - sco10041.tif
-- txt0003.tif
-- txt0004.tif
-- txt0005.tif
-- txt0006.tif
-- txt0007.tif
-- txt0008.tif
-- txt0009.tif
-- txt0010.tif
-- txt0011.tif
 - txt0042.tif
 - txt0043.tif
 - txt0044.tif
@@ -53446,8 +53382,16 @@ bgp3737:
 - txt0046.tif
 - txt0047.tif
 - txt0048.tif
+- cov0000.tif
+- cov0002.tif
 bgp3951:
 - cov0001.tif
+- txt0001.tif
+- txt0002.tif
+- txt0003.tif
+- txt1001.tif
+- txt1002.tif
+- txt1003.tif
 - sco10001.tif
 - sco10002.tif
 - sco10003.tif
@@ -53474,12 +53418,6 @@ bgp3951:
 - sco10024.tif
 - sco10025.tif
 - sco10026.tif
-- txt0001.tif
-- txt0002.tif
-- txt0003.tif
-- txt1001.tif
-- txt1002.tif
-- txt1003.tif
 bgp4035:
 - cov0001.tif
 - sco10001.tif
@@ -54055,11 +53993,9 @@ bgp4744:
 - cov0001.tif
 - cov0031.tif
 - cov0032.tif
-bgp4784: 
+bgp4784:
 - cov0001.tif
 - cov0002.tif
-- txt0001.tif
-- txt0002.tif
 - sco10001.tif
 - sco10002.tif
 - sco10003.tif
@@ -54100,6 +54036,8 @@ bgp4784:
 - sco10038.tif
 - sco10039.tif
 - sco10040.tif
+- txt0001.tif
+- txt0002.tif
 bgp4768:
 - cov0001.tif
 - sco10001.tif
@@ -54227,51 +54165,6 @@ bgp4778:
 - sco10043.tif
 - txt0003.tif
 - txt0004.tif
-bgp4784:
-- cov0001.tif
-- cov0002.tif
-- sco10001.tif
-- sco10002.tif
-- sco10003.tif
-- sco10004.tif
-- sco10005.tif
-- sco10006.tif
-- sco10007.tif
-- sco10008.tif
-- sco10009.tif
-- sco10010.tif
-- sco10011.tif
-- sco10012.tif
-- sco10013.tif
-- sco10014.tif
-- sco10015.tif
-- sco10016.tif
-- sco10017.tif
-- sco10018.tif
-- sco10019.tif
-- sco10020.tif
-- sco10021.tif
-- sco10022.tif
-- sco10023.tif
-- sco10024.tif
-- sco10025.tif
-- sco10026.tif
-- sco10027.tif
-- sco10028.tif
-- sco10029.tif
-- sco10030.tif
-- sco10031.tif
-- sco10032.tif
-- sco10033.tif
-- sco10034.tif
-- sco10035.tif
-- sco10036.tif
-- sco10037.tif
-- sco10038.tif
-- sco10039.tif
-- sco10040.tif
-- txt0001.tif
-- txt0002.tif
 bgp4823:
 - cov0000.tif
 - cov0001.tif
@@ -54510,9 +54403,9 @@ bgp4905:
 - txt0028.tif
 - txt0052.tif
 bgp5237:
-- cov0000.tif
 - cov0001.tif
 - cov0002.tif
+- txt0001.tif
 - sco10001.tif
 - sco10002.tif
 - sco10003.tif
@@ -54649,7 +54542,7 @@ bgp5237:
 - sco40134.tif
 - sco40135.tif
 - sco40136.tif
-- txt0001.tif
+- cov0000.tif
 bgz2986:
 - cov0001.tif
 - sco10001.tif
@@ -55546,7 +55439,8 @@ bhp9357:
 - sco10010.tif
 - sco10011.tif
 - cov0002.tif
-bhq0590: 
+bhq0590:
+- cov0000.tif
 - cov0001.tif
 - cov0002.tif
 - sco10003.tif
@@ -55559,13 +55453,8 @@ bhq0590:
 - sco10010.tif
 - sco10011.tif
 - txt0012.tif
-- cov0000.tif
-bhr2575: 
+bhr2575:
 - cov0001.tif
-- txt0001.tif
-- txt0002.tif
-- txt0003.tif
-- txt0004.tif
 - sco10001.tif
 - sco10002.tif
 - sco10003.tif
@@ -55732,6 +55621,10 @@ bhr2575:
 - sco10164.tif
 - sco10165.tif
 - sco10166.tif
+- txt0001.tif
+- txt0002.tif
+- txt0003.tif
+- txt0004.tif
 bhp9383:
 - cov0001.tif
 - cov0002.tif
@@ -56957,20 +56850,6 @@ bhq0582:
 - sco10202.tif
 - sco10203.tif
 - txt0001.tif
-bhq0590:
-- cov0000.tif
-- cov0001.tif
-- cov0002.tif
-- sco10003.tif
-- sco10004.tif
-- sco10005.tif
-- sco10006.tif
-- sco10007.tif
-- sco10008.tif
-- sco10009.tif
-- sco10010.tif
-- sco10011.tif
-- txt0012.tif
 bhq1735:
 - cov0001.tif
 - sco10002.tif
@@ -58001,6 +57880,9 @@ bhq3495:
 bhq3853:
 - cov0001.tif
 - cov0002.tif
+- txt0001.tif
+- txt0002.tif
+- txt0003.tif
 - sco10003.tif
 - sco10004.tif
 - sco10005.tif
@@ -58083,6 +57965,7 @@ bhq3853:
 - sco10082.tif
 - sco10083.tif
 - sco10084.tif
+- txt0085.tif
 - sco20087.tif
 - sco20088.tif
 - sco20089.tif
@@ -58173,6 +58056,7 @@ bhq3853:
 - sco20174.tif
 - sco20175.tif
 - sco20176.tif
+- txt0177.tif
 - sco30179.tif
 - sco30180.tif
 - sco30181.tif
@@ -58223,6 +58107,7 @@ bhq3853:
 - sco30226.tif
 - sco30227.tif
 - sco30228.tif
+- txt0229.tif
 - sco40231.tif
 - sco40232.tif
 - sco40233.tif
@@ -58276,12 +58161,6 @@ bhq3853:
 - sco40281.tif
 - sco40282.tif
 - sco40283.tif
-- txt0001.tif
-- txt0002.tif
-- txt0003.tif
-- txt0085.tif
-- txt0177.tif
-- txt0229.tif
 bhq5367:
 - cov0001.tif
 - cov0002.tif
@@ -59361,18 +59240,11 @@ bhq7977:
 bhq8342:
 - cov0001.tif
 - cov0002.tif
+- txt0001.tif
+- txt1001.tif
+- txt1002.tif
 - cov1001.tif
 - cov1002.tif
-- cov2001.tif
-- cov2002.tif
-- cov3001.tif
-- cov3002.tif
-- cov4001.tif
-- cov4002.tif
-- cov5001.tif
-- cov5002.tif
-- cov6001.tif
-- cov6002.tif
 - sco10003.tif
 - sco10004.tif
 - sco10005.tif
@@ -59449,6 +59321,8 @@ bhq8342:
 - sco10076.tif
 - sco10077.tif
 - sco10078.tif
+- cov2001.tif
+- cov2002.tif
 - sco20081.tif
 - sco20082.tif
 - sco20083.tif
@@ -59537,6 +59411,8 @@ bhq8342:
 - sco20166.tif
 - sco20167.tif
 - sco20168.tif
+- cov3001.tif
+- cov3002.tif
 - sco30171.tif
 - sco30172.tif
 - sco30173.tif
@@ -59595,6 +59471,8 @@ bhq8342:
 - sco30226.tif
 - sco30227.tif
 - sco30228.tif
+- cov4001.tif
+- cov4002.tif
 - sco40231.tif
 - sco40232.tif
 - sco40233.tif
@@ -59609,6 +59487,8 @@ bhq8342:
 - sco40242.tif
 - sco40243.tif
 - sco40244.tif
+- cov5001.tif
+- cov5002.tif
 - sco50247.tif
 - sco50248.tif
 - sco50249.tif
@@ -59677,6 +59557,8 @@ bhq8342:
 - sco50312.tif
 - sco50313.tif
 - sco50314.tif
+- cov6001.tif
+- cov6002.tif
 - sco60317.tif
 - sco60318.tif
 - sco60319.tif
@@ -59718,9 +59600,6 @@ bhq8342:
 - sco60355.tif
 - sco60356.tif
 - sco60357.tif
-- txt0001.tif
-- txt1001.tif
-- txt1002.tif
 bhq8846:
 - cov0001.tif
 - cov0002.tif
@@ -61577,6 +61456,8 @@ bhr0782:
 - txt0001.tif
 bhr0887:
 - cov0001.tif
+- txt0002.tif
+- txt0003.tif
 - sco10004.tif
 - sco10005.tif
 - sco10006.tif
@@ -61630,8 +61511,6 @@ bhr0887:
 - sco10054.tif
 - sco10055.tif
 - sco10056.tif
-- txt0002.tif
-- txt0003.tif
 bhr0919:
 - cov0000.tif
 - cov0001.tif
@@ -63145,6 +63024,12 @@ bhr1214:
 bhr1228:
 - cov0001.tif
 - cov0002.tif
+- txt0001.tif
+- txt0002.tif
+- txt0003.tif
+- txt0004.tif
+- txt0005.tif
+- txt0006.tif
 - sco10001.tif
 - sco10002.tif
 - sco10003.tif
@@ -63315,12 +63200,6 @@ bhr1228:
 - sco40168.tif
 - sco40169.tif
 - sco40170.tif
-- txt0001.tif
-- txt0002.tif
-- txt0003.tif
-- txt0004.tif
-- txt0005.tif
-- txt0006.tif
 bhr1272:
 - cov0001.tif
 - sco10001.tif
@@ -64132,178 +64011,6 @@ bhr1407:
 - txt0004.tif
 bhr2145:
 - cov0001.tif
-- sco10003.tif
-- sco10004.tif
-- sco10005.tif
-- sco10006.tif
-- sco10007.tif
-- sco10008.tif
-- sco10009.tif
-- sco10010.tif
-- sco10011.tif
-- sco10012.tif
-- sco10013.tif
-- sco10014.tif
-- sco10015.tif
-- sco10016.tif
-- sco10017.tif
-- sco10018.tif
-- sco10019.tif
-- sco10020.tif
-- sco10021.tif
-- sco10022.tif
-- sco10023.tif
-- sco10024.tif
-- sco10025.tif
-- sco10026.tif
-- sco10027.tif
-- sco10028.tif
-- sco10029.tif
-- sco10030.tif
-- sco10031.tif
-- sco10032.tif
-- sco10033.tif
-- sco10034.tif
-- sco10035.tif
-- sco10036.tif
-- sco10037.tif
-- sco10038.tif
-- sco10039.tif
-- sco10040.tif
-- sco10041.tif
-- sco10042.tif
-- sco10043.tif
-- sco10044.tif
-- sco10045.tif
-- sco10046.tif
-- sco10047.tif
-- sco10048.tif
-- sco10049.tif
-- sco10050.tif
-- sco10051.tif
-- sco10052.tif
-- sco10053.tif
-- sco10054.tif
-- sco10055.tif
-- sco10056.tif
-- sco10057.tif
-- sco10058.tif
-- sco10059.tif
-- sco10060.tif
-- sco10061.tif
-- sco10062.tif
-- sco10063.tif
-- sco10064.tif
-- sco10065.tif
-- sco10066.tif
-- sco10067.tif
-- sco10068.tif
-- sco10069.tif
-- sco10070.tif
-- sco10071.tif
-- sco10072.tif
-- sco10073.tif
-- sco10074.tif
-- sco10075.tif
-- sco10076.tif
-- sco10077.tif
-- sco10078.tif
-- sco10079.tif
-- sco10080.tif
-- sco10081.tif
-- sco10082.tif
-- sco10083.tif
-- sco10084.tif
-- sco10085.tif
-- sco10086.tif
-- sco10087.tif
-- sco10088.tif
-- sco10089.tif
-- sco10090.tif
-- sco10091.tif
-- sco10092.tif
-- sco10093.tif
-- sco10094.tif
-- sco10095.tif
-- sco10096.tif
-- sco10097.tif
-- sco10098.tif
-- sco10099.tif
-- sco10100.tif
-- sco10101.tif
-- sco10102.tif
-- sco10103.tif
-- sco10104.tif
-- sco10105.tif
-- sco10106.tif
-- sco10107.tif
-- sco10108.tif
-- sco10109.tif
-- sco10110.tif
-- sco10111.tif
-- sco10112.tif
-- sco10113.tif
-- sco10114.tif
-- sco10115.tif
-- sco10116.tif
-- sco10117.tif
-- sco10118.tif
-- sco10119.tif
-- sco10120.tif
-- sco10121.tif
-- sco10122.tif
-- sco10123.tif
-- sco10124.tif
-- sco10125.tif
-- sco10126.tif
-- sco10127.tif
-- sco10128.tif
-- sco10129.tif
-- sco10130.tif
-- sco10131.tif
-- sco10132.tif
-- sco10133.tif
-- sco10134.tif
-- sco10135.tif
-- sco10136.tif
-- sco10137.tif
-- sco10138.tif
-- sco10139.tif
-- sco10140.tif
-- sco10141.tif
-- sco10142.tif
-- sco10143.tif
-- sco10144.tif
-- sco10145.tif
-- sco10146.tif
-- sco10147.tif
-- sco10148.tif
-- sco10149.tif
-- sco10150.tif
-- sco10151.tif
-- sco10152.tif
-- sco10153.tif
-- sco10154.tif
-- sco10155.tif
-- sco10156.tif
-- sco10157.tif
-- sco10158.tif
-- sco10159.tif
-- sco10160.tif
-- sco10161.tif
-- sco10162.tif
-- sco10163.tif
-- sco10164.tif
-- sco10165.tif
-- sco10166.tif
-- txt0001.tif
-- txt0002.tif
-- txt0003.tif
-- txt0004.tif
-bhr2575:
-- cov0001.tif
-- sco10001.tif
-- sco10002.tif
 - sco10003.tif
 - sco10004.tif
 - sco10005.tif
@@ -66263,11 +65970,10 @@ bhr3468:
 - sco10005.tif
 - sco10006.tif
 - cov0000.tif
-bhr6461: 
+bhr6461:
+- cov0000.tif
 - cov0001.tif
-- txt0001.tif
-- txt0002.tif
-- txt0003.tif
+- cov0002.tif
 - sco10001.tif
 - sco10002.tif
 - sco10003.tif
@@ -66330,11 +66036,13 @@ bhr6461:
 - sco10060.tif
 - sco10061.tif
 - sco10062.tif
-- cov0000.tif
-- cov0002.tif
-bhr8186: 
+- txt0001.tif
+- txt0002.tif
+- txt0003.tif
+bhr8186:
 - cov0001.tif
 - cov0002.tif
+- cov0003.tif
 - sco10002.tif
 - sco10003.tif
 - sco10004.tif
@@ -66346,8 +66054,7 @@ bhr8186:
 - sco10010.tif
 - sco10011.tif
 - sco10012.tif
-- cov0003.tif
-bhs7139: 
+bhs7139:
 - cov0001.tif
 - sco10002.tif
 - sco10003.tif
@@ -68583,75 +68290,6 @@ bhr6389:
 - txt0010.tif
 - txt0011.tif
 - txt0012.tif
-bhr6461:
-- cov0000.tif
-- cov0001.tif
-- cov0002.tif
-- sco10001.tif
-- sco10002.tif
-- sco10003.tif
-- sco10004.tif
-- sco10005.tif
-- sco10006.tif
-- sco10007.tif
-- sco10008.tif
-- sco10009.tif
-- sco10010.tif
-- sco10011.tif
-- sco10012.tif
-- sco10013.tif
-- sco10014.tif
-- sco10015.tif
-- sco10016.tif
-- sco10017.tif
-- sco10018.tif
-- sco10019.tif
-- sco10020.tif
-- sco10021.tif
-- sco10022.tif
-- sco10023.tif
-- sco10024.tif
-- sco10025.tif
-- sco10026.tif
-- sco10027.tif
-- sco10028.tif
-- sco10029.tif
-- sco10030.tif
-- sco10031.tif
-- sco10032.tif
-- sco10033.tif
-- sco10034.tif
-- sco10035.tif
-- sco10036.tif
-- sco10037.tif
-- sco10038.tif
-- sco10039.tif
-- sco10040.tif
-- sco10041.tif
-- sco10042.tif
-- sco10043.tif
-- sco10044.tif
-- sco10045.tif
-- sco10046.tif
-- sco10047.tif
-- sco10048.tif
-- sco10049.tif
-- sco10050.tif
-- sco10051.tif
-- sco10052.tif
-- sco10053.tif
-- sco10054.tif
-- sco10055.tif
-- sco10056.tif
-- sco10057.tif
-- sco10058.tif
-- sco10059.tif
-- sco10060.tif
-- sco10061.tif
-- sco10062.tif
-- txt0001.tif
-- txt0002.tif
-- txt0003.tif
 bhr6536:
 - cov1001.tif
 - cov1003.tif
@@ -71363,6 +71001,7 @@ bhr7942c:
 - txt0001.tif
 bhr8093:
 - cov0001.tif
+- txt0002.tif
 - sco10003.tif
 - sco10004.tif
 - sco10005.tif
@@ -71534,23 +71173,7 @@ bhr8093:
 - sco30171.tif
 - sco30172.tif
 - sco30173.tif
-- txt0002.tif
 - txt0003.tif
-bhr8186:
-- cov0001.tif
-- cov0002.tif
-- cov0003.tif
-- sco10002.tif
-- sco10003.tif
-- sco10004.tif
-- sco10005.tif
-- sco10006.tif
-- sco10007.tif
-- sco10008.tif
-- sco10009.tif
-- sco10010.tif
-- sco10011.tif
-- sco10012.tif
 bhr8215:
 - cov00001.tif
 - cov00002.tif
@@ -73197,15 +72820,9 @@ bhs1897:
 bhs2046:
 - cov1h01.tif
 - cov1h02.tif
-- cov2h001.tif
-- cov2h002.tif
-- cov3h001.tif
-- cov4001.tif
-- cov5001.tif
-- cov6001.tif
-- cov6003.tif
-- cov7001.tif
-- cov7002.tif
+- txt1h01.tif
+- txt1h02.tif
+- txt1h03.tif
 - sc1h0004.tif
 - sc1h0005.tif
 - sc1h0006.tif
@@ -73463,6 +73080,9 @@ bhs2046:
 - sc1h0258.tif
 - sc1h0259.tif
 - sc1h0260.tif
+- cov2h001.tif
+- cov2h002.tif
+- txt2h001.tif
 - sc2h0003.tif
 - sc2h0004.tif
 - sc2h0005.tif
@@ -73700,6 +73320,8 @@ bhs2046:
 - sc2h0237.tif
 - sc2h0238.tif
 - sc2h0239.tif
+- cov3h001.tif
+- txt3h001.tif
 - sc3h0003.tif
 - sc3h0004.tif
 - sc3h0005.tif
@@ -73914,6 +73536,8 @@ bhs2046:
 - sc3h0214.tif
 - sc3h0215.tif
 - sc3h0216.tif
+- cov4001.tif
+- txt4001.tif
 - sco40003.tif
 - sco40004.tif
 - sco40005.tif
@@ -74135,6 +73759,8 @@ bhs2046:
 - sco40221.tif
 - sco40222.tif
 - sco40223.tif
+- cov5001.tif
+- txt5001.tif
 - sco50002.tif
 - sco50003.tif
 - sco50004.tif
@@ -74341,6 +73967,8 @@ bhs2046:
 - sco50205.tif
 - sco50206.tif
 - sco50207.tif
+- cov6001.tif
+- txt6001.tif
 - sco60003.tif
 - sco60004.tif
 - sco60005.tif
@@ -74520,6 +74148,17 @@ bhs2046:
 - sco60179.tif
 - sco60180.tif
 - sco60181.tif
+- cov7001.tif
+- cov7002.tif
+- txt7001.tif
+- txt7002.tif
+- txt7003.tif
+- txt7004.tif
+- txt7005.tif
+- txt7006.tif
+- txt7007.tif
+- txt7008.tif
+- txt7009.tif
 - sco70003.tif
 - sco70004.tif
 - sco70005.tif
@@ -74629,6 +74268,7 @@ bhs2046:
 - sco70109.tif
 - sco70110.tif
 - sco70111.tif
+- cov6003.tif
 - txt0001.tif
 - txt0002.tif
 - txt0003.tif
@@ -74636,9 +74276,6 @@ bhs2046:
 - txt0005.tif
 - txt0006.tif
 - txt0007.tif
-- txt1h01.tif
-- txt1h02.tif
-- txt1h03.tif
 - txt1h04.tif
 - txt1h05.tif
 - txt1h06.tif
@@ -74646,7 +74283,6 @@ bhs2046:
 - txt1h08.tif
 - txt1h09.tif
 - txt1h10.tif
-- txt2h001.tif
 - txt2h241.tif
 - txt2h242.tif
 - txt2h243.tif
@@ -74654,7 +74290,6 @@ bhs2046:
 - txt2h245.tif
 - txt2h246.tif
 - txt2h247.tif
-- txt3h001.tif
 - txt3h217.tif
 - txt3h218.tif
 - txt3h219.tif
@@ -74662,18 +74297,6 @@ bhs2046:
 - txt3h221.tif
 - txt3h222.tif
 - txt3h223.tif
-- txt4001.tif
-- txt5001.tif
-- txt6001.tif
-- txt7001.tif
-- txt7002.tif
-- txt7003.tif
-- txt7004.tif
-- txt7005.tif
-- txt7006.tif
-- txt7007.tif
-- txt7008.tif
-- txt7009.tif
 bhs3200:
 - cov0001.tif
 - sco10002.tif
@@ -74765,30 +74388,9 @@ bhs6924:
 - txt1044.tif
 - txt1045.tif
 - txt1048.tif
-bhs7139:
-- cov0001.tif
-- sco10002.tif
-- sco10003.tif
-- sco10004.tif
-- sco10005.tif
-- sco10006.tif
-- sco10007.tif
-- sco10008.tif
-- sco10009.tif
-- sco10010.tif
-- sco10011.tif
-- sco10012.tif
-- sco10013.tif
-- sco10014.tif
-- sco10015.tif
-- sco10016.tif
 bhs7199:
 - cov1001.tif
 - cov1002.tif
-- cov2001.tif
-- cov2002.tif
-- cov2003.tif
-- cov2004.tif
 - sco10001.tif
 - sco10002.tif
 - sco10003.tif
@@ -74809,6 +74411,10 @@ bhs7199:
 - sco10018.tif
 - sco10019.tif
 - sco10020.tif
+- cov2001.tif
+- cov2002.tif
+- cov2003.tif
+- cov2004.tif
 - sco20003.tif
 - sco20004.tif
 - sco20005.tif
@@ -76101,10 +75707,6 @@ cab3327:
 - sco10028.tif
 - sco10029.tif
 cab4188:
-- cov0001.tif
-- cov0003.tif
-- cov0004.tif
-- cov0198.tif
 - sco10001.tif
 - sco10002.tif
 - sco10003.tif
@@ -76294,6 +75896,10 @@ cab4188:
 - sco40187.tif
 - sco40188.tif
 - sco40189.tif
+- cov0001.tif
+- cov0003.tif
+- cov0004.tif
+- cov0198.tif
 - txt0005.tif
 - txt0006.tif
 - txt0007.tif
@@ -76803,12 +76409,7 @@ cab8895:
 - sco50006.tif
 - txt0001.tif
 cab8932:
-- cov0001.tif
 - cov1001.tif
-- cov2001.tif
-- cov3001.tif
-- cov4001.tif
-- cov5001.tif
 - sco10135.tif
 - sco10136.tif
 - sco10137.tif
@@ -76825,6 +76426,7 @@ cab8932:
 - sco10148.tif
 - sco10149.tif
 - sco10150.tif
+- cov2001.tif
 - sco20153.tif
 - sco20154.tif
 - sco20155.tif
@@ -76841,6 +76443,7 @@ cab8932:
 - sco20166.tif
 - sco20167.tif
 - sco20168.tif
+- cov3001.tif
 - sco30171.tif
 - sco30172.tif
 - sco30173.tif
@@ -76861,6 +76464,7 @@ cab8932:
 - sco30188.tif
 - sco30189.tif
 - sco30190.tif
+- cov4001.tif
 - sco40193.tif
 - sco40194.tif
 - sco40195.tif
@@ -76877,6 +76481,7 @@ cab8932:
 - sco40206.tif
 - sco40207.tif
 - sco40208.tif
+- cov5001.tif
 - sco50211.tif
 - sco50212.tif
 - sco50213.tif
@@ -76907,6 +76512,7 @@ cab8932:
 - sco50238.tif
 - sco50239.tif
 - sco50240.tif
+- cov0001.tif
 - txt0001.tif
 - txt0002.tif
 - txt0003.tif
@@ -76923,10 +76529,8 @@ cab8932:
 - txt0014.tif
 - txt0015.tif
 cab8970:
-- cov0001.tif
 - cov0003.tif
 - cov0005.tif
-- cov0126.tif
 - sco10001.tif
 - sco10002.tif
 - sco10003.tif
@@ -77049,6 +76653,8 @@ cab8970:
 - sco20120.tif
 - sco20121.tif
 - sco20122.tif
+- cov0001.tif
+- cov0126.tif
 cac0109:
 - cov1001.tif
 - cov1002.tif
