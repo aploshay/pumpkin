@@ -96,13 +96,29 @@ module IuMetadata
       def files
         index = 0
         @files.map do |filename|
-          { id: filename,
+          { id: normalized_filename(filename, index += 1),
             mime_type: 'image/tiff',
             path: @files_source + filename,
             file_opts: {},
-            attributes: { title: (index += 1).to_s, source_metadata_identifier: filename.sub(/\.tif.*$/, '').upcase }
+            attributes: { title: index.to_s, source_metadata_identifier: normalized_filename(filename, index).sub(/\.tif.*$/, '').upcase }
           }
         end
+      end
+
+      def normalized_filename(filename, page_index)
+        normalized = filename.downcase.sub(/\.\w{3,4}/, '')
+        if normalized.match(/^\d+$/)
+          root = source_metadata_identifier.downcase
+          volume = 1 # FIXME: need better logic for multi-volume cases
+          page = normalized
+        elsif !normalized.match(/-/)
+          root = source_metadata_identifier.downcase
+          volume = 1 # FIXME: need better logic for multi-volume cases
+          page = page_index.to_s
+        else
+          root, volume, page = normalized.split('-')
+        end
+        "#{root}-#{volume.to_i}-#{page.rjust(4, '0')}.tif"
       end
 
       def structure
