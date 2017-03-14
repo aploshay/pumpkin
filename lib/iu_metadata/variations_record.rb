@@ -129,9 +129,9 @@ module IuMetadata
               end
             when 0
               if @files == variations_files
-                @logger.info "#{source_metadata_identifier}: Files found on server match specifiction in XML"
+                @logger.info "#{source_metadata_identifier}: Files found on server match specification in XML"
               elsif @files_source.match /other_sources/
-                @logger.info "#{source_metadata_identifier}: Files found on server do not match specifiction in XML, as expected for scores_from_other_sources content.  Setting replacement filenames as pulled from XML."
+                @logger.info "#{source_metadata_identifier}: Files found on server do not match specification in XML, as expected for scores_from_other_sources content.  Setting replacement filenames as pulled from XML."
                 @files.each_with_index do |file, i|
                   file[:id] = variations_files[i][:id]
                   file[:attributes][:source_metadata_identifier] = variations_files[i][:attributes][:source_metadata_identifier]
