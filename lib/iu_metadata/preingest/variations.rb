@@ -100,7 +100,7 @@ module IuMetadata
             mime_type: 'image/tiff',
             path: @files_source + filename,
             file_opts: {},
-            attributes: { title: index.to_s, source_metadata_identifier: normalized_filename(filename, index).sub(/\.tif.*$/, '').upcase }
+            attributes: { title: Array.wrap("[#{index.to_s}]") , source_metadata_identifier: normalized_filename(filename, index).sub(/\.tif.*$/, '').upcase }
           }
         end
       end
