@@ -16,7 +16,7 @@ class ManifestBuilder
         searchable? == 'disabled'
       service_array = {
         "@context"  => "http://iiif.io/api/search/0/context.json",
-        "@id"       => "#{root_url}search/#{record.id}",
+        "@id"       => "#{root_url(protocol: protocol)}search/#{record.id}",
         "profile"   => "http://iiif.io/api/search/0/search",
         "label"     => "Search within item."
       }
@@ -27,6 +27,14 @@ class ManifestBuilder
 
       def searchable?
         record.full_text_searchable[0] unless record.full_text_searchable.nil?
+      end
+
+      def protocol
+        if Rails.application.config.force_ssl
+          :https
+        else
+          :http
+        end
       end
   end
 end
