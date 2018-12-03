@@ -6,14 +6,13 @@ class ManifestBuilder
 
     def initialize(record)
       @record = record
-      # @searchable = record.full_text_searchable[0] unless record.full_text_searchable.nil?
     end
 
     def apply(manifest)
       return if
         record.class == AllCollectionsPresenter ||
         record.class == CollectionShowPresenter ||
-        searchable? == 'disabled'
+        !searchable?
       service_array = {
         "@context"  => "http://iiif.io/api/search/0/context.json",
         "@id"       => "#{root_url(protocol: protocol)}search/#{record.id}",
@@ -26,7 +25,9 @@ class ManifestBuilder
     private
 
       def searchable?
-        record.full_text_searchable[0] unless record.full_text_searchable.nil?
+        return false if record.full_text_searchable.nil?
+        return true if record.full_text_searchable[0] == 'enabled'
+        false
       end
 
       def protocol

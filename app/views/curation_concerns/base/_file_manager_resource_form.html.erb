@@ -34,7 +34,7 @@
 
     <% searchable_opts = ['enabled', 'disabled'] %>
     <% searchable = @presenter.full_text_searchable[0] unless @presenter.full_text_searchable.nil? %>
-    <% selected_opt = searchable || searchable_opts.first %>
+    <% selected_opt = searchable || searchable_opts[1] %>
     <div id="search_opts">
       <label>Search within:</label>
       <% searchable_opts.each do |val| %>

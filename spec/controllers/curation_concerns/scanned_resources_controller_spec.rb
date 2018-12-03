@@ -184,6 +184,7 @@ describe CurationConcerns::ScannedResourcesController do
         resource2 = FactoryGirl.build(:scanned_resource)
         allow(resource).to receive(:id).and_return("test")
         allow(resource2).to receive(:id).and_return("test2")
+        allow(resource2).to receive(:full_text_searchable).and_return("enabled")
         solr.add resource.to_solr
         solr.add resource2.to_solr
         solr.commit
