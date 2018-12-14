@@ -26,3 +26,42 @@
     label: IU Southeast Library
     code: libius
   id: https://www.ius.edu/library/
+- label: Ruth Lilly Auxiliary Library Facility
+  address: 851 North Range Road
+  phone_number: (812) 856-0832
+  contact_email: libalf@indiana.edu
+  gfa_pickup: PW
+  staff_only: false
+  pickup_location: true
+  digital_location: true
+  url: https://libraries.indiana.edu/alf-services
+  library:
+    label: Ruth Lilly Auxiliary Library Facility
+    code: libalf
+  id: https://libraries.indiana.edu/alf-services
+- label: Herman B Wells Library
+  address: 1320 East Tenth Street
+  phone_number: (812) 855-0100
+  contact_email: libref@indiana.edu
+  gfa_pickup: PW
+  staff_only: false
+  pickup_location: true
+  digital_location: true
+  url: https://libraries.indiana.edu/wells
+  library:
+    label: Herman B Wells Library
+    code: libref
+  id: https://libraries.indiana.edu/wells
+- label: Lilly Library
+  address: 1200 East Seventh Street
+  phone_number: (812) 855-2452
+  contact_email: liblilly@indiana.edu
+  gfa_pickup: PW
+  staff_only: false
+  pickup_location: true
+  digital_location: true
+  url: https://libraries.indiana.edu/lilly-library
+  library:
+    label: Lilly Library
+    code: liblilly
+  id: https://libraries.indiana.edu/lilly-library
