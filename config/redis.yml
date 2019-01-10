@@ -1,12 +1,13 @@
 development:
-  host: localhost
-  port: 6379
+  host: <%= ENV['PMP_REDIS_HOST'] || 'localhost' %>
+  port: <%= ENV['PMP_REDIS_PORT'] || '6379' %>
+  namespace: <%= ENV['PMP_REDIS_NS'] || 'pumpkin_dev' %>
 test:
   host: localhost
   port: 6379
 production: &production
-  host: <%= ENV['PLUM_REDIS_URL'] || 'localhost' %>
-  port: <%= ENV['PLUM_REDIS_PORT'] || '6379' %>
-  namespace: 'plum'
+  host: <%= ENV['PMP_REDIS_HOST'] || 'localhost' %>
+  port: <%= ENV['PMP_REDIS_PORT'] || '6379' %>
+  namespace: <%= ENV['PMP_REDIS_NS'] || 'pumpkin_prod' %>
 staging:
   <<: *production
