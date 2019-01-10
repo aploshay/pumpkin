@@ -72,5 +72,12 @@ do |resource_symbol, presenter_factory|
       expect(resource.reload.logical_order.order) \
         .to eq({ "label": "TOP!", "nodes": nodes }.with_indifferent_access)
     end
+
+    it 'returns Locked status for a locked resource' do
+      lock_info = resource.lock
+      post :save_structure, nodes: nodes, id: resource.id, label: 'TOP!'
+      expect(response.status).to eq 423
+      resource.unlock(lock_info)
+    end
   end
 end

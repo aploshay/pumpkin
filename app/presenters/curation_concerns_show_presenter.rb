@@ -8,7 +8,7 @@ class CurationConcernsShowPresenter < CurationConcerns::WorkShowPresenter
            :identifier,
            :workflow_note,
            :logical_order,
-           :logical_order_object,
+           :logical_order_object, # FIXME: this is delegated, but then defined?
            :ocr_language,
            :full_text,
            :thumbnail_id,
