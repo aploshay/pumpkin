@@ -2,7 +2,7 @@
 # Object responsible for iterating over a params representation of a logical
 # order.
 class LogicalOrder
-  attr_reader :order_hash, :node_class, :top
+  attr_reader :order_hash, :node_class, :top, :node_cache
   attr_writer :rdf_subject
   # @param [Hash] order_hash The params representation of the order.
   # @param [RDF::URI] rdf_subject The subject of the head node
@@ -13,17 +13,19 @@ class LogicalOrder
   def initialize(order_hash = {},
                  rdf_subject = nil,
                  node_class = LogicalOrder,
-                 top = true)
+                 top = true,
+                 node_cache = ActiveFedora::Orders::OrderedList::NodeCache.new)
     @order_hash = order_hash.with_indifferent_access
     @rdf_subject = RDF::URI(rdf_subject.to_s) if rdf_subject
     @node_class = node_class
     @top = top
+    @node_cache = node_cache
   end
 
   # @return [Array<node_class>] Child nodes of this resource.
   def nodes
     @nodes ||= order_hash.fetch("nodes", []).map do |values|
-      node_class.new(values, nil, node_class, false)
+      node_class.new(values, nil, node_class, false, node_cache)
     end
   end
 
@@ -91,7 +93,7 @@ class LogicalOrder
       @ordered_list ||=
         begin
           o = ActiveFedora::Orders::OrderedList \
-              .new(::ActiveTriples::Resource.new, nil, nil)
+              .new(::ActiveTriples::Resource.new, nil, nil, node_cache)
           nodes.each do |node|
             o.insert_proxy_for_at(o.length, node.proxy_for)
             node.rdf_subject = o.last.rdf_subject

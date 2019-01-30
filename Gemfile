@@ -50,7 +50,7 @@ gem 'prawn'
 # gem 'pdf-inspector', '~> 1.2.0', group: [:test]
 
 # Copied from curation_concerns Gemfile.extra
-gem 'active-fedora', '11.0.0.rc7'
+gem 'active-fedora', '11.0.0.rc8', git: 'https://github.com/IU-Libraries-Joint-Development/active_fedora.git', branch: 'v11.0.0.rc8'
 gem 'active-triples', '~> 0.10.0'
 gem 'active_fedora-noid', '~> 2.0.0'
 gem 'hydra-derivatives' # , github: 'projecthydra/hydra-derivatives', branch: 'master'

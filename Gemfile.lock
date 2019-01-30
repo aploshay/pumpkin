@@ -1,4 +1,18 @@
 GIT
+  remote: https://github.com/IU-Libraries-Joint-Development/active_fedora.git
+  revision: ab4e4d2981c8aaa29109272b031a086012bfc466
+  branch: v11.0.0.rc8
+  specs:
+    active-fedora (11.0.0.rc8)
+      active-triples (~> 0.10.0)
+      activemodel (>= 4.2, < 6)
+      activesupport (>= 4.2.4, < 6)
+      deprecation
+      ldp (~> 0.6.0)
+      rsolr (~> 1.0, >= 1.0.10)
+      solrizer (~> 3.4)
+
+GIT
   remote: https://github.com/IU-Libraries-Joint-Development/curation_concerns.git
   revision: b3dd2d9394afd6fcf00f5939be6bd1e9eaffdd9c
   specs:
@@ -117,14 +131,6 @@ GEM
       erubis (~> 2.7.0)
       rails-dom-testing (~> 1.0, >= 1.0.5)
       rails-html-sanitizer (~> 1.0, >= 1.0.3)
-    active-fedora (11.0.0.rc7)
-      active-triples (~> 0.10.0)
-      activemodel (>= 4.2, < 6)
-      activesupport (>= 4.2.4, < 6)
-      deprecation
-      ldp (~> 0.6.0)
-      rsolr (~> 1.0, >= 1.0.10)
-      solrizer (~> 3.4)
     active-triples (0.10.2)
       activemodel (>= 3.0.0)
       activesupport (>= 3.0.0)
@@ -259,7 +265,7 @@ GEM
     docile (1.1.5)
     dropbox-sdk (1.6.5)
       json
-    ebnf (1.0.2)
+    ebnf (1.1.0)
       rdf (~> 2.0)
       sxp (~> 1.0)
     erubis (2.7.0)
@@ -394,8 +400,8 @@ GEM
     jquery-ui-rails (5.0.5)
       railties (>= 3.2.16)
     json (1.8.6)
-    json-ld (2.1.0)
-      multi_json (~> 1.11)
+    json-ld (2.1.2)
+      multi_json (~> 1.12)
       rdf (~> 2.1)
     jwt (1.5.6)
     kaminari (0.17.0)
@@ -406,7 +412,7 @@ GEM
     kgio (2.11.0)
     launchy (2.4.3)
       addressable (~> 2.3)
-    ldp (0.6.2)
+    ldp (0.6.4)
       deprecation
       faraday
       http_logger
@@ -556,8 +562,8 @@ GEM
     rdf (2.1.0)
       hamster (~> 3.0)
       link_header (~> 0.0, >= 0.0.8)
-    rdf-isomorphic (2.0.0)
-      rdf (~> 2.0)
+    rdf-isomorphic (2.2.0)
+      rdf (>= 2.0, < 4.0)
     rdf-turtle (2.0.0)
       ebnf (~> 1.0, >= 1.0.1)
       rdf (~> 2.0)
@@ -662,7 +668,7 @@ GEM
       httmultiparty
       httparty (>= 0.11.0)
       oauth2 (>= 0.9.2)
-    slop (4.6.1)
+    slop (4.6.2)
     solr_wrapper (0.19.0)
       faraday
       ruby-progressbar
@@ -735,7 +741,7 @@ PLATFORMS
 
 DEPENDENCIES
   aasm
-  active-fedora (= 11.0.0.rc7)
+  active-fedora (= 11.0.0.rc8)!
   active-triples (~> 0.10.0)
   active_fedora-noid (~> 2.0.0)
   arabic-letter-connector
@@ -819,4 +825,4 @@ RUBY VERSION
    ruby 2.3.1p112
 
 BUNDLED WITH
-   1.16.1
+   1.16.6

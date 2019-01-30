@@ -43,9 +43,9 @@ class WithProxyForObject < SimpleDelegator
         @members = members
       end
 
-      def new(order_hash = {}, rdf_subject = nil, node_class = nil, top = true)
+      def new(order_hash = {}, rdf_subject = nil, node_class = nil, top = true, node_cache = ActiveFedora::Orders::OrderedList::NodeCache.new)
         ::WithProxyForObject.new(
-          LogicalOrder.new(order_hash, rdf_subject, node_class || self, top),
+          LogicalOrder.new(order_hash, rdf_subject, node_class || self, top, node_cache),
           members
         )
       end
