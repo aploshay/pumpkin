@@ -37,7 +37,7 @@ gem 'puma'
 
 # gem 'curation_concerns', git: 'https://github.com/projecthydra-labs/curation_concerns', branch: :member_of_replace
 gem 'curation_concerns', git: 'https://github.com/IU-Libraries-Joint-Development/curation_concerns.git'
-gem 'devise', '~> 3.0'
+gem 'devise', '>= 4.6.0'
 gem 'devise-guests', '~> 0.3'
 gem 'hydra-role-management', '~> 0.2.0'
 gem 'iiif-presentation', git: 'https://github.com/iiif/osullivan', branch: 'development'
