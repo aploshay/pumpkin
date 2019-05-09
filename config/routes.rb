@@ -65,7 +65,7 @@ Rails.application.routes.draw do
         end
       end
     end
-    resources :multi_volume_works, only: [] do
+    resources :multi_volume_works, constraints: { search_term: /.*/ }, only: [] do
       member do
         get :manifest, defaults: { format: :json }
         get "/highlight/:search_term", action: :show
@@ -76,7 +76,7 @@ Rails.application.routes.draw do
         post :structure, action: :save_structure
       end
     end
-    resources :scanned_resources, only: [] do
+    resources :scanned_resources, constraints: { search_term: /.*/ }, only: [] do
       member do
         get "/pdf/:pdf_quality", action: :pdf, as: :pdf
         get "/highlight/:search_term", action: :show

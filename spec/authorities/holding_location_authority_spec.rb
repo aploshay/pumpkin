@@ -28,7 +28,7 @@ RSpec.describe HoldingLocationAuthority do
     end
 
     it "lists all of the holding locations" do
-      expect(hl_authority.all.length).to be > 0
+      expect(hl_authority.all.length).to be_positive
       expect(hl_authority.all).to include(obj.stringify_keys)
     end
   end

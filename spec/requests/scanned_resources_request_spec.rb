@@ -33,4 +33,17 @@ RSpec.describe 'ScannedResourcesController', type: :request do
     expect(response.body) \
       .to include('<h1 dir="ltr">The last resort : a novel</h1>')
   end
+
+  describe 'User follows a link with a search highlight term' do
+    let(:resource_path) { curation_concerns_scanned_resource_path(scanned_resource.id) }
+    let(:search_term_path) { "#{resource_path}/highlight/#{search_term}" }
+
+    context 'with a period (.)' do
+      let(:search_term) { CGI.escape('Symphony No. 2') }
+
+      it 'does not raise ActionController::UnknownFormat' do
+        expect { get search_term_path }.not_to raise_error
+      end
+    end
+  end
 end
