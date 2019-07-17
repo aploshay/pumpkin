@@ -34,7 +34,7 @@ Rails.application.routes.draw do
   mount Hydra::RoleManagement::Engine => '/'
 
   resources :welcome, only: 'index'
-  root to: 'welcome#index'
+  root to: 'catalog#index'
   # Add URL options
   default_url_options Rails.application.config.action_mailer.default_url_options
 
