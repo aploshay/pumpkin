@@ -41,22 +41,38 @@ describe MultiVolumeWork do
     end
   end
 
-  context "when validating title and metadata id" do
+  context "when validating title and metadata id",
+          vcr: { cassette_name: "bibdata", record: :new_episodes } do
     before do
       multi_volume_work.source_metadata_identifier = nil
       multi_volume_work.title = nil
     end
     context "when neither metadata id nor title is set" do
       it 'fails' do
+        multi_volume_work.apply_remote_metadata
         expect(multi_volume_work.valid?).to eq false
       end
     end
     context "when only metadata id is set" do
       before do
-        multi_volume_work.source_metadata_identifier = "12355"
+        multi_volume_work.source_metadata_identifier = "2028405"
       end
-      it 'passes' do
-        expect(multi_volume_work.valid?).to eq true
+      context 'when it does not return a title' do
+        before do
+          # rubocop:disable RSpec/AnyInstance
+          allow_any_instance_of(IuMetadata::MarcRecord).to receive(:title).and_return([])
+          # enable:disable RSpec/AnyInstance
+        end
+        it 'fails' do
+          multi_volume_work.apply_remote_metadata
+          expect(multi_volume_work.valid?).to eq false
+        end
+      end
+      context 'when it returns a title' do
+        it 'passes' do
+          multi_volume_work.apply_remote_metadata
+          expect(multi_volume_work.valid?).to eq true
+        end
       end
     end
     context "when only title id is set" do
@@ -64,6 +80,7 @@ describe MultiVolumeWork do
         multi_volume_work.title = ["A Title.."]
       end
       it 'passes' do
+        multi_volume_work.apply_remote_metadata
         expect(multi_volume_work.valid?).to eq true
       end
     end

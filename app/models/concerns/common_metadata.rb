@@ -25,7 +25,7 @@ module CommonMetadata
       ActiveFedora::Indexers::GlobalIndexer.new(%i[stored_searchable symbol])
     )
 
-    validate :source_metadata_identifier_or_title
+    validates :title, presence: { message: 'Your work must provide a title directly or through remote metadata lookup' }
     validates_with RightsStatementValidator
     validates_with StateValidator
     validates_with ViewingDirectionValidator
@@ -67,14 +67,6 @@ module CommonMetadata
         else
           raise RemoteRecord::BibdataError, RemoteRecord.bibdata_error_message
         end
-      end
-
-      # Validate that either the source_metadata_identifier or the title is set.
-      def source_metadata_identifier_or_title
-        return if source_metadata_identifier.present? || title.present?
-        errors.add(:title, "You must provide a source metadata id or a title")
-        errors.add(:source_metadata_identifier,
-                   "You must provide a source metadata id or a title")
       end
 
       def complete_record
