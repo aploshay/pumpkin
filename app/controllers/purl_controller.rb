@@ -15,6 +15,35 @@ class PurlController < ApplicationController
     end
   end
 
+  def formats # rubocop:disable Metrics/AbcSize, Metrics/MethodLength
+    fullid = params[:id]
+    subfolder = FileSet.to_s.pluralize.underscore
+    begin
+      solr_hit = FileSet.search_with_conditions(
+        { source_metadata_identifier_tesim: fullid }, rows: 1
+      ).first
+      realid = solr_hit.id
+      url = "#{request.protocol}#{request.host_with_port}" \
+        "#{config.relative_url_root}/concern/#{subfolder}/#{realid}"
+      respond_to do |f|
+        f.html do
+          redirect_to url
+        end
+        f.jp2 do
+          if solr_hit.model.to_s == 'FileSet'
+            iiif_path = IIIFPath.new(realid)
+            redirect_to "#{iiif_path}/full/!600,600/0/default.jpg"
+          else
+            redirect_to url
+          end
+        end
+        f.json { render json: { url: url }.to_json }
+      end
+    rescue StandardError
+      url = Plum.config['purl_redirect_url'] % params[:id]
+    end
+  end
+
   private
 
     OBJECT_LOOKUPS = {

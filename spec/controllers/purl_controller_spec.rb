@@ -9,6 +9,12 @@ describe PurlController do
                        state: 'complete',
                        source_metadata_identifier: 'BHR9405')
   }
+  let(:file_set) {
+    FactoryGirl.create(:file_set,
+                       user: user,
+                       title: ['Page 5'],
+                       source_metadata_identifier: 'BHR9405-001-0005')
+  }
   let(:multi_volume_work) {
     FactoryGirl.create(:multi_volume_work,
                        user: user,
@@ -16,6 +22,30 @@ describe PurlController do
                        state: 'complete',
                        source_metadata_identifier: 'ABE9721')
   }
+
+  describe "formats" do
+    before do
+      sign_in user
+      file_set
+    end
+    context "when in jp2" do
+      before do
+        get :formats, id: id, format: format
+      end
+      let(:id) { file_set.source_metadata_identifier }
+      let(:format) { 'jp2' }
+      let(:model) { file_set.has_model[0] }
+
+      it "redirects to the correct location" do
+        if model && model == 'FileSet'
+          iiif_path = IIIFPath.new(file_set.id)
+          expect(response).to redirect_to "#{iiif_path}/full/!600,600/0/default.jpg"
+        else
+          expect(response).to redirect_to target_path
+        end
+      end
+    end
+  end
 
   describe "default" do
     let(:user) { FactoryGirl.create(:admin) }
