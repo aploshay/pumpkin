@@ -461,7 +461,7 @@ GEM
       net-ssh (>= 2.6.5)
     net-ssh (3.2.0)
     noid (0.9.0)
-    nokogiri (1.10.0)
+    nokogiri (1.10.4)
       mini_portile2 (~> 2.4.0)
     notiffany (0.1.0)
       nenv (~> 0.1)
@@ -828,4 +828,4 @@ RUBY VERSION
    ruby 2.3.1p112
 
 BUNDLED WITH
-   1.16.6
+   1.17.3
