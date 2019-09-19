@@ -40,12 +40,25 @@ RSpec.describe ScannedResourceShowPresenter do
       allow(solr_document).to receive(:logical_order) \
         .and_return("nodes": [{ label: "Chapter 1", proxy: "test" }])
     end
-    it "returns a logical order object" do
-      expect(srs_presenter.logical_order_object.nodes.length).to eq 1
+    context "with nodes for live objects" do
+      before do
+        # rubocop:disable RSpec/AnyInstance
+        allow_any_instance_of(WithProxyForObject).to \
+          receive(:proxy_for_object).and_return('something')
+        # rubocop:enable RSpec/AnyInstance
+      end
+      it "returns nodes" do
+        expect(srs_presenter.logical_order_object.nodes.length).to eq 1
+      end
     end
-    it "returns decorated nodes" do
-      expect(srs_presenter.logical_order_object.nodes.first) \
-        .to respond_to :proxy_for_object
+    context "with nodes for deleted objects" do
+      it "returns a logical order object with nodes rejected" do
+        expect(srs_presenter.logical_order_object.nodes).to be_empty
+      end
+      it "returns decorated logical order object" do
+        expect(srs_presenter.logical_order_object) \
+          .to respond_to :proxy_for_object
+      end
     end
   end
 

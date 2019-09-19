@@ -31,6 +31,11 @@ class WithProxyForObject < SimpleDelegator
     end
   end
 
+  # Filters out any deleted nodes from UI presentation
+  def nodes
+    super.reject { |node| node.proxy_for_id.present? && node.proxy_for_object.nil? }
+  end
+
   private
 
     def all_nodes
