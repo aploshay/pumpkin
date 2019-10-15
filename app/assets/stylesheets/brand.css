@@ -88,7 +88,8 @@
 #branding-bar {
   background-color: #7A1705;
   border-top: 5px solid #990000;
-  position: fixed;
+  /* fix for branding + native header */
+  position: relative;
   top: 0;
   width: 100%;
   z-index: 10;
