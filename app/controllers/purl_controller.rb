@@ -12,6 +12,7 @@ class PurlController < ApplicationController
     respond_to do |f|
       f.html { redirect_to url }
       f.json { render json: { url: url }.to_json }
+      f.iiif { redirect_to url + '/manifest' }
     end
   end
 
@@ -48,7 +49,7 @@ class PurlController < ApplicationController
 
     OBJECT_LOOKUPS = {
       MultiVolumeWork => /^\w{3}\d{4}$/,
-      ScannedResource => /^\w{3}\d{4}$/
+      ScannedResource => /^\w{3,}\d{4,}$/
     }.freeze
 
     def set_object

@@ -27,11 +27,9 @@ describe PurlController do
     before do
       sign_in user
       file_set
+      get :formats, id: id, format: format
     end
     context "when in jp2" do
-      before do
-        get :formats, id: id, format: format
-      end
       let(:id) { file_set.source_metadata_identifier }
       let(:format) { 'jp2' }
       let(:model) { file_set.has_model[0] }
@@ -72,6 +70,13 @@ describe PurlController do
 
           it 'renders a json response' do
             expect(JSON.parse(response.body)['url']).to match Regexp.escape(target_path)
+          end
+        end
+        context "when in iiif" do
+          let(:format) { 'iiif' }
+
+          it 'redirects to the IIIF manifest' do
+            expect(response).to redirect_to target_path + '/manifest'
           end
         end
       end
