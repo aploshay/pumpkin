@@ -8,4 +8,4 @@ Mime::Type.register "text/turtle", :ttl
 Mime::Type.register 'application/x-endnote-refer', :endnote
 Mime::Type.register "application/universalviewer", :uv
 Mime::Type.register "image/jp2", :jp2
-Mime::Type.register "application/json", :iiif
+Mime::Type.register "text/json", :iiif
