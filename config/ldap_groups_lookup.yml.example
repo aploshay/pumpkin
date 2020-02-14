@@ -7,3 +7,4 @@
 :tree: <%= ENV["PMP_LDAP_TREE"] || 'dc=ads,dc=example,dc=net' %>
 :account_ou: <%= ENV["PMP_LDAP_ACCOUNT_OU"] || 'ou=Accounts' %>
 :group_ou: <%= ENV["PMP_LDAP_GROUP_OU"] || 'ou=Groups' %>
+:member_whitelist: <%= ENV["PMP_LDAP_MEMBER_WHITELIST"] || '["OU=Groups"]' %>
