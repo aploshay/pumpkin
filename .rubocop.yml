@@ -13,6 +13,7 @@ AllCops:
     - 'vendor/**/*'
     - 'bin/*'
     - 'config/deploy.rb'
+    - 'config/initializers/extensions.rb'
     # below added temporarily to hold back effects of version upgrade
     - 'app/views/search/*'
     - 'lib/tasks/*'
