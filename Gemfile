@@ -44,6 +44,7 @@ gem 'iiif-presentation', git: 'https://github.com/iiif/osullivan', branch: 'deve
 gem 'ldap_groups_lookup', '~> 0.7.0'
 gem 'pul_metadata_services', git: 'https://github.com/IU-Libraries-Joint-Development/pul_metadata_services.git', branch: :master
 gem 'rsolr', '~> 1.1.0'
+gem 'simple_form', '~> 3.2', '< 3.5'
 
 # PDF generation
 gem 'prawn'
@@ -57,7 +58,7 @@ gem 'hydra-derivatives' # , github: 'projecthydra/hydra-derivatives', branch: 'm
 gem 'hydra-pcdm' # , github: 'projecthydra-labs/hydra-pcdm', branch: 'master'
 gem 'hydra-works' # , github: 'projecthydra-labs/hydra-works', branch: 'master'
 gem 'net-http-persistent', '~> 2.9.4'
-gem 'rake', '~> 11.3.0'
+gem 'rake', '~> 12.3.3'
 
 group :development, :test do
   gem 'rubocop', '~> 0.51.0', require: false
