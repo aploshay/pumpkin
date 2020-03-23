@@ -21,8 +21,10 @@ describe "curation_concerns/base/_form_required_information.html.erb" do
       end
     end
 
-    it "has a readonly title field" do
-      expect(rendered).to have_selector "#scanned_resource_title[readonly]"
+    # updated for disabled mutex
+    it "has a title field" do
+      expect(rendered).to have_selector "#scanned_resource_title"
+      expect(rendered).not_to have_selector "#scanned_resource_title[readonly]"
     end
   end
 end
