@@ -10,6 +10,16 @@ class ScannedResource < ActiveFedora::Base
   include ExtraLockable
   self.valid_child_concerns = []
 
+  # returns Array of ActiveFedora::Aggregation::Proxy
+  def collection_membership
+    member_relation = ActiveFedora::Base.find("#{self.id}/member_of_collections")
+    member_relation.contained.map { |c| ActiveFedora::Base.find c.id.split('/')[-3,3].join('/') }
+  end
+
+  def destroy_collection_membership
+    collection_membership.map(&:destroy)
+  end
+
   def to_solr(solr_doc = {})
     super.tap do |doc|
       doc[ActiveFedora.index_field_mapper.solr_name("ordered_by",

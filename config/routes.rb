@@ -72,6 +72,7 @@ Rails.application.routes.draw do
         post :flag
         post :browse_everything_files
         patch :alphabetize_members
+        patch :destroy_collection_membership
         get :structure
         post :structure, action: :save_structure
       end
@@ -81,6 +82,7 @@ Rails.application.routes.draw do
         get "/pdf/:pdf_quality", action: :pdf, as: :pdf
         get "/highlight/:search_term", action: :show
         patch :alphabetize_members
+        patch :destroy_collection_membership
         get :structure
         post :structure, action: :save_structure
         get :manifest, defaults: { format: :json }
