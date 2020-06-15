@@ -2,6 +2,6 @@
   <div class="row" with-headroom">
     <legend>Member of Collections</legend>
     <%= f.input :member_of_collection_ids, collection: @form.collections_for_select, label: false, input_html: { multiple: true } %>
-    <%= link_to('Destroy collection memberships', polymorphic_path([main_app, :destroy_collection_membership, @presenter]), method: :patch, class: "btn btn-danger") if @form.member_of_collection_ids.any? %>
+    <%= link_to('Destroy collection memberships', polymorphic_path([main_app, :destroy_collection_membership, @form]), method: :patch, class: "btn btn-danger pull-right", data: { confirm: 'Delete all current collection associations for this work?' }) if @form.member_of_collection_ids.any? %>
   </div>
 <% end %>

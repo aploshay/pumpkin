@@ -36,7 +36,8 @@ class CurationConcerns::CurationConcernsController < ApplicationController
 
   def destroy_collection_membership
     curation_concern.destroy_collection_membership
-    curation_concern.save!
+    curation_concern.member_of_collections = []
+    curation_concern.save
     flash[:notice] = "All collection membership entries have been destroyed"
     redirect_to :back
   end
